@@ -5,7 +5,8 @@
   "description": "A local literature library for yeast synthetic biology papers from CNS and Cell/Nature/Science family journals.",
   "scripts": {
     "start": "node server.js",
-    "check": "node --check server.js && node --check app.js"
+    "check": "node --check server.js && node --check app.js && node --check scripts/update-literature.js",
+    "update-data": "node scripts/update-literature.js"
   },
   "engines": {
     "node": ">=18"

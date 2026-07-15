@@ -1,6 +1,4 @@
 data/*.log
-data/*.json
-data/translation-cache.json
 node_modules/
 .DS_Store
 Thumbs.db

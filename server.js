@@ -301,7 +301,7 @@ async function translateText(text, cache, cacheKey) {
     q: value.slice(0, 1200),
   });
   const googleUrl = `${TRANSLATE_BASE}?${params.toString()}`;
-  const data = await fetchJsonByPowerShell(googleUrl);
+  const data = await fetchJsonForTranslation(googleUrl);
   const translated = Array.isArray(data?.[0])
     ? data[0].map((part) => part?.[0] || "").join("")
     : "";
@@ -344,6 +344,28 @@ function fetchJsonByHttps(url) {
     });
     request.on("error", reject);
   });
+}
+
+async function fetchJsonByFetch(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 30000);
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 YeastLiteratureLibrary/1.0",
+        Accept: "application/json,text/plain,*/*",
+      },
+      signal: controller.signal,
+    });
+    if (!response.ok) throw new Error(`Translation returned ${response.status}`);
+    return response.json();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function fetchJsonForTranslation(url) {
+  return process.platform === "win32" ? fetchJsonByPowerShell(url) : fetchJsonByFetch(url);
 }
 
 function fetchJsonByPowerShell(url) {
@@ -563,9 +585,6 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-ensureDataDir();
-scheduleNextDailyUpdate();
-
 let attemptedPort = preferredPort;
 
 function listen(port) {
@@ -584,4 +603,17 @@ server.on("error", (error) => {
   throw error;
 });
 
-listen(preferredPort);
+function startServer() {
+  ensureDataDir();
+  scheduleNextDailyUpdate();
+  listen(preferredPort);
+}
+
+if (require.main === module) startServer();
+
+module.exports = {
+  DEFAULTS,
+  collectLiterature,
+  normalizeSettings,
+  startServer,
+};

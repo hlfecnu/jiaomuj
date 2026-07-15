@@ -1,0 +1,35 @@
+name: Update literature
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: literature-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run update-data
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/literature.json data/translation-cache.json; then
+            echo "Literature data is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/literature.json data/translation-cache.json
+          git commit -m "Update literature data"
+          git push

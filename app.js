@@ -3,6 +3,8 @@ const state = {
   results: [],
   filtered: [],
   polling: null,
+  staticMode: false,
+  staticData: null,
 };
 
 const els = {
@@ -31,8 +33,16 @@ const els = {
 };
 
 async function init() {
-  const defaults = await fetchJson("/api/defaults");
-  state.defaults = defaults.defaults;
+  try {
+    const defaults = await fetchJson("/api/defaults");
+    state.defaults = defaults.defaults;
+  } catch {
+    state.staticMode = true;
+    state.staticData = await fetchStaticLiterature();
+    state.defaults = state.staticData.settings;
+    els.searchButton.textContent = "重新加载";
+    els.stopButton.hidden = true;
+  }
   fillSettings(state.defaults);
 
   els.searchButton.addEventListener("click", startUpdate);
@@ -50,7 +60,11 @@ async function init() {
   els.exportJson.addEventListener("click", () => exportData("json"));
 
   await loadLiterature();
-  startPolling();
+  if (state.staticMode) {
+    setStatus("数据由 GitHub Actions 每天北京时间 09:00 自动更新。", 100);
+  } else {
+    startPolling();
+  }
 }
 
 function fillSettings(defaults) {
@@ -69,6 +83,12 @@ async function fetchJson(url, options) {
     throw new Error(text || `HTTP ${response.status}`);
   }
   return response.json();
+}
+
+async function fetchStaticLiterature(force = false) {
+  const url = new URL("data/literature.json", document.baseURI);
+  if (force) url.searchParams.set("t", Date.now());
+  return fetchJson(url.toString(), { cache: "no-store" });
 }
 
 function lines(value) {
@@ -90,6 +110,20 @@ function collectSettings() {
 }
 
 async function startUpdate() {
+  if (state.staticMode) {
+    els.searchButton.disabled = true;
+    setStatus("正在读取最新文献数据...", 50);
+    try {
+      await loadLiterature(true);
+      setStatus("已加载最新文献数据。每天北京时间 09:00 自动更新。", 100);
+    } catch (error) {
+      setStatus(`重新加载失败：${error.message}`, 0);
+    } finally {
+      els.searchButton.disabled = false;
+    }
+    return;
+  }
+
   const settings = collectSettings();
   if (!settings.journals.length || !settings.yeastTerms.length || !settings.synbioTerms.length) {
     setStatus("请至少保留 1 个期刊、1 个酵母关键词和 1 个合成生物学关键词。", 0);
@@ -108,6 +142,7 @@ async function startUpdate() {
 }
 
 function startPolling() {
+  if (state.staticMode) return;
   stopPolling(false);
   state.polling = setInterval(refreshStatus, 1600);
   refreshStatus();
@@ -141,8 +176,13 @@ async function refreshStatus() {
   }
 }
 
-async function loadLiterature() {
-  const data = await fetchJson("/api/literature");
+async function loadLiterature(force = false) {
+  const data = state.staticMode
+    ? force
+      ? await fetchStaticLiterature(true)
+      : state.staticData || (await fetchStaticLiterature())
+    : await fetchJson("/api/literature");
+  state.staticData = state.staticMode ? data : null;
   state.results = data.articles || [];
   const settings = data.settings || state.defaults;
   els.activeQuery.textContent = `${settings.journals?.length || 0} 个期刊 · ${settings.fromYear || 2020} 年以来`;
