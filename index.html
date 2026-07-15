@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>酵母合成生物学文献雷达</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="检索控制">
+        <div class="brand">
+          <div class="brand-mark">Y</div>
+          <div>
+            <h1>文献雷达</h1>
+            <p>Yeast Synthetic Biology</p>
+          </div>
+        </div>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>检索范围</h2>
+          </div>
+          <label class="field">
+            <span>起始年份</span>
+            <input id="fromYear" type="number" min="1990" max="2099" value="2020" />
+          </label>
+          <label class="field">
+            <span>每个期刊返回</span>
+            <input id="pageSize" type="number" min="20" max="200" step="10" value="100" />
+          </label>
+          <label class="check-row">
+            <input id="strictMode" type="checkbox" checked />
+            <span>严格要求酵母与合成生物学同时命中</span>
+          </label>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>期刊池</h2>
+            <button id="resetJournals" class="icon-button" title="恢复默认期刊">↺</button>
+          </div>
+          <textarea id="journals" spellcheck="false"></textarea>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>关键词</h2>
+            <button id="resetTerms" class="icon-button" title="恢复默认关键词">↺</button>
+          </div>
+          <label class="field">
+            <span>酵母相关</span>
+            <textarea id="yeastTerms" spellcheck="false"></textarea>
+          </label>
+          <label class="field">
+            <span>合成生物学相关</span>
+            <textarea id="synbioTerms" spellcheck="false"></textarea>
+          </label>
+        </section>
+
+        <div class="action-stack">
+          <button id="searchButton" class="primary-button">立即更新</button>
+          <button id="stopButton" class="secondary-button" disabled>停止刷新</button>
+        </div>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">CNS 正刊及系列子刊 · 2020 年以来</p>
+            <h2>酵母与合成生物学文献自动搜集</h2>
+          </div>
+          <div class="toolbar">
+            <label class="search-field">
+              <span>筛选</span>
+              <input id="filterText" type="search" placeholder="中文标题、摘要、作者、期刊、DOI" />
+            </label>
+            <select id="journalFilter" aria-label="按期刊筛选">
+              <option value="">全部期刊</option>
+            </select>
+            <button id="exportCsv" class="tool-button" disabled>CSV</button>
+            <button id="exportJson" class="tool-button" disabled>JSON</button>
+          </div>
+        </header>
+
+        <section class="metrics" aria-label="统计">
+          <div>
+            <span id="metricTotal">0</span>
+            <p>收录结果</p>
+          </div>
+          <div>
+            <span id="metricJournals">0</span>
+            <p>命中期刊</p>
+          </div>
+          <div>
+            <span id="metricYears">0</span>
+            <p>覆盖年份</p>
+          </div>
+          <div>
+            <span id="metricUpdated">未更新</span>
+            <p>最近更新</p>
+          </div>
+        </section>
+
+        <section class="progress-area">
+          <div class="progress-track"><div id="progressBar"></div></div>
+          <p id="statusText">准备就绪。服务会在明天 09:00 自动更新；也可以点击“立即更新”。</p>
+        </section>
+
+        <section class="results-shell">
+          <div class="result-head">
+            <h3>文献列表</h3>
+            <div id="activeQuery" class="query-chip">默认规则</div>
+          </div>
+          <div id="results" class="results">
+            <div class="empty-state">
+              <strong>尚未搜集文献</strong>
+              <p>点击“立即更新”会搜集文献、生成中文标题与中文摘要，并提供可跳转 DOI、PubMed 和原文链接。</p>
+            </div>
+          </div>
+        </section>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
