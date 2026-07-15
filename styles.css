@@ -35,12 +35,12 @@ select {
 
 .app-shell {
   display: grid;
-  grid-template-columns: minmax(300px, 360px) 1fr;
+  grid-template-columns: 1fr;
   min-height: 100vh;
 }
 
 .sidebar {
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 16px;
   padding: 22px;
