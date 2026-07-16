@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T05:36:58.808Z",
+  "updatedAt": "2026-07-16T09:29:52.028Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3440,7 +3440,7 @@
     },
     {
       "title": "Genomic and Phenotypic Evaluation of Safety, Probiotic Potential, and Aroma Production of &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; FOSU-QQT.",
-      "titleZh": "",
+      "titleZh": "酿酒酵母 FOSU-QQT 的安全性、益生菌潜力和香气产生的基因组和表型评估。",
       "journal": "Molecules (Basel, Switzerland)",
       "targetJournal": "全部收录期刊",
       "issn": "1420-3049",
@@ -3454,7 +3454,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42451677/",
       "pmcid": "",
       "abstract": "Saccharomyces cerevisiae FOSU-QQT (SC.QQT), isolated from pineapple pomace wine, exhibits favorable aroma-producing capabilities. In this study, we performed integrated genomic and phenotypic analyses to comprehensively evaluate its safety profile, probiotic potential, and aroma-producing characteristics. Whole-genome sequencing (WGS) assembly predicted a genome size of 30,256,254 bp, encompassing 12,899 genes with a total coding length of 22,062,659 bp and an average GC content of 37.30%. Preliminary safety assessments, including hemolysis tests, antibiotic susceptibility profiling, and antibacterial activity assays, were complemented by in silico screening for antibiotic resistance-associated genes. Functional tolerance assays, specifically resistance to simulated gastrointestinal fluid, acid stress, and bile salts, demonstrated that SC.QQT exhibited robust survival under physiologically relevant gastrointestinal conditions. Collectively, these findings support its potential as a promising probiotic candidate with notable resilience, although further in vivo validation is required to confirm its application value. Additionally, gas chromatography-mass spectrometry (GC-MS) analysis of volatile compounds in pineapple pomace wine indicated that the presence of aroma-related genes in SC.QQT may enhance overall flavor complexity and intensify fruity aromatic notes during fermentation, underscoring its distinctive utility in fruit wine bioprocessing.",
-      "abstractZh": "",
+      "abstractZh": "从菠萝果渣酒中分离得到的酿酒酵母 FOSU-QQT (SC.QQT) 具有良好的产香能力。在这项研究中，我们进行了整合的基因组和表型分析，以全面评估其安全性、益生菌潜力和香气产生特性。全基因组测序（WGS）组装预测基因组大小为30,256,254 bp，包含12,899个基因，总编码长度为22,062,659 bp，平均GC含量为37.30%。初步安全评估，包括溶血试验、抗生素敏感性分析和抗菌活性测定，辅以抗生素耐药性相关基因的计算机筛选。功能耐受性测定，特别是对模拟胃肠液、酸应激和胆汁盐的耐受性，表明 SC.QQT 在生理相关胃肠道条件下表现出强大的存活能力。总的来说，这些发现支持其作为具有显着恢复力的有前途的益生菌候选者的潜力，尽管需要进一步的体内验证来确认其应用价值。此外，气相色谱-质谱 (GC-MS) 分析",
       "url": "https://doi.org/10.3390/molecules31132310",
       "sourceUrl": "https://doi.org/10.3390/molecules31132310",
       "citationCount": 0,
@@ -3484,7 +3484,6 @@
       ],
       "included": true,
       "articleScore": 54,
-      "translationError": "Translation returned 500",
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 10,
@@ -3493,7 +3492,7 @@
     },
     {
       "title": "Jasmonic acid and PpeMYC2 regulate peach fruit ripening by controlling polyamine levels and anthocyanin biosynthesis.",
-      "titleZh": "",
+      "titleZh": "茉莉酸和 PpeMYC2 通过控制多胺水平和花青素生物合成来调节桃果实成熟。",
       "journal": "Plant physiology",
       "targetJournal": "全部收录期刊",
       "issn": "0032-0889",
@@ -3507,7 +3506,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42364253/",
       "pmcid": "",
       "abstract": "Jasmonic acid (JA) and polyamines (PAs) are key regulators of fruit ripening, yet their functional association remains largely unresolved. Here, we demonstrate that exogenous methyl jasmonate (MeJA) application markedly reduces PA accumulation and accelerates peach (Prunus persica L.) fruit ripening. Transcriptomic analysis revealed significant upregulation of peach polyamine oxidase1 (PpePAO1), a key gene in PA catabolism, following MeJA treatment. Using the PpePAO1 promoter as bait, we identified the JA signaling transcription factor myeloblastosis family 2 (PpeMYC2). MeJA treatment suppressed PpeMYC2 expression, and subsequent yeast one-hybrid (Y1H), electrophoretic mobility shift assay (EMSA), and dual-luciferase assay confirmed that PpeMYC2 directly binds to the PpePAO1 promoter to repress its transcriptional activity. Silencing PpeMYC2 led to decreased PA levels and accelerated fruit ripening, whereas PpeMYC2 overexpression produced the opposite effect. Additionally, PpeMYC2 activated the arginine decarboxylase (PpeADC1) promoter, thereby enhancing PA biosynthesis. Beyond PA regulation, silencing PpeMYC2 significantly increased anthocyanin accumulation by relieving its repression of dihydroflavonol 4-reductase (PpeDFR), a key gene in anthocyanin biosynthesis. Collectively, these findings reveal that JA promotes peach fruit ripening by lowering PA accumulation and stimulating anthocyanin synthesis through PpeMYC2-mediated transcriptional control. This study provides mechanistic evidence that JA regulates fruit ripening through direct control of PA metabolism and identifies PpeMYC2 as a central node integrating JA, PA, and anthocyanin pathways in peach fruit.",
-      "abstractZh": "",
+      "abstractZh": "茉莉酸（JA）和多胺（PA）是果实成熟的关键调节剂，但它们的功能关联在很大程度上尚未解决。在此，我们证明外源茉莉酸甲酯 (MeJA) 的施用可显着减少 PA 积累并加速桃 (Prunus persica L.) 果实成熟。转录组分析显示，在 MeJA 处理后，桃多胺氧化酶 1 (PpePAO1) 显着上调，PpePAO1 是 PA 分解代谢的关键基因。使用 PpePAO1 启动子作为诱饵，我们鉴定了 JA 信号转录因子成髓细胞增多症家族 2 (PpeMYC2)。 MeJA 处理抑制了 PpeMYC2 表达，随后的酵母单杂交 (Y1H)、电泳迁移率变动测定 (EMSA) 和双荧光素酶测定证实 PpeMYC2 直接与 PpePAO1 启动子结合以抑制其转录活性。沉默 PpeMYC2 会导致 PA 水平降低并加速果实成熟，而 PpeMYC2 过度表达则产生相反的效果。此外，PpeMYC2 激活精氨酸脱羧酶 (PpeADC1) 启动子，从而增强 PA 生物合成。除了 PA 调节之外，沉默 PpeMYC2 通过减轻其表达显着增加花青素的积累",
       "url": "https://doi.org/10.1093/plphys/kiag431",
       "sourceUrl": "https://doi.org/10.1093/plphys/kiag431",
       "citationCount": 0,
@@ -3531,7 +3530,6 @@
       ],
       "included": true,
       "articleScore": 49,
-      "translationError": "Translation returned 500",
       "journalScore": 40,
       "journalQuartile": "Q2",
       "journalArticleCount": 5,
@@ -5981,7 +5979,7 @@
       "eissn": "2161-5063",
       "year": 2026,
       "date": "2026-06-19",
-      "authors": "Han C, Gao H, Zhang Z, Li Z, Zhao J, Cui S, Sun Y, Li W, Liu W, Zhang H.",
+      "authors": "Han C, Gao H, Zhang Z, Li Z, Zhao J, Zhao J, Cui S, Sun Y, Li W, Liu W, Zhang H.",
       "doi": "10.1021/acssynbio.6c00399",
       "doiUrl": "https://doi.org/10.1021/acssynbio.6c00399",
       "pmid": "42319757",
@@ -41084,8 +41082,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 833 篇",
-    "lastStartedAt": "2026-07-16T05:30:48.774Z",
-    "lastFinishedAt": "2026-07-16T05:36:58.808Z",
+    "lastStartedAt": "2026-07-16T09:28:58.774Z",
+    "lastFinishedAt": "2026-07-16T09:29:52.028Z",
     "nextRunAt": null,
     "progress": 100
   }
