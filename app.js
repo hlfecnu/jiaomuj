@@ -3,6 +3,7 @@ const state = {
   results: [],
   filtered: [],
   polling: null,
+  renderLimit: 200,
   staticMode: false,
   staticData: null,
 };
@@ -20,16 +21,18 @@ const els = {
   stopButton: document.querySelector("#stopButton"),
   filterText: document.querySelector("#filterText"),
   journalFilter: document.querySelector("#journalFilter"),
+  sortOrder: document.querySelector("#sortOrder"),
   exportCsv: document.querySelector("#exportCsv"),
   exportJson: document.querySelector("#exportJson"),
   metricTotal: document.querySelector("#metricTotal"),
   metricJournals: document.querySelector("#metricJournals"),
-  metricYears: document.querySelector("#metricYears"),
+  metricRelevant: document.querySelector("#metricRelevant"),
   metricUpdated: document.querySelector("#metricUpdated"),
   progressBar: document.querySelector("#progressBar"),
   statusText: document.querySelector("#statusText"),
   activeQuery: document.querySelector("#activeQuery"),
   results: document.querySelector("#results"),
+  loadMore: document.querySelector("#loadMore"),
 };
 
 async function init() {
@@ -56,8 +59,13 @@ async function init() {
   });
   els.filterText.addEventListener("input", applyFilters);
   els.journalFilter.addEventListener("change", applyFilters);
+  els.sortOrder.addEventListener("change", applyFilters);
   els.exportCsv.addEventListener("click", () => exportData("csv"));
   els.exportJson.addEventListener("click", () => exportData("json"));
+  els.loadMore.addEventListener("click", () => {
+    state.renderLimit += 200;
+    renderResults();
+  });
 
   await loadLiterature();
   if (state.staticMode) {
@@ -132,7 +140,7 @@ async function startUpdate() {
 
   els.searchButton.disabled = true;
   els.stopButton.disabled = false;
-  els.activeQuery.textContent = `${settings.journals.length} 个期刊 · ${settings.fromYear} 年以来 · 含中文翻译`;
+  els.activeQuery.textContent = `${describeScope(settings)} · ${settings.fromYear} 年以来 · 含中文翻译`;
   await fetchJson("/api/update", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -183,9 +191,9 @@ async function loadLiterature(force = false) {
       : state.staticData || (await fetchStaticLiterature())
     : await fetchJson("/api/literature");
   state.staticData = state.staticMode ? data : null;
-  state.results = data.articles || [];
+  state.results = prepareArticles(data.articles || []);
   const settings = data.settings || state.defaults;
-  els.activeQuery.textContent = `${settings.journals?.length || 0} 个期刊 · ${settings.fromYear || 2020} 年以来`;
+  els.activeQuery.textContent = `${describeScope(settings)} · ${settings.fromYear || 2020} 年以来`;
   applyFilters();
   updateStatusMetric(data.updatedAt, data.updateState?.nextRunAt);
 }
@@ -196,7 +204,74 @@ function formatStatus(updateState, status) {
   return `${updateState.lastMessage || "准备就绪"}。${count}${next}`;
 }
 
+function describeScope(settings = {}) {
+  if (settings.coverageMode === "all" || state.staticMode) return "全部收录期刊";
+  return `${settings.journals?.length || 0} 个期刊`;
+}
+
+function prepareArticles(articles) {
+  const keywordLabels = new Map([
+    ["saccharomyces cerevisiae", "酿酒酵母"],
+    ["s. cerevisiae", "酿酒酵母"],
+    ["saccharomyces boulardii", "布拉氏酵母"],
+    ["s. boulardii", "布拉氏酵母"],
+    ["pichia pastoris", "毕赤酵母"],
+    ["komagataella phaffii", "毕赤酵母"],
+    ["yarrowia lipolytica", "解脂耶氏酵母"],
+    ["schizosaccharomyces pombe", "粟酒裂殖酵母"],
+    ["synthetic biology", "合成生物学"],
+    ["metabolic engineering", "代谢工程"],
+    ["genome engineering", "基因组工程"],
+    ["genome editing", "基因组编辑"],
+    ["crispr", "CRISPR"],
+    ["strain engineering", "菌株工程"],
+    ["pathway engineering", "通路工程"],
+    ["protein engineering", "蛋白质工程"],
+    ["directed evolution", "定向进化"],
+    ["synthetic genome", "合成基因组"],
+    ["synthetic chromosome", "合成基因组"],
+  ]);
+
+  const normalized = articles.map((article) => {
+    const fallbackKeywords = [...(article.matchedYeast || []), ...(article.matchedSynbio || [])]
+      .map((item) => keywordLabels.get(String(item).toLowerCase()) || item)
+      .filter(Boolean);
+    const mainKeywords = [...new Set(article.mainKeywords?.length ? article.mainKeywords : fallbackKeywords)].slice(0, 10);
+    const relevanceScore = Number(article.relevanceScore ?? (article.matchedYeast?.length && article.matchedSynbio?.length ? 68 : 40));
+    return {
+      ...article,
+      mainKeywords,
+      relevanceScore,
+      relevanceLevel: article.relevanceLevel || (relevanceScore >= 78 ? "高度相关" : relevanceScore >= 60 ? "较高相关" : "相关"),
+      articleScore: Number(article.articleScore ?? Math.min(100, Math.round(relevanceScore * 0.75 + 15))),
+      citationCount: Number(article.citationCount || 0),
+    };
+  });
+
+  const journalGroups = new Map();
+  normalized.forEach((article) => {
+    if (!journalGroups.has(article.journal)) journalGroups.set(article.journal, []);
+    journalGroups.get(article.journal).push(article);
+  });
+  const fallbackRanking = Array.from(journalGroups, ([journal, items]) => ({
+    journal,
+    items,
+    score: Math.round(items.reduce((sum, item) => sum + item.articleScore, 0) / items.length),
+  })).sort((a, b) => b.score - a.score);
+  fallbackRanking.forEach((entry, index) => {
+    const percentile = fallbackRanking.length > 1 ? index / fallbackRanking.length : 0;
+    const quartile = percentile < 0.25 ? "Q1" : percentile < 0.5 ? "Q2" : percentile < 0.75 ? "Q3" : "Q4";
+    entry.items.forEach((article) => {
+      article.journalScore = Number(article.journalScore ?? entry.score);
+      article.journalQuartile = article.journalQuartile || quartile;
+      article.journalMetricSource = article.journalMetricSource || "站内同主题文献动态分区";
+    });
+  });
+  return normalized;
+}
+
 function applyFilters() {
+  state.renderLimit = 200;
   const filterText = els.filterText.value.trim().toLowerCase();
   const journal = els.journalFilter.value;
 
@@ -209,12 +284,27 @@ function applyFilters() {
       article.doi,
       article.abstract,
       article.abstractZh,
+      ...(article.mainKeywords || []),
+      article.relevanceLevel,
+      article.journalQuartile,
     ]
       .join(" ")
       .toLowerCase();
     const textMatch = !filterText || haystack.includes(filterText);
     const journalMatch = !journal || article.journal === journal;
     return textMatch && journalMatch;
+  });
+
+  const sortOrder = els.sortOrder.value;
+  const scoreKey = {
+    articleScore: "articleScore",
+    relevance: "relevanceScore",
+    journalScore: "journalScore",
+    citations: "citationCount",
+  }[sortOrder];
+  state.filtered.sort((a, b) => {
+    if (scoreKey) return Number(b[scoreKey] || 0) - Number(a[scoreKey] || 0) || String(b.date || "").localeCompare(String(a.date || ""));
+    return String(b.date || "").localeCompare(String(a.date || ""));
   });
 
   updateJournalFilter();
@@ -237,10 +327,10 @@ function updateJournalFilter() {
 
 function updateMetrics() {
   const journals = new Set(state.filtered.map((article) => article.journal).filter(Boolean));
-  const years = new Set(state.filtered.map((article) => article.year).filter(Boolean));
+  const highlyRelevant = state.filtered.filter((article) => Number(article.relevanceScore || 0) >= 78).length;
   els.metricTotal.textContent = String(state.filtered.length);
   els.metricJournals.textContent = String(journals.size);
-  els.metricYears.textContent = String(years.size);
+  els.metricRelevant.textContent = String(highlyRelevant);
   els.exportCsv.disabled = !state.filtered.length;
   els.exportJson.disabled = !state.filtered.length;
 }
@@ -257,6 +347,7 @@ function updateStatusMetric(updatedAt, nextRunAt) {
 
 function renderResults() {
   if (!state.filtered.length) {
+    els.loadMore.hidden = true;
     els.results.innerHTML = `
       <div class="empty-state">
         <strong>${state.results.length ? "没有符合当前筛选的文献" : "尚未搜集文献"}</strong>
@@ -267,22 +358,30 @@ function renderResults() {
   }
 
   const fragment = document.createDocumentFragment();
-  state.filtered.forEach((article) => {
+  state.filtered.slice(0, state.renderLimit).forEach((article) => {
     const item = document.createElement("article");
     item.className = "article";
+    const quartileClass = `quartile-${String(article.journalQuartile || "q4").toLowerCase()}`;
+    const relevanceClass = Number(article.relevanceScore || 0) >= 78 ? "relevance-high" : "score-pill";
     item.innerHTML = `
       <a class="article-title" href="${escapeAttr(article.url || article.doiUrl || "#")}" target="_blank" rel="noreferrer">${escapeHtml(article.titleZh || article.title)}</a>
       ${article.titleZh ? `<p class="english-title">${escapeHtml(article.title)}</p>` : ""}
       <p class="meta">
         <span class="pill">${escapeHtml(article.journal || "Unknown journal")}</span>
         <span class="pill">${escapeHtml(String(article.date || article.year || "Unknown date"))}</span>
+        <span class="pill score-pill">文献评分 ${escapeHtml(String(article.articleScore || 0))}/100</span>
+        <span class="pill ${quartileClass}" title="${escapeAttr(article.journalMetricSource || "站内同主题文献动态分区")}">站内 ${escapeHtml(article.journalQuartile || "-")}</span>
+        <span class="pill score-pill">期刊评分 ${escapeHtml(String(article.journalScore || 0))}</span>
+        <span class="pill ${relevanceClass}">${escapeHtml(article.relevanceLevel || "相关")} ${escapeHtml(String(article.relevanceScore || 0))}%</span>
+        <span class="pill">引用 ${escapeHtml(String(article.citationCount || 0))}</span>
         ${article.doi ? `<a class="pill link-pill" href="${escapeAttr(article.doiUrl)}" target="_blank" rel="noreferrer">DOI ${escapeHtml(article.doi)}</a>` : ""}
         ${article.pmid ? `<a class="pill link-pill" href="${escapeAttr(article.pmidUrl)}" target="_blank" rel="noreferrer">PubMed ${escapeHtml(article.pmid)}</a>` : ""}
         ${article.sourceUrl ? `<a class="pill link-pill" href="${escapeAttr(article.sourceUrl)}" target="_blank" rel="noreferrer">原文链接</a>` : ""}
       </p>
       ${article.authors ? `<p class="authors">${escapeHtml(article.authors)}</p>` : ""}
       <div class="tag-row">
-        ${[...(article.matchedYeast || []), ...(article.matchedSynbio || [])].slice(0, 8).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}
+        <span class="keyword-label">主要关键词</span>
+        ${(article.mainKeywords || []).slice(0, 10).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}
       </div>
       ${article.abstractZh ? `<p class="abstract zh">${escapeHtml(truncate(article.abstractZh, 520))}</p>` : ""}
       ${article.abstract ? `<p class="abstract">${escapeHtml(truncate(article.abstract, 420))}</p>` : ""}
@@ -291,6 +390,9 @@ function renderResults() {
   });
 
   els.results.replaceChildren(fragment);
+  const displayed = Math.min(state.renderLimit, state.filtered.length);
+  els.loadMore.hidden = displayed >= state.filtered.length;
+  els.loadMore.textContent = `加载更多（已显示 ${displayed} / ${state.filtered.length}）`;
 }
 
 function setStatus(message, progress) {
@@ -316,6 +418,15 @@ function exportData(type) {
     "pmid",
     "pmidUrl",
     "sourceUrl",
+    "articleScore",
+    "journalScore",
+    "journalQuartile",
+    "relevanceScore",
+    "relevanceLevel",
+    "citationCount",
+    "mainKeywords",
+    "organismKeywords",
+    "technologyKeywords",
     "matchedYeast",
     "matchedSynbio",
     "abstractZh",

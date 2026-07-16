@@ -59,7 +59,7 @@
       <section class="workspace">
         <header class="topbar">
           <div>
-            <p class="eyebrow">CNS 正刊及系列子刊 · 2020 年以来</p>
+            <p class="eyebrow">全部收录期刊 · 2020 年以来</p>
             <h2>酵母合成生物学文献库</h2>
           </div>
           <div class="toolbar">
@@ -69,6 +69,13 @@
             </label>
             <select id="journalFilter" aria-label="按期刊筛选">
               <option value="">全部期刊</option>
+            </select>
+            <select id="sortOrder" aria-label="文献排序">
+              <option value="date">按日期排序</option>
+              <option value="articleScore">按文献评分</option>
+              <option value="relevance">按相关度</option>
+              <option value="journalScore">按期刊评分</option>
+              <option value="citations">按引用次数</option>
             </select>
             <button id="exportCsv" class="tool-button" disabled>CSV</button>
             <button id="exportJson" class="tool-button" disabled>JSON</button>
@@ -85,8 +92,8 @@
             <p>命中期刊</p>
           </div>
           <div>
-            <span id="metricYears">0</span>
-            <p>覆盖年份</p>
+            <span id="metricRelevant">0</span>
+            <p>高度相关</p>
           </div>
           <div>
             <span id="metricUpdated">未更新</span>
@@ -110,6 +117,7 @@
               <p>点击“立即更新”会搜集文献、生成中文标题与中文摘要，并提供可跳转 DOI、PubMed 和原文链接。</p>
             </div>
           </div>
+          <button id="loadMore" class="load-more" hidden>加载更多</button>
         </section>
       </section>
     </main>

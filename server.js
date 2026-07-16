@@ -17,7 +17,9 @@ const TRANSLATION_CACHE_VERSION = "utf8-v3";
 
 const DEFAULTS = {
   fromYear: 2020,
-  pageSize: 200,
+  pageSize: 500,
+  maxResults: 5000,
+  coverageMode: "all",
   strictMode: true,
   journals: [
     "Cell",
@@ -116,6 +118,12 @@ const DEFAULTS = {
     "Hansenula",
     "Scheffersomyces",
     "Zygosaccharomyces",
+    "Saccharomyces boulardii",
+    "S. boulardii",
+    "brewer's yeast",
+    "baker's yeast",
+    "budding yeast",
+    "methylotrophic yeast",
   ],
   synbioTerms: [
     "synthetic biology",
@@ -136,8 +144,47 @@ const DEFAULTS = {
     "directed evolution",
     "synthetic genome",
     "synthetic chromosome",
+    "genome editing",
+    "gene editing",
+    "gene modification",
+    "heterologous expression",
+    "promoter engineering",
+    "enzyme engineering",
+    "adaptive laboratory evolution",
+    "microbial cell factory",
+    "cell factory",
+    "chassis engineering",
+    "whole-cell biosensor",
   ],
 };
+
+const KEYWORD_GROUPS = [
+  { label: "酿酒酵母", category: "organism", terms: ["saccharomyces cerevisiae", "s. cerevisiae", "baker's yeast", "budding yeast", "brewer's yeast"] },
+  { label: "布拉氏酵母", category: "organism", terms: ["saccharomyces boulardii", "s. boulardii", "boulardii"] },
+  { label: "毕赤酵母", category: "organism", terms: ["pichia pastoris", "komagataella phaffii"] },
+  { label: "解脂耶氏酵母", category: "organism", terms: ["yarrowia lipolytica"] },
+  { label: "粟酒裂殖酵母", category: "organism", terms: ["schizosaccharomyces pombe", "s. pombe"] },
+  { label: "克鲁维酵母", category: "organism", terms: ["kluyveromyces"] },
+  { label: "多形汉逊酵母", category: "organism", terms: ["ogataea polymorpha", "hansenula polymorpha"] },
+  { label: "念珠菌", category: "organism", terms: ["candida"] },
+  { label: "非传统酵母", category: "organism", terms: ["non-conventional yeast", "nonconventional yeast", "methylotrophic yeast"] },
+  { label: "酵母", category: "organism", terms: ["yeast", "saccharomyces"] },
+  { label: "合成生物学", category: "technology", terms: ["synthetic biology", "synthetic genomics"] },
+  { label: "代谢工程", category: "technology", terms: ["metabolic engineering", "metabolic pathway"] },
+  { label: "基因组编辑", category: "technology", terms: ["genome editing", "gene editing", "gene modification"] },
+  { label: "CRISPR", category: "technology", terms: ["crispr", "cas9", "cas12"] },
+  { label: "菌株工程", category: "technology", terms: ["strain engineering", "chassis engineering"] },
+  { label: "通路工程", category: "technology", terms: ["pathway engineering"] },
+  { label: "合成基因组", category: "technology", terms: ["synthetic genome", "synthetic chromosome", "sc2.0"] },
+  { label: "异源表达", category: "technology", terms: ["heterologous expression", "heterologous pathway"] },
+  { label: "启动子工程", category: "technology", terms: ["promoter engineering", "promoter library"] },
+  { label: "蛋白质工程", category: "technology", terms: ["protein engineering", "enzyme engineering"] },
+  { label: "定向进化", category: "technology", terms: ["directed evolution", "adaptive laboratory evolution"] },
+  { label: "遗传回路", category: "technology", terms: ["genetic circuit", "gene circuit"] },
+  { label: "生物传感器", category: "technology", terms: ["biosensor", "whole-cell biosensor"] },
+  { label: "细胞工厂", category: "technology", terms: ["cell factory", "microbial cell factory"] },
+  { label: "生物制造", category: "technology", terms: ["biomanufacturing", "bioproduction", "biosynthesis", "fermentation"] },
+];
 
 const mimeTypes = {
   ".html": "text/html; charset=utf-8",
@@ -222,27 +269,90 @@ function buildQuery(journal, yeastTerms, synbioTerms, fromYear, strictMode) {
     ? `((${yeastQuery}) AND (${synbioQuery}))`
     : `((${yeastQuery}) OR (${synbioQuery}))`;
 
-  return `JOURNAL:"${journal}" AND FIRST_PDATE:[${fromYear}-01-01 TO 2099-12-31] AND ${biologyQuery}`;
+  const journalClause = journal ? `JOURNAL:"${journal}" AND ` : "";
+  return `${journalClause}FIRST_PDATE:[${fromYear}-01-01 TO 2099-12-31] AND HAS_ABSTRACT:Y AND ${biologyQuery}`;
 }
 
-async function fetchJournal(query, pageSize) {
-  const params = new URLSearchParams({
-    query,
-    format: "json",
-    resultType: "core",
-    pageSize: String(pageSize),
-    sort: "FIRST_PDATE_D desc",
-  });
-  const response = await fetch(`${API_BASE}?${params.toString()}`);
-  if (!response.ok) {
-    throw new Error(`Europe PMC returned ${response.status}`);
+async function fetchJournal(query, pageSize, maxResults = pageSize) {
+  const results = [];
+  let cursorMark = "*";
+
+  while (results.length < maxResults) {
+    const params = new URLSearchParams({
+      query,
+      format: "json",
+      resultType: "core",
+      cursorMark,
+      pageSize: String(Math.min(pageSize, maxResults - results.length)),
+      sort: "FIRST_PDATE_D desc",
+    });
+    const response = await fetch(`${API_BASE}POST`, {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: params,
+    });
+    if (!response.ok) {
+      throw new Error(`Europe PMC returned ${response.status}`);
+    }
+    const data = await response.json();
+    const page = data?.resultList?.result || [];
+    results.push(...page);
+    const nextCursorMark = data?.nextCursorMark;
+    if (!page.length || !nextCursorMark || nextCursorMark === cursorMark) break;
+    cursorMark = nextCursorMark;
   }
-  const data = await response.json();
-  return data?.resultList?.result || [];
+
+  return results.slice(0, maxResults);
 }
 
 function stripTags(value) {
   return String(value || "").replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+}
+
+function findKeywordGroups(text, category) {
+  const value = String(text || "").toLowerCase();
+  return KEYWORD_GROUPS.filter(
+    (group) => (!category || group.category === category) && group.terms.some((term) => value.includes(term))
+  ).map((group) => group.label);
+}
+
+function unique(values) {
+  return [...new Set(values.filter(Boolean))];
+}
+
+function calculateRelevance(title, abstract) {
+  const titleOrganisms = findKeywordGroups(title, "organism");
+  const abstractOrganisms = findKeywordGroups(abstract, "organism");
+  const titleTechnologies = findKeywordGroups(title, "technology");
+  const abstractTechnologies = findKeywordGroups(abstract, "technology");
+  const organisms = unique([...titleOrganisms, ...abstractOrganisms]);
+  const technologies = unique([...titleTechnologies, ...abstractTechnologies]);
+
+  let score = 0;
+  score += titleOrganisms.length ? 28 : abstractOrganisms.length ? 18 : 0;
+  score += titleTechnologies.length ? 30 : abstractTechnologies.length ? 20 : 0;
+  score += Math.min(12, Math.max(0, organisms.length - 1) * 4);
+  score += Math.min(18, Math.max(0, technologies.length - 1) * 3);
+  if (technologies.some((item) => ["基因组编辑", "CRISPR", "合成基因组", "菌株工程"].includes(item))) score += 8;
+  if ((titleOrganisms.length && technologies.length) || (titleTechnologies.length && organisms.length)) score += 5;
+  score = Math.max(0, Math.min(100, score));
+
+  return {
+    score,
+    level: score >= 78 ? "高度相关" : score >= 60 ? "较高相关" : score >= 42 ? "相关" : "低相关",
+    organisms,
+    technologies,
+    mainKeywords: unique([...titleOrganisms, ...titleTechnologies, ...abstractOrganisms, ...abstractTechnologies]).slice(0, 10),
+  };
+}
+
+function calculateArticleScore(article) {
+  const age = Math.max(1, new Date().getFullYear() - Number(article.year || new Date().getFullYear()) + 1);
+  const citationsPerYear = Number(article.citationCount || 0) / age;
+  const citationScore = Math.min(25, Math.log2(citationsPerYear + 1) * 6);
+  const metadataScore = (article.doi ? 4 : 0) + (article.abstract ? 4 : 0) + (article.authors ? 2 : 0);
+  const recencyScore = Math.max(2, 10 - Math.max(0, age - 1) * 1.2);
+  return Math.round(Math.min(100, article.relevanceScore * 0.55 + citationScore + metadataScore + recencyScore));
 }
 
 function normalizeArticle(raw, targetJournal, yeastTerms, synbioTerms, fromYear) {
@@ -251,17 +361,20 @@ function normalizeArticle(raw, targetJournal, yeastTerms, synbioTerms, fromYear)
   const text = `${title} ${abstract}`.toLowerCase();
   const matchedYeast = yeastTerms.filter((term) => text.includes(term.toLowerCase()));
   const matchedSynbio = synbioTerms.filter((term) => text.includes(term.toLowerCase()));
-  const journal = raw.journalTitle || raw.journal || targetJournal;
+  const journalMeta = raw.journalInfo?.journal || {};
+  const journal = raw.journalTitle || raw.journal || journalMeta.title || targetJournal || "";
   const year = Number(raw.pubYear || raw.firstPublicationDate?.slice(0, 4) || 0);
   const doiUrl = raw.doi ? `https://doi.org/${raw.doi}` : "";
   const pmidUrl = raw.pmid ? `https://pubmed.ncbi.nlm.nih.gov/${raw.pmid}/` : "";
   const sourceUrl = raw.fullTextUrlList?.fullTextUrl?.[0]?.url || "";
-
-  return {
+  const relevance = calculateRelevance(title, abstract);
+  const article = {
     title,
     titleZh: "",
     journal,
-    targetJournal,
+    targetJournal: targetJournal || "全部收录期刊",
+    issn: raw.issn || raw.journalInfo?.printIssn || journalMeta.issn || "",
+    eissn: raw.essn || raw.journalInfo?.electronicIssn || journalMeta.essn || "",
     year,
     date: raw.firstPublicationDate || raw.firstIndexDate || raw.pubYear || "",
     authors: raw.authorString || "",
@@ -274,10 +387,19 @@ function normalizeArticle(raw, targetJournal, yeastTerms, synbioTerms, fromYear)
     abstractZh: "",
     url: doiUrl || pmidUrl || sourceUrl,
     sourceUrl,
-    matchedYeast,
-    matchedSynbio,
-    included: year >= fromYear,
+    citationCount: Number(raw.citedByCount || 0),
+    relevanceScore: relevance.score,
+    relevanceLevel: relevance.level,
+    organismKeywords: relevance.organisms,
+    technologyKeywords: relevance.technologies,
+    mainKeywords: relevance.mainKeywords,
+    matchedYeast: relevance.organisms.length ? relevance.organisms : matchedYeast,
+    matchedSynbio: relevance.technologies.length ? relevance.technologies : matchedSynbio,
+    included: year >= fromYear && Boolean(journal) && raw.source !== "PPR",
   };
+  article.articleScore = calculateArticleScore(article);
+
+  return article;
 }
 
 function sortArticles(a, b) {
@@ -286,6 +408,47 @@ function sortArticles(a, b) {
 
 function articleKey(article) {
   return article.doi || article.pmid || article.pmcid || article.title.toLowerCase();
+}
+
+function median(values) {
+  if (!values.length) return 0;
+  const sorted = [...values].sort((a, b) => a - b);
+  const middle = Math.floor(sorted.length / 2);
+  return sorted.length % 2 ? sorted[middle] : (sorted[middle - 1] + sorted[middle]) / 2;
+}
+
+function assignJournalMetrics(articles) {
+  const groups = new Map();
+  articles.forEach((article) => {
+    const key = article.journal || "Unknown journal";
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(article);
+  });
+
+  const ranked = Array.from(groups, ([journal, items]) => {
+    const citationRates = items.map((item) => {
+      const age = Math.max(1, new Date().getFullYear() - Number(item.year || new Date().getFullYear()) + 1);
+      return Number(item.citationCount || 0) / age;
+    });
+    const averageArticleScore = items.reduce((sum, item) => sum + Number(item.articleScore || 0), 0) / items.length;
+    const averageRelevance = items.reduce((sum, item) => sum + Number(item.relevanceScore || 0), 0) / items.length;
+    const citationComponent = Math.min(20, Math.log2(median(citationRates) + 1) * 6);
+    const sampleComponent = Math.min(10, Math.log2(items.length + 1) * 2.5);
+    const score = Math.round(Math.min(100, averageArticleScore * 0.55 + averageRelevance * 0.15 + citationComponent + sampleComponent));
+    return { journal, items, score, articleCount: items.length, medianCitationsPerYear: Number(median(citationRates).toFixed(2)) };
+  }).sort((a, b) => b.score - a.score || b.articleCount - a.articleCount || a.journal.localeCompare(b.journal));
+
+  ranked.forEach((entry, index) => {
+    const percentile = ranked.length > 1 ? index / ranked.length : 0;
+    const quartile = percentile < 0.25 ? "Q1" : percentile < 0.5 ? "Q2" : percentile < 0.75 ? "Q3" : "Q4";
+    entry.items.forEach((article) => {
+      article.journalScore = entry.score;
+      article.journalQuartile = quartile;
+      article.journalArticleCount = entry.articleCount;
+      article.journalMedianCitationsPerYear = entry.medianCitationsPerYear;
+      article.journalMetricSource = "站内同主题文献动态分区";
+    });
+  });
 }
 
 async function translateText(text, cache, cacheKey) {
@@ -406,10 +569,13 @@ async function translateArticle(article, cache) {
 
 function normalizeSettings(settings = {}) {
   const fromYear = Number(settings.fromYear || DEFAULTS.fromYear);
-  const pageSize = Math.max(20, Math.min(200, Number(settings.pageSize || DEFAULTS.pageSize)));
+  const pageSize = Math.max(20, Math.min(1000, Number(settings.pageSize || DEFAULTS.pageSize)));
+  const maxResults = Math.max(pageSize, Math.min(5000, Number(settings.maxResults || DEFAULTS.maxResults)));
   return {
     fromYear,
     pageSize,
+    maxResults,
+    coverageMode: settings.coverageMode === "journal-list" ? "journal-list" : DEFAULTS.coverageMode,
     strictMode: settings.strictMode !== false,
     journals: Array.isArray(settings.journals) && settings.journals.length ? settings.journals : DEFAULTS.journals,
     yeastTerms: Array.isArray(settings.yeastTerms) && settings.yeastTerms.length ? settings.yeastTerms : DEFAULTS.yeastTerms,
@@ -435,10 +601,11 @@ async function collectLiterature(settings = DEFAULTS) {
   };
 
   try {
-    for (let index = 0; index < normalized.journals.length; index += 1) {
-      const journal = normalized.journals[index];
-      updateState.progress = Math.round((index / normalized.journals.length) * 70);
-      updateState.lastMessage = `正在检索 ${journal}`;
+    const journalScopes = normalized.coverageMode === "all" ? [null] : normalized.journals;
+    for (let index = 0; index < journalScopes.length; index += 1) {
+      const journal = journalScopes[index];
+      updateState.progress = Math.round((index / journalScopes.length) * 55);
+      updateState.lastMessage = journal ? `正在检索 ${journal}` : "正在检索全部收录期刊";
       const query = buildQuery(
         journal,
         normalized.yeastTerms,
@@ -446,10 +613,14 @@ async function collectLiterature(settings = DEFAULTS) {
         normalized.fromYear,
         normalized.strictMode
       );
-      const rawArticles = await fetchJournal(query, normalized.pageSize);
+      const rawArticles = await fetchJournal(
+        query,
+        normalized.pageSize,
+        normalized.coverageMode === "all" ? normalized.maxResults : normalized.pageSize
+      );
       rawArticles
         .map((raw) => normalizeArticle(raw, journal, normalized.yeastTerms, normalized.synbioTerms, normalized.fromYear))
-        .filter((article) => article.included)
+        .filter((article) => article.included && article.relevanceScore >= 42)
         .forEach((article) => {
           const key = articleKey(article);
           if (!seen.has(key)) seen.set(key, article);
@@ -463,12 +634,13 @@ async function collectLiterature(settings = DEFAULTS) {
         updateState.lastMessage = `正在翻译 ${translatedCount + 1}/${articles.length}`;
         await translateArticle(articles[index], translationCache);
         translatedCount += 1;
-        updateState.progress = 70 + Math.round((translatedCount / Math.max(articles.length, 1)) * 25);
+        updateState.progress = 55 + Math.round((translatedCount / Math.max(articles.length, 1)) * 35);
         if (translatedCount % 10 === 0) writeJson(translationCacheFile, translationCache);
       }
     });
     await Promise.all(workers);
     writeJson(translationCacheFile, translationCache);
+    assignJournalMetrics(articles);
 
     const payload = {
       updatedAt: new Date().toISOString(),
@@ -613,7 +785,12 @@ if (require.main === module) startServer();
 
 module.exports = {
   DEFAULTS,
+  assignJournalMetrics,
+  buildQuery,
+  calculateArticleScore,
+  calculateRelevance,
   collectLiterature,
+  fetchJournal,
   normalizeSettings,
   startServer,
 };
