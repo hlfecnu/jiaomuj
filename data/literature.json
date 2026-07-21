@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T11:30:08.303Z",
+  "updatedAt": "2026-07-21T10:09:14.362Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -383,6 +383,202 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Bioethanol Production from Taberau (Phragmites australis) Biomass via Coriolopsis caperata Delignification and MIL-100(Fe)-Immobilized Saccharomyces cerevisiae Fermentation.",
+      "titleZh": "通过 Coriolopsis caperata 脱木质素和 MIL-100(Fe) 固定化酿酒酵母发酵从 Taberau（芦苇）生物质生产生物乙醇。",
+      "journal": "Applied biochemistry and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0273-2289",
+      "eissn": "1559-0291",
+      "year": 2026,
+      "date": "2026-07-20",
+      "authors": "Atikah TA, Asi Y, Yuliana Y, Jefriyanto W, Tesalonika L, Krissilvio EJ, Agnestisia R.",
+      "doi": "10.1007/s12010-026-05827-2",
+      "doiUrl": "https://doi.org/10.1007/s12010-026-05827-2",
+      "pmid": "42474678",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42474678/",
+      "pmcid": "",
+      "abstract": "This study explored bioethanol production from Taberau lignocellulosic biomass through fungal delignification, enzymatic hydrolysis, and fermentation using MIL-100(Fe)-immobilized yeast. The fungal pre-treatment with Coriolopsis caperata enhanced laccase activity, reaching a maximum of 520 U/L at 12 days, and significantly reduced lignin content from 20.87% to 10.92%. This reduction improved cellulose accessibility and increased the availability of fermentable sugars during hydrolysis. Enzymatic hydrolysis results showed that fungal-treated biomass produced higher reducing sugar concentrations compared to untreated and control samples, indicating effective lignin removal. Fermentation was conducted under various conditions, with optimal ethanol production achieved at a yeast dosage of 2% (w/v) and a fermentation time of 4 days, resulting in an ethanol concentration of 11.57 g/L. Characterization using FTIR, XRD, and SEM confirmed successful immobilization of yeast on MIL-100(Fe) without structural degradation. The immobilized system demonstrated improved stability and reusability compared to free yeast. The obtained ethanol concentration is within the typical range for SHF-based lignocellulosic bioethanol production. The integration of fungal pre-treatment with MOF-based immobilization provides a promising and sustainable strategy, with potential for further improvement through process optimization and alternative fermentation approaches.",
+      "abstractZh": "本研究探索了通过真菌脱木质素、酶水解和使用 MIL-100(Fe) 固定化酵母发酵从 Taberau 木质纤维素生物质生产生物乙醇。用 Coriolopsis caperata 预处理真菌增强了漆酶活性，在 12 天时达到最大值 520 U/L，并显着降低木质素含量，从 20.87% 降至 10.92%。这种减少提高了纤维素的可及性并增加了水解过程中可发酵糖的可用性。酶水解结果表明，与未经处理的样品和对照样品相比，经真菌处理的生物质产生更高的还原糖浓度，表明有效去除木质素。在各种条件下进行发酵，在酵母剂量为 2% (w/v) 和发酵时间为 4 天时实现了最佳乙醇产量，得到的乙醇浓度为 11.57 g/L。使用 FTIR、XRD 和 SEM 进行表征证实酵母成功固定在 MIL-100(Fe) 上，且没有结构降解。与游离酵母相比，固定化系统表现出更高的稳定性和可重复使用性。获得的乙醇浓度在 SHF 基锂的典型范围内",
+      "url": "https://doi.org/10.1007/s12010-026-05827-2",
+      "sourceUrl": "https://doi.org/10.1007/s12010-026-05827-2",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "CsbHLH18 Directly Activates CsTSI to Promote Theanine Biosynthesis in Tea Plants (Camellia sinensis L.).",
+      "titleZh": "CsbHLH18 直接激活 CsTSI 促进茶树 (Camellia sinensis L.) 中的茶氨酸生物合成。",
+      "journal": "Journal of agricultural and food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-8561",
+      "eissn": "1520-5118",
+      "year": 2026,
+      "date": "2026-07-20",
+      "authors": "Fu Y, Zhu S, Liu Q, Cheng W, Liu L, Tao X, Chen Q, Liu C, Wan X, Tai Y.",
+      "doi": "10.1021/acs.jafc.5c13940",
+      "doiUrl": "https://doi.org/10.1021/acs.jafc.5c13940",
+      "pmid": "42475451",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42475451/",
+      "pmcid": "",
+      "abstract": "Theanine, a unique nonproteinogenic natural amino acid predominantly accumulated in tea plants (Camellia sinensis), is a key determinant of tea flavor and quality, with broad applications. Theanine synthase (CsTSI) is a key enzyme in theanine biosynthesis. However, the transcriptional regulation of CsTSI, particularly by bHLH transcription factors, remains largely unexplored. Through coexpression network screening and tissue-specific qPCR, we identified CsbHLH18 as a putative regulator of CsTSI. Yeast one-hybrid (Y1H) and dual-luciferase reporter assays confirmed the direct interaction between CsbHLH18 and the CsTSI promoter. An electrophoretic mobility shift assay (EMSA) further identified the specific binding motif of CsbHLH18 as \"CAAATG\". Transient overexpression and virus-induced gene silencing (VIGS) in tea plants demonstrated that CsbHLH18 positively regulates theanine biosynthesis by activating CsTSI transcription. These findings elucidate a previously uncharacterized molecular mechanism underlying theanine biosynthesis and provide theoretical insights into molecular breeding and cultivation of high-quality tea varieties.",
+      "abstractZh": "茶氨酸是一种独特的非蛋白天然氨基酸，主要积累在茶树（Camellia sinensis）中，是茶风味和品质的关键决定因素，具有广泛的应用。茶氨酸合酶（CsTSI）是茶氨酸生物合成的关键酶。然而，CsTSI 的转录调控，特别是 bHLH 转录因子的转录调控，在很大程度上仍未得到探索。通过共表达网络筛选和组织特异性 qPCR，我们确定 CsbHLH18 是 CsTSI 的假定调节因子。酵母单杂交 (Y1H) 和双荧光素酶报告基因测定证实了 CsbHLH18 和 CsTSI 启动子之间的直接相互作用。电泳迁移率变动分析（EMSA）进一步鉴定出CsbHLH18的特异性结合基序为“CAAATG”。茶树中的瞬时过表达和病毒诱导的基因沉默 (VIGS) 表明，CsbHLH18 通过激活 CsTSI 转录来正向调节茶氨酸生物合成。这些发现阐明了茶氨酸生物合成之前未知的分子机制，并为优质茶树品种的分子育种和栽培提供了理论见解。",
+      "url": "https://doi.org/10.1021/acs.jafc.5c13940",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.5c13940",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 25,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Cyprosulfamide mitigates nicosulfuron phytotoxicity in maize through activation of GST-associated phase II detoxification involving ZmGST24.",
+      "titleZh": "Cyprosulfamide 通过激活涉及 ZmGST24 的 GST 相关 II 期解毒作用来减轻玉米中的烟嘧磺隆植物毒性。",
+      "journal": "Pest management science",
+      "targetJournal": "全部收录期刊",
+      "issn": "1526-498X",
+      "eissn": "1526-4998",
+      "year": 2026,
+      "date": "2026-07-20",
+      "authors": "Shao D, Wen X, Xu X, Liu X, Guo B, Li B, Wang G, Liu X, Men S.",
+      "doi": "10.1002/ps.71142",
+      "doiUrl": "https://doi.org/10.1002/ps.71142",
+      "pmid": "42473814",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42473814/",
+      "pmcid": "",
+      "abstract": "BackgroundNicosulfuron is an acetolactate synthase (ALS)-inhibiting herbicide widely used in maize production. However, under unfavorable environmental conditions, its phytotoxicity to maize remains a practical concern. Cyprosulfamide (CSA) is an effective safener for maize, yet the contribution of glutathione S-transferases (GST)-associated phase II detoxification to CSA-conferred protection against nicosulfuron injury remains poorly understood.ResultsCSA markedly alleviated nicosulfuron-induced growth inhibition in maize seedlings and effectively reduced herbicide injury under field conditions. Inhibitor assays showed that both cytochrome P450-mediated phase I metabolism and GST-associated phase II detoxification contribute to maize tolerance to nicosulfuron. Proteomic analysis further revealed that, relative to nicosulfuron treatment alone, co-application of nicosulfuron and CSA significantly enriched the glutathione metabolism pathway in maize leaves. Among the induced GST candidate genes, ZmGST24 showed the strongest transcriptional response. Phylogenetic and conserved motif analyses supported its functional similarity to previously reported GSTs involved in herbicide detoxification. Molecular docking suggested favorable binding of ZmGST24 to nicosulfuron, and heterologous expression in yeast demonstrated that ZmGST24 not only enhanced tolerance to nicosulfuron, but also increased tolerance to several herbicides commonly used in maize fields.ConclusionThese findings indicate that the protective effect of CSA against nicosulfuron phytotoxicity in maize is associated with activation of GST-associated phase II detoxification. The pronounced response of the glutathione metabolism pathway, together with the functional characterization of ZmGST24, identifies this gene as a promising candidate involved in CSA-induced herbicide tolerance and as a potential target for improving herbicide safety in maize. © 2026 Society of Chemical Industry.",
+      "abstractZh": "背景烟嘧磺隆是一种乙酰乳酸合酶（ALS）抑制性除草剂，广泛用于玉米生产。然而，在不利的环境条件下，其对玉米的植物毒性仍然是一个实际问题。环丙磺酰胺（CSA）是一种有效的玉米安全剂，但谷胱甘肽S-转移酶（GST）相关的II期解毒对CSA赋予的烟嘧磺隆损伤保护作用的贡献仍知之甚少。结果CSA显着减轻了烟嘧磺隆对玉米幼苗的生长抑制，并有效减少了田间条件下的除草剂损伤。抑制剂测定表明，细胞色素 P450 介导的 I 期代谢和 GST 相关的 II 期解毒均有助于玉米对烟嘧磺隆的耐受性。蛋白质组学分析进一步表明，相对于单独使用烟嘧磺隆处理，烟嘧磺隆和CSA联合施用显着丰富了玉米叶片中谷胱甘肽代谢途径。在诱导的 GST 候选基因中，ZmGST24 显示出最强的转录反应。系统发育和保守基序分析支持其与之前报道的参与除草剂解毒的 GST 的功能相似性",
+      "url": "https://doi.org/10.1002/ps.71142",
+      "sourceUrl": "https://doi.org/10.1002/ps.71142",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 43,
+      "journalScore": 36,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Efficient biosynthesis of ɑ-bisabolene in s. Cerevisiae by combinatorial regulation of acetyl-CoA supply, bisabolene synthase expression, and bisabolene transportation.",
+      "titleZh": "s 中 ɑ-红没药烯的高效生物合成。酿酒酵母通过乙酰辅酶A供应、红没药烯合酶表达和红没药烯运输的组合调节。",
+      "journal": "Bioresource technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0960-8524",
+      "eissn": "1873-2976",
+      "year": 2026,
+      "date": "2026-07-19",
+      "authors": "Wang X, Li D, Zhang Y, He N, Sun M, Yu H, Ye L.",
+      "doi": "10.1016/j.biortech.2026.135460",
+      "doiUrl": "https://doi.org/10.1016/j.biortech.2026.135460",
+      "pmid": "42472556",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42472556/",
+      "pmcid": "",
+      "abstract": "α-Bisabolene is an important precursor for fragrances, pharmaceuticals, and biofuels. This study presents a comprehensive metabolic engineering strategy to enhance α-bisabolene production in Saccharomyces cerevisiae. By integrating protein fusion expression, N-terminal fusion tags, dynamic regulation of competing pathways, acetyl-CoA supply enhancement, and endogenous transporter overexpression, we achieved a record α-bisabolene titer of 58.64 g/L in high-cell-density fermentation, with 95.7% extracellular proportion. Key innovations included the structural optimization (order adjustment and N-terminal modification) of the ERG20-AgBIS fusion protein to overcome downstream catalytic bottlenecks, the identification of yeast-endogenous PDR family proteins (Pdr1 and Snq2) for α-bisabolene efflux, and a systematic comparative analysis revealing the superiority of cytosolic over peroxisomal acetyl-CoA supply in S. cerevisiae. By sequentially integrating these downstream \"pull\" and upstream \"push\" strategies with diploid hybridization, this work provides a comprehensive, host-specific blueprint for optimizing high-value isoprenoids and underscores the feasibility of microbial biofuels.",
+      "abstractZh": "α-红没药烯是香料、药品和生物燃料的重要前体。本研究提出了一种综合代谢工程策略，以提高酿酒酵母中 α-红没药烯的产量。通过整合蛋白质融合表达、N端融合标签、竞争途径的动态调节、乙酰辅酶A供应增强和内源转运蛋白过表达，我们在高细胞密度发酵中实现了创纪录的58.64 g/L α-红没药烯滴度，胞外比例为95.7%。主要创新包括 ERG20-AgBIS 融合蛋白的结构优化（顺序调整和 N 端修饰）以克服下游催化瓶颈、鉴定用于 α-红没药烯外排的酵母内源 PDR 家族蛋白（Pdr1 和 Snq2），以及揭示酿酒酵母中细胞质相对于过氧化物酶体乙酰辅酶 A 供应的优越性的系统比较分析。通过将这些下游“拉”和上游“推”策略与二倍体杂交依次整合，这项工作为优化高价值类异戊二烯提供了一个全面的、特定于宿主的蓝图，并强调了微生物生物燃料的可行性。",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135460",
+      "sourceUrl": "https://doi.org/10.1016/j.biortech.2026.135460",
+      "citationCount": 0,
+      "relevanceScore": 70,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "生物制造",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "journalScore": 50,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 35,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Characterization of BrSTM16 from Brassica rapa and functional analysis of its role in regulating cold tolerance.",
       "titleZh": "白菜 BrSTM16 的表征及其耐冷调节作用的功能分析。",
       "journal": "BMC plant biology",
@@ -479,7 +675,7 @@
       "articleScore": 63,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -620,7 +816,7 @@
       "articleScore": 57,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -961,9 +1157,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1808,7 +2004,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2008,9 +2204,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2794,7 +2990,7 @@
       "articleScore": 43,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3140,7 +3336,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3325,9 +3521,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 37,
+      "journalScore": 36,
       "journalQuartile": "Q4",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4416,6 +4612,55 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "N-Glycosylation Influences the Heterologous Expression of an Unspecific Peroxygenase From Marasmius rotula in Saccharomyces cerevisiae.",
+      "titleZh": "N-糖基化影响酿酒酵母中 Marasmius rotula 的非特异性过氧化酶的异源表达。",
+      "journal": "Microbial biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1751-7915",
+      "eissn": "1751-7915",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Schramm M, Schmidtke KU, Kolaczek Y, Jehmlich N, Hofrichter M, Scheibner K.",
+      "doi": "10.1111/1751-7915.70418",
+      "doiUrl": "https://doi.org/10.1111/1751-7915.70418",
+      "pmid": "42473306",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42473306/",
+      "pmcid": "",
+      "abstract": "N-Linked glycosylation can have a significant impact on the yield of heterologously expressed proteins secreted by Saccharomyces cerevisiae. The yeast is a widely used host for the expression of unspecific peroxygenases (UPOs), a subclass of peroxide-dependent oxidoreductases with high potential for industrial biocatalytic applications. However, the effects of N-glycosylation on the expression of recombinant UPOs have not yet been investigated. Here, we studied respective protein modification on the expression of a UPO from Marasmius rotula, belonging to the protein subfamily of short peroxygenases, in S. cerevisiae. Two of the three N-glycosylation sites that are actually occupied in rMroUPO were eliminated by substituting asparagine at positions N43 and N151 with serine. The single substitutions led to reduced amounts of secreted rMroUPO, with N43S having the highest impact (almost four times lower protein amount compared to the native enzyme) and N151S having a moderate effect. In the next step, the glycosylation probability at position 43 was enhanced by replacing the serine in the corresponding sequon with threonine, which increased the expression of the rMroUPO variant. The concentration of active UPO in the concentrated culture supernatant of the glycosylation-optimised variant S45T was twice as high as that of the native rMroUPO. The results suggest that N-linked glycosylation is an important factor for successful heterologous UPO expression in S. cerevisiae.",
+      "abstractZh": "N-连接糖基化可以对酿酒酵母分泌的异源表达蛋白质的产量产生显着影响。酵母是表达非特异性过氧化酶 (UPO) 的广泛使用的宿主，UPO 是过氧化物依赖性氧化还原酶的一个亚类，具有工业生物催化应用的巨大潜力。然而，N-糖基化对重组UPO表达的影响尚未得到研究。在这里，我们研究了酿酒酵母中 Marasmius rotula 的 UPO 表达的相应蛋白质修饰，该 UPO 属于短过氧化酶的蛋白质亚家族。通过用丝氨酸取代位置 N43 和 N151 处的天冬酰胺，消除了 rMroUPO 中实际占据的三个 N-糖基化位点中的两个。单一取代导致分泌的 rMroUPO 量减少，其中 N43S 的影响最大（与天然酶相比，蛋白质含量几乎低四倍），N151S 的影响中等。下一步，通过用苏氨酸替换相应序列子中的丝氨酸，增强了43位的糖基化概率，从而增加了rMroUPO变体的表达。的c",
+      "url": "https://doi.org/10.1111/1751-7915.70418",
+      "sourceUrl": "https://doi.org/10.1111/1751-7915.70418",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Programmable cell killer: CRISPR-Cas12a2 eliminates cells via RNA identity.",
       "titleZh": "可编程细胞杀手：CRISPR-Cas12a2 通过 RNA 识别消除细胞。",
       "journal": "Molecular cell",
@@ -4899,9 +5144,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5312,9 +5557,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5499,9 +5744,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5743,7 +5988,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6539,7 +6784,7 @@
       "articleScore": 60,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7742,7 +7987,7 @@
       "articleScore": 49,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8577,9 +8822,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9620,7 +9865,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9911,7 +10156,7 @@
       "articleScore": 54,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9958,9 +10203,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10257,7 +10502,7 @@
       "articleScore": 54,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11529,7 +11774,7 @@
       "articleScore": 49,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12776,9 +13021,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13231,7 +13476,7 @@
       "articleScore": 53,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13863,7 +14108,7 @@
       "articleScore": 60,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14758,7 +15003,7 @@
       "articleScore": 49,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14968,7 +15213,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15214,7 +15459,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16244,9 +16489,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17860,9 +18105,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18350,9 +18595,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18888,7 +19133,7 @@
       "articleScore": 65,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19425,9 +19670,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19817,9 +20062,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20062,9 +20307,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20950,9 +21195,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21056,7 +21301,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22000,9 +22245,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22192,7 +22437,7 @@
       "articleScore": 56,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22339,7 +22584,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22619,9 +22864,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22858,9 +23103,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23409,9 +23654,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25409,7 +25654,7 @@
       "articleScore": 53,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25508,9 +25753,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25557,9 +25802,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26145,9 +26390,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26340,7 +26585,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26753,7 +26998,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26797,9 +27042,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26995,7 +27240,7 @@
       "articleScore": 57,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27394,9 +27639,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27887,9 +28132,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28039,7 +28284,7 @@
       "articleScore": 61,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29209,7 +29454,7 @@
       "articleScore": 60,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30750,7 +30995,7 @@
       "articleScore": 55,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31337,7 +31582,7 @@
       "articleScore": 62,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31589,9 +31834,9 @@
       ],
       "included": true,
       "articleScore": 64,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33967,7 +34212,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34114,7 +34359,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34559,9 +34804,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35831,9 +36076,9 @@
       ],
       "included": true,
       "articleScore": 44,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36413,9 +36658,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38886,9 +39131,9 @@
       ],
       "included": true,
       "articleScore": 65,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39563,7 +39808,7 @@
       "articleScore": 55,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39998,7 +40243,7 @@
       "articleScore": 53,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40342,7 +40587,7 @@
       "articleScore": 59,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41028,7 +41273,7 @@
       "articleScore": 45,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41127,9 +41372,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 24,
+      "journalArticleCount": 25,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41760,59 +42005,13 @@
       "journalArticleCount": 36,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Production and characterization of low-cost superfine bacterial cellulose from coculture fermentation of &lt;i&gt;Komagataeibacter oboediens&lt;/i&gt; RC30-15 with &lt;i&gt;Saccharomyces bayanus&lt;/i&gt; and its antibacterial activities.",
-      "titleZh": "<i>Komagataeibacter oboedens</i> RC30-15与<i>Saccharomyces bayanus</i>共培养发酵生产低成本超细细菌纤维素及其抗菌活性。",
-      "journal": "3 Biotech",
-      "targetJournal": "全部收录期刊",
-      "issn": "2190-572X",
-      "eissn": "2190-5738",
-      "year": 2026,
-      "date": "2026-03-16",
-      "authors": "Lertsirirut P, Tippayasak U, Puangsin B, Theeragool G.",
-      "doi": "10.1007/s13205-026-04762-7",
-      "doiUrl": "https://doi.org/10.1007/s13205-026-04762-7",
-      "pmid": "41853216",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41853216/",
-      "pmcid": "",
-      "abstract": "We aim to produce and characterize superfine bacterial cellulose (BC) obtained from cost-effective fermentation at 37 °C in coconut water (CW) using table sugar instead of sucrose as a carbon source. The low-cost BC with antibacterial activities was produced from the coculture fermentation of Komagataeibacter oboediens RC30-15 with Saccharomyces bayanus at 37 °C in CW0.5A3S0.5N containing 0.5% acetic acid, 3% table sugar or sucrose and 0.5% ammonium sulfate. Scanning electron microscopic (SEM) analysis of BC film indicated no significant differences in BC fibrils' average diameter between BC produced from sucrose or sugar as a carbon source at either 30 or 37 °C. Moreover, there are no significant differences in the XRD patterns, FTIR spectra, and thermograms of BC produced from sucrose and sugar as carbon sources. Evaluation of antibacterial activities against Staphylococcus aureus, Escherichia coli, and Pseudomonas aeruginosa indicated that BC produced from sugar exhibited a similar inhibitory effect to that produced from sucrose. Coculture fermentation of K. oboediens RC30-15 with S. bayanus in CW containing sugar not only reduces the medium cost from 1.12 USD/L to 0.20 USD/L (1 USD=32 baht) but also enhances the antibacterial activities of BC. Additionally, BC produced by coculture fermentation showed a higher inhibitory effect than that by mixed-culture fermentation of K. oboediens RC30-15, S. bayanus, and Pediococcus pentosaceus DMKU 14-7. Antibacterial activity of BC against a chloramphenicol resistant strain of P. aeruginosa is interesting and might be applied as a natural antimicrobial agent, providing an alternative to antibiotics in the future.",
-      "abstractZh": "我们的目标是使用食糖代替蔗糖作为碳源，在椰子水 (CW) 中以经济有效的方式在 37°C 下发酵，生产并表征超细细菌纤维素 (BC)。具有抗菌活性的低成本BC是由Komagataeibacter oboediens RC30-15与Saccharomyces bayanus在37℃下在含有0.5％乙酸、3％食糖或蔗糖和0.5％硫酸铵的CW0.5A3S0.5N中共培养发酵产生的。 BC 膜的扫描电子显微镜 (SEM) 分析表明，在 30 或 37 °C 下以蔗糖或糖作为碳源生产的 BC 之间，BC 纤维的平均直径没有显着差异。此外，以蔗糖和糖为碳源生产的BC的XRD图谱、FTIR光谱和热分析图没有显着差异。对金黄色葡萄球菌、大肠杆菌和铜绿假单胞菌的抗菌活性评价表明，由糖产生的BC表现出与蔗糖产生的相似的抑制效果。 K. oboedens RC30-15 与 S. bayanus 在含糖 CW 中共培养发酵不仅将培养基成本从 1.12 USD/L 降低至 0.20 USD/L (1",
-      "url": "https://doi.org/10.1007/s13205-026-04762-7",
-      "sourceUrl": "https://doi.org/10.1007/s13205-026-04762-7",
-      "citationCount": 0,
-      "relevanceScore": 63,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 55,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 848 篇",
-    "lastStartedAt": "2026-07-20T11:29:02.683Z",
-    "lastFinishedAt": "2026-07-20T11:30:08.303Z",
+    "lastMessage": "更新完成，共 852 篇",
+    "lastStartedAt": "2026-07-21T10:08:20.456Z",
+    "lastFinishedAt": "2026-07-21T10:09:14.362Z",
     "nextRunAt": null,
     "progress": 100
   }
