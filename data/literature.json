@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T10:09:14.362Z",
+  "updatedAt": "2026-07-22T10:08:04.335Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -383,6 +383,202 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Effect of &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; fermentation postbiotic supplementation on metagenomics of digital dermatitis lesions in lactating Holstein cows.",
+      "titleZh": "酿酒酵母发酵后生元补充剂对泌乳荷斯坦奶牛指端皮炎病变宏基因组学的影响。",
+      "journal": "Microbiology spectrum",
+      "targetJournal": "全部收录期刊",
+      "issn": "2165-0497",
+      "eissn": "2165-0497",
+      "year": 2026,
+      "date": "2026-07-21",
+      "authors": "Henige M, Anklam K, Yoon I, Wheeler J, Dawson G, Döpfer D.",
+      "doi": "10.1128/spectrum.00304-26",
+      "doiUrl": "https://doi.org/10.1128/spectrum.00304-26",
+      "pmid": "42478812",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42478812/",
+      "pmcid": "",
+      "abstract": "Digital dermatitis (DD) is the leading cause of lameness in cattle, posing major animal welfare and economic concerns. Effective prevention strategies are increasingly important given emerging antimicrobial resistance associated with common DD treatments. Supplementation with Saccharomyces cerevisiae fermentation postbiotics (SCFP) has been shown to enhance innate immunity and reduce DD lesion development. This study evaluated the effect of a commercial SCFP supplement on the microbial composition of DD lesions using shotgun metagenomic sequencing to characterize microbial communities and associated antimicrobial resistance genes. Beta diversity analysis revealed that stage M4 DD lesions from SCFP-supplemented cows had a trend for different microbial compositions compared with controls (P = 0.051). At the genus level, M2 lesions were found to have statistically significant lower abundance of the genera Desulfovibrio, Pseudomonas, Staphylococcus, Anaerotignum, Caproicibacterium, and Bacteroides in the SCFP treatment group compared with the control (P Fusobacterium, Citricoccus, Listeria, and Fundicoccus as compared with the control (P Blautia and Petrimonas in the SCFP treatment group compared with the control (P Desulfovibrio sp. G11, Anaerotignum sp. MB30-C6, Caproicibacterium argilliputei, and Prevotella intermedia in the SCFP treatment group compared with the control (P Fundicoccus culcitae and Helcococcus ovis as compared with the control (P Saccharomyces cerevisiae fermentation postbiotics (SCFP) has the potential to alter the microbial ecology of DD lesions. Importantly, this work identifies antimicrobial resistance genes within DD lesions, underscoring the limitations of antibiotic-based control strategies. By linking nutritional supplementation to changes in microbial communities and resistance gene profiles, this study advances understanding of non-antibiotic approaches to disease mitigation and supports the development of sustainable, microbiome-informed management practices in food animal production.",
+      "abstractZh": "数码皮炎 (DD) 是牛跛行的主要原因，造成重大的动物福利和经济问题。鉴于与常见 DD 治疗相关的新出现的抗菌药物耐药性，有效的预防策略变得越来越重要。补充酿酒酵母发酵后生元 (SCFP) 已被证明可以增强先天免疫力并减少 DD 病变的发展。本研究使用鸟枪法宏基因组测序来表征微生物群落和相关抗菌素耐药性基因，评估了商业 SCFP 补充剂对 DD 病变微生物组成的影响。 Beta 多样性分析显示，与对照组相比，补充 SCFP 的奶牛的 M4 DD 阶段病变具有不同微生物组成的趋势 (P = 0.051)。在属水平上，与对照组相比，SCFP 治疗组中的 M2 病灶中脱硫弧菌属、假单胞菌属、葡萄球菌属、厌氧菌属、己杆菌属和拟杆菌属（P 梭杆菌属、柠檬球菌属、李斯特菌属和胃底球菌属）的丰度具有统计显着性降低（SCFP 治疗组中的 P Blautia 和 Petrimonas）",
+      "url": "https://doi.org/10.1128/spectrum.00304-26",
+      "sourceUrl": "https://doi.org/10.1128/spectrum.00304-26",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Hac1-independent functions of Ire1 drive morphogenesis in Candida albicans through distinct transcriptional programs.",
+      "titleZh": "Ire1 的 Hac1 独立功能通过不同的转录程序驱动白色念珠菌的形态发生。",
+      "journal": "Journal of cell science",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-9533",
+      "eissn": "1477-9137",
+      "year": 2026,
+      "date": "2026-07-21",
+      "authors": "Stack-Couture S, Nunes Marsiglio Librais G, Lung B, Genereaux J, Halder V, Dumeaux V, Shapiro RS, Lajoie P.",
+      "doi": "10.1242/jcs.264610",
+      "doiUrl": "https://doi.org/10.1242/jcs.264610",
+      "pmid": "42305016",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42305016/",
+      "pmcid": "",
+      "abstract": "The pathogenic yeast Candida albicans relies on morphogenesis - the transition from spherical yeast to filamentous hyphal forms - for infection. Although morphogenesis requires Ire1, a transmembrane protein that canonically initiates the unfolded protein response (UPR) through HAC1 mRNA splicing, the specific mechanisms linking Ire1 to filamentation remain unclear. Using transcriptome analysis, we found that the Ire1-dependent transcriptional response driving morphogenesis was fundamentally distinct from the canonical UPR response to proteotoxic stress, with minimal overlap between programs. Morphogenesis was associated with only limited HAC1 splicing compared to the robust splicing seen during proteotoxic stress, and HAC1 deletion only partially impaired filamentation, unlike the near-complete loss observed with IRE1 deletion. These findings establish that Ire1 regulates hyphal development through previously uncharacterized HAC1-independent pathways. We identify cell wall integrity as a key HAC1-independent mechanism, with Ire1 - but not Hac1 - being essential for cell wall stress tolerance and upregulation of cell wall biosynthesis genes during filamentation. Our data also reveal Ire1-dependent decreases in transcripts encoding secretory proteins during both proteotoxic stress and morphogenesis, consistent with a possible role for Ire1-mediated mRNA degradation in these processes. Given the essential role of Ire1 in pathogenesis and extensive development of Ire1-targeting compounds for mammalian systems, our findings position Ire1 as a highly promising druggable target for novel antifungal therapeutics and development of fungal-specific inhibitors.",
+      "abstractZh": "致病性酵母白色念珠菌依赖形态发生（从球形酵母到丝状菌丝形式的转变）进行感染。虽然形态发生需要 Ire1（一种跨膜蛋白，通过 HAC1 mRNA 剪接规范启动未折叠蛋白反应 (UPR)），但将 Ire1 与丝状化联系起来的具体机制仍不清楚。通过转录组分析，我们发现驱动形态发生的 Ire1 依赖性转录反应与典型的蛋白毒性应激 UPR 反应根本不同，程序之间的重叠最小。与蛋白毒性应激期间的稳健剪接相比，形态发生仅与有限的 HAC1 剪接相关，并且 HAC1 缺失仅部分损害丝化，这与 IRE1 缺失观察到的几乎完全丧失不同。这些发现证实 Ire1 通过以前未表征的 HAC1 独立途径调节菌丝发育。我们将细胞壁完整性确定为一个关键的 HAC1 独立机制，Ire1 但不是 Hac1 对于细胞壁应激耐受性和成丝过程中细胞壁生物合成基因的上调至关重要。我们的数据还揭示了 Ire1 依赖性的减少",
+      "url": "https://doi.org/10.1242/jcs.264610",
+      "sourceUrl": "https://doi.org/10.1242/jcs.264610",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Metabolic Engineering of Microbial Strains for 1,2,4-Butanetriol Production: Progress and Future Perspectives.",
+      "titleZh": "1,2,4-丁三醇生产微生物菌株的代谢工程：进展和未来展望。",
+      "journal": "Advances in biochemical engineering/biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0724-6145",
+      "eissn": "1616-8542",
+      "year": 2026,
+      "date": "2026-07-21",
+      "authors": "Wang WB, Tao MR, Li K, Bamba T, Cheng C, Hasunuma T, Kondo A, Thongchul N, Zhao S, Feng JX, Zhao XQ, Bai FW.",
+      "doi": "10.1007/10_2026_322",
+      "doiUrl": "https://doi.org/10.1007/10_2026_322",
+      "pmid": "42477129",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42477129/",
+      "pmcid": "",
+      "abstract": "Sustainable production of biofuels and biochemicals from renewable biomass represents a promising alternative to fossil-based feedstocks, offering significant benefits for low-carbon economies and environmental protection. The biochemical 1,2,4-butanetriol (BT) is an important short-chain chiral triol, which is widely used as pharmaceuticals, industrial foam, anticorrosion additives, and plasticizers. Although biosynthesis of BT has been achieved in various engineered microbes, achieving cost-competitive production remains a significant challenge. This chapter focuses on research progress in metabolic engineering of BT production, which mainly includes (1) design of BT biosynthetic pathways for expression in bacterial and yeast cell factories, (2) current metabolic engineering and process optimization strategies to optimize BT production, and (3) utilizing lignocellulosic biomass as a sustainable feedstock for BT production. In addition, future prospects on enhancing BT production efficiency through advanced metabolic engineering and synthetic biology approaches integrating with artificial intelligence (AI)-based technologies are also presented.",
+      "abstractZh": "利用可再生生物质可持续生产生物燃料和生物化学品是化石原料的一种有前途的替代品，为低碳经济和环境保护带来显着效益。生化1,2,4-丁三醇（BT）是一种重要的短链手性三醇，广泛用作医药、工业泡沫、防腐添加剂和增塑剂。尽管 BT 的生物合成已经在各种工程微生物中实现，但实现具有成本竞争力的生产仍然是一个重大挑战。本章重点介绍BT生产代谢工程的研究进展，主要包括（1）在细菌和酵母细胞工厂中表达的BT生物合成途径的设计，（2）当前优化BT生产的代谢工程和工艺优化策略，以及（3）利用木质纤维素生物质作为BT生产的可持续原料。此外，还提出了通过先进的代谢工程和合成生物学方法与人工智能（AI）技术相结合来提高BT生产效率的未来前景。",
+      "url": "https://doi.org/10.1007/10_2026_322",
+      "sourceUrl": "https://doi.org/10.1007/10_2026_322",
+      "citationCount": 0,
+      "relevanceScore": 59,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "合成生物学",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "代谢工程",
+        "酵母",
+        "合成生物学",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "合成生物学",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 52,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "A versatile yeast platform for N-demethylation of therapeutic alkaloids.",
+      "titleZh": "用于治疗性生物碱 N-去甲基化的多功能酵母平台。",
+      "journal": "Journal of biological engineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1754-1611",
+      "eissn": "1754-1611",
+      "year": 2026,
+      "date": "2026-07-20",
+      "authors": "Yaw DJ, Li X, Kampmann KB, Lam KWL, Xue S, Hansen J, Bowser TA, Kentish SE, Gras SL.",
+      "doi": "10.1186/s13036-026-00729-7",
+      "doiUrl": "https://doi.org/10.1186/s13036-026-00729-7",
+      "pmid": "42477771",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42477771/",
+      "pmcid": "",
+      "abstract": "Alkaloid N-demethylation is a critical step in the production of many semi-synthetic alkaloid therapeutics and has traditionally relied on synthetic chemical routes. Microbial whole-cell bioproduction offers a promising alternate route for generating these valuable pharmaceuticals. This work demonstrated a greener N-demethylation platform applicable to morphinan and tropine alkaloid classes, employing an engineered yeast expressing a cytochrome P450 enzyme with N-demethylase activity, a cytochrome P450 oxidoreductase and purine permeases as transporters. This platform enabled the N-demethylation of the morphinan alkaloids, oripavine and thebaine with high activity, and the tropane alkaloids, atropine and scopolamine with moderate activity. The study systematically evaluated the contributions of substrate uptake and enzymatic conversion within the whole-cell system. Heterologous transporters enabled mass transfer across the cell membrane, with no significant difference detected for the four substrates, while in vitro enzyme catalysis differed between substrates and correlated with yield. Computational molecular docking, combined with deep learning-based protein structure prediction, found all four substrates had high affinity for the enzyme. This approach was also used to identify potential target substrates for future biotransformation. Process performance could be further improved with the use of larger scale, well controlled bioreactors.",
+      "abstractZh": "生物碱 N-去甲基化是许多半合成生物碱治疗剂生产中的关键步骤，传统上依赖于合成化学路线。微生物全细胞生物生产为生产这些有价值的药物提供了一条有前途的替代途径。这项工作展示了一个适用于吗啡喃和托品生物碱类的更环保的 N-去甲基化平台，采用表达具有 N-去甲基化酶活性的细胞色素 P450 酶、细胞色素 P450 氧化还原酶和嘌呤渗透酶作为转运蛋白的工程酵母。该平台能够对高活性的吗啡喃生物碱、东罂粟碱和蒂巴因以及中等活性的托烷生物碱、阿托品和东莨菪碱进行N-去甲基化。该研究系统地评估了全细胞系统内底物吸收和酶转化的贡献。异源转运蛋白能够跨细胞膜进行传质，四种底物没有检测到显着差异，而体外酶催化作用在底物之间存在差异，并且与产量相关。计算分子对接，结合基于深度学习的蛋白质结构预测，",
+      "url": "https://doi.org/10.1186/s13036-026-00729-7",
+      "sourceUrl": "https://doi.org/10.1186/s13036-026-00729-7",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Bioethanol Production from Taberau (Phragmites australis) Biomass via Coriolopsis caperata Delignification and MIL-100(Fe)-Immobilized Saccharomyces cerevisiae Fermentation.",
       "titleZh": "通过 Coriolopsis caperata 脱木质素和 MIL-100(Fe) 固定化酿酒酵母发酵从 Taberau（芦苇）生物质生产生物乙醇。",
       "journal": "Applied biochemistry and biotechnology",
@@ -432,7 +628,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "CsbHLH18 Directly Activates CsTSI to Promote Theanine Biosynthesis in Tea Plants (Camellia sinensis L.).",
+      "title": "CsbHLH18 Directly Activates &lt;i&gt;CsTSI&lt;/i&gt; to Promote Theanine Biosynthesis in Tea Plants (&lt;i&gt;Camellia sinensis&lt;/i&gt; L.).",
       "titleZh": "CsbHLH18 直接激活 CsTSI 促进茶树 (Camellia sinensis L.) 中的茶氨酸生物合成。",
       "journal": "Journal of agricultural and food chemistry",
       "targetJournal": "全部收录期刊",
@@ -726,7 +922,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Overcoming Cultivation Challenges in Tuber borchii via Grain-Based Solid-State Fermentation with Plant Somatic Embryo Co-culture for Mycelial Growth and Triterpenoid Production.",
+      "title": "Overcoming cultivation challenges in Tuber borchii via grain-based solid-state fermentation with plant somatic embryo co-culture for mycelial growth and triterpenoid production.",
       "titleZh": "通过基于谷物的固态发酵与植物体细胞胚共培养促进菌丝生长和三萜类化合物的生产，克服了块茎的培养挑战。",
       "journal": "Journal of biotechnology",
       "targetJournal": "全部收录期刊",
@@ -740,7 +936,7 @@
       "pmid": "42468799",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42468799/",
       "pmcid": "",
-      "abstract": "The long maturation period and strong environmental reliance of Tuber borchii's fruiting bodies limit its commercial and medicinal utilization, leading to unstable yield and limited supply of bioactive compounds. Developing a controlled cultivation strategy for consistent production of truffle-derived metabolites, therefore, remains a critical challenge. In this study, grain-based solid-state fermentation was investigated as an alternative platform for mycelial biomass generation and triterpenoid production under controlled conditions. During the main solid-state cultivation phase, adlay was identified as the most effective substrate, yielding the highest biomass (45.32±1.58mg/g substrate) and triterpenoid content (1.00±0.13mg/g substrate) on day 28. Optimization of fermentation parameters was conducted by evaluating initial pH, moisture content, and inoculum age. The optimal conditions were found to be pH 7, 50% moisture content, and an inoculum age of 21 days, balancing both mycelial growth and triterpenoid accumulation. Regarding nutrient supplementation, 3% (w/v) glucose was identified as the most effective carbon source, resulting in the highest biomass and triterpenoid yield per gram of substrate (1.37±0.20mg/g substrate), while 1% (w/v) yeast extract proved to be the most effective nitrogen source, yielding 88.42±1.77mg/g substrate mycelial biomass and 1.91±0.12mg/g substrate triterpenoid content. Furthermore, co-culturing with 1g Quercus glauca somatic embryos increased the mycelial biomass and triterpenoid content to 100.72±1.98mg/g substrate and 2.39±0.14mg/g substrate, respectively. Overall, the study demonstrated the potential of solid-state fermentation as a sustainable method for the production of T. borchii mycelia and triterpenoids under controlled conditions.",
+      "abstract": "The long maturation period and strong environmental reliance of Tuber borchii's fruiting bodies limit its commercial and medicinal utilization, leading to unstable yield and limited supply of bioactive compounds. Developing a controlled cultivation strategy for consistent production of truffle-derived metabolites, therefore, remains a critical challenge. In this study, grain-based solid-state fermentation was investigated as an alternative platform for mycelial biomass generation and triterpenoid production under controlled conditions. During the main solid-state cultivation phase, adlay was identified as the most effective substrate, yielding the highest biomass (45.32 ± 1.58 mg/g substrate) and triterpenoid content (1.00 ± 0.13 mg/g substrate) on day 28. Optimization of fermentation parameters was conducted by evaluating initial pH, moisture content, and inoculum age. The optimal conditions were found to be pH 7, 50% moisture content, and an inoculum age of 21 days, balancing both mycelial growth and triterpenoid accumulation. Regarding nutrient supplementation, 3% (w/v) glucose was identified as the most effective carbon source, resulting in the highest biomass and triterpenoid yield per gram of substrate (1.37 ± 0.20 mg/g substrate), while 1% (w/v) yeast extract proved to be the most effective nitrogen source, yielding 88.42 ± 1.77 mg/g substrate mycelial biomass and 1.91 ± 0.12 mg/g substrate triterpenoid content. Furthermore, co-culturing with 1 g Quercus glauca somatic embryos increased the mycelial biomass and triterpenoid content to 100.72 ± 1.98 mg/g substrate and 2.39 ± 0.14 mg/g substrate, respectively. Overall, the study demonstrated the potential of solid-state fermentation as a sustainable method for the production of T. borchii mycelia and triterpenoids under controlled conditions.",
       "abstractZh": "包茎子实体成熟期长、环境依赖性强，限制了其商业和药用利用，导致产量不稳定和生物活性化合物供应有限。因此，制定控制培养策略以持续生产松露衍生代谢物仍然是一个严峻的挑战。在这项研究中，研究了基于谷物的固态发酵作为受控条件下菌丝体生物质产生和三萜类化合物生产的替代平台。在主要固态培养阶段，薏仁被认为是最有效的底物，在第28天产生最高的生物量（45.32±1.58mg/g底物）和三萜含量（1.00±0.13mg/g底物）。通过评估初始pH、水分含量和接种年龄来优化发酵参数。最佳条件是 pH 7、水分含量 50%、接种年龄 21 天，平衡菌丝生长和三萜类化合物积累。在营养补充方面，3%（w/v）葡萄糖被认为是最有效的碳源，可产生最高的生物量和三萜类化合物产量",
       "url": "https://doi.org/10.1016/j.jbiotec.2026.07.007",
       "sourceUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.007",
@@ -1953,9 +2149,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 46,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3429,9 +3625,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3725,7 +3921,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5792,7 +5988,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6135,7 +6331,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6882,7 +7078,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7339,55 +7535,6 @@
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 14,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Hac1-independent functions of Ire1 drive morphogenesis in Candida albicans through distinct transcriptional programs.",
-      "titleZh": "Ire1 的 Hac1 独立功能通过不同的转录程序驱动白色念珠菌的形态发生。",
-      "journal": "Journal of cell science",
-      "targetJournal": "全部收录期刊",
-      "issn": "0021-9533",
-      "eissn": "1477-9137",
-      "year": 2026,
-      "date": "2026-06-17",
-      "authors": "Stack-Couture S, Librais GNM, Lung B, Genereaux J, Halder V, Dumeaux V, Shapiro RS, Lajoie P.",
-      "doi": "10.1242/jcs.264610",
-      "doiUrl": "https://doi.org/10.1242/jcs.264610",
-      "pmid": "42305016",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42305016/",
-      "pmcid": "",
-      "abstract": "The pathogenic yeast Candida albicans relies on morphogenesis-the transition from spherical yeast to filamentous hyphal forms-for infection. While morphogenesis requires Ire1, a transmembrane protein that canonically initiates the Unfolded Protein Response (UPR) through HAC1 mRNA splicing, the specific mechanisms linking Ire1 to filamentation remain unclear. Using transcriptome analysis, we found that the Ire1-dependent transcriptional response driving morphogenesis is fundamentally distinct from the canonical UPR response to proteotoxic stress, with minimal overlap between programs. Morphogenesis is associated with only limited HAC1 splicing compared to robust splicing during proteotoxic stress, and HAC1 deletion only partially impairs filamentation, unlike the near-complete loss observed with IRE1 deletion. These findings establish that Ire1 regulates hyphal development through previously uncharacterized HAC1-independent pathways. We identify cell wall integrity as a key HAC1-independent mechanism, with Ire1-but not Hac1-essential for cell wall stress tolerance and upregulation of cell wall biosynthesis genes during filamentation. Our data also reveal Ire1-dependent decreases in transcripts encoding secretory proteins during both proteotoxic stress and morphogenesis, consistent with a possible role for Ire1-mediated mRNA degradation in these processes. Given Ire1's essential role in pathogenesis and extensive development of Ire1-targeting compounds for mammalian systems, our findings position Ire1 as a highly promising druggable target for novel antifungal therapeutics and development of fungal-specific inhibitors.",
-      "abstractZh": "致病性酵母白色念珠菌依赖形态发生（从球形酵母到丝状菌丝形式的转变）进行感染。虽然形态发生需要 Ire1（一种跨膜蛋白，通过 HAC1 mRNA 剪接规范启动未折叠蛋白反应 (UPR)），但将 Ire1 与丝状化联系起来的具体机制仍不清楚。通过转录组分析，我们发现驱动形态发生的 Ire1 依赖性转录反应与典型的蛋白毒性应激 UPR 反应根本不同，程序之间的重叠最小。与蛋白毒性应激期间的稳健剪接相比，形态发生仅与有限的 HAC1 剪接相关，并且 HAC1 缺失仅部分损害丝化，这与 IRE1 缺失观察到的几乎完全丧失不同。这些发现证实 Ire1 通过以前未表征的 HAC1 独立途径调节菌丝发育。我们将细胞壁完整性确定为一个关键的 HAC1 独立机制，Ire1 但不是 Hac1 对于细胞壁应激耐受性和成丝过程中细胞壁生物合成基因的上调至关重要。我们的数据还揭示了 Ire1 依赖性的减少",
-      "url": "https://doi.org/10.1242/jcs.264610",
-      "sourceUrl": "https://doi.org/10.1242/jcs.264610",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10803,7 +10950,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10852,7 +10999,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11140,7 +11287,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11430,7 +11577,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11673,7 +11820,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11726,9 +11873,9 @@
       ],
       "included": true,
       "articleScore": 48,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11869,7 +12016,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14005,9 +14152,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 46,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14706,7 +14853,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15554,7 +15701,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18002,7 +18149,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18741,7 +18888,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18882,7 +19029,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18980,7 +19127,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19232,9 +19379,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 46,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20263,7 +20410,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20941,9 +21088,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21403,9 +21550,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22339,7 +22486,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24045,7 +24192,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24193,9 +24340,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24388,7 +24535,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26937,7 +27084,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27592,7 +27739,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28036,7 +28183,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28333,7 +28480,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29348,9 +29495,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30007,7 +30154,7 @@
       "abstractZh": "多样性生成逆转录因子（DGR）是通过定向超突变加速多种细菌功能进化的自然系统。我们建立了一种使用 DGR 与重组工程 (DGRec) 结合的方法，该方法能够使大肠杆菌中任何感兴趣的序列多样化。逆转录酶序列偏差的详细表征展示了它如何最大限度地探索序列空间，同时避免无义突变。通过利用 DGR 逆转录酶腺嘌呤的高错误率，DGRec 可以有效地使用户定义的 50-200 bp 序列窗口多样化。突变可以集中在特定位置，每代每个碱基的突变率高达 1.38 × 10-2，48 小时后单个目标序列内最多可积累 24 个突变。我们将 DGRec 应用于噬菌体 λ 宿主范围工程、dCas9 变体的进化以及通过细菌展示装置加速特定纳米抗体的进化。最后，我们通过采用先前为逆转录子开发的重组和选择策略，确定了酵母中 DGR 介导的诱变的可行性。",
       "url": "https://doi.org/10.1038/s41587-026-03078-4",
       "sourceUrl": "https://doi.org/10.1038/s41587-026-03078-4",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 46,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -30027,11 +30174,11 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 45,
-      "journalScore": 34,
-      "journalQuartile": "Q4",
+      "articleScore": 51,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -32277,7 +32424,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32678,7 +32825,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33223,7 +33370,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33655,7 +33802,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34408,7 +34555,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34454,7 +34601,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34854,7 +35001,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -35688,7 +35835,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37520,9 +37667,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37623,7 +37770,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38203,7 +38350,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38299,9 +38446,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38787,7 +38934,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40047,7 +40194,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41619,7 +41766,7 @@
       "articleScore": 56,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41668,7 +41815,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 36,
+      "journalArticleCount": 35,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41956,62 +42103,13 @@
       "journalArticleCount": 20,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Emerging Sustainable Bioprocess for the Valorization of Agave Bagasse for Single-Cell Protein Production.",
-      "titleZh": "用于单细胞蛋白质生产的龙舌兰甘蔗渣增值的新兴可持续生物工艺。",
-      "journal": "Foods (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2304-8158",
-      "eissn": "2304-8158",
-      "year": 2026,
-      "date": "2026-03-16",
-      "authors": "Leal-Urbina E, Dufoo-Hurtado E, Gaytán-Martínez M, Tec-Caamal EN, Ramírez-Jiménez AK.",
-      "doi": "10.3390/foods15061033",
-      "doiUrl": "https://doi.org/10.3390/foods15061033",
-      "pmid": "41897755",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41897755/",
-      "pmcid": "PMC13025371",
-      "abstract": "In this work, a food-compatible bioprocess was evaluated for the production of yeast single-cell protein from mezcal agave bagasse. Bagasse was enzymatically hydrolyzed at 10% (w/v) solids (pH 4.8, 50 °C, 24 h) using commercial enzymes. The resulting liquid was clarified by activated charcoal adsorption and filtration to obtain a hydrolysate suitable for submerged fermentation. Enzymatic hydrolysis released reducing sugars in the range of 11-17 g/L. Saccharomyces cerevisiae was cultivated on the clarified hydrolysate under submerged conditions using both flask-scale and 2 L stirred-tank bioreactor experiments. Trials were performed at flask scale with initial sugars at 8, 17, and 50 g/L, and at 2 L stirred-tank bioreactor scale with initial sugars at 20.68 g/L (R1) and 16.30 (R2) g/L. At the flask scale, final biomass concentrations increased with initial sugar level. Values reached 6.18 ± 0.27, 8.02 ± 0.55, and 9.28 ± 0.10 g/L, while crude protein remained below 10% (3.40 ± 0.15 to 8.69 ± 0.09 g/100 g dry weight). In contrast, bioreactor cultivation resulted in higher protein enrichment, with protein contents over 40% under both oxygen regimes (41.71 ± 0.47 to 45.80 ± 0.43 g/100 g dry weight). Overall, the findings support enzymatic hydrolysis coupled with controlled submerged fermentation as a scalable approach for valorizing agave bagasse into protein-enriched yeast biomass.",
-      "abstractZh": "在这项工作中，评估了一种食品相容的生物工艺，用于从梅斯卡尔龙舌兰甘蔗渣生产酵母单细胞蛋白。使用商业酶对甘蔗渣进行酶水解，固体含量为 10%（w/v）（pH 4.8，50 °C，24 小时）。所得液体通过活性炭吸附和过滤澄清，得到适合深层发酵的水解液。酶水解释放的还原糖范围为 11-17 g/L。使用烧瓶规模和 2 L 搅拌罐生物反应器实验在浸没条件下在澄清的水解产物上培养酿酒酵母。试验在烧瓶规模下进行，初始糖浓度为 8、17 和 50 g/L，在 2 L 搅拌罐生物反应器规模下进行，初始糖浓度为 20.68 g/L (R1) 和 16.30 (R2) g/L。在烧瓶规模上，最终生物量浓度随着初始糖水平的增加而增加。值达到 6.18 ± 0.27、8.02 ± 0.55 和 9.28 ± 0.10 g/L，而粗蛋白仍低于 10%（3.40 ± 0.15 至 8.69 ± 0.09 g/100 g 干重）。相比之下，生物反应器培养导致更高的蛋白质富集，在两种氧气状态下蛋白质含量均超过 40%（41.71 ± 0.47 至 45.80 ± 0.43 g/100 g）",
-      "url": "https://doi.org/10.3390/foods15061033",
-      "sourceUrl": "https://doi.org/10.3390/foods15061033",
-      "citationCount": 0,
-      "relevanceScore": 42,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 43,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 36,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 852 篇",
-    "lastStartedAt": "2026-07-21T10:08:20.456Z",
-    "lastFinishedAt": "2026-07-21T10:09:14.362Z",
+    "lastMessage": "更新完成，共 854 篇",
+    "lastStartedAt": "2026-07-22T10:07:07.845Z",
+    "lastFinishedAt": "2026-07-22T10:08:04.335Z",
     "nextRunAt": null,
     "progress": 100
   }
