@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T09:41:38.740Z",
+  "updatedAt": "2026-07-25T08:34:09.012Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -383,6 +383,272 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "A programmable fungal platform for engineered living textiles.",
+      "titleZh": "用于工程活性纺织品的可编程真菌平台。",
+      "journal": "Science advances",
+      "targetJournal": "全部收录期刊",
+      "issn": "2375-2548",
+      "eissn": "2375-2548",
+      "year": 2026,
+      "date": "2026-07-24",
+      "authors": "Li K, An B, Zhang J, Xun D, Yuan X, Song Y, Wang X, Zhong C.",
+      "doi": "10.1126/sciadv.aed6937",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aed6937",
+      "pmid": "42497282",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42497282/",
+      "pmcid": "",
+      "abstract": "A central challenge in engineered living materials (ELMs) is the seamless integration of macroscopic structural assembly with sustained cellular viability and programmable function. Here, we report a fungal-based living material that addresses this challenge by preserving the metabolic activity of Cordyceps militaris mycelia within macroscale, cohesive films fabricated via a low-energy process. These living textiles retain the capacity for environmental response, demonstrated by nutrient-induced aerial hyphal growth that enables surface renewal. The native mycelial architecture further allows for volumetric integration of engineered microbial partners, exemplified by coculture with pigment-producing Saccharomyces cerevisiae for in situ patterning and melanized Aspergillus niger for built-in ultraviolet shielding. This modular design decouples bulk structural fabrication from genetic functionalization, offering a plug-and-play platform for synthetic biology. Environmental assessments confirm near-complete morphological degradation within 41 days. Our work establishes a scalable and sustainable chassis for functional ELMs, bridging a critical gap between structural integrity and biological programmability.",
+      "abstractZh": "工程活性材料（ELM）的一个核心挑战是宏观结构组装与持续细胞活力和可编程功能的无缝集成。在这里，我们报告了一种基于真菌的活材料，它通过在低能量过程制造的宏观粘性薄膜中保留蛹虫草菌丝体的代谢活性来应对这一挑战。这些活性纺织品保留了环境响应能力，营养诱导的气生菌丝生长可以实现表面更新，这证明了这一点。天然菌丝体结构进一步允许工程微生物伙伴的体积整合，例如与产生色素的酿酒酵母共培养以进行原位图案化和与黑化黑曲霉共培养以进行内置紫外线屏蔽。这种模块化设计将批量结构制造与基因功能化分离，为合成生物学提供了即插即用的平台。环境评估证实 41 天内形态几乎完全退化。我们的工作为功能性 ELM 建立了一个可扩展且可持续的基础，弥合了结构完整性和生物活性之间的关键差距",
+      "url": "https://doi.org/10.1126/sciadv.aed6937",
+      "sourceUrl": "https://doi.org/10.1126/sciadv.aed6937",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "合成生物学"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学"
+      ],
+      "included": true,
+      "articleScore": 43,
+      "journalScore": 32,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Comparative fermentability of a glucose/xylose enriched enzymatic slurry using different yeast strains.",
+      "titleZh": "使用不同酵母菌株的富含葡萄糖/木糖的酶浆的发酵能力的比较。",
+      "journal": "Bioprocess and biosystems engineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1615-7591",
+      "eissn": "1615-7605",
+      "year": 2026,
+      "date": "2026-07-24",
+      "authors": "Durán LM, Flores-Alarcón MAD, Milagres AMF, Roberto IC.",
+      "doi": "10.1007/s00449-026-03399-3",
+      "doiUrl": "https://doi.org/10.1007/s00449-026-03399-3",
+      "pmid": "42496720",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42496720/",
+      "pmcid": "",
+      "abstract": "Lignocellulosic biomass represents a sustainable energy source as ethanol fuel demand increases; process integration and efficient C6/C5 sugars utilization are essential for achieving techno-economically viable production. Here, alkaline-sulfite pretreatment combined with disc refining was applied to sugarcane bagasse for conserving most of cellulose and hemicellulose fractions. Then, β-glucosidase supplementation of cellulase at rational enzyme dosage (18 FPU/g biomass) was established for the enzymatic hydrolysis of the pretreated solids, achieving approximately 75% conversion yield for both cellulose and xylan. The resulting enzymatic slurry was directly fermented without solid-liquid separation and used to evaluate the effects of temperature and nutrient supplementation on ethanol fermentation by three yeast strains. Under optimal conditions (30 °C with nutrients), Kluyveromyces marxianus Y-6860 exhibited higher ethanol productivity ([Formula: see text] = 3.25 g L- 1 h- 1) than Saccharomyces cerevisiae PE-2 ([Formula: see text] = 2.17 g L- 1 h- 1). Notably, Scheffersomyces stipitis Y-7124 was the only strain capable of significantly consuming xylose, resulting in 46% higher ethanol production than the other strains. To simulate industrially relevant conditions, the slurry was supplemented with anhydrous glucose up to 100.0 g L- 1. Under these conditions, K. marxianus Y-6860 and S. cerevisiae PE-2 maintained robust fermentation performance, while S. stipitis Y-7124 exhibited limited xylose uptake during the evaluated period. The results demonstrate the potential of direct slurry fermentation for integrated 2G ethanol production, with K. marxianus Y-6860 showing strong potential for industrial-scale glucose fermentation and S. stipitis Y-7124 being a prospective candidate for improving xylose conversion.",
+      "abstractZh": "随着乙醇燃料需求的增加，木质纤维素生物质代表了一种可持续的能源；工艺集成和 C6/C5 糖的高效利用对于实现技术经济可行的生产至关重要。在此，将碱性亚硫酸盐预处理与盘式精炼相结合应用于甘蔗渣，以保留大部分纤维素和半纤维素部分。然后，以合理的酶剂量（18 FPU/g 生物质）添加纤维素酶的 β-葡萄糖苷酶，用于预处理固体的酶水解，实现纤维素和木聚糖约 75% 的转化率。所得酶浆不经固液分离直接发酵，并用于评价温度和营养补充对三种酵母菌株乙醇发酵的影响。在最佳条件下（30 °C，有营养物），马克斯克鲁维酵母 Y-6860 表现出比酿酒酵母 PE-2（[分子式：见文字] = 2.17 g L- 1 h- 1）更高的乙醇生产率（[分子式：见文字] = 3.25 g L- 1 h- 1）。值得注意的是，Scheffersomyces stipitis Y-7124 是唯一能够显着消耗木糖的菌株，导致 eth 提高 46%",
+      "url": "https://doi.org/10.1007/s00449-026-03399-3",
+      "sourceUrl": "https://doi.org/10.1007/s00449-026-03399-3",
+      "citationCount": 0,
+      "relevanceScore": 65,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "克鲁维酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "克鲁维酵母",
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母",
+        "克鲁维酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 56,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Heterologous Systems in the Functional Characterization of Proteins from Phytopathogenic Fungi: A Systematic Review.",
+      "titleZh": "植物病原真菌蛋白质功能表征中的异源系统：系统评价。",
+      "journal": "Molecular biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1073-6085",
+      "eissn": "1559-0305",
+      "year": 2026,
+      "date": "2026-07-24",
+      "authors": "de Oliveira HVV, de Rezende DCB, Porto JAM, Aguiar ERGR, de Novais DPS, Mora-Ocampo IY, Santos AS, Pirovani CP.",
+      "doi": "10.1007/s12033-026-01592-z",
+      "doiUrl": "https://doi.org/10.1007/s12033-026-01592-z",
+      "pmid": "42496915",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42496915/",
+      "pmcid": "",
+      "abstract": "Fungal-host coevolution, intensified by climate change, is attracting greater efforts to characterize new virulence proteins to enable the protection of agricultural crops. Under PRISMA guidelines, in this systematic review we analyzed 122 experimental studies from the Scopus, PubMed, ScienceDirect, and Web of Science databases, mapping heterologous expression systems for fungal phytopathogen proteins from crops such as wheat, maize, rice, and apple, among other agricultural commodities. The results reveal the predominance of Escherichia coli, Saccharomyces cerevisiae, Pichia pastoris, Nicotiana benthamiana, and filamentous fungi in structural and functional validation, both in vitro and in vivo. Although these heterologous hosts elucidate relevant pathogenicity mechanisms and immune suppression, gaps persist, such as the restricted use of filamentous fungi as models and the absence of standardized workflows for the integrated characterization of proteins across multiple hosts. By systematizing bibliometric trends and methodological approaches, this study reveals different strategies used to accelerate the analysis of fungal proteins, contributing to the advancement of molecular phytopathology and global food security.",
+      "abstractZh": "气候变化加剧了真菌与宿主的共同进化，吸引了更多的努力来表征新的毒力蛋白，以保护农作物。根据 PRISMA 指南，在这篇系统综述中，我们分析了来自 Scopus、PubMed、ScienceDirect 和 Web of Science 数据库的 122 项实验研究，绘制了来自小麦、玉米、水稻和苹果等农作物以及其他农产品的真菌植物病原体蛋白的异源表达系统。结果揭示了大肠杆菌、酿酒酵母、毕赤酵母、本塞姆氏烟草和丝状真菌在体外和体内结构和功能验证中的优势。尽管这些异源宿主阐明了相关的致病机制和免疫抑制，但差距仍然存在，例如丝状真菌作为模型的使用受到限制，以及缺乏跨多个宿主的蛋白质综合表征的标准化工作流程。通过系统化文献计量趋势和方法学方法，本研究揭示了用于加速真菌蛋白质分析的不同策略，有助于分子 ph 值的进步",
+      "url": "https://doi.org/10.1007/s12033-026-01592-z",
+      "sourceUrl": "https://doi.org/10.1007/s12033-026-01592-z",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "毕赤酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "毕赤酵母",
+        "酵母",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "毕赤酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 34,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Construction and systematic engineering of Saccharomyces cerevisiae for efficient de novo biosynthesis of pentostatin.",
+      "titleZh": "用于有效从头生物合成喷司他丁的酿酒酵母的构建和系统工程。",
+      "journal": "Journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0168-1656",
+      "eissn": "1873-4863",
+      "year": 2026,
+      "date": "2026-07-23",
+      "authors": "Bai M, Liu Z, Wang C, Chen Y, Lu J.",
+      "doi": "10.1016/j.jbiotec.2026.07.008",
+      "doiUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.008",
+      "pmid": "42492777",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42492777/",
+      "pmcid": "",
+      "abstract": "Pentostatin is a potent adenosine deaminase inhibitor, yet its industrial application is hindered by low extraction yields and complex chemical synthesis. Here, we report an efficient de novo biosynthesis platform for pentostatin in Saccharomyces cerevisiae. Starting with the heterologous expression of cns3 from Cordyceps militaris, we optimized the cell factory via promoter engineering, multicopy integration, and AAH1 knockout. This integration strain achieved a maximum pentostatin titer of 16.28mg/L in shake-flask cultivation, representing a 19.38-fold improvement over our initial production. Separately, to alleviate severe product toxicity, we implemented flux balance analysis (FBA)-guided transporter engineering; the engineered strain expressing the episomal efflux pump Cns4 yielded a titer of 8.27mg/L while significantly accelerating the production process. Molecular docking revealed a distinct binding cavity where key residues (e.g., Asp296, Ala292) capture pentostatin via specific hydrogen bonds and hydrophobic interactions. Furthermore, transcriptomics demonstrated that Cns4 globally reprograms carbon and energy metabolism to boost precursor supply and cellular robustness. This work integrates structural insights with systems metabolic engineering, providing a generalizable paradigm for biosynthesizing toxic nucleoside natural products.",
+      "abstractZh": "喷司他丁是一种有效的腺苷脱氨酶抑制剂，但其工业应用因提取率低和化学合成复杂而受到阻碍。在这里，我们报告了一种在酿酒酵母中有效的喷司他丁生物合成平台。从蛹虫草中cns3的异源表达开始，我们通过启动子工程、多拷贝整合和AAH1敲除来优化细胞工厂。该整合菌株在摇瓶培养中喷司他丁最大滴度达到16.28mg/L，比我们最初的产量提高了19.38倍。另外，为了减轻严重的产品毒性，我们实施了通量平衡分析（FBA）引导的转运蛋白工程；表达游离外排泵 Cns4 的工程菌株产生了 8.27mg/L 的滴度，同时显着加速了生产过程。分子对接揭示了一个独特的结合腔，其中关键残基（例如，Asp296、Ala292）通过特定的氢键和疏水相互作用捕获喷司他丁。此外，转录组学表明，Cns4 在全球范围内重新编程碳和能量代谢，以提高前体供应和细胞稳健性。",
+      "url": "https://doi.org/10.1016/j.jbiotec.2026.07.008",
+      "sourceUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.008",
+      "citationCount": 0,
+      "relevanceScore": 79,
+      "relevanceLevel": "高度相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程",
+        "异源表达",
+        "启动子工程",
+        "细胞工厂"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造",
+        "代谢工程",
+        "异源表达",
+        "启动子工程",
+        "细胞工厂"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程",
+        "异源表达",
+        "启动子工程",
+        "细胞工厂"
+      ],
+      "included": true,
+      "articleScore": 63,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Exploring biotransformation of phenolic compounds during lactic acid fermentation of grape marc and their fate following simulated in vitro digestion.",
+      "titleZh": "探索葡萄渣乳酸发酵过程中酚类化合物的生物转化及其模拟体外消化后的命运。",
+      "journal": "Waste management (New York, N.Y.)",
+      "targetJournal": "全部收录期刊",
+      "issn": "0956-053X",
+      "eissn": "1879-2456",
+      "year": 2026,
+      "date": "2026-07-23",
+      "authors": "Liu Z, Holland B, Barrow CJ, Suleria HAR.",
+      "doi": "10.1016/j.wasman.2026.115766",
+      "doiUrl": "https://doi.org/10.1016/j.wasman.2026.115766",
+      "pmid": "42492326",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42492326/",
+      "pmcid": "",
+      "abstract": "Grape marc (GM), a winemaking byproduct, has excellent antioxidant properties. Using GM as a lactic acid bacteria (LAB) fermentation medium could contribute to health benefits while managing waste volume. This study optimised a LAB fermentation system using GM and investigated different strains' impact on phenolics content and antioxidant capacity during fermentation and simulated gastrointestinal digestion. Our findings indicated that while raw GM could support growth, its intrinsic carbon limitation and high phenolic load necessitated yeast and glucose to 'prime' the metabolic pathways toward efficient homofermentative lactic acid production and biotransformation. During fermentation, flavonoids and tannins were significantly degraded, while the recovery and release of measurable anthocyanins was enhanced through enzymatic modification of the matrix. LC-ESI-QTOF-MS/MS analysis revealed changes in specific phenolics during degradation and transformation. In vitro digestion increased the total phenolic content and antioxidant activity of fermented GM compared to unfermented samples. These findings indicate that fermentation enhances the functionality of phenolics, making LAB-fermented GM a promising phenolic-rich functional ingredient for health-promoting applications in food, pharmaceuticals, and cosmetics, while also contributing to sustainable development. Furthermore, this biotransformation strategy demonstrates significant potential for extending to other phenolic-rich agro-industrial residues, such as olive mill wastewater, supporting broader circular economy goals.",
+      "abstractZh": "葡萄渣 (GM) 是一种酿酒副产品，具有出色的抗氧化特性。使用转基因作为乳酸菌 (LAB) 发酵培养基可以在控制废物量的同时带来健康益处。本研究利用GM优化了LAB发酵系统，并研究了发酵和模拟胃肠消化过程中不同菌株对酚类物质含量和抗氧化能力的影响。我们的研究结果表明，虽然原始转基因可以支持生长，但其内在的碳限制和高酚含量需要酵母和葡萄糖来“启动”代谢途径，以实现有效的同型发酵乳酸生产和生物转化。在发酵过程中，类黄酮和单宁被显着降解，而可测量的花青素的回收和释放通过基质的酶促修饰得到增强。 LC-ESI-QTOF-MS/MS 分析揭示了降解和转化过程中特定酚类物质的变化。与未发酵的样品相比，体外消化增加了发酵转基因样品的总酚含量和抗氧化活性。这些发现表明发酵增强了酚类物质的功能，使 LAB-fermen",
+      "url": "https://doi.org/10.1016/j.wasman.2026.115766",
+      "sourceUrl": "https://doi.org/10.1016/j.wasman.2026.115766",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Genetic background shapes the transcriptional activity and phenotypic contribution of a horizontally acquired region in yeast.",
       "titleZh": "遗传背景决定了酵母水平获得区域的转录活性和表型贡献。",
       "journal": "Molecular biology and evolution",
@@ -474,6 +740,55 @@
       "journalScore": 42,
       "journalQuartile": "Q2",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Synthetic Yeast-bacterium Consortium Enables Co-inducible Relayed Synthesis of Chemicals.",
+      "titleZh": "合成酵母-细菌联盟实现了化学品的共诱导中继合成。",
+      "journal": "Metabolic engineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1096-7176",
+      "eissn": "1096-7184",
+      "year": 2026,
+      "date": "2026-07-23",
+      "authors": "Xu M, Yu J, Chen X, Li X, Guo Y, Qian Z, Liu Q, Ren Y, Lu J, Chen X, Yang Y, Cai M.",
+      "doi": "10.1016/j.ymben.2026.102507",
+      "doiUrl": "https://doi.org/10.1016/j.ymben.2026.102507",
+      "pmid": "42492893",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42492893/",
+      "pmcid": "",
+      "abstract": "Microbial coculture can integrate advantages and overcome the metabolic imbalance of individual species. Programming strain interactions represents a common routine for synthetic microbial communities with distinct species, which causes difficulties and redundant workloads in interaction construction before being available as chassis hosts. This study explores yeast-bacterium consortium without engineered interactions for the co-inducible relayed synthesis of natural products. The Komagataella phaffii-Escherichia coli consortium is explored for co-growth under selected conditions. Low-level glucose- and blue light- responsive transcriptional systems are rebuilt separately for each host, allowing single-signal co-induced activation of compound synthesis in coculture. Pathway redirection, genome mining, and rewiring of key targets for acyl donor degradation result in efficient production of the reporter molecule simvastatin (26.2 mg l-1) through living consortium cultured on simple carbon source. Inducible biosynthesis of another reporter compound (2S)-naringenin (165.6 mg l-1) further validates the extendibility of this community. The described platform represents a breakthrough in engineering microbial consortium for biosynthesis.",
+      "abstractZh": "微生物共培养可以整合优势，克服单个物种的代谢不平衡。对菌株相互作用进行编程代表了具有不同物种的合成微生物群落的常见例程，这在用作底盘宿主之前导致了相互作用构建中的困难和冗余工作量。这项研究探索了酵母-细菌联合体在没有工程相互作用的情况下进行天然产物的共诱导中继合成。探索了 Komagataella phaffii-大肠杆菌联合体在选定条件下的共同生长。为每个宿主单独重建低水平的葡萄糖和蓝光响应转录系统，允许在共培养中单信号共同诱导化合物合成的激活。路径重定向、基因组挖掘和酰基供体降解的关键靶标的重新连接导致通过在简单碳源上培养的活体联合体高效生产报告分子辛伐他汀（26.2 mg l-1）。另一种报告化合物 (2S)-柚皮素 (165.6 mg l-1) 的诱导生物合成进一步验证了该群落的可扩展性。所描述的平台代表了一个突破",
+      "url": "https://doi.org/10.1016/j.ymben.2026.102507",
+      "sourceUrl": "https://doi.org/10.1016/j.ymben.2026.102507",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母",
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "毕赤酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1495,6 +1810,58 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Advances in Betalain Biosynthesis and Metabolic Engineering for Sustainable Natural Pigment Production.",
+      "titleZh": "可持续天然色素生产的甜菜碱生物合成和代谢工程进展。",
+      "journal": "Biotech (Basel (Switzerland))",
+      "targetJournal": "全部收录期刊",
+      "issn": "2673-6284",
+      "eissn": "2673-6284",
+      "year": 2026,
+      "date": "2026-07-19",
+      "authors": "Monisha S, Kanchana M, Balasubramanian A, Selvakesavan RK.",
+      "doi": "10.3390/biotech15030056",
+      "doiUrl": "https://doi.org/10.3390/biotech15030056",
+      "pmid": "42496572",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42496572/",
+      "pmcid": "",
+      "abstract": "Betalains are water-soluble pigments containing nitrogen, and they exist naturally in the plants of the order Caryophyllales. They have gained increasing attention in recent years because of their intense colours, antioxidant activity, and safety, thus making them suitable replacements for artificial dyes. The increasing interest in natural pigments has led to intensified research on betalain biosynthesis and optimization of pigment production. Nonetheless, their application in industry faces limitations, such as their low natural occurrence, sensitivity to environmental conditions, and instability during manufacturing and storage. Unlike previous reviews that primarily focused on betalain chemistry, biosynthesis pathways, or biological activity, the present review highlights recent developments in the engineering of the biosynthesis pathways, synthetic biology, elicitation approaches, omics-based pathway identification, and nanobiotechnology for betalain pigments. Special attention is paid to the comparison of plant, plant cell, yeast, and bacterial production systems, as well as recent advancements towards industrial production of betalain pigments and bottlenecks in the commercialization of sustainable betalain bio-factories.",
+      "abstractZh": "甜菜碱是含氮的水溶性色素，天然存在于石竹目植物中。近年来，它们因其浓郁的色彩、抗氧化活性和安全性而受到越来越多的关注，从而成为人造染料的合适替代品。人们对天然色素的兴趣日益浓厚，导致对甜菜红素生物合成和色素生产优化的研究不断深入。然而，它们在工业中的应用面临着局限性，例如它们的自然发生率低、对环境条件敏感以及制造和储存过程中的不稳定。与之前主要关注甜菜红素化学、生物合成途径或生物活性的综述不同，本综述重点介绍了甜菜红素色素生物合成途径工程、合成生物学、诱导方法、基于组学的途径识别和纳米生物技术的最新进展。特别关注植物、植物细胞、酵母和细菌生产系统的比较，以及甜菜碱色素工业生产的最新进展和商业瓶颈。",
+      "url": "https://doi.org/10.3390/biotech15030056",
+      "sourceUrl": "https://doi.org/10.3390/biotech15030056",
+      "citationCount": 0,
+      "relevanceScore": 59,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造",
+        "合成生物学"
+      ],
+      "mainKeywords": [
+        "代谢工程",
+        "生物制造",
+        "酵母",
+        "合成生物学"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造",
+        "合成生物学"
+      ],
+      "included": true,
+      "articleScore": 52,
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Efficient biosynthesis of ɑ-bisabolene in s. Cerevisiae by combinatorial regulation of acetyl-CoA supply, bisabolene synthase expression, and bisabolene transportation.",
       "titleZh": "s 中 ɑ-红没药烯的高效生物合成。酿酒酵母通过乙酰辅酶A供应、红没药烯合酶表达和红没药烯运输的组合调节。",
       "journal": "Bioresource technology",
@@ -1694,7 +2061,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Multi-omics Insights Into the Effect of Feeding Yeast Culture on the Liver Metabolism and Immunity of Plectropomus leopardus.",
+      "title": "Multi-omics Insights Into the Effect of Feeding Yeast Culture on the Liver Metabolism and Immunity of &lt;i&gt;Plectropomus leopardus&lt;/i&gt;.",
       "titleZh": "多组学见解饲喂酵母培养物对豹纹虾肝脏代谢和免疫的影响。",
       "journal": "Aquaculture nutrition",
       "targetJournal": "全部收录期刊",
@@ -1779,9 +2146,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2034,7 +2401,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Functional Benefits of Fermented Sesame Oilcake in the Diet of Nile Tilapia, Oreochromis niloticus: Insights Into Immunity, Oxidative Status, and Gut Microbiota.",
+      "title": "Functional Benefits of Fermented Sesame Oilcake in the Diet of Nile Tilapia, &lt;i&gt;Oreochromis niloticus&lt;/i&gt;: Insights Into Immunity, Oxidative Status, and Gut Microbiota.",
       "titleZh": "发酵芝麻油饼在尼罗罗非鱼、尼罗罗非鱼饮食中的功能益处：深入了解免疫、氧化状态和肠道微生物群。",
       "journal": "Aquaculture nutrition",
       "targetJournal": "全部收录期刊",
@@ -2048,7 +2415,7 @@
       "pmid": "42491249",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42491249/",
       "pmcid": "",
-      "abstract": "This study evaluated the effects of dietary inclusion of fermented sesame oilcake (FSOC) on growth performance, antioxidant responses, immune parameters, bactericidal activity, and gut microbial composition in juvenile Nile tilapia, Oreochromis niloticus. FSOC was produced by aerobic solid-state fermentation using Saccharomyces cerevisiae. Fish (5-month-old, 13.31 ± 0.73 g, all-male) were randomly distributed into three treatment groups and fed diets containing 0% (control [CTL]), 10% (S-10), or 20% (S-20) FSOC for 8 weeks. Growth performance, feed conversion ratio, and survival were not significantly affected by FSOC inclusion (p > 0.05). However, dietary FSOC significantly enhanced several immunological parameters, including lysozyme activity and total immunoglobulin (Ig) levels in plasma, liver, kidney, and skin mucus (p < 0.05). Antioxidant markers such as superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and reduced glutathione (GSH) were significantly elevated in hepatic and intestinal tissues of FSOC-fed fish, accompanied by a significant reduction in malondialdehyde (MDA) levels (p < 0.05), indicating improved oxidative status. Skin mucus from FSOC-fed tilapia exhibited significantly greater bactericidal activity against Aeromonas hydrophila and Streptococcus iniae. Gut gene expressions showed different patterns in the S-10 and S-20 treatments, as the S-10 treatment showed only an upregulation in tumor necrosis factor-a (tnf-α) expression, while the S-20 treatment showed upregulations in various anti-inflammatory, proinflammatory, antioxidant, and chaperon gene expressions. Additionally, gut microbiota analysis revealed that FSOC supplementation significantly increased the abundance of beneficial microbes (Saccharomyces sp., Lactobacillus sp., and Bacillus sp.) while reducing the presence of opportunistic pathogens (Aeromonas sp., Vibrio sp., and Streptococcus sp.). Overall, these findings suggest that FSOC is a promising functional feed ingredient capable of improving immune competence, oxidative resilience, and gut health in Nile tilapia without compromising growth.",
+      "abstract": "This study evaluated the effects of dietary inclusion of fermented sesame oilcake (FSOC) on growth performance, antioxidant responses, immune parameters, bactericidal activity, and gut microbial composition in juvenile Nile tilapia, Oreochromis niloticus. FSOC was produced by aerobic solid-state fermentation using Saccharomyces cerevisiae. Fish (5-month-old, 13.31 ± 0.73 g, all-male) were randomly distributed into three treatment groups and fed diets containing 0% (control [CTL]), 10% (S-10), or 20% (S-20) FSOC for 8 weeks. Growth performance, feed conversion ratio, and survival were not significantly affected by FSOC inclusion (p > 0.05). However, dietary FSOC significantly enhanced several immunological parameters, including lysozyme activity and total immunoglobulin (Ig) levels in plasma, liver, kidney, and skin mucus (p p Aeromonas hydrophila and Streptococcus iniae. Gut gene expressions showed different patterns in the S-10 and S-20 treatments, as the S-10 treatment showed only an upregulation in tumor necrosis factor-a (tnf-α) expression, while the S-20 treatment showed upregulations in various anti-inflammatory, proinflammatory, antioxidant, and chaperon gene expressions. Additionally, gut microbiota analysis revealed that FSOC supplementation significantly increased the abundance of beneficial microbes (Saccharomyces sp., Lactobacillus sp., and Bacillus sp.) while reducing the presence of opportunistic pathogens (Aeromonas sp., Vibrio sp., and Streptococcus sp.). Overall, these findings suggest that FSOC is a promising functional feed ingredient capable of improving immune competence, oxidative resilience, and gut health in Nile tilapia without compromising growth.",
       "abstractZh": "本研究评估了膳食中添加发酵芝麻油饼 (FSOC) 对尼罗罗非鱼 (Oreochromis niloticus) 幼鱼生长性能、抗氧化反应、免疫参数、杀菌活性和肠道微生物组成的影响。 FSOC 是使用酿酒酵母通过需氧固态发酵生产的。将鱼（5 个月大，13.31 ± 0.73 g，全雄性）随机分为三个处理组，并饲喂含有 0%（对照 [CTL]）、10% (S-10) 或 20% (S-20) FSOC 的饲料，持续 8 周。 FSOC 的添加对生长性能、饲料转化率和存活率没有显着影响 (p > 0.05)。然而，饮食中的 FSOC 显着增强了一些免疫学参数，包括血浆、肝脏、肾脏和皮肤粘液中的溶菌酶活性和总免疫球蛋白 (Ig) 水平 (p < 0.05)。饲喂 FSOC 的鱼的肝脏和肠道组织中的超氧化物歧化酶 (SOD)、过氧化氢酶 (CAT)、谷胱甘肽过氧化物酶 (GPx) 和还原型谷胱甘肽 (GSH) 等抗氧化标志物显着升高，同时丙二醛 (MDA) 水平显着降低 (p < 0.05)，表明氧化状态得到改善。 FSOC-f 的皮肤粘液",
       "url": "https://doi.org/10.1155/anu/4050656",
       "sourceUrl": "https://doi.org/10.1155/anu/4050656",
@@ -2663,7 +3030,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3171,7 +3538,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3519,6 +3886,55 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Efficient, complete biosynthesis of isoflavonoid calycosin-7-glucoside by metabolically engineered yeast cell factories.",
+      "titleZh": "通过代谢工程酵母细胞工厂高效、完整地生物合成异黄酮类毛蕊花苷-7-葡萄糖苷。",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "2296-4185",
+      "eissn": "2296-4185",
+      "year": 2026,
+      "date": "2026-07-09",
+      "authors": "Zhang W, Xu M, Wang L, Qiao X, Yang S, Liu Y, Liu Q, Lu X.",
+      "doi": "10.3389/fbioe.2026.1875470",
+      "doiUrl": "https://doi.org/10.3389/fbioe.2026.1875470",
+      "pmid": "42495113",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42495113/",
+      "pmcid": "",
+      "abstract": "Plant isoflavonoids constitute a class of secondary metabolites that hold great potential in nutraceutical and pharmaceutical industries, considering their prominent human health-promoting properties. As a result, there is increasing interest in establishing alternative sources to these bioactive molecules to cope with the uneconomic and non-sustainable nature of traditional crop-based production. Here, we present the construction of a yeast platform that can de novo produce isoflavonoid calycosin-7-glucoside (CG), one of the quality markers for important medicinal Astragalus herbs. Through identifying active plant catalytic enzymes, optimizing carbon sources, utilizing and providing key precursor daidzein, and engineering biosynthesis of key metabolic cofactors, production of 47.60 mg/L CG from simple carbon sources was achieved in shake flask fermentations. In addition, we showcased the feasibility of modifying the substrate preference of selected plant glycosyltransferase by rational protein engineering. Our work provides an important step toward developing industrial-scale biomanufacturing of CG and may be extended to engineer complete biosynthesis of other value-added isoflavonoids in microbes.",
+      "abstractZh": "植物异黄酮类化合物是一类次级代谢产物，考虑到其突出的促进人类健康的特性，在营养保健品和制药行业中具有巨大的潜力。因此，人们越来越有兴趣建立这些生物活性分子的替代来源，以应对传统作物生产的不经济和不可持续的性质。在这里，我们展示了一个酵母平台的构建，该平台可以从头生产异黄酮类毛萼苷-7-葡萄糖苷（CG），这是重要药用黄芪的质量标志之一。通过识别活性植物催化酶、优化碳源、利用和提供关键前体大豆黄酮以及关键代谢辅因子的工程生物合成，在摇瓶发酵中实现了从简单碳源生产47.60 mg/L CG。此外，我们展示了通过合理的蛋白质工程改变所选植物糖基转移酶的底物偏好的可行性。我们的工作为开发 CG 的工业规模生物制造迈出了重要的一步，并且可以扩展到设计其他增值异黄酮的完整生物合成",
+      "url": "https://doi.org/10.3389/fbioe.2026.1875470",
+      "sourceUrl": "https://doi.org/10.3389/fbioe.2026.1875470",
+      "citationCount": 0,
+      "relevanceScore": 66,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "蛋白质工程"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造",
+        "蛋白质工程"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "蛋白质工程"
+      ],
+      "included": true,
+      "articleScore": 56,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Engineered microorganisms unlock a new era of diterpenoid biomanufacturing: recent advances and future perspectives.",
       "titleZh": "工程微生物开启了二萜生物制造的新时代：最新进展和未来前景。",
       "journal": "Bioresources and bioprocessing",
@@ -3570,6 +3986,101 @@
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 6,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Microbial bioactive complex supplementation is associated with gut microbial fermentation and feed conversion in weaned piglets.",
+      "titleZh": "微生物生物活性复合物的补充与断奶仔猪的肠道微生物发酵和饲料转化有关。",
+      "journal": "Frontiers in veterinary science",
+      "targetJournal": "全部收录期刊",
+      "issn": "2297-1769",
+      "eissn": "2297-1769",
+      "year": 2026,
+      "date": "2026-07-09",
+      "authors": "Park MA, Park S, Yu HS, Lim DJ, Son S, Yoon YH, Kim DH, Kim Y.",
+      "doi": "10.3389/fvets.2026.1863429",
+      "doiUrl": "https://doi.org/10.3389/fvets.2026.1863429",
+      "pmid": "42494955",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42494955/",
+      "pmcid": "",
+      "abstract": "Improving feed efficiency while maintaining gut stability is a key nutritional objective during the post-weaning period in piglets. This study investigated the effects of dietary supplementation with a microbial bioactive complex (MBC), composed of Pediococcus pentosaceus CACC616, Lactobacillus reuteri CACC607, L. dextrinicus CACC889, L. pentosus CACC891, and Saccharomyces cerevisiae CACC699, on feed efficiency and gut microbial fermentation in weaned piglets. The complex was produced via solid-state fermentation (SSF), enabling the co-delivery of viable microorganisms and fermentation-derived metabolites. A total of 34 piglets were randomly assigned to either a basal diet (control) or the same diet supplemented with MBC for 33 days. The MBC contained approximately 2.4 × 109 CFU/g of lactic acid bacteria and 5.17 × 106 CFU/g of yeast and was included in the diet at 0.5%. MBC supplementation significantly improved feed conversion ratio (p Succinivibrio and Succinivibrionaceae UCG-001, are associated with carbohydrate fermentation and succinate-producing pathways. Collectively, these findings indicate that dietary supplementation with MBC is associated with improved feed conversion and changes in fermentation-related gut microbial taxa in weaned piglets, supporting its potential application as a functional feed additive in swine production.",
+      "abstractZh": "提高饲料效率同时保持肠道稳定性是仔猪断奶后阶段的一个关键营养目标。本研究调查了日粮添加微生物生物活性复合物 (MBC)（由戊糖片球菌 CACC616、罗伊氏乳杆菌 CACC607、糊精乳杆菌 CACC889、戊糖乳杆菌 CACC891 和酿酒酵母 CACC699 组成）对断奶仔猪饲料效率和肠道微生物发酵的影响。该复合物是通过固态发酵（SSF）生产的，能够共同输送活微生物和发酵衍生的代谢物。总共 34 头仔猪被随机分配到基础日粮（对照）或添加 MBC 的相同日粮，持续 33 天。 MBC 含有约 2.4 × 109 CFU/g 的乳酸菌和 5.17 × 106 CFU/g 的酵母，并以 0.5% 的比例包含在日粮中。补充 MBC 显着提高饲料转化率（p Succinivibrio 和 Succinivibrionaceae UCG-001，与碳水化合物发酵和琥珀酸生成途径相关。总的来说，这些发现表明日粮中补充 MBC 与提高饲料转化率相关）",
+      "url": "https://doi.org/10.3389/fvets.2026.1863429",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1863429",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "VvERF105 enhances drought resistance in grape through interaction with VvSnRK1.",
+      "titleZh": "VvERF105 通过与 VvSnRK1 相互作用增强葡萄的抗旱性。",
+      "journal": "Frontiers in plant science",
+      "targetJournal": "全部收录期刊",
+      "issn": "1664-462X",
+      "eissn": "1664-462X",
+      "year": 2026,
+      "date": "2026-07-09",
+      "authors": "Cui X, Lou Y, Zhang K, Lu H, Shang H, Lü Z, Wu W.",
+      "doi": "10.3389/fpls.2026.1884274",
+      "doiUrl": "https://doi.org/10.3389/fpls.2026.1884274",
+      "pmid": "42494633",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42494633/",
+      "pmcid": "",
+      "abstract": "BackgroundDrought stress severely restricts grape growth and yield. ERF105 is widely involved in plant developmental processes as well as responses to biotic and abiotic stresses. Nevertheless, existing studies of the ERF105 gene have primarily focused on cold and disease resistance, leaving its potential function in drought response largely unexplored. Therefore, investigating the role of ERF105 under drought conditions is crucial for understanding the molecular mechanisms of stress tolerance in grape and for breeding drought-resistant cultivars.MethodsA VvERF105 gene was cloned from drought-resistant Vitis vinifera cv. 'Thompson Seedless', followed by sequence analysis, subcellular localization assay, and expression pattern analysis. A dual-target gene editing vector of VvERF105 was subsequently constructed and transformed into embryogenic calli of 'Thompson Seedless' via Agrobacterium-mediated genetic transformation. Gene-edited and wild type (WT) grapes were subjected to drought treatment. The biological function of VvERF105 under drought stress was determined by observing the plant growth status and stomatal aperture, measuring the proline and malondialdehyde (MDA) contents, antioxidant enzyme activities, and the expression levels of drought-related genes. In addition, proteins interacting with VvERF105 were screened and verified using yeast two-hybrid, bimolecular fluorescence complementation (BiFC), and co-immunoprecipitation (Co-IP) assays. Their interaction was further confirmed using in vitro phosphorylation assays.ResultsVvERF105 is a stress-responsive gene localized in the nucleus. It responds to drought, cold, and high-temperature stresses and may act downstream of the ABA signaling pathway. VvERF105 mutant grapevine plants exhibited reduced resistance to drought stress. The edited lines exhibited smaller stomatal apertures, lower proline content, higher MDA content, and lower antioxidant enzyme activities compared to WT plants under drought stress. The expression levels of VvDREB2A, VvERD14, VvKIN2, VvNCED1, VvRD22, and VvRD29B were also significantly downregulated. VvSnRK1 was identified as an interacting protein of VvERF105 and interacts with it in a phosphorylation-independent manner.ConclusionsVvERF105 is a nucleus-localized stress-responsive transcription factor that positively regulates grapevine drought stress responses. Its disruption significantly reduces drought resistance. Moreover, it interacts with the kinase VvSnRK1 in a phosphorylation-independent manner to mediate drought stress signaling in grapevines. The aforementioned results provide valuable genetic resources for molecular breeding of grapevines with enhanced drought resistance.",
+      "abstractZh": "研究背景干旱胁迫严重限制了葡萄的生长和产量。 ERF105 广泛参与植物发育过程以及对生物和非生物胁迫的反应。然而，现有的 ERF105 基因研究主要集中在抗寒和抗病性上，其在干旱响应中的潜在功能很大程度上尚未被探索。因此，研究ERF105在干旱条件下的作用对于了解葡萄耐逆性的分子机制以及培育抗旱品种具有重要意义。方法从抗旱葡萄中克隆VvERF105基因。 “Thompson Seedless”，然后进行序列分析、亚细胞定位测定和表达模式分析。随后构建了VvERF105双靶点基因编辑载体，并通过农杆菌介导的遗传转化转化至“Thompson Seedless”胚性愈伤组织中。基因编辑的野生型（WT）葡萄接受了干旱处理。通过观察植物生长状况和气孔孔径，测定脯氨酸和丙二醛（MDA）含量，测定干旱胁迫下VvERF105的生物学功能。",
+      "url": "https://doi.org/10.3389/fpls.2026.1884274",
+      "sourceUrl": "https://doi.org/10.3389/fpls.2026.1884274",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "基因组编辑"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "基因组编辑"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "基因组编辑"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3909,7 +4420,7 @@
       "articleScore": 44,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3957,7 +4468,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -4737,9 +5248,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5321,7 +5832,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6261,7 +6772,7 @@
       "articleScore": 55,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7094,7 +7605,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8239,7 +8750,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8940,7 +9451,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9393,7 +9904,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9439,7 +9950,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9635,7 +10146,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10371,7 +10882,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12150,7 +12661,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -12542,7 +13053,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14728,7 +15239,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15325,7 +15836,7 @@
       "articleScore": 46,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16325,7 +16836,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -16427,7 +16938,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16773,7 +17284,7 @@
       "articleScore": 66,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16826,9 +17337,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18003,7 +18514,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18710,7 +19221,7 @@
       "pmid": "42157423",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42157423/",
       "pmcid": "",
-      "abstract": "Carbon dioxide (CO2) is a pivotal environmental signal that influences the physiology, development and pathogenic potential of fungi. Beyond its role as a metabolic by-product, CO2 functions as a conserved signaling molecule that enables fungal pathogens to sense and adapt to host niches. This review synthesizes current knowledge on how fluctuations in CO2 concentration modulate growth dynamics, morphogenesis, virulence-associated attributes and antifungal susceptibility in clinically important yeasts and filamentous fungi. In Candida species, particularly Candida albicans, physiological CO2 levels encountered in host tissues (~5%) act as a potent morphogenetic signal, driving the yeast-to-hypha transition, promoting biofilm formation and inducing metabolic reprogramming; processes tightly linked to tissue invasion and persistence. CO2 exposure also alters membrane composition and stress response pathways, thereby modulating susceptibility to antifungal agents. In Cryptococcus neoformans, elevated CO2 concentrations promote capsule biosynthesis and enlargement, alongside extensive remodeling of surface architecture and membrane composition. These CO2-driven adaptations strengthen resistance to host immune defenses and are associated with increased tolerance to antifungals. In Aspergillus species, CO2 availability influences growth, mycotoxin biosynthesis and developmental trajectories by shifting the balance between asexual and sexual reproduction, with downstream effects on virulence and antifungal responsiveness. In Scedosporium/Lomentospora species, CO2 promotes conidial germination and developmental transitions that may indirectly impact antifungal susceptibility and pathogenic fitness. Collectively, these findings highlight environmental CO2 as a pivotal and dynamic regulator of fungal biology, offering key insights into host-pathogen interactions, informing the prediction of antifungal susceptibility profiles and supporting the rational optimization of therapeutic strategies in clinical settings.",
+      "abstract": "Facts Physiological carbon dioxide (CO 2 ) levels function as a key environmental cue that allows fungal pathogens to sense and adapt to host conditions, coordinating metabolic and developmental responses. CO 2 modulates morphogenesis, biofilm formation, capsule production and developmental pathways, directly contributing to fungal pathogenicity and persistence in host tissues. CO 2 -induced alterations in membrane composition, metabolism and stress pathways can influence antifungal susceptibility and tolerance across different species. These regulatory effects are observed in diverse clinically important fungi, highlighting CO 2 as a conserved and versatile modulator of fungal biology. Insights into CO 2 signaling provide a more physiologically relevant framework for predicting antifungal efficacy and optimizing therapeutic strategies. Open Questions What is the impact of dynamic CO 2 gradients within host-associated niches on fungal virulence, fitness and treatment outcomes? How does CO 2 signaling interact with other environmental cues (e.g., pH, oxygen availability, nutrient status, and microbiota-derived factors) to regulate pathogenicity? To what extent can CO 2 -responsive pathways be safely and effectively exploited as antifungal targets in vivo ? Carbon dioxide (CO 2 ) is a pivotal environmental signal that influences the physiology, development and pathogenic potential of fungi. Beyond its role as a metabolic by-product, CO 2 functions as a conserved signaling molecule that enables fungal pathogens to sense and adapt to host niches. This review synthesizes current knowledge on how fluctuations in CO 2 concentration modulate growth dynamics, morphogenesis, virulence-associated attributes and antifungal susceptibility in clinically important yeasts and filamentous fungi. In Candida species, particularly Candida albicans , physiological CO 2 levels encountered in host tissues (~5%) act as a potent morphogenetic signal, driving the yeast-to-hypha transition, promoting biofilm formation and inducing metabolic reprogramming; processes tightly linked to tissue invasion and persistence. CO 2 exposure also alters membrane composition and stress response pathways, thereby modulating susceptibility to antifungal agents. In Cryptococcus neoformans , elevated CO 2 concentrations promote capsule biosynthesis and enlargement, alongside extensive remodeling of surface architecture and membrane composition. These CO 2 -driven adaptations strengthen resistance to host immune defenses and are associated with increased tolerance to antifungals. In Aspergillus species, CO 2 availability influences growth, mycotoxin biosynthesis and developmental trajectories by shifting the balance between asexual and sexual reproduction, with downstream effects on virulence and antifungal responsiveness. In Scedosporium / Lomentospora species, CO 2 promotes conidial germination and developmental transitions that may indirectly impact antifungal susceptibility and pathogenic fitness. Collectively, these findings highlight environmental CO 2 as a pivotal and dynamic regulator of fungal biology, offering key insights into host-pathogen interactions, informing the prediction of antifungal susceptibility profiles and supporting the rational optimization of therapeutic strategies in clinical settings.",
       "abstractZh": "二氧化碳（CO2）是影响真菌生理、发育和致病潜力的关键环境信号。除了作为代谢副产品的作用之外，二氧化碳还充当保守的信号分子，使真菌病原体能够感知并适应宿主生态位。这篇综述综合了关于二氧化碳浓度波动如何调节临床重要酵母和丝状真菌的生长动力学、形态发生、毒力相关属性和抗真菌敏感性的当前知识。在念珠菌属物种中，特别是白色念珠菌，宿主组织中遇到的生理二氧化碳水平（~5%）充当有效的形态发生信号，驱动酵母菌向菌丝的转变，促进生物膜形成并诱导代谢重编程；与组织侵袭和持久性密切相关的过程。二氧化碳暴露还会改变膜组成和应激反应途径，从而调节抗真菌药物的敏感性。在新型隐球菌中，二氧化碳浓度升高促进荚膜生物合成和扩大，同时表面结构和膜组成进行广泛重塑。这些由二氧化碳驱动的适应措施加强了",
       "url": "https://doi.org/10.4103/mgr.medgasres-d-26-00038",
       "sourceUrl": "https://doi.org/10.4103/mgr.MEDGASRES-D-26-00038",
@@ -19361,9 +19872,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21517,9 +22028,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21665,7 +22176,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -23644,7 +24155,7 @@
       "articleScore": 49,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25351,9 +25862,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31471,9 +31982,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31770,7 +32281,7 @@
       "articleScore": 49,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32059,10 +32570,10 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -32741,9 +33252,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35663,7 +36174,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -35719,7 +36230,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35768,7 +36279,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35917,7 +36428,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -39409,7 +39920,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -39709,7 +40220,7 @@
       "articleScore": 46,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -42442,55 +42953,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Analysis of BpbHLH Gene Family Responsive to MeJA Signalling in Betula platyphylla Suk. and Functional Mechanisms of BpbHLH42/44 in Genetic Improvement and Triterpenoid Biosynthesis.",
-      "titleZh": "白桦 BpbHLH 基因家族对 MeJA 信号传导的响应分析。以及 BpbHLH42/44 在遗传改良和三萜生物合成中的功能机制。",
-      "journal": "Plant biotechnology journal",
-      "targetJournal": "全部收录期刊",
-      "issn": "1467-7644",
-      "eissn": "1467-7652",
-      "year": 2026,
-      "date": "2026-03-17",
-      "authors": "Li Y, Xu L, Cui J, Wang S, Yuan Y, Xiao C, Luo X, Baleev D, Zhan Y, Yin J.",
-      "doi": "10.1111/pbi.70626",
-      "doiUrl": "https://doi.org/10.1111/pbi.70626",
-      "pmid": "41841639",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41841639/",
-      "pmcid": "PMC13205763",
-      "abstract": "The basic helix-loop-helix (bHLH) transcription factor family regulates plant secondary metabolism, development and stress responses. Although triterpenoids such as betulinic acid (BA), betulin (BT) and oleanolic acid (OA) from Betula platyphylla Suk. are of pharmacological importance, the methyl jasmonate (MeJA)-induced regulation of IVa bHLHs remains unclear. A total of 131 BpbHLH genes were identified, and functional characterisation was performed for two IVa members, BpbHLH42 and BpbHLH44, in yeast, tobacco, birch cells and transgenic plants. Both enhanced triterpenoid biosynthesis but exhibited distinct specificities: BpbHLH42 primarily promoted OA accumulation by activating BpHMGR, BpSE1/3, BpW and BpY6, while BpbHLH44 favoured BT production through BpW, BpY6 and BpY11. Both indirectly regulated BpY9 via BpMYB21, forming a bHLH-MYB complex, and the MeJA repressor BpJAZ2 disrupted the BpbHLH42-MYB21 interaction. Transgenic birch lines further revealed divergent phenotypes: BpbHLH42 overexpression enlarged and smoothed leaves and increased OA levels, whereas BpbHLH44 enhanced alkali stress tolerance by elevating secondary metabolite accumulation. These results uncover the differential regulatory roles of BpbHLH42 and BpbHLH44 in triterpenoid biosynthesis and demonstrate their potential for metabolic engineering and genetic improvement in woody plants.",
-      "abstractZh": "基本螺旋-环-螺旋 (bHLH) 转录因子家族调节植物次生代谢、发育和胁迫反应。虽然三萜类化合物如来自白桦的桦木酸（BA）、桦木醇（BT）和齐墩果酸（OA）。尽管具有药理学重要性，但茉莉酸甲酯 (MeJA) 诱导的 IVa bHLH 调节仍不清楚。总共鉴定了 131 个 BpbHLH 基因，并对酵母、烟草、桦树细胞和转基因植物中的两个 IVa 成员 BpbHLH42 和 BpbHLH44 进行了功能表征。两者都增强了三萜生物合成，但表现出明显的特异性：BpbHLH42 主要通过激活 BpHMGR、BpSE1/3、BpW 和 BpY6 促进 OA 积累，而 BpbHLH44 通过 BpW、BpY6 和 BpY11 有利于 BT 的产生。两者都通过 BpMYB21 间接调节 BpY9，形成 bHLH-MYB 复合物，而 MeJA 阻遏物 BpJAZ2 破坏 BpbHLH42-MYB21 相互作用。转基因桦树品系进一步揭示了不同的表型：BpbHLH42 过表达使叶片增大、平滑，并增加 OA 水平，而 BpbHLH44 通过提高次生代谢物积累来增强碱胁迫耐受性。这些结果揭示了差异",
-      "url": "https://doi.org/10.1111/pbi.70626",
-      "sourceUrl": "https://doi.org/10.1111/pbi.70626",
-      "citationCount": 1,
-      "relevanceScore": 56,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母",
-        "代谢工程"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "included": true,
-      "articleScore": 57,
-      "journalScore": 46,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Context-aware synthetic promoter design using neural networks enables rewiring of eukaryotic transcriptional networks.",
       "titleZh": "使用神经网络的上下文感知合成启动子设计能够重新连接真核转录网络。",
       "journal": "NPJ systems biology and applications",
@@ -42726,9 +43188,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -42928,9 +43390,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 871 篇",
-    "lastStartedAt": "2026-07-24T09:40:45.808Z",
-    "lastFinishedAt": "2026-07-24T09:41:38.740Z",
+    "lastMessage": "更新完成，共 880 篇",
+    "lastStartedAt": "2026-07-25T08:33:04.183Z",
+    "lastFinishedAt": "2026-07-25T08:34:09.012Z",
     "nextRunAt": null,
     "progress": 100
   }
