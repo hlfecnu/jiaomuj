@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T10:17:04.276Z",
+  "updatedAt": "2026-07-29T10:49:59.804Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -43440,8 +43440,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 881 篇",
-    "lastStartedAt": "2026-07-28T10:16:06.745Z",
-    "lastFinishedAt": "2026-07-28T10:17:04.276Z",
+    "lastStartedAt": "2026-07-29T10:48:59.907Z",
+    "lastFinishedAt": "2026-07-29T10:49:59.805Z",
     "nextRunAt": null,
     "progress": 100
   }
