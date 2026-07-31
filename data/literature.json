@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T10:03:30.477Z",
+  "updatedAt": "2026-07-31T11:05:20.662Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -429,6 +429,144 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "The role of &lt;i&gt;HIL1&lt;/i&gt; in strain-level adhesion and immune recognition in &lt;i&gt;Debaryomyces hansenii&lt;/i&gt;.",
+      "titleZh": "<i>HIL1</i> 在汉逊德巴利酵母</i>菌株水平粘附和免疫识别中的作用。",
+      "journal": "mBio",
+      "targetJournal": "全部收录期刊",
+      "issn": "2150-7511",
+      "eissn": "2150-7511",
+      "year": 2026,
+      "date": "2026-07-30",
+      "authors": "Newhall KP, de Sousa Bezerra AV, Goddard JM, McNeer SK, Mittal A, Gutzmann DJ, Swamy S, Karuvannur M, Espenschied ST, Zhou JY, Runge KW, Kurowski JA, Hogan DA, Stappenbeck TS.",
+      "doi": "10.1128/mbio.01107-26",
+      "doiUrl": "https://doi.org/10.1128/mbio.01107-26",
+      "pmid": "42530336",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42530336/",
+      "pmcid": "",
+      "abstract": "Strains of food-derived microbes can become facultative pathogens in susceptible human hosts. Surprisingly, we previously isolated Debaryomyces hansenii, a yeast common in fermented foods, from Crohn disease (CD) ulcers, raising questions about its strain-specific traits that influence host interactions. Here, we further developed the genetic tractability of D. hansenii and identified a single adhesin, Hil1, as a major determinant of colony morphology, biofilm formation, and immune targeting in CD patients. We used Agrobacterium tumefaciens-mediated transformation to perform a forward genetic screen in a food-derived reference strain. We isolated mutants that converted from a wrinkled, biofilm-forming phenotype to a smooth, non-adherent phenotype characteristic of CD patient isolates. Mapping of multiple insertion sites showed a disrupted subtelomeric Hyr/Iff-like adhesin gene, herein referred to as HIL1. CRISPR-Cas9-mediated deletion of HIL1 recapitulated the mutant phenotype, demonstrating that HIL1 was necessary for biofilm formation and high cell-surface hydrophobicity phenotypes. To contextualize these findings, we performed comparative genomics on a D. hansenii strain collection to assess allelic variation in the number of HIL1 tandem repeats. Longer alleles in food strains correlated with increased biofilm formation, while CD-isolated strains contained shorter HIL1 alleles and reduced binding to surfaces. Serology profiling showed that HIL1 was a direct antigenic target of circulating immunoglobulin G (IgG) in CD patients. Together, these results suggest Hil1 is a key, strain-variable adhesin shaping fungal surface properties and host immune recognition. This work establishes D. hansenii as a genetically tractable system and shows how adhesin polymorphisms may influence fungal behavior in food and disease contexts.ImportanceDebaryomyces hansenii is a yeast that is common in food and is generally recognized as safe for human consumption, though recently it has been identified within diseased regions of the intestine in Crohn disease patients. A current need is to determine the genetic and phenotypic differences between safe food isolates and isolates from human Crohn disease patient ulcers. Here, we used a loss-of-function genetic screen and identified HIL1, an adhesin that we found mediates cellular adhesion in many food strains but not in patient strains. We identified circulating HIL1-reactive antibodies in patients with Crohn disease, indicating that food strains can be a target of host immune responses through Hil1.",
+      "abstractZh": "食物来源的微生物菌株可以成为易感人类宿主的兼性病原体。令人惊讶的是，我们之前从克罗恩病（CD）溃疡中分离出了汉逊德巴利酵母（一种发酵食品中常见的酵母），引发了关于其影响宿主相互作用的菌株特异性特征的问题。在这里，我们进一步开发了汉逊汉逊犬的遗传易处理性，并确定了一种单一的粘附素 Hil1，它是 CD 患者集落形态、生物膜形成和免疫靶向的主要决定因素。我们使用根癌农杆菌介导的转化在食品来源的参考菌株中进行正向遗传筛选。我们分离出了从皱纹、生物膜形成表型转变为 CD 患者分离株的光滑、非粘附表型特征的突变体。多个插入位点的图谱显示亚端粒 Hyr/If 样粘附素基因被破坏，本文称为 HIL1。 CRISPR-Cas9 介导的 HIL1 缺失重现了突变表型，证明 HIL1 对于生物膜形成和高细胞表面疏水性表型是必需的。为了将这些发现结合起来，我们对汉逊汉逊酵母菌株收集进行了比较基因组学研究",
+      "url": "https://doi.org/10.1128/mbio.01107-26",
+      "sourceUrl": "https://doi.org/10.1128/mbio.01107-26",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The WD40 repeat protein OsDPMS1 controls pistil development and female fertility in rice.",
+      "titleZh": "WD40 重复蛋白 OsDPMS1 控制水稻雌蕊发育和雌性生育力。",
+      "journal": "Plant physiology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0032-0889",
+      "eissn": "1532-2548",
+      "year": 2026,
+      "date": "2026-07-30",
+      "authors": "Li JL, Wu YZ, Huang FJ, Yao HW, Zhang TC, He J, Zhao ZG, Liu YQ, Wan JM.",
+      "doi": "10.1093/plphys/kiag566",
+      "doiUrl": "https://doi.org/10.1093/plphys/kiag566",
+      "pmid": "42531455",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42531455/",
+      "pmcid": "",
+      "abstract": "The pistil, a key female reproductive organ in flowering plants, plays a critical role in sexual reproduction. Although pistil function has been well studied in some species, the molecular mechanisms governing its development in rice (Oryza sativa) remain unclear. Here, we isolated and characterized a female-sterile rice mutant, Osdpms1, that exhibits pleiotropic reproductive defects, including greater stigma number and aberrant gametophyte development, while maintaining normal vegetative growth and male fertility. Using map-based cloning, genetic complementation, and CRISPR-Cas9 knockout experiments, we determined that LOC_Os07g03160 (named OsDPMS1), encoding a protein containing a WD40 repeat domain, is the causal gene underlying the mutant phenotype. OsDPMS1 was predominantly expressed during the flowering stage, and subcellular localization experiments revealed that OsDPMS1 localizes to both the nucleus and the cytoplasm. Using yeast two-hybrid, bimolecular fluorescence complementation, and GST-pulldown assays, we demonstrated that OsDPMS1 physically interacts with three components of the 26S proteasome pathway: OsUBQ, OsCDC48, and OsCDC48E. Furthermore, we showed that the female sterility of Osdpms1 can be efficiently maintained via seed production technology. When we combined Osdpms1 with male-sterile lines for hybrid seed production in a mixed planting manner, we achieved yield potentials comparable to those using conventional row-planting methods. Our findings establish OsDPMS1 as a critical regulator of pistil development and female fertility in rice and highlight its potential application in hybrid rice breeding programs.",
+      "abstractZh": "雌蕊是开花植物中关键的雌性生殖器官，在有性生殖中起着至关重要的作用。尽管某些物种的雌蕊功能已得到充分研究，但控制水稻（Oryza sativa）雌蕊发育的分子机制仍不清楚。在这里，我们分离并鉴定了一种雌性不育水稻突变体 Osdpms1，该突变体表现出多效性生殖缺陷，包括更大的柱头数量和异常的配子体发育，同时保持正常的营养生长和雄性育性。通过基于图位的克隆、遗传互补和 CRISPR-Cas9 敲除实验，我们确定编码含有 WD40 重复结构域的蛋白质的 LOC_Os07g03160（名为 OsDPMS1）是突变表型的致病基因。 OsDPMS1主要在开花期表达，亚细胞定位实验表明OsDPMS1同时定位于细胞核和细胞质。使用酵母双杂交、双分子荧光互补和 GST 下拉测定，我们证明了 OsDPMS1 与 26S 蛋白酶体途径的三个组件发生物理相互作用：OsUBQ、OsCDC48 和 OsCDC48E。此外，我们还表明，联邦应急管理局",
+      "url": "https://doi.org/10.1093/plphys/kiag566",
+      "sourceUrl": "https://doi.org/10.1093/plphys/kiag566",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Acetic acid-induced translational repression involves eIF2B body formation and Ded1 sequestration into stress granules in yeast.",
+      "titleZh": "乙酸诱导的翻译抑制涉及 eIF2B 体的形成和 Ded1 隔离到酵母中的应激颗粒中。",
+      "journal": "Journal of bioscience and bioengineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1389-1723",
+      "eissn": "1347-4421",
+      "year": 2026,
+      "date": "2026-07-29",
+      "authors": "Terashima M, Yoshiyama H, Nomura W, Izawa S.",
+      "doi": "10.1016/j.jbiosc.2026.07.005",
+      "doiUrl": "https://doi.org/10.1016/j.jbiosc.2026.07.005",
+      "pmid": "42527248",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42527248/",
+      "pmcid": "",
+      "abstract": "Elucidating the physiological impact of acetic acid stress and the corresponding yeast responses is essential for advancing fundamental biology and improving industrial alcoholic fermentation. Despite numerous genome-wide studies, information on the effects of acetic acid stress on yeast translational regulation remains limited. We found that a sublethal concentration of acetic acid (35 mM, 0.2% v/v) causes translational repression, accompanied by the formation of eIF2B bodies and the phosphorylation of eIF2α, both of which are involved in the regulation of translation initiation. Acetic acid also caused the sequestration of Ded1, a DEAD-box RNA helicase crucial for translation initiation, into stress granules. Removal of acetic acid restored translational activity and the proper localization of eIF2B and Ded1, indicating the reversibility of acetic acid-induced translational repression. Furthermore, when yeast cells were pretreated with 0.05% acetic acid, translational repression under subsequent 0.2% acetic acid stress was attenuated in wild-type cells but not in hrk1Δ cells. This indicates that Hrk1, a Pma1 activator, is required to sufficiently enhance tolerance to acetic acid-induced translational repression. These findings provide novel insights into the physiological effects of acetic acid stress on translational activity and translation-related factors in yeast cells.",
+      "abstractZh": "阐明乙酸胁迫的生理影响和相应的酵母反应对于推进基础生物学和改善工业酒精发酵至关重要。尽管进行了大量全基因组研究，但有关乙酸胁迫对酵母翻译调控影响的信息仍然有限。我们发现亚致死浓度的乙酸（35 mM，0.2% v/v）会引起翻译抑制，并伴随 eIF2B 体的形成和 eIF2α 的磷酸化，这两者都参与翻译起始的调节。乙酸还导致 Ded1（一种对翻译起始至关重要的 DEAD-box RNA 解旋酶）被隔离到应激颗粒中。乙酸的去除恢复了翻译活性以及 eIF2B 和 Ded1 的正确定位，表明乙酸诱导的翻译抑制具有可逆性。此外，当酵母细胞用 0.05% 乙酸预处理时，随后 0.2% 乙酸胁迫下的翻译抑制在野生型细胞中减弱，但在 hrk1Δ 细胞中却没有减弱。这表明需要 Hrk1（一种 Pma1 激活剂）来充分增强对乙酸的耐受性。",
+      "url": "https://doi.org/10.1016/j.jbiosc.2026.07.005",
+      "sourceUrl": "https://doi.org/10.1016/j.jbiosc.2026.07.005",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 5,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Carotenoid production by Metschnikowia sp.: isolation from environmental samples and optimization of culture conditions.",
       "titleZh": "Metschnikowia sp. 生产类胡萝卜素：从环境样品中分离并优化培养条件。",
       "journal": "Biotechnology letters",
@@ -474,6 +612,144 @@
       "journalScore": 40,
       "journalQuartile": "Q2",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Coupling azo dye biotransformation with lipid biosynthesis in oleaginous Trichosporonales.",
+      "titleZh": "产油丝孢菌目中偶氮染料生物转化与脂质生物合成的耦合。",
+      "journal": "Chemosphere",
+      "targetJournal": "全部收录期刊",
+      "issn": "0045-6535",
+      "eissn": "1879-1298",
+      "year": 2026,
+      "date": "2026-07-29",
+      "authors": "Dominguez FG, Pacheco MS, Angelicola MV, Nieto-Peñalver CG, Pajot HF.",
+      "doi": "10.1016/j.chemosphere.2026.145014",
+      "doiUrl": "https://doi.org/10.1016/j.chemosphere.2026.145014",
+      "pmid": "42527256",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42527256/",
+      "pmcid": "",
+      "abstract": "This study evaluated the dual-functional potential of Trichosporonales yeasts for integrating textile dye remediation with lipid production within a wastewater biorefinery framework. Five strains from the genera Apiotrichum and Cutaneotrichosporon were screened for their ability to decolorize Reactive Black 5 while accumulating intracellular lipids. Among them, Apiotrichum domesticum JCM9580 showed the best overall performance due to its high lipid productivity, efficient dye removal, and stable yeast-like morphology, representing an operational advantage over filamentous growth forms. Results revealed an inverse relationship between lipid biosynthesis and dye decolorization, regulated by a classical C/N metabolic switch. High C/N ratios activated the lipogenic program, converting the cell into a strong sink for reducing equivalents and limiting decolorization, whereas low C/N conditions suppressed lipogenesis, preserving reducing power for rapid and nearly complete dye removal. UV-is, FTIR, and GC-S analyses indicated that reductive azo bond cleavage is an early step during decolorization, although the complete biodegradation pathway remains unresolved. In addition, Reactive Black 5 exposure increased fatty acid polyunsaturation, improving biodiesel cold-flow properties. Notably, A. domesticum achieved a cold filter plugging point of -3.86 °C. Phytotoxicity assays showed that untreated RB5 completely inhibited germination (0% GI), whereas yeast-treated samples reached GI values of 0.28-0.30 (20% dilution), representing a substantial detoxification; further dilution to 10% eliminated all inhibitory effects. Overall, these findings establish a basis for future bioprocess optimization within wastewater biorefinery systems.",
+      "abstractZh": "本研究评估了丝孢酵母菌在废水生物精炼框架内将纺织染料修复与脂质生产相结合的双重功能潜力。对来自 Apiotrichum 属和 Cutaneotrichosporon 属的 5 种菌株进行了筛选，以确定它们在积累细胞内脂质的同时使 Reactive Black 5 脱色的能力。其中，Apiotrichum Domesticum JCM9580由于其高脂质生产率、高效的染料去除率和稳定的酵母样形态而表现出最佳的综合性能，相对于丝状生长形式具有操作优势。结果揭示了脂质生物合成和染料脱色之间的反比关系，受经典 C/N 代谢开关的调节。高 C/N 比率激活脂肪生成程序，将细胞转化为强大的水槽，以减少当量并限制脱色，而低 C/N 条件抑制脂肪生成，保留还原能力，以快速且几乎完全去除染料。 UV-is、FTIR 和 GC-S 分析表明，尽管完整的生物降解途径仍未解决，但还原性偶氮键断裂是脱色过程中的早期步骤。此外，活性黑",
+      "url": "https://doi.org/10.1016/j.chemosphere.2026.145014",
+      "sourceUrl": "https://doi.org/10.1016/j.chemosphere.2026.145014",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Pramocaine hydrochloride potentiates fluconazole against Candida albicans biofilms by targeting Erg12 and inhibiting ubiquinone biosynthesis.",
+      "titleZh": "盐酸普莫卡因通过靶向 Erg12 并抑制泛醌生物合成，增强氟康唑对抗白色念珠菌生物膜的作用。",
+      "journal": "Biochemical pharmacology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0006-2952",
+      "eissn": "1873-2968",
+      "year": 2026,
+      "date": "2026-07-29",
+      "authors": "Hang S, Jiang B, Li W, Xu X, Xu L, Xiong J, Jiang Y, Lu H.",
+      "doi": "10.1016/j.bcp.2026.118302",
+      "doiUrl": "https://doi.org/10.1016/j.bcp.2026.118302",
+      "pmid": "42526770",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42526770/",
+      "pmcid": "",
+      "abstract": "Biofilms formed by Candida albicans pose significant challenges in clinical settings, particularly in medical device-related infections and recurrent candidiasis, due to their inherent resistance to azoles. Consequently, there is an urgent need to identify novel compounds that can potentiate the antifungal activity of azoles against C. albicans biofilms. In this study, we utilized a drug repositioning approach to perform high-throughput screening of a library of 2,372 Food and Drug Administration (FDA)-approved compounds, identifying pramocaine hydrochloride (pramocaine) as a potent azole potentiator with low cytotoxicity. Pramocaine significantly enhanced the antifungal activity of fluconazole (FLC) against C. albicans biofilms both in vitro (via biofilm inhibition assays) and in vivo (using a mouse subcutaneous catheter infection model), and exhibited broad-spectrum efficacy against other clinically relevant Candida and Cryptococcus species. Mechanistically, pramocaine targets Erg12, a key enzyme in the farnesyl pyrophosphate pathway, to inhibit ubiquinone biosynthesis and elevate mitochondrial reactive oxygen species (ROS) production. This leads to impaired mitochondrial function, reduced C. albicans hyphal elongation, biofilm thickness, and extracellular matrix secretion, thereby sensitizing C. albicans biofilms to FLC. As an FDA-approved compound, pramocaine offers promising translational potential for treating azole-resistant biofilm infections. This research introduces a novel strategy to potentiate the antifungal efficacy of FLC against C. albicans biofilms by targeting Erg12-mediated ubiquinone biosynthesis.",
+      "abstractZh": "白色念珠菌形成的生物膜由于其对唑类药物固有的耐药性，在临床环境中提出了重大挑战，特别是在医疗器械相关感染和复发性念珠菌病中。因此，迫切需要鉴定能够增强唑类对白色念珠菌生物膜的抗真菌活性的新化合物。在这项研究中，我们利用药物重新定位方法对 2,372 种美国食品药品监督管理局 (FDA) 批准的化合物库进行高通量筛选，确定盐酸普莫卡因 (pramocaine) 是一种低细胞毒性的有效唑类增效剂。普莫卡因在体外（通过生物膜抑制测定）和体内（使用小鼠皮下导管感染模型）显着增强氟康唑 (FLC) 对白色念珠菌生物膜的抗真菌活性，并对其他临床相关念珠菌和隐球菌属物种表现出广谱功效。从机制上讲，普拉莫卡因以法尼基焦磷酸途径中的关键酶 Erg12 为靶点，抑制泛醌生物合成并提高线粒体活性氧 (ROS) 的产生。这会导致线粒体功能受损",
+      "url": "https://doi.org/10.1016/j.bcp.2026.118302",
+      "sourceUrl": "https://doi.org/10.1016/j.bcp.2026.118302",
+      "citationCount": 0,
+      "relevanceScore": 63,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Strategies for biofilm disruption: Mechanisms, polymeric networks, mixed infections, and emerging biomaterials.",
+      "titleZh": "生物膜破坏策略：机制、聚合物网络、混合感染和新兴生物材料。",
+      "journal": "Biotechnology advances",
+      "targetJournal": "全部收录期刊",
+      "issn": "0734-9750",
+      "eissn": "1873-1899",
+      "year": 2026,
+      "date": "2026-07-29",
+      "authors": "Luong JHT, Gedanken A.",
+      "doi": "10.1016/j.biotechadv.2026.108994",
+      "doiUrl": "https://doi.org/10.1016/j.biotechadv.2026.108994",
+      "pmid": "42526545",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42526545/",
+      "pmcid": "",
+      "abstract": "Biofilms represent the predominant microbial lifestyle in clinical and environmental settings, where the extracellular polymeric substance (EPS) matrix provides structural integrity, metabolic cooperation, and pronounced antimicrobial tolerance. This matrix forms a dynamic macromolecular network of polysaccharides, proteins, extracellular DNA (eDNA), lipids, and associated ions that collectively regulate hydration, adhesion, diffusion resistance, and persistence. Across ESKAPE (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species) pathogens and Candida albicans, conserved matrix components shape biofilm architecture, enabling nutrient sequestration, immune evasion, and chronic infection. Mechanistic advances in biofilm eradication highlight the roles of enzymatic depolymerization, antibiotic penetration dynamics, nanoparticle-mediated disruption, bacteriophage-encoded depolymerases, and antibody-guided targeting. Parallel progress in biofilm inhibition emphasizes quorum-sensing interference, adhesion blockade, surface engineering, vaccines, and immunomodulatory strategies that prevent early community establishment. Emerging approaches-including peptide nucleic acids, aptamers, CRISPR-based antimicrobials, and biofilm-responsive delivery systems-enable precise targeting of genetic and structural vulnerabilities. Together, these developments provide a mechanistic foundation for next-generation antibiofilm interventions and support translational strategies aimed at recalcitrant, persistent infections.",
+      "abstractZh": "生物膜代表了临床和环境环境中主要的微生物生活方式，其中细胞外聚合物 (EPS) 基质提供结构完整性、代谢合作和明显的抗菌耐受性。该基质形成由多糖、蛋白质、细胞外 DNA (eDNA)、脂质和相关离子组成的动态大分子网络，共同调节水合、粘附、扩散阻力和持久性。在 ESKAPE（屎肠球菌、金黄色葡萄球菌、肺炎克雷伯菌、鲍曼不动杆菌、铜绿假单胞菌和肠杆菌属）病原体和白色念珠菌中，保守的基质成分塑造了生物膜结构，从而实现了营养隔离、免疫逃避和慢性感染。生物膜根除的机制进展凸显了酶解聚、抗生素渗透动力学、纳米颗粒介导的破坏、噬菌体编码的解聚酶和抗体引导靶向的作用。生物膜抑制方面的并行进展强调群体感应干扰、粘附阻断、表面工程、疫苗和免疫调节策略，以防止早期发生",
+      "url": "https://doi.org/10.1016/j.biotechadv.2026.108994",
+      "sourceUrl": "https://doi.org/10.1016/j.biotechadv.2026.108994",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -620,7 +896,7 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -921,9 +1197,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -972,7 +1248,7 @@
       "articleScore": 43,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1023,7 +1299,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Metal Ions Program Flavonolignan Biosynthesis and Enable Photo-Biohybrid Production.",
+      "title": "Metal ions program flavonolignan biosynthesis and enable photo-biohybrid production.",
       "titleZh": "金属离子可促进黄酮木脂素生物合成并实现光生物杂交生产。",
       "journal": "Metabolic engineering",
       "targetJournal": "全部收录期刊",
@@ -2652,6 +2928,58 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "OsERF101-OsACO1 module acts a negative regulator of salinity resistance in rice by modulating ethylene-associated ROS homeostasis.",
+      "titleZh": "OsERF101-OsACO1 模块通过调节乙烯相关的 ROS 稳态，对水稻的耐盐性起到负调节作用。",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "targetJournal": "全部收录期刊",
+      "issn": "0981-9428",
+      "eissn": "1873-2690",
+      "year": 2026,
+      "date": "2026-07-20",
+      "authors": "Xiong J, Zheng W, Zhu T, Wang H, Peng Y, Shao Y, Zhao B, Mao B.",
+      "doi": "10.1016/j.plaphy.2026.111562",
+      "doiUrl": "https://doi.org/10.1016/j.plaphy.2026.111562",
+      "pmid": "42531614",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42531614/",
+      "pmcid": "",
+      "abstract": "Soil salinity severely constrains rice productivity worldwide. As an essential phytohormone, ethylene participates in the developmental processes and stress adaptation of plants; however, the regulatory mechanisms linking ethylene biosynthesis to salt tolerance in rice remain incompletely understood. Here, we demonstrate that the ethylene biosynthesis gene OsACO1 and the AP2/ERF transcription factor OsERF101 negatively regulate salinity tolerance in seedlings. The CRISPR/Cas9-mediated knockout mutants, osaco1 and oserf101, exhibited significantly enhanced survival under 150 mM NaCl treatment, along with reduced reactive oxygen species (ROS) accumulation and enhanced antioxidative enzymatic activity. Transcriptome profiling revealed that salt-treated osaco1 seedlings displayed extensive transcriptional reprogramming, including upregulation of genes involved in ion homeostasis, ROS detoxification, hormone signaling (JA/ABA/ET), transcriptional regulation, and stress defense. A salt-responsive module associated with the osaco1 genotype was detected using weighted gene co-expression network analysis. Promoter motif enrichment and intersection analyses highlighted AP2/ERF transcription factors as key regulatory candidates. The direct interaction between OsERF101 and the GCC-box element within the OsACO1 promoter and the transcriptional activation of OsACO1 expression were confirmed through yeast one-hybrid, dual-luciferase reporter, and electrophoretic mobility shift assays. Collectively, our results support a model in which OsERF101 positively regulates OsACO1 expression, thereby modulating ethylene-associated ROS homeostasis and hormone crosstalk to fine-tune salt stress responses. Our findings elucidate the mechanisms underlying the ethylene-driven regulation of salinity resistance in rice and identify potential targets for molecular breeding of salinity-tolerant cultivars.",
+      "abstractZh": "土壤盐分严重限制了全球水稻产量。乙烯作为一种必需的植物激素，参与植物的发育过程和逆境适应；然而，乙烯生物合成与水稻耐盐性之间的调控机制仍不完全清楚。在这里，我们证明乙烯生物合成基因 OsACO1 和 AP2/ERF 转录因子 OsERF101 对幼苗的耐盐性负调节。 CRISPR/Cas9 介导的敲除突变体 osaco1 和 osef101 在 150 mM NaCl 处理下表现出显着增强的存活率，同时减少了活性氧 (ROS) 的积累并增强了抗氧化酶活性。转录组分析显示，盐处理的 osaco1 幼苗表现出广泛的转录重编程，包括离子稳态、ROS 解毒、激素信号传导 (JA/ABA/ET)、转录调控和应激防御相关基因的上调。使用加权基因共表达网络分析检测到与 osaco1 基因型相关的盐响应模块。启动子基序富集和交叉分析突出显示了 AP2/ERF 转录",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.111562",
+      "sourceUrl": "https://doi.org/10.1016/j.plaphy.2026.111562",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "CRISPR",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 13,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "PcRAV2 facilitates MeJA-induced anthocyanin biosynthesis by modulating PcMYB108 and PcUFGT in pear.",
       "titleZh": "PcRAV2 通过调节梨中的 PcMYB108 和 PcUFGT 促进 MeJA 诱导的花青素生物合成。",
       "journal": "Plant physiology and biochemistry : PPB",
@@ -2693,7 +3021,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2742,7 +3070,7 @@
       "articleScore": 43,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3286,55 +3614,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "The Dof20 transcription factor activates SRPP7 expression to promote natural rubber biosynthesis in Taraxacum kok-saghyz.",
-      "titleZh": "Dof20 转录因子激活 SRPP7 表达，促进蒲公英中天然橡胶的生物合成。",
-      "journal": "Plant physiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0032-0889",
-      "eissn": "1532-2548",
-      "year": 2026,
-      "date": "2026-07-17",
-      "authors": "Fang F, Ge H, Wang M, Wu X, Li J, Li S, Li W, Hui S, Wang X.",
-      "doi": "10.1093/plphys/kiag520",
-      "doiUrl": "https://doi.org/10.1093/plphys/kiag520",
-      "pmid": "42467625",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42467625/",
-      "pmcid": "",
-      "abstract": "DNA binding with one finger (Dof) transcription factors play vital roles in plant growth, development, and secondary metabolism, yet their involvement in natural rubber (NR) biosynthesis remains unknown. Natural rubber is an indispensable industrial biopolymer widely used in transportation, medicine, and advanced manufacturing. Here, we identified a Dof transcription factor, TkDof20, as a latex-specific, nucleus-localized activator in Taraxacum kok-saghyz. Overexpression of TkDof20 significantly increased latex yield, laticifer area, and NR content, accompanied by a substantial reduction in inulin accumulation. Correspondingly, overexpression of TkSRPP7, encoding a small rubber particle protein (SRPP), also enhanced NR accumulation. The tksrpp5 tksrpp6 tksrpp7 tksrpp10 tksrpp11 quintuple mutant (tksrpp△5) displayed a pronounced reduction in both rubber yield and laticifer number. Yeast one-hybrid and dual-luciferase assays demonstrated that TkDof20 directly bound to the AAAG cis-element within the TkSRPP7 promoter, thereby activating its transcription. These findings establish a Dof-SRPP regulatory module that promotes rubber accumulation by reinforcing rubber particle formation. Comparative analyses further revealed that SRPP homologs from Hevea brasiliensis and Eucommia ulmoides shared conserved sequence features, subcellular localization, and biological functions. Ectopic expression of HbSRPP4 and EuSRPP4 in T. kok-saghyz significantly enhanced NR yield, and their corresponding transcription factors, HbDof18 and EuDof29, similarly activated SRPP promoters. Collectively, this study identifies TkDof20 as an upstream regulator of SRPP-mediated NR biosynthesis and reveals a Dof-SRPP transcriptional module involved in latex formation. These discoveries provide insights into the molecular regulation of natural rubber biosynthesis and offer promising genetic targets for the metabolic engineering of high-yield rubber crops.",
-      "abstractZh": "DNA 与一指 (Dof) 转录因子的结合在植物生长、发育和次生代谢中发挥着至关重要的作用，但它们在天然橡胶 (NR) 生物合成中的参与仍不清楚。天然橡胶是一种不可或缺的工业生物聚合物，广泛应用于交通、医药、先进制造等领域。在这里，我们在蒲公英中鉴定出一种 Dof 转录因子 TkDof20，它是一种乳胶特异性、细胞核定位的激活剂。 TkDof20 的过表达显着增加了乳胶产量、乳管面积和 NR 含量，同时菊粉积累显着减少。相应地，编码小橡胶颗粒蛋白（SRPP）的 TkSRPP7 的过度表达也增强了 NR 的积累。 tksrpp5 tksrpp6 tksrpp7 tksrpp10 tksrpp11 五元突变体（tksrpp△5）表现出橡胶产量和乳管数量的显着减少。酵母单杂交和双荧光素酶测定表明，TkDof20 直接与 TkSRPP7 启动子内的 AAAG 顺式元件结合，从而激活其转录。这些发现建立了一个 Dof-SRPP 调节模块，该模块通过增强橡胶颗粒的形成来促进橡胶积累。 C",
-      "url": "https://doi.org/10.1093/plphys/kiag520",
-      "sourceUrl": "https://doi.org/10.1093/plphys/kiag520",
-      "citationCount": 0,
-      "relevanceScore": 56,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母",
-        "代谢工程"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 8,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "A cinnamyl alcohol dehydrogenase-like scaffold organizes monoterpenoid indole alkaloid biosynthesis.",
       "titleZh": "肉桂醇脱氢酶样支架组织单萜吲哚生物碱的生物合成。",
       "journal": "Science (New York, N.Y.)",
@@ -3832,7 +4111,7 @@
       "articleScore": 55,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4081,52 +4360,6 @@
       "journalScore": 34,
       "journalQuartile": "Q4",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Genotypic and phenotypic diversity of Maudiozyma humilis: the multiple evolutionary trajectories of a domesticated yeast.",
-      "titleZh": "Maudiozyma humilis 的基因型和表型多样性：驯化酵母的多重进化轨迹。",
-      "journal": "Genome biology and evolution",
-      "targetJournal": "全部收录期刊",
-      "issn": "1759-6653",
-      "eissn": "1759-6653",
-      "year": 2026,
-      "date": "2026-07-14",
-      "authors": "Lebleux M, Rouil J, Segond D, Marlin T, Howell K, Bechara P, Nidelet T, Arnould L, Sicard D, Devillers H.",
-      "doi": "10.1093/gbe/evag176",
-      "doiUrl": "https://doi.org/10.1093/gbe/evag176",
-      "pmid": "42446184",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42446184/",
-      "pmcid": "",
-      "abstract": "Maudiozyma humilis is the second most frequently encountered yeast species in sourdough bread. Despite its ecological and food relevance, little is known about its evolutionary trajectories and phenotype traits of interest. Here we investigated the genomic and phenotypic diversity of a world-wide collection of 55 M. humilis strains by combining genomic analyses and high-throughput phenotyping of fermentation kinetics and fitness. Population genomic analysis revealed six distinct clades, three diploid and three triploid, with no geographical or substrate-specific structuring. Phylogenetic, loss of heterozygosity (LOH) and allele specific analyses indicated that triploid strains originated from both recent and more ancient hybridization events involving multiple lineages. The absence of the HO gene and mating-type silent cassettes revealed the inability of M. humilis to carry mating-type switching. In addition, high linkage disequilibrium and variable LOH accumulation were observed consistent with a predominantly clonal reproduction. Last, an exceptionally high level of heterozygosity was detected, suggesting that occasional hybridization is the major driver of genetic diversity. Phenotypic characterization in a synthetic sourdough medium revealed variation in fermentation kinetics and fitness statistically associated with the genetic clades. Interestingly, genetic distance between clades and strains better explain the phenotypic variation than difference in ploidy. Altogether, our findings highlight the complex evolutionary history of M. humilis, shaped by hybridization and ploidy variation and reveal that historical contingency shapes the phenotypic landscape of this species. Beyond providing the first analysis of M. humilis evolution, our result challenges the hypothesis that increases in ploidy are necessarily beneficial in domesticated species.",
-      "abstractZh": "Maudiozyma humilis 是酵母面包中第二常见的酵母种类。尽管它与生态和食物相关，但人们对其进化轨迹和感兴趣的表型特征知之甚少。在这里，我们通过结合基因组分析和发酵动力学和适应性的高通量表型分析，研究了全球 55 个 M. humilis 菌株的基因组和表型多样性。群体基因组分析揭示了六个不同的进化枝，三个二倍体和三个三倍体，没有地理或底物特异性结构。系统发育、杂合性丢失（LOH）和等位基因特异性分析表明，三倍体菌株起源于涉及多个谱系的最近和更古老的杂交事件。 HO 基因和交配型沉默盒的缺失表明 M. humilis 无法进行交配型转换。此外，观察到高度连锁不平衡和可变的 LOH 积累与主要的克隆繁殖一致。最后，检测到异常高水平的杂合性，表明偶尔的杂交是遗传多样性的主要驱动力。苯丙氨酸",
-      "url": "https://doi.org/10.1093/gbe/evag176",
-      "sourceUrl": "https://doi.org/10.1093/gbe/evag176",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5518,7 +5751,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "A Minimal Four-Enzyme Suite Enables Biosynthesis of the C&lt;sub&gt;20&lt;/sub&gt; Diterpenoid Alkaloid Atisinium.",
+      "title": "A minimal four-enzyme suite enables biosynthesis of the C&lt;sub&gt;20&lt;/sub&gt; diterpenoid alkaloid atisinium.",
       "titleZh": "最小的四酶套件能够生物合成 C<sub>20</sub> 二萜生物碱 Atisinium。",
       "journal": "Molecular plant",
       "targetJournal": "全部收录期刊",
@@ -5532,7 +5765,7 @@
       "pmid": "42421322",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42421322/",
       "pmcid": "",
-      "abstract": "Diterpenoid alkaloids (DAs) are pharmaceutically important metabolites and mainly occur in the Ranunculaceae. Despite their structural complexity, all DAs originate from C20 diterpenoid scaffolds, making the elucidation of C20-DA biosynthesis pivotal for understanding and engineering this entire alkaloid class. However, the molecular basis for DA core assembly has remained unresolved despite decades of research. Here, we define a minimal four-enzyme suite comprising three cytochrome P450 monooxygenases (CYP701A216, CYP71FH3 and CYP729G3) and one neo-functionalized short-chain dehydrogenase/reductase (AgDAS), that converts ent-atiserene into the C20 atisine-type alkaloid atisinium in Aconitum gymnandrum, via an enzymatic-spontaneous-enzymatic process. Specifically, the multifunctional CYP701A216 and CYP71FH3 act in relay to generate the key intermediate ent-atiseren-19,20-dial, which undergoes spontaneous condensation with ethanolamine to form a hemiaminal. AgDAS then catalyzes atypical imine reduction to generate 15-deoxyatisinium bearing the characteristic atisine skeleton, and CYP729G3 mediates C15 hydroxylation to finalize atisinium biosynthesis. The physiological relevance of these enzymes was further investigated using virus-induced gene silencing in A. gymnandrum, demonstrating the critical role of AgDAS in this biosynthetic pathway. This compact enzyme module is highly conserved across Aconitum and Delphinium within the Ranunculaceae, pointing to an evolutionarily preserved core biosynthetic pathway. Our work establishes the complete molecular logic for DA scaffold assembly and its heterologous reconstitution in tobacco and yeast, further opening routes to the synthetic biology of medicinally relevant diterpenoid alkaloids.",
+      "abstract": "Diterpenoid alkaloids (DAs) are pharmaceutically important metabolites and mainly occur in the Ranunculaceae. Despite their structural complexity, all DAs originate from C20 diterpenoid scaffolds, making the elucidation of C20-DA biosynthesis pivotal for understanding and engineering this entire alkaloid class. However, the molecular basis for DA core assembly has remained unresolved despite decades of research. Here, we define a minimal four-enzyme suite comprising three cytochrome P450 monooxygenases (CYP701A216, CYP71FH3, and CYP729G3) and one neo-functionalized short-chain dehydrogenase/reductase (AgDAS) that converts ent-atiserene into the C20 atisine-type alkaloid atisinium in Aconitum gymnandrum via an enzymatic-spontaneous-enzymatic process. Specifically, the multifunctional CYP701A216 and CYP71FH3 act in relay to generate the key intermediate ent-atiseren-19,20-dial, which undergoes spontaneous condensation with ethanolamine to form a hemiaminal. AgDAS then catalyzes atypical imine reduction to generate 15-deoxyatisinium bearing the characteristic atisine skeleton, and CYP729G3 mediates C15 hydroxylation to finalize atisinium biosynthesis. The physiological relevance of these enzymes was further investigated using virus-induced gene silencing in A. gymnandrum, demonstrating the critical role of AgDAS in this biosynthetic pathway. This compact enzyme module is highly conserved across Aconitum and Delphinium within the Ranunculaceae, pointing to an evolutionarily preserved core biosynthetic pathway. Collectively, our work establishes the complete molecular logic for DA scaffold assembly and its heterologous reconstitution in tobacco and yeast, opening routes to synthetic biology of medicinally relevant DAs.",
       "abstractZh": "二萜生物碱（DA）是药学上重要的代谢物，主要存在于毛茛科植物中。尽管结构复杂，但所有 DA 均源自 C20 二萜类支架，这使得 C20-DA 生物合成的阐明对于理解和设计整个生物碱类至关重要。然而，尽管经过数十年的研究，DA 核心组装的分子基础仍未得到解决。在这里，我们定义了一个最小的四酶套件，包含三种细胞色素 P450 单加氧酶（CYP701A216、CYP71FH3 和 CYP729G3）和一种新功能化短链脱氢酶/还原酶（AgDAS），可将 ent-atiserene 转化为乌头中的 C20 atisine 型生物碱 atisinium，通过酶促-自发-酶促过程。具体来说，多功能CYP701A216和CYP71FH3中继作用生成关键中间体ent-atiseren-19,20-dial，该中间体与乙醇胺自发缩合形成半缩醛胺。然后 AgDAS 催化非典型亚胺还原生成具有特征性阿蒂辛骨架的 15-脱氧阿蒂辛，CYP729G3 介导 C15 羟基化以完成阿蒂辛的生物合成。 t 的生理相关性",
       "url": "https://doi.org/10.1016/j.molp.2026.07.004",
       "sourceUrl": "https://doi.org/10.1016/j.molp.2026.07.004",
@@ -5798,7 +6031,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6303,7 +6536,7 @@
       "articleScore": 54,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7323,7 +7556,53 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "A specific 296 bp insertion in the DFR1 promoter activates ethylene-mediated anthocyanin biosynthesis during autumn leaf senescence in Quercus aliena.",
+      "titleZh": "DFR1 启动子中特定的 296 bp 插入在栎树秋季叶子衰老过程中激活乙烯介导的花青素生物合成。",
+      "journal": "Journal of experimental botany",
+      "targetJournal": "全部收录期刊",
+      "issn": "0022-0957",
+      "eissn": "1460-2431",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Pei Z, Jiang X, Zeng W, Huang Y, Che Y, Zhang H, Liu Y, Yang Q, Li G.",
+      "doi": "10.1093/jxb/erag179",
+      "doiUrl": "https://doi.org/10.1093/jxb/erag179",
+      "pmid": "42126248",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42126248/",
+      "pmcid": "",
+      "abstract": "Red-leaf ornamental trees are commonly characterized by the enrichment of anthocyanins. Quercus aliena, a dominant native oak species in China, displays striking autumn foliage with yellow to red colors. However, the molecular regulation of anthocyanin biosynthesis during leaf senescence remains largely unknown. In this study, we identified a 296 bp insertion in the promoter of Dihydroflavonol 4-Reductase (DFR1) from the red-leaf Q. aliena cultivar 'Qiuyun', which was significantly associated with high anthocyanin accumulation. We established a highly efficient method for genetic transformation in Q. aliena calli and verified the function of DFR1. Yeast one-hybrid library screening identified ETHYLENE INSENSITIVE 3 (EIN3) that can directly bind to the EIN3-binding site in the 296 bp insertion and activate DFR1 expression. Together with a dual-luciferase assay and EMSA, we reported for the first time that EIN3 could directly activate the structural gene DFR1 during anthocyanin biosynthesis. DFR1 expression is markedly induced in EIN3-overexpressing oak calli compared with the wild type. In addition, exogenous ethephon induced anthocyanin accumulation in autumn leaves in the red cultivar, rather than in the yellow cultivar without the insertion. In summary, our findings demonstrate a practical and effective approach for validating gene function in vivo, and provide new insight into the regulatory mechanisms involved in anthocyanin biosynthesis during leaf senescence.",
+      "abstractZh": "红叶观赏树的共同特点是富含花青素。外栎是中国主要的本土橡树树种，秋天的叶子呈现出引人注目的黄色到红色。然而，叶片衰老过程中花青素生物合成的分子调控仍然很大程度上未知。在本研究中，我们在红叶栎品种“秋云”的二氢黄酮醇 4-还原酶 (DFR1) 启动子中发现了 296 bp 的插入，该插入与高花青素积累显着相关。我们建立了一种高效的异种愈伤组织遗传转化方法，并验证了DFR1的功能。酵母单杂交文库筛选鉴定出 ETHYLENE INSENSITIVE 3 (EIN3) 可以直接与 296 bp 插入中的 EIN3 结合位点结合并激活 DFR1 表达。结合双荧光素酶测定和EMSA，我们首次报道EIN3可以在花青素生物合成过程中直接激活结构基因DFR1。与野生型相比，EIN3 过表达橡树愈伤组织中 DFR1 表达显着诱导。此外，外源乙烯利诱导红崇拜秋叶中花青素的积累",
+      "url": "https://doi.org/10.1093/jxb/erag179",
+      "sourceUrl": "https://doi.org/10.1093/jxb/erag179",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7674,6 +7953,55 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Endosperm-specific expression of a yeast thiamin transporter enhances vitamin B1 content in white rice.",
+      "titleZh": "酵母硫胺素转运蛋白的胚乳特异性表达可提高白米中维生素 B1 的含量。",
+      "journal": "Journal of experimental botany",
+      "targetJournal": "全部收录期刊",
+      "issn": "0022-0957",
+      "eissn": "1460-2431",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Chen TC, Chou MY, Chung YH, Yang WJ, Tseng CS, Hsieh MH.",
+      "doi": "10.1093/jxb/erag148",
+      "doiUrl": "https://doi.org/10.1093/jxb/erag148",
+      "pmid": "41863313",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41863313/",
+      "pmcid": "",
+      "abstract": "Vitamin B1 is a vital co-factor in cellular metabolism, but it must be obtained through the diet in humans. Polished (white) rice, a dietary staple for much of the global population, contains very low levels of vitamin B1, and this contributes to widespread thiamin deficiency in regions that rely heavily on rice. To address this issue, we engineered rice to express the Saccharomyces cerevisiae thiamin transporter gene THI7 under the control of the rice endosperm-specific GLUTELIN1 (GT1) promoter. In transgenic lines with moderate-to-high THI7 expression, we found significantly increased thiamin levels by up to 24% in unpolished and 26% in polished seeds. This increase was specific to free thiamin, with no change in thiamin monophosphate or thiamin diphosphate, consistent with the known transporter activity of THI7. Importantly, the transgenic plants displayed normal phenotypes under field conditions. Our findings demonstrate that endosperm-targeted expression of a heterologous thiamin transporter is an effective strategy for enhancing vitamin B1 content in rice grains, offering a new approach for biofortification that complements metabolic engineering of biosynthetic pathways.",
+      "abstractZh": "维生素 B1 是细胞代谢的重要辅助因子，但人类必须通过饮食获取。精米（白米）是全球大部分人口的主食，其维生素 B1 含量非常低，这导致严重依赖大米的地区普遍缺乏硫胺素。为了解决这个问题，我们对水稻进行了工程改造，使其在胚乳特异性 GLUTELIN1 (GT1) 启动子的控制下表达酿酒酵母硫胺素转运蛋白基因 THI7。我们发现，在中度至高THI7表达的转基因水稻品系中，酵母THI7的胚乳特异性表达使未抛光种子中的硫胺素水平显着增加了24%，抛光种子中的硫胺素水平增加了26%。这种增加是游离硫胺素特有的，单磷酸硫胺素或二磷酸硫胺素没有变化，与已知的 THI7 转运蛋白活性一致。重要的是，转基因植物在田间条件下表现出正常的表型。我们的研究结果表明，异源硫胺素转运蛋白的胚乳靶向表达是提高米粒中维生素 B1 含量的有效策略，为补充代谢酶的生物强化提供了一种新方法。",
+      "url": "https://doi.org/10.1093/jxb/erag148",
+      "sourceUrl": "https://doi.org/10.1093/jxb/erag148",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 6,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "EnhancerDB 2.0: a comprehensive cross-species enhancer atlas.",
       "titleZh": "EnhancerDB 2.0：全面的跨物种增强子图谱。",
       "journal": "Molecular biology and evolution",
@@ -7821,6 +8149,52 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Genotypic and Phenotypic Diversity of Maudiozyma humilis: The Multiple Evolutionary Trajectories of a Domesticated Yeast.",
+      "titleZh": "Maudiozyma humilis 的基因型和表型多样性：驯化酵母的多重进化轨迹。",
+      "journal": "Genome biology and evolution",
+      "targetJournal": "全部收录期刊",
+      "issn": "1759-6653",
+      "eissn": "1759-6653",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Lebleux M, Rouïl J, Segond D, Marlin T, Howell K, Bechara P, Nidelet T, Arnould L, Sicard D, Devillers H.",
+      "doi": "10.1093/gbe/evag176",
+      "doiUrl": "https://doi.org/10.1093/gbe/evag176",
+      "pmid": "42446184",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42446184/",
+      "pmcid": "",
+      "abstract": "Maudiozyma humilis is the second most frequently encountered yeast species in sourdough bread. Despite its ecological and food relevance, little is known about its evolutionary trajectories and phenotype traits of interest. Here we investigated the genomic and phenotypic diversity of a worldwide collection of 55 M. humilis strains by combining genomic analyses and high-throughput phenotyping of fermentation kinetics and fitness. Population genomic analysis revealed six distinct clades, three diploid and three triploid, with no geographical or substrate-specific structuring. Phylogenetic, loss of heterozygosity (LOH), and allele specific analyses indicated that triploid strains originated from both recent and more ancient hybridization events involving multiple lineages. The absence of the HO gene and mating-type silent cassettes revealed the inability of M. humilis to carry mating-type switching. In addition, high linkage disequilibrium and variable LOH accumulation were observed consistent with a predominantly clonal reproduction. Last, an exceptionally high level of heterozygosity was detected, suggesting that occasional hybridization is the major driver of genetic diversity. Phenotypic characterization in a synthetic sourdough medium revealed variation in fermentation kinetics and fitness statistically associated with the genetic clades. Interestingly, genetic distance between clades and strains better explains the phenotypic variation than difference in ploidy. Altogether, our findings highlight the complex evolutionary history of M. humilis, shaped by hybridization and ploidy variation, and reveal that historical contingency shapes the phenotypic landscape of this species. Beyond providing the first analysis of M. humilis evolution, our result challenges the hypothesis that increases in ploidy are necessarily beneficial in domesticated species.",
+      "abstractZh": "Maudiozyma humilis 是酵母面包中第二常见的酵母种类。尽管它与生态和食物相关，但人们对其进化轨迹和感兴趣的表型特征知之甚少。在这里，我们通过结合基因组分析和发酵动力学和适应性的高通量表型分析，研究了全球 55 个 M. humilis 菌株的基因组和表型多样性。群体基因组分析揭示了六个不同的进化枝，三个二倍体和三个三倍体，没有地理或底物特异性结构。系统发育、杂合性丢失（LOH）和等位基因特异性分析表明，三倍体菌株起源于涉及多个谱系的最近和更古老的杂交事件。 HO 基因和交配型沉默盒的缺失表明 M. humilis 无法进行交配型转换。此外，观察到高度连锁不平衡和可变的 LOH 积累与主要的克隆繁殖一致。最后，检测到异常高水平的杂合性，表明偶尔的杂交是遗传多样性的主要驱动力。苯丙氨酸",
+      "url": "https://doi.org/10.1093/gbe/evag176",
+      "sourceUrl": "https://doi.org/10.1093/gbe/evag176",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Jasmonic acid and PpeMYC2 regulate peach fruit ripening by controlling polyamine levels and anthocyanin biosynthesis.",
       "titleZh": "茉莉酸和 PpeMYC2 通过控制多胺水平和花青素生物合成来调节桃果实成熟。",
       "journal": "Plant physiology",
@@ -7862,7 +8236,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7911,7 +8285,7 @@
       "articleScore": 47,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8254,7 +8628,56 @@
       "articleScore": 48,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The Dof20 transcription factor activates SRPP7 expression to promote natural rubber biosynthesis in Taraxacum kok-saghyz.",
+      "titleZh": "Dof20 转录因子激活 SRPP7 表达，促进蒲公英中天然橡胶的生物合成。",
+      "journal": "Plant physiology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0032-0889",
+      "eissn": "1532-2548",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Fang F, Ge H, Wang M, Wu X, Li J, Li S, Li W, Hui S, Wang X.",
+      "doi": "10.1093/plphys/kiag520",
+      "doiUrl": "https://doi.org/10.1093/plphys/kiag520",
+      "pmid": "42467625",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42467625/",
+      "pmcid": "",
+      "abstract": "DNA-binding with one finger (Dof) transcription factors play vital roles in plant growth, development, and secondary metabolism, yet their involvement in natural rubber (NR) biosynthesis remains unknown. Natural rubber is an indispensable industrial biopolymer widely used in transportation, medicine, and advanced manufacturing. Here, we identified a Dof transcription factor, TkDof20, as a latex-specific, nucleus-localized activator in Taraxacum kok-saghyz. Overexpression of TkDof20 significantly increased latex yield, laticifer area, and natural rubber content, accompanied by a substantial reduction in inulin accumulation. Correspondingly, overexpression of TkSRPP7 and encoding a small rubber particle protein (SRPP) also enhanced natural rubber accumulation. The tksrpp5 tksrpp6 tksrpp7 tksrpp10 tksrpp11 quintuple mutant (tksrpp△5) displayed a pronounced reduction in both rubber yield and laticifer number. Yeast one-hybrid and dual-luciferase assays demonstrated that TkDof20 directly bound to the AAAG cis-element within the TkSRPP7 promoter, thereby activating its transcription. These findings establish a Dof-SRPP regulatory module that promotes rubber accumulation by reinforcing rubber particle formation. Comparative analyses further revealed that SRPP homologs from Hevea brasiliensis and Eucommia ulmoides shared conserved sequence features, subcellular localization, and biological functions. Ectopic expression of HbSRPP4 and EuSRPP4 in T. kok-saghyz significantly enhanced natural rubber yield, and their corresponding transcription factors, HbDof18 and EuDof29, similarly activated SRPP promoters. Collectively, this study identifies TkDof20 as an upstream regulator of SRPP-mediated natural rubber biosynthesis and reveals a Dof-SRPP transcriptional module involved in latex formation. These discoveries provide insights into the molecular regulation of natural rubber biosynthesis and offer promising genetic targets for the metabolic engineering of high-yield rubber crops.",
+      "abstractZh": "DNA 与一指 (Dof) 转录因子的结合在植物生长、发育和次生代谢中发挥着至关重要的作用，但它们在天然橡胶 (NR) 生物合成中的参与仍不清楚。天然橡胶是一种不可或缺的工业生物聚合物，广泛应用于交通、医药、先进制造等领域。在这里，我们在蒲公英中鉴定出一种 Dof 转录因子 TkDof20，它是一种乳胶特异性、细胞核定位的激活剂。 TkDof20 的过表达显着增加了乳胶产量、乳管面积和 NR 含量，同时菊粉积累显着减少。相应地，编码小橡胶颗粒蛋白（SRPP）的 TkSRPP7 的过度表达也增强了 NR 的积累。 tksrpp5 tksrpp6 tksrpp7 tksrpp10 tksrpp11 五元突变体（tksrpp△5）表现出橡胶产量和乳管数量的显着减少。酵母单杂交和双荧光素酶测定表明，TkDof20 直接与 TkSRPP7 启动子内的 AAAG 顺式元件结合，从而激活其转录。这些发现建立了一个 Dof-SRPP 调节模块，该模块通过增强橡胶颗粒的形成来促进橡胶积累。 C",
+      "url": "https://doi.org/10.1093/plphys/kiag520",
+      "sourceUrl": "https://doi.org/10.1093/plphys/kiag520",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9142,7 +9565,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10072,7 +10495,7 @@
       "included": true,
       "articleScore": 45,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -10716,7 +11139,7 @@
       "articleScore": 47,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14389,7 +14812,7 @@
       "articleScore": 53,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14490,7 +14913,7 @@
       "articleScore": 43,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15268,7 +15691,7 @@
       "articleScore": 53,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16921,7 +17344,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18903,7 +19326,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19100,7 +19523,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21692,7 +22115,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -22768,7 +23191,7 @@
       "articleScore": 43,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23112,52 +23535,6 @@
       "journalScore": 50,
       "journalQuartile": "Q1",
       "journalArticleCount": 9,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "A specific 296 bp insertion in the DFR1 promoter activates ethylene-mediated anthocyanin biosynthesis during autumn leaf senescence in Quercus aliena.",
-      "titleZh": "DFR1 启动子中特定的 296 bp 插入在栎树秋季叶子衰老过程中激活乙烯介导的花青素生物合成。",
-      "journal": "Journal of experimental botany",
-      "targetJournal": "全部收录期刊",
-      "issn": "0022-0957",
-      "eissn": "1460-2431",
-      "year": 2026,
-      "date": "2026-05-13",
-      "authors": "Pei Z, Jiang X, Zeng W, Huang Y, Che Y, Zhang H, Liu Y, Yang Q, Li G.",
-      "doi": "10.1093/jxb/erag179",
-      "doiUrl": "https://doi.org/10.1093/jxb/erag179",
-      "pmid": "42126248",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42126248/",
-      "pmcid": "",
-      "abstract": "Red-leaf ornamental trees are commonly characterized by the enrichment of anthocyanins. Quercus aliena, a dominant native oak species in China, displays striking autumn foliage with yellow to red colors. However, the molecular regulation of anthocyanin biosynthesis during leaf senescence remains largely unknown. In this study, we identified a 296 bp insertion in the promoter of Dihydroflavonol 4-Reductase (DFR1) from the red-leaf Q. aliena cultivar 'Qiuyun', which was significantly associated with high anthocyanin accumulation. We established a highly efficient method for genetic transformation in Q. aliena calli and verified the function of DFR1. Yeast one-hybrid library screening identified ETHYLENE INSENSITIVE 3 (EIN3) that can directly bind to the EIN3-binding site in the 296 bp insertion and activate DFR1 expression. Together with a dual-luciferase assay and EMSA, we reported for the first time that EIN3 could directly activate the structural gene DFR1 during anthocyanin biosynthesis. DFR1 expression is markedly induced in EIN3-overexpressing oak calli compared with the wild type. In addition, exogenous ethephon induced anthocyanin accumulation in autumn leaves in the red cultivar, rather than in the yellow cultivar without the insertion. In summary, our findings demonstrate a practical and effective approach for validating gene function in vivo, and provide new insight into the regulatory mechanisms involved in anthocyanin biosynthesis during leaf senescence.",
-      "abstractZh": "红叶观赏树的共同特点是富含花青素。外栎是中国主要的本土橡树树种，秋天的叶子呈现出引人注目的黄色到红色。然而，叶片衰老过程中花青素生物合成的分子调控仍然很大程度上未知。在本研究中，我们在红叶栎品种“秋云”的二氢黄酮醇 4-还原酶 (DFR1) 启动子中发现了 296 bp 的插入，该插入与高花青素积累显着相关。我们建立了一种高效的异种愈伤组织遗传转化方法，并验证了DFR1的功能。酵母单杂交文库筛选鉴定出 ETHYLENE INSENSITIVE 3 (EIN3) 可以直接与 296 bp 插入中的 EIN3 结合位点结合并激活 DFR1 表达。结合双荧光素酶测定和EMSA，我们首次报道EIN3可以在花青素生物合成过程中直接激活结构基因DFR1。与野生型相比，EIN3 过表达橡树愈伤组织中 DFR1 表达显着诱导。此外，外源乙烯利诱导红崇拜秋叶中花青素的积累",
-      "url": "https://doi.org/10.1093/jxb/erag179",
-      "sourceUrl": "https://doi.org/10.1093/jxb/erag179",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23856,9 +24233,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25637,7 +26014,7 @@
       "articleScore": 43,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25983,7 +26360,7 @@
       "articleScore": 49,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26367,9 +26744,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30178,9 +30555,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30298,7 +30675,7 @@
       "abstractZh": "最近的一项基因组挖掘研究发现，点状发菜 PCC 73102 中编码的 II 类羊毛肽含有与赖氨酸侧链缀合的酰基。这些肽（称为 nostolysamides）的结构和生物活性尚未确定。在这项研究中，我们通过 N 端 SUMO 标签的 NpuA 前体肽与 II 类羊毛硫肽合成酶 NpuM 在大肠杆菌中共表达来生产诺斯托酰胺。 Marfey 的分析显示所有四个羊毛硫氨酸和甲基羊毛硫氨酸残基均具有 DL 构型。串联质谱和诱变研究表明，N 端有一个不重叠的甲基羊毛硫氨酸环，C 端有三个重叠的环，因此提出了最可能的环模式。 NpuM 羊毛硫肽合成酶是 ProcM 分支的成员，并催化具有 C 至 N 和 N 至 C 方向性的环形成。去除前导肽后，所得的羊毛硫肽通过破坏细胞膜而表现出针对念珠菌属的抗菌和抗真菌活性。抗菌活性与脂质 II 无关。生物合成基因簇还编码乙酰转移酶 NpuN",
       "url": "https://doi.org/10.1021/acs.biochem.6c00103",
       "sourceUrl": "https://doi.org/10.1021/acs.biochem.6c00103",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -30318,11 +30695,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q3",
+      "articleScore": 55,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -30481,9 +30858,9 @@
       ],
       "included": true,
       "articleScore": 70,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31085,7 +31462,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -32219,7 +32596,7 @@
       "articleScore": 55,
       "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32942,7 +33319,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36464,9 +36841,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 48,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36576,7 +36953,7 @@
       "articleScore": 55,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37204,7 +37581,7 @@
       "articleScore": 56,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41749,7 +42126,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -43155,7 +43532,7 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -43499,55 +43876,6 @@
       "journalScore": 36,
       "journalQuartile": "Q4",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Endosperm-specific expression of a yeast thiamin transporter enhances vitamin B1 content in white rice.",
-      "titleZh": "酵母硫胺素转运蛋白的胚乳特异性表达可提高白米中维生素 B1 的含量。",
-      "journal": "Journal of experimental botany",
-      "targetJournal": "全部收录期刊",
-      "issn": "0022-0957",
-      "eissn": "1460-2431",
-      "year": 2026,
-      "date": "2026-03-21",
-      "authors": "Chen TC, Chou MY, Chung YH, Yang WJ, Tseng CS, Hsieh MH.",
-      "doi": "10.1093/jxb/erag148",
-      "doiUrl": "https://doi.org/10.1093/jxb/erag148",
-      "pmid": "41863313",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41863313/",
-      "pmcid": "",
-      "abstract": "Vitamin B1 is a vital cofactor in cellular metabolism, but must be obtained through the diet in humans. Polished (white) rice, a dietary staple for much of the global population, contains very low levels of vitamin B1, which contributes to widespread thiamin deficiency in regions that rely heavily on rice. To address this issue, we engineered rice to express the Saccharomyces cerevisiae thiamin transporter gene THI7 under the control of the endosperm-specific GLUTELIN1 (GT1) promoter. We found that endosperm-specific expression of yeast THI7 significantly increased thiamin levels by up to 24% in unpolished and 26% in polished seeds in transgenic rice lines with moderate to high THI7 expression. This increase was specific to free thiamin, with no change in thiamin monophosphate or thiamin diphosphate, consistent with the known transporter activity of THI7. Importantly, the transgenic plants displayed normal phenotypes under field conditions. Our findings demonstrate that endosperm-targeted expression of a heterologous thiamin transporter is an effective strategy for enhancing vitamin B1 content in rice grains, offering a new approach for biofortification that complements metabolic engineering of biosynthetic pathways.",
-      "abstractZh": "维生素 B1 是细胞代谢的重要辅助因子，但人类必须通过饮食获取。精米（白米）是全球大部分人口的主食，其维生素 B1 含量非常低，这导致严重依赖大米的地区普遍缺乏硫胺素。为了解决这个问题，我们对水稻进行了工程改造，使其在胚乳特异性 GLUTELIN1 (GT1) 启动子的控制下表达酿酒酵母硫胺素转运蛋白基因 THI7。我们发现，在中度至高THI7表达的转基因水稻品系中，酵母THI7的胚乳特异性表达使未抛光种子中的硫胺素水平显着增加了24%，抛光种子中的硫胺素水平增加了26%。这种增加是游离硫胺素特有的，单磷酸硫胺素或二磷酸硫胺素没有变化，与已知的 THI7 转运蛋白活性一致。重要的是，转基因植物在田间条件下表现出正常的表型。我们的研究结果表明，异源硫胺素转运蛋白的胚乳靶向表达是提高米粒中维生素 B1 含量的有效策略，为补充代谢酶的生物强化提供了一种新方法。",
-      "url": "https://doi.org/10.1093/jxb/erag148",
-      "sourceUrl": "https://doi.org/10.1093/jxb/erag148",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "代谢工程"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "代谢工程"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "代谢工程"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44574,7 +44902,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44670,52 +44998,6 @@
       "journalScore": 36,
       "journalQuartile": "Q4",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "An integrated bioprocess for the production of insulin icodec in &lt;i&gt;Pichia pastoris&lt;/i&gt;.",
-      "titleZh": "在毕赤酵母中生产 icodec 胰岛素的集成生物工艺。",
-      "journal": "Preparative biochemistry & biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1082-6068",
-      "eissn": "1532-2297",
-      "year": 2026,
-      "date": "2026-03-18",
-      "authors": "Xu J, Xu J, Hua H, Peng W, Qin T, Dong Y, Feng J, Lu J.",
-      "doi": "10.1080/10826068.2026.2640058",
-      "doiUrl": "https://doi.org/10.1080/10826068.2026.2640058",
-      "pmid": "41850877",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41850877/",
-      "pmcid": "",
-      "abstract": "The global prevalence of diabetes highlights the urgent need for efficient and scalable insulin manufacturing. Insulin icodec, the first once-weekly basal insulin analog approved for clinical use, offers significant therapeutic benefits but presents manufacturing challenges due to its structural complexity. In this study, an integrated process was developed to produce insulin icodec in Pichia pastoris. A high-expression GS115 strain was engineered and cultivated under high-cell-density fermentation, yielding 7.53 g/L proinsulin in the supernatant (5.04 g/L in whole broth). The downstream process combined cation-exchange chromatography capture, enzymatic conversion to the desB30 insulin analog using lysyl endopeptidase, and optimization of fatty acid acylation through response surface methodology (RSM). Final purification by a sequential two-step reversed-phase chromatography polishing achieved a purity of 99.90%. The structural and functional equivalence to commercial insulin icodec was verified by RP-HPLC, HR-LC-MS, peptide mapping, and cell-based proliferation assays. Collectively, this study establishes a comprehensive and high-yield platform for insulin icodec biosimilar production and provides a generalizable framework for the manufacturing of other long-acting or structurally complex insulin analogs.",
-      "abstractZh": "糖尿病的全球流行凸显了对高效且可扩展的胰岛素生产的迫切需求。 Insulin icodec 是第一个被批准用于临床的每周一次的基础胰岛素类似物，具有显着的治疗效果，但由于其结构复杂性而面临制造挑战。在这项研究中，开发了一种在毕赤酵母中生产胰岛素 icodec 的集成工艺。设计并在高细胞密度发酵下培养高表达GS115菌株，上清液中胰岛素原产量为7.53 g/L（全肉汤中胰岛素原产量为5.04 g/L）。下游工艺结合了阳离子交换色谱捕获、使用赖氨酰内肽酶酶促转化为 desB30 胰岛素类似物，以及通过响应面法 (RSM) 优化脂肪酸酰化。通过连续两步反相色谱精制进行最终纯化，纯度达到 99.90%。通过 RP-HPLC、HR-LC-MS、肽图谱和基于细胞的增殖测定验证了与商业胰岛素 icodec 的结构和功能等效性。总的来说，这项研究为胰岛素 icodec 生物仿制药产品建立了一个全面的高产平台。",
-      "url": "https://doi.org/10.1080/10826068.2026.2640058",
-      "sourceUrl": "https://doi.org/10.1080/10826068.2026.2640058",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "毕赤酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "毕赤酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "毕赤酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44973,9 +45255,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 912 篇",
-    "lastStartedAt": "2026-07-30T10:02:27.675Z",
-    "lastFinishedAt": "2026-07-30T10:03:30.477Z",
+    "lastMessage": "更新完成，共 918 篇",
+    "lastStartedAt": "2026-07-31T11:04:29.322Z",
+    "lastFinishedAt": "2026-07-31T11:05:20.662Z",
     "nextRunAt": null,
     "progress": 100
   }
