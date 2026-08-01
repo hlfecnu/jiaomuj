@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T11:05:20.662Z",
+  "updatedAt": "2026-08-01T08:58:19.520Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -429,6 +429,113 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Efficient rDNA-mediated multi-copy integration of gene clusters in Aureobasidium melanogenum.",
+      "titleZh": "Aureobasidium melanogenum 中 rDNA 介导的基因簇的高效多拷贝整合。",
+      "journal": "Journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0168-1656",
+      "eissn": "1873-4863",
+      "year": 2026,
+      "date": "2026-07-30",
+      "authors": "Kang X, Wu Y, Xu J, Wu S, Wu Y, Wang H, Cai J, Zhang Y, Chi Z.",
+      "doi": "10.1016/j.jbiotec.2026.07.010",
+      "doiUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.010",
+      "pmid": "42532222",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42532222/",
+      "pmcid": "",
+      "abstract": "Aureobasidium melanogenum is a promising non-conventional yeast chassis for synthetic biology. However, techniques recombining large genetic fragments, such as gene clusters, are still unavailable, hindering further metabolic reprogramming in this chassis. To achieve multi-copy integration of genes, we employed highly repetitive ribosomal DNA (rDNA) sequences in A. melanogenum as homologous recombination sites for large genetic fragments. First, integration efficiency of three different regions of A. melanogenum rDNA were investigated: RNA polymerase I promoter region (rDNA1, 1.0kb), partial 26S rDNA region (rDNA2, 1.0kb), and RNA polymerase I terminator region (rDNA3, 1.0kb). Our findings revealed that the highest copy numbers and expression stability were observed for the short heterologous green fluorescent protein gene (gfp, 0.7kb) and the long native polyketide synthase gene (pks, 7.0kb) after rDNA1-mediated integration. Specifically, the copy numbers reached 7.0 and 8.0 for gfp and pks, respectively, and they remained stably expressed in the genome after 120-h subculturing. Furthermore, an 11.0kb gene cluster (comprising the native pks, phosphopantetheinyl transferase (npg1), and scytalone dehydratase genes (scd) responsible for melanin biosynthesis) was integrated at the rDNA1 site, resulting in stable recombination with 15.0 copies and an approximately 12-fold increase in melanin production. Overall, the convenience and efficiency of the proposed rDNA-mediated multi-copy insertion strategy will facilitate superior metabolic engineering of A. melanogenum chassis cells.",
+      "abstractZh": "Aureobasidium melanogenum 是一种有前途的合成生物学非传统酵母底盘。然而，重组大型遗传片段（例如基因簇）的技术仍然不可用，阻碍了该底盘中进一步的代谢重编程。为了实现基因的多拷贝整合，我们采用 A. melanogenum 中高度重复的核糖体 DNA (rDNA) 序列作为大基因片段的同源重组位点。首先，研究了 A. melanogenum rDNA 三个不同区域的整合效率：RNA 聚合酶 I 启动子区域（rDNA1，1.0kb）、部分 26S rDNA 区域（rDNA2，1.0kb）和 RNA 聚合酶 I 终止子区域（rDNA3，1.0kb）。我们的研究结果表明，在 rDNA1 介导的整合后，短异源绿色荧光蛋白基因（gfp，0.7kb）和长天然聚酮合酶基因（pks，7.0kb）观察到最高的拷贝数和表达稳定性。具体来说，gfp和pks的拷贝数分别达到7.0和8.0，并且在传代120小时后在基因组中保持稳定表达。此外，一个 11.0kb 基因簇（包含天然 pks、磷酸泛酰转移酶 (npg1)、",
+      "url": "https://doi.org/10.1016/j.jbiotec.2026.07.010",
+      "sourceUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.010",
+      "citationCount": 0,
+      "relevanceScore": 48,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "非传统酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "非传统酵母",
+        "酵母",
+        "合成生物学",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "非传统酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 46,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Promoter engineering in oleaginous yeasts for value-added chemical production.",
+      "titleZh": "用于增值化学品生产的产油酵母启动子工程。",
+      "journal": "Biotechnology advances",
+      "targetJournal": "全部收录期刊",
+      "issn": "0734-9750",
+      "eissn": "1873-1899",
+      "year": 2026,
+      "date": "2026-07-30",
+      "authors": "Agustiar AA, Lu Z, Yang D, Isnansetyo A, Ma X.",
+      "doi": "10.1016/j.biotechadv.2026.108995",
+      "doiUrl": "https://doi.org/10.1016/j.biotechadv.2026.108995",
+      "pmid": "42532291",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42532291/",
+      "pmcid": "",
+      "abstract": "Oleaginous yeasts, particularly Yarrowia lipolytica, are increasingly used as microbial platforms for producing lipids and other value-added compounds from renewable feedstocks. Their biotechnological utility derives from active lipid metabolism, broad substrate flexibility, and expanding engineering tools, but efficient production requires transcriptional programs that match changing metabolic states during fermentation. Because carbon flux is redistributed across growth, nutrient limitation, lipid accumulation, and production phases, static constitutive expression is often insufficient for optimal pathway performance. Promoter engineering therefore provides a key strategy to control expression strength, timing, and responsiveness in oleaginous yeasts. This review summarizes the metabolic basis of phase-dependent gene expression demand, examines constitutive, inducible, and dynamic promoter systems, and discusses how machine learning can support promoter prediction and design. Current challenges, including limited host-specific datasets, context dependence, and uncertain robustness to scale-up, are also discussed. These advances provide a basis for more precise and scalable engineering of oleaginous yeast cell factories.",
+      "abstractZh": "油质酵母，特别是解脂耶氏酵母，越来越多地用作微生物平台，从可再生原料中生产脂质和其他增值化合物。它们的生物技术效用源自活跃的脂质代谢、广泛的底物灵活性和扩展的工程工具，但高效的生产需要与发酵过程中不断变化的代谢状态相匹配的转录程序。由于碳通量在生长、营养限制、脂质积累和生产阶段重新分配，静态组成型表达通常不足以实现最佳途径性能。因此，启动子工程提供了控制产油酵母表达强度、时间和反应性的关键策略。这篇综述总结了阶段依赖性基因表达需求的代谢基础，检查了组成型、诱导型和动态启动子系统，并讨论了机器学习如何支持启动子预测和设计。还讨论了当前的挑战，包括有限的特定于宿主的数据集、上下文依赖性以及扩展的不确定鲁棒性。这些进步为更精确和可扩展的发动机提供了基础",
+      "url": "https://doi.org/10.1016/j.biotechadv.2026.108995",
+      "sourceUrl": "https://doi.org/10.1016/j.biotechadv.2026.108995",
+      "citationCount": 0,
+      "relevanceScore": 70,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "解脂耶氏酵母"
+      ],
+      "technologyKeywords": [
+        "启动子工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "启动子工程",
+        "解脂耶氏酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "解脂耶氏酵母"
+      ],
+      "matchedSynbio": [
+        "启动子工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "The role of &lt;i&gt;HIL1&lt;/i&gt; in strain-level adhesion and immune recognition in &lt;i&gt;Debaryomyces hansenii&lt;/i&gt;.",
       "titleZh": "<i>HIL1</i> 在汉逊德巴利酵母</i>菌株水平粘附和免疫识别中的作用。",
       "journal": "mBio",
@@ -747,9 +854,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1197,9 +1304,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1756,7 +1863,7 @@
       "articleScore": 63,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2381,7 +2488,7 @@
       "articleScore": 51,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3223,7 +3330,7 @@
       "articleScore": 43,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3508,7 +3615,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5302,7 +5409,7 @@
       "articleScore": 45,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6227,7 +6334,7 @@
       "articleScore": 49,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7020,7 +7127,7 @@
       "articleScore": 60,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9027,6 +9134,58 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Screening of wild-type Saccharomyces cerevisiae strains for single-cell protein production in white grape juice.",
+      "titleZh": "筛选用于白葡萄汁中单细胞蛋白质生产的野生型酿酒酵母菌株。",
+      "journal": "Food science and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1226-7708",
+      "eissn": "2092-6456",
+      "year": 2026,
+      "date": "2026-06-30",
+      "authors": "Yeşildağ İC, Yılmaz R.",
+      "doi": "10.1007/s10068-026-02215-8",
+      "doiUrl": "https://doi.org/10.1007/s10068-026-02215-8",
+      "pmid": "42534742",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42534742/",
+      "pmcid": "",
+      "abstract": "Increasing demand for sustainable protein sources has intensified interest in single-cell protein (SCP) production. This study evaluated the fermentation performance of wild-type Saccharomyces cerevisiae strains isolated from grape vineyards to identify candidates for SCP bioprocesses. Following morphological characterization and pH screening, strains were cultivated in white grape juice supplemented with 1% (w/v) yeast extract for 72 h at 28 °C. K-means clustering, principal component analysis (PCA), and growth curve modelling were applied to differentiate the strains. Strains HUF16M2K10004 and HUF16M3G11088 reached wet cell weights of 21.56 ± 0.13 and 27.90 ± 0.49 g/L, dry cell weights of 6.01 ± 0.05 and 6.46 ± 0.44 g/L, water-soluble protein contents of 2.00 ± 0.15 and 1.92 ± 0.07 g/L, with growth rates of 0.15 ± 0.02 and 0.23 ± 0.02 h⁻1, comparable to those of the commercial reference strains. Both wild-type strains represent preliminary candidates for future SCP-oriented characterization studies. The online version contains supplementary material available at 10.1007/s10068-026-02215-8.",
+      "abstractZh": "对可持续蛋白质来源的需求不断增加，增强了人们对单细胞蛋白质（SCP）生产的兴趣。本研究评估了从葡萄园中分离出的野生型酿酒酵母菌株的发酵性能，以确定 SCP 生物过程的候选菌株。经过形态学表征和 pH 筛选后，将菌株在补充有 1%（w/v）酵母提取物的白葡萄汁中于 28°C 培养 72 小时。应用 K 均值聚类、主成分分析 (PCA) 和生长曲线建模来区分菌株。菌株 HUF16M2K10004 和 HUF16M3G11088 的湿细胞重量为 21.56 ± 0.13 和 27.90 ± 0.49 g/L，干细胞重量为 6.01 ± 0.05 和 6.46 ± 0.44 g/L，水溶性蛋白含量为 2.00 ± 0.15 和 1.92 ± 0.07 g/L，生长速率为 0.15 ± 0.02 和 0.23 ± 0.02 h−1，与商业参考菌株相当。两种野生型菌株都代表了未来面向 SCP 的表征研究的初步候选菌株。在线版本包含可在 10.1007/s10068-026-02215-8 获取的补充材料。",
+      "url": "https://doi.org/10.1007/s10068-026-02215-8",
+      "sourceUrl": "https://doi.org/10.1007/s10068-026-02215-8",
+      "citationCount": 0,
+      "relevanceScore": 61,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 54,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11895,7 +12054,7 @@
       "articleScore": 51,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11990,7 +12149,7 @@
       "articleScore": 43,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13222,7 +13381,7 @@
       "articleScore": 43,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13676,6 +13835,55 @@
       "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 5,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Enhanced aroma compound production by new Saccharomyces cerevisiae isolates for bread and rice hydrolysate medium fermentations.",
+      "titleZh": "用于面包和大米水解产物培养基发酵的新酿酒酵母分离物增强了香气化合物的生产。",
+      "journal": "Food science and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1226-7708",
+      "eissn": "2092-6456",
+      "year": 2026,
+      "date": "2026-06-10",
+      "authors": "Lee CH, Yoon JA, Ju MK, Kim DJ, Kim MD.",
+      "doi": "10.1007/s10068-026-02201-0",
+      "doiUrl": "https://doi.org/10.1007/s10068-026-02201-0",
+      "pmid": "42534582",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42534582/",
+      "pmcid": "",
+      "abstract": "Saccharomyces cerevisiae, also known as brewer's yeast, is widely used in food and beverage fermentations. In this study, newly isolated S. cerevisiae strains, NIYL33997 and NIYL33999, were evaluated for fermentation performance in bread and rice hydrolysate medium compared to commercial yeasts. In bread fermentation, NIYL33999 produced higher levels of phenylethyl alcohol and ethyl acetate, corresponding to 2.1- and 3.0-fold increases over Saf-instant yeast. NIYL33997 showed the highest ethyl octanoate production. During fermentation in rice hydrolysate medium, NIYL33999 produced the highest concentrations of aroma compounds. Specifically, isoamyl alcohol, phenylethyl alcohol, and ethyl acetate levels increased by approximately 1.2-, 1.9-, and 1.3-fold, respectively, compared with those produced by the Songcheon yeast. NIYL33997 exhibited similar increases with lower ester production. Principal component analysis revealed clear differentiation of aroma patterns among the strains. In conclusion, S. cerevisiae NIYL33997 and NIYL33999 exhibit distinct aroma profiles, with NIYL33999 demonstrating potential as a starter for fermented foods.",
+      "abstractZh": "酿酒酵母，也称为啤酒酵母，广泛用于食品和饮料发酵。在本研究中，与商业酵母相比，评估了新分离的酿酒酵母菌株 NIYL33997 和 NIYL33999 在面包和大米水解产物培养基中的发酵性能。在面包发酵中，NIYL33999 产生更高水平的苯乙醇和乙酸乙酯，相当于 Saf 速溶酵母的 2.1 倍和 3.0 倍。 NIYL33997 显示出最高的辛酸乙酯产量。在大米水解物培养基中发酵期间，NIYL33999 产生最高浓度的香气化合物。具体而言，与松川酵母产生的异戊醇、苯乙醇和乙酸乙酯水平相比，分别增加了约1.2、1.9和1.3倍。 NIYL33997 表现出类似的增加，但酯产量较低。主成分分析揭示了菌株之间香气模式的明显差异。总之，酿酒酵母 NIYL33997 和 NIYL33999 表现出独特的香气特征，其中 NIYL33999 显示出作为发酵食品发酵剂的潜力。",
+      "url": "https://doi.org/10.1007/s10068-026-02201-0",
+      "sourceUrl": "https://doi.org/10.1007/s10068-026-02201-0",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17490,6 +17698,55 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Co-fermentation of Saccharomyces cerevisiae and Pichia fermentans enhances the flavor of bread.",
+      "titleZh": "酿酒酵母和发酵毕赤酵母的共同发酵增强了面包的风味。",
+      "journal": "Food science and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1226-7708",
+      "eissn": "2092-6456",
+      "year": 2026,
+      "date": "2026-05-30",
+      "authors": "Hong HJ, Lee CH, Yoon JA, Shim SM, Kim MD.",
+      "doi": "10.1007/s10068-026-02198-6",
+      "doiUrl": "https://doi.org/10.1007/s10068-026-02198-6",
+      "pmid": "42534546",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42534546/",
+      "pmcid": "",
+      "abstract": "Saccharomyces cerevisiae is widely used in food fermentation for its reliable fermentation performance. However, using it as the sole starter in the bakery industry limits the range of flavor compounds. In this study, the co-fermentation of S. cerevisiae Saf-instant with P. fermentans NIYL31404 was examined with respect to fermentation performance and volatile compound production. The co-fermentation of P. fermentans NIYL31404 with Saf-instant produced approximately 1.4-, 1.5-, and 1.3-fold higher concentrations of isoamyl alcohol, isobutanol, and phenylethyl alcohol, respectively, than fermentation with Saf-instant alone. Principal component analysis indicated clear distinctions in flavor profiles, demonstrating that co-fermentation with P. fermentans NIYL31404 and S. cerevisiae yielded a distinctive aromatic quality. Thus, the present study demonstrates that co-fermenting S. cerevisiae with P. fermentans NIYL31404 improves the aromatic quality of bread and overcomes limitations in aroma diversity associated with conventional bread fermentation.",
+      "abstractZh": "酿酒酵母以其可靠的发酵性能而广泛应用于食品发酵。然而，将其用作烘焙行业的唯一发酵剂限制了风味化合物的范围。在本研究中，检查了酿酒酵母 Saf-instant 与发酵假单胞菌 NIYL31404 的共发酵的发酵性能和挥发性化合物的产生。发酵假单胞菌 NIYL31404 与 Saf-instant 的共同发酵产生的异戊醇、异丁醇和苯乙醇浓度分别比单独使用 Saf-instant 发酵高约 1.4、1.5 和 1.3 倍。主成分分析表明风味特征存在明显差异，表明发酵假单胞菌 NIYL31404 和酿酒酵母的共同发酵产生了独特的芳香品质。因此，本研究表明，酿酒酵母与发酵假单胞菌 NIYL31404 共同发酵可提高面包的芳香质量，并克服与传统面包发酵相关的香气多样性的限制。",
+      "url": "https://doi.org/10.1007/s10068-026-02198-6",
+      "sourceUrl": "https://doi.org/10.1007/s10068-026-02198-6",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Designing the future of food fats: precision fermentation of Yarrowia lipolytica for tailored lipid production.",
       "titleZh": "设计食品脂肪的未来：解脂耶氏酵母的精确发酵用于定制脂质生产。",
       "journal": "Current opinion in biotechnology",
@@ -19829,7 +20086,7 @@
       "articleScore": 60,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20322,7 +20579,7 @@
       "articleScore": 51,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21346,7 +21603,7 @@
       "articleScore": 49,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22364,7 +22621,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24233,9 +24490,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26744,9 +27001,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28308,7 +28565,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30555,9 +30812,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30858,9 +31115,9 @@
       ],
       "included": true,
       "articleScore": 70,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34428,7 +34685,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34920,7 +35177,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -35698,7 +35955,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36099,7 +36356,7 @@
       "articleScore": 43,
       "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 11,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36247,9 +36504,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 44,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36841,9 +37098,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -45100,55 +45357,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Genome-wide identification of the P5CS gene family in Psammochloa villosa and functional characterization under drought stress.",
-      "titleZh": "沙毛 P5CS 基因家族的全基因组鉴定及干旱胁迫下的功能表征。",
-      "journal": "BMC plant biology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1471-2229",
-      "eissn": "1471-2229",
-      "year": 2026,
-      "date": "2026-03-18",
-      "authors": "Liu Y, Yang Q, Li X, Su X, Li Y, Lei J, Zheng Y, Cairang Z, Jin J, Liu B.",
-      "doi": "10.1186/s12870-026-08512-y",
-      "doiUrl": "https://doi.org/10.1186/s12870-026-08512-y",
-      "pmid": "41851656",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41851656/",
-      "pmcid": "PMC13130783",
-      "abstract": "Psammochloa villosa is a perennial herbaceous plant belonging to tribe Stipeae (Poaceae). It is mainly distributed in the arid and sandy Inner Mongolia Plateau and adjacent areas, demonstrating remarkable resilience to arid, windswept sandy environments. Proline is shown to be involved in plant development under normal conditions and contributes to resistance against both biotic and abiotic stresses. Δ1-pyrroline-5-carboxylate synthetase (P5CS), one of the two main enzymes in the proline biosynthesis pathway of the glutamate precursor, has been demonstrated to play a significant role in proline accumulation in plants under water stress. In this study, we identified nine PviP5CS1-PviP5CS9 genes in the P. villosa genome, which exhibit the closest phylogenetic relationship to same gene family in the closely related Neotrinia splendens, a dominant plant species of temperate degraded grassland in Inner Mongolia. The promoter region of PviP5CS harbors different cis-regulatory elements involved in light and hormonal regulation, as well as stress responses. Collinearity analysis revealed that the expansion of the PviP5CS gene family occurred via segmental duplication and underwent purifying selection during species evolution. In P. villosa, P5CS genes exhibited distinct expression patterns across different tissues and showed differential regulation in response to drought stress, suggesting potential tissue-specific roles in proline biosynthesis and adaptive stress tolerance mechanisms. Most importantly, functional characterization in the model organism Arabidopsis thaliana demonstrated that overexpression of PviP5CS4 significantly enhances drought tolerance, which is attributed to elevated proline accumulation and increased antioxidant enzyme activity. In addition, we performed a yeast one-hybrid (Y1H) analysis to investigate the potential interactions between P. villosa PviP5CS4 and several candidate transcription factors, including DREB3, GBF3, serine/threonine protein kinase, bZIP, and pyruvate phosphate dikinase. These findings provide novel scientific insights into the molecular mechanisms underlying the proline biosynthesis pathway in P. villosa and reveal its functional role under drought stress, offering valuable targets for improving drought tolerance in P. villosa and related species through genetic engineering or breeding strategies.",
-      "abstractZh": "沙金沙（学名：Sammochloa villosa），为禾本科（Poaceae）族多年生草本植物。主要分布于干旱多沙的内蒙古高原及邻近地区，对干旱、风沙环境具有显着的适应能力。脯氨酸被证明参与正常条件下的植物发育，并有助于抵抗生物和非生物胁迫。 Δ1-吡咯啉-5-羧酸合成酶（P5CS）是谷氨酸前体脯氨酸生物合成途径中的两种主要酶之一，已被证明在水分胁迫下的植物脯氨酸积累中发挥重要作用。在本研究中，我们在 P. villosa 基因组中鉴定了 9 个 PviP5CS1-PviP5CS9 基因，这些基因与密切相关的内蒙古温带退化草原优势植物 Neotrinia splendens 中的同一基因家族表现出最接近的系统发育关系。 PviP5CS 的启动子区域包含不同的顺式调节元件，涉及光和激素调节以及应激反应。共线性分析表明，PviP5CS 基因家族的扩增是通过片段复制发生的，并经过纯化",
-      "url": "https://doi.org/10.1186/s12870-026-08512-y",
-      "sourceUrl": "https://doi.org/10.1186/s12870-026-08512-y",
-      "citationCount": 0,
-      "relevanceScore": 42,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 43,
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 11,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Host analysis-guided selection and targeted engineering (HASTE) of Lipomyces tetrasporus for the conversion of CO&lt;sub&gt;2&lt;/sub&gt;-derived feedstocks.",
       "titleZh": "用于转化 CO<sub>2</sub> 衍生原料的四孢油脂酵母宿主分析引导选择和靶向工程 (HASTE)。",
       "journal": "Bioresource technology",
@@ -45255,9 +45463,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 918 篇",
-    "lastStartedAt": "2026-07-31T11:04:29.322Z",
-    "lastFinishedAt": "2026-07-31T11:05:20.662Z",
+    "lastMessage": "更新完成，共 922 篇",
+    "lastStartedAt": "2026-08-01T08:57:29.836Z",
+    "lastFinishedAt": "2026-08-01T08:58:19.520Z",
     "nextRunAt": null,
     "progress": 100
   }
