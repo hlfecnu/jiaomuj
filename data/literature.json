@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T12:45:46.232Z",
+  "updatedAt": "2026-08-04T11:00:45.054Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -143,6 +143,113 @@
     ]
   },
   "articles": [
+    {
+      "title": "The trimeric Shu complex in C. elegans is an ATPase that remodels RAD51 filaments in the homologous recombination-associated DNA damage response.",
+      "titleZh": "线虫中的三聚体 Shu 复合物是一种 ATP 酶，可在同源重组相关的 DNA 损伤反应中重塑 RAD51 丝。",
+      "journal": "The FEBS journal",
+      "targetJournal": "全部收录期刊",
+      "issn": "1742-464X",
+      "eissn": "1742-4658",
+      "year": 2026,
+      "date": "2026-08-03",
+      "authors": "Chu SSH, Xing G, Paik K, Gartner A, Ling H.",
+      "doi": "10.1111/febs.70671",
+      "doiUrl": "https://doi.org/10.1111/febs.70671",
+      "pmid": "42545832",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42545832/",
+      "pmcid": "",
+      "abstract": "Homologous recombination (HR) is critical for error-free lesion bypass. This error-free lesion tolerance pathway is initiated by the RAD51 recombinase, which forms nucleoprotein filaments on single-stranded DNA (ssDNA) to facilitate template-directed repair using homologous sister chromatids. RAD51 filaments are tightly regulated by RAD51 mediator proteins. As such mediators, Shu complexes facilitate HR-directed DNA damage tolerance and are evolutionarily conserved from yeast to humans. The Caenorhabditis elegans (C. elegans) Shu complex is a heterotrimer consisting of three protein subunits: RFS-1, RIP-1, and SWS-1. However, the biochemical properties of this trimeric complex remain unclear. Here, we report the biochemical characterization of the C. elegans Shu complex and interactions with DNA, ATP, and RAD-51 filaments. We first revealed that the Shu trimer preferentially binds DNA with an exposed 5' end, particularly favoring a fork-shaped double-stranded DNA (dsDNA). Then, we found that the RFS-1/RIP-1/SWS-1 trimer binds to ATP and exhibits DNA-dependent ATPase activity. Through site-specific mutagenesis, we identified the catalytic residues in the RFS-1 domain and validated the ATPase activity. Using fluorescence-based assays, we further demonstrated that the Shu trimer remodels RAD-51 filaments in an ATP-hydrolysis-dependent manner and stabilizes the filaments in an ATP-binding-dependent manner. Using CRISPR-Cas9-induced disruption of the Walker motif in rfs-1, we demonstrate that the ATPase activity of the C. elegans Shu complex is critical for organismal survival under camptothecin-induced genotoxic stress. These findings provide key mechanistic insights into how the C. elegans Shu complex regulates RAD-51 filament dynamics and primes the filaments for downstream HR-mediated DNA repair processes.",
+      "abstractZh": "同源重组 (HR) 对于无错误的病变旁路至关重要。这种无错误的损伤耐受途径由 RAD51 重组酶启动，该重组酶在单链 DNA (ssDNA) 上形成核蛋白丝，以促进使用同源姐妹染色单体进行模板定向修复。 RAD51 丝受到 RAD51 介导蛋白的严格调控。作为这样的介质，Shu 复合物促进 HR 导向的 DNA 损伤耐受性，并且从酵母到人类在进化上是保守的。秀丽隐杆线虫 (C. elegans) Shu 复合物是由三个蛋白质亚基组成的异源三聚体：RFS-1、RIP-1 和 SWS-1。然而，这种三聚体复合物的生化特性仍不清楚。在这里，我们报告了秀丽隐杆线虫 Shu 复合体的生化特征以及与 DNA、ATP 和 RAD-51 丝的相互作用。我们首先发现 Shu 三聚体优先结合暴露 5' 端的 DNA，特别有利于叉形双链 DNA (dsDNA)。然后，我们发现 RFS-1/RIP-1/SWS-1 三聚体与 ATP 结合并表现出 DNA 依赖性 ATPase 活性。通过定点诱变，我们鉴定了 RFS-1 结构域中的催化残基并验证了",
+      "url": "https://doi.org/10.1111/febs.70671",
+      "sourceUrl": "https://doi.org/10.1111/febs.70671",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Transcriptional regulation: Efficient genetic engineering tools for non-conventional yeasts.",
+      "titleZh": "转录调控：非常规酵母的有效基因工程工具。",
+      "journal": "FEMS yeast research",
+      "targetJournal": "全部收录期刊",
+      "issn": "1567-1356",
+      "eissn": "1567-1364",
+      "year": 2026,
+      "date": "2026-08-03",
+      "authors": "Haneef S, Zhou YJ, Bai F.",
+      "doi": "10.1093/femsyr/foag032",
+      "doiUrl": "https://doi.org/10.1093/femsyr/foag032",
+      "pmid": "42545751",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42545751/",
+      "pmcid": "",
+      "abstract": "Non-conventional yeasts are recognized as valuable hosts for producing biofuels, pharmaceuticals, and other high-value chemicals, owing to their diverse physiological traits, ability to utilize various substrates, and greater tolerance to environmental stresses compared to conventional model yeast Saccharomyces cerevisiae. To fully optimizing metabolic flux toward desired products, effective genetic engineering tools enabling precise modulation of gene expression and coordinated control of metabolic pathways are essential. In this context, we discussed classical transcriptional regulation tools like promoters, and transcription factors, alongside innovations in synthetic biology that allow metabolic engineering in non-conventional yeasts to produce higher biofuels and other useful products, promoting the development of sustainable resources, and assisting the development of innovative bio-products. It also discussed innovative programmable technologies, such as CRISPR/Cas-mediated transcriptional activation and repression, as well as dynamic regulatory systems that can fine-tune metabolic routes and balance cellular resources. Strategies for promoter engineering, transcription factor manipulation for transcriptional regulation, and metabolic rewiring were highlight as methods to boost pathway efficiency and yields. This review concluded with current challenges and future directions, focusing on integrating synthetic biology and systems biology to create robust, controllable transcriptional frameworks for next-generation yeast cell factories.",
+      "abstractZh": "与传统模型酿酒酵母相比，非常规酵母由于其多样化的生理特征、利用各种底物的能力以及对环境胁迫的更大耐受性，被认为是生产生物燃料、药品和其他高价值化学品的宝贵宿主。为了充分优化目标产物的代谢通量，有效的基因工程工具能够精确调节基因表达并协调控制代谢途径至关重要。在此背景下，我们讨论了启动子和转录因子等经典转录调控工具，以及合成生物学的创新，这些创新允许非常规酵母中的代谢工程生产更高质量的生物燃料和其他有用的产品，促进可持续资源的开发，并协助创新生物产品的开发。它还讨论了创新的可编程技术，例如 CRISPR/Cas 介导的转录激活和抑制，以及可以微调代谢途径和平衡细胞资源的动态调节系统。启动子工程策略、转录事实",
+      "url": "https://doi.org/10.1093/femsyr/foag032",
+      "sourceUrl": "https://doi.org/10.1093/femsyr/foag032",
+      "citationCount": 0,
+      "relevanceScore": 78,
+      "relevanceLevel": "高度相关",
+      "organismKeywords": [
+        "非传统酵母",
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "代谢工程",
+        "CRISPR",
+        "启动子工程"
+      ],
+      "mainKeywords": [
+        "非传统酵母",
+        "酵母",
+        "酿酒酵母",
+        "合成生物学",
+        "代谢工程",
+        "CRISPR",
+        "启动子工程"
+      ],
+      "matchedYeast": [
+        "非传统酵母",
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "代谢工程",
+        "CRISPR",
+        "启动子工程"
+      ],
+      "included": true,
+      "articleScore": 63,
+      "journalScore": 49,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
     {
       "title": "Control of residual maltose in low-alcohol beer produced by non-Saccharomyces yeast with enzymatic treatment",
       "titleZh": "酶处理控制非酵母低醇啤酒中麦芽糖残留",
@@ -7762,9 +7869,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7813,6 +7920,58 @@
       "articleScore": 47,
       "journalScore": 38,
       "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Construction of a long-lived engineered yeast and its efficient catalytic synthesis of ursodeoxycholic acid].",
+      "titleZh": "长寿命工程酵母的构建及其高效催化合成熊去氧胆酸.",
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "targetJournal": "全部收录期刊",
+      "issn": "1001-5302",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "Ma XC, Li ZW, Yang TT, Li WX, Meng X, Guo QJ, Zhang XL, Wang D, Dai ZB.",
+      "doi": "10.19540/j.cnki.cjcmm.20260330.402",
+      "doiUrl": "https://doi.org/10.19540/j.cnki.cjcmm.20260330.402",
+      "pmid": "42543330",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42543330/",
+      "pmcid": "",
+      "abstract": "Ursodeoxycholic acid(UDCA) is a first-line drug for the clinical treatment of hepatobiliary diseases. The bioconversion of chenodeoxycholic acid(CDCA) based on whole-cell catalysis provides an important alternative approach for its green production. However, during fermentation, cellular aging and CDCA-induced stress lead to decreased stability of the catalytic system, which severely restricts its industrial application. This study took the extension of cellular chronological lifespan as the entry point, and systematically evaluated the effects of overexpressing the chronological lifespan regulatory factor heme activator protein 4 gene(HAP4) on whole-cell catalytic performance. The results showed that, under CDCA stress conditions after 8 days of fermentation, the survival rate of cells overexpressing HAP4 was 4.5-fold higher than that of the wild type, indicating that HAP4 overexpression significantly prolonged the CLS of Saccharomyces cerevisiae. Furthermore, by screening efficient genetic elements, an efficient catalytic module was obtained, consisting of 7α-hydroxysteroid dehydrogenase(7α-HSDH) from Escherichia coli and RT-7β-hydroxysteroid dehydrogenase(RT-7β-HSDH) from Ruminococcus torques. These enzymes were assembled in S. cerevisiae BY4742 to construct an efficient CDCA whole-cell catalytic strain, BY-RT, which achieved a UDCA conversion rate of 96.0%. On this basis, HAP4 was further overexpressed to obtain a long-lived engineered strain, BY-RT-HAP4. After 20 days of shake-flask fermentation, the catalytic efficiency of BY-RT-HAP4 remained at 44.4%, representing a 14.8-fold increase compared with BY-RT. Finally, industrial fermentation conditions were simulated in a 5 L bioreactor to systematically evaluate the effect of enhanced HAP4 expression on UDCA whole-cell catalytic performance. Under conditions of greater environmental stress and higher substrate concentration stress, the catalytic efficiency of BY-RT-HAP4 at the end of fermentation was still 13.4% higher than that of BY-RT. These results demonstrate that enhanced HAP4 expression can effectively maintain cellular activity and metabolic homeostasis, significantly improve the whole-cell conversion efficiency of UDCA, and provide a new metabolic engineering strategy and theoretical basis for the green and efficient biosynthesis of UDCA.",
+      "abstractZh": "熊去氧胆酸（UDCA）是临床治疗肝胆疾病的一线药物。基于全细胞催化的鹅去氧胆酸（CDCA）生物转化为其绿色生产提供了重要的替代途径。然而，在发酵过程中，细胞老化和CDCA诱导的应激导致催化系统的稳定性下降，严重限制了其工业应用。本研究以延长细胞时间寿命为切入点，系统评价过表达时间寿命调节因子血红素激活蛋白4基因（HAP4）对全细胞催化性能的影响。结果显示，在CDCA胁迫条件下发酵8天后，过表达HAP4的细胞存活率比野生型高4.5倍，表明HAP4过表达显着延长了酿酒酵母的CLS。此外，通过筛选高效遗传元件，获得了由大肠杆菌的7α-羟基类固醇脱氢酶（7α-HSDH）和鲁米诺的RT-7β-羟基类固醇脱氢酶（RT-7β-HSDH）组成的高效催化模块。",
+      "url": "https://doi.org/10.19540/j.cnki.cjcmm.20260330.402",
+      "sourceUrl": "https://doi.org/10.19540/j.cnki.cjcmm.20260330.402",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -16048,7 +16207,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -37980,9 +38139,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 40,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39426,7 +39585,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -39734,9 +39893,9 @@
       ],
       "included": true,
       "articleScore": 58,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 1,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -45610,9 +45769,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 925 篇",
-    "lastStartedAt": "2026-08-03T12:44:42.730Z",
-    "lastFinishedAt": "2026-08-03T12:45:46.232Z",
+    "lastMessage": "更新完成，共 928 篇",
+    "lastStartedAt": "2026-08-04T10:59:42.037Z",
+    "lastFinishedAt": "2026-08-04T11:00:45.054Z",
     "nextRunAt": null,
     "progress": 100
   }
