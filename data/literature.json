@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T10:18:54.987Z",
+  "updatedAt": "2026-08-06T10:20:59.841Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -144,6 +144,101 @@
   },
   "articles": [
     {
+      "title": "Evolution-guided yeast complementation reveals functional differences in human PSPH variants.",
+      "titleZh": "进化引导的酵母互补揭示了人类 PSPH 变体的功能差异。",
+      "journal": "FEBS open bio",
+      "targetJournal": "全部收录期刊",
+      "issn": "2211-5463",
+      "eissn": "2211-5463",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Campa-Álvarez M, Ascencio D, Vallebueno-Estrada M, González-Orozco E, Martínez-Guerrero CE, Montiel R, DeLuna A.",
+      "doi": "10.1002/2211-5463.70308",
+      "doiUrl": "https://doi.org/10.1002/2211-5463.70308",
+      "pmid": "42552870",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42552870/",
+      "pmcid": "",
+      "abstract": "Deciphering how human genetic variants affect conserved metabolic enzymes is essential for understanding their evolutionary and clinical significance. Here, we combine sequence analyses of temporally stratified human genomes with a quantitative Saccharomyces cerevisiae complementation assay in a strain lacking SER2, the yeast gene required for the final step of L-serine biosynthesis, to examine functional differences among human phosphoserine phosphatase (PSPH) variants. Population-genomic comparisons between ancient hunter-gatherers and present-day humans identified two PSPH exons with elevated differences in nucleotide diversity, guiding the selection of two ancient-genome-prioritized variants (R27S and Q83H) for functional testing. To place their effects in functional context, we expressed each variant individually and compared complementation with the modern PSPH allele and two disease-associated alleles (D32N and A35T) across multiple environmental conditions. Human PSPH enhanced growth of the SER2 deletion mutant and revealed reproducible quantitative differences among alleles. The modern allele generally conferred the strongest complementation, while the ancient genome variants supported measurable but more condition-dependent rescue, and the disease-associated alleles showed the weakest complementation. These differences were broadly consistent across conditions, while specific environmental perturbations revealed context-dependent shifts in effect size. Together, our results establish a scalable framework that links evolutionary genomics with experimental functional assays to identify and evaluate human metabolic enzyme variants with measurable in vivo effects.",
+      "abstractZh": "破译人类遗传变异如何影响保守的代谢酶对于理解其进化和临床意义至关重要。在这里，我们将时间分层的人类基因组的序列分析与缺乏 SER2（L-丝氨酸生物合成最后一步所需的酵母基因）的菌株中的定量酿酒酵母互补测定结合起来，以检查人类磷酸丝氨酸磷酸酶（PSPH）变体之间的功能差异。古代狩猎采集者和现代人类之间的群体基因组比较发现了两个 PSPH 外显子，其核苷酸多样性差异较大，指导选择两个古代基因组优先变体（R27S 和 Q83H）进行功能测试。为了将它们的作用置于功能背景中，我们单独表达了每个变体，并在多种环境条件下比较了与现代 PSPH 等位基因和两个疾病相关等位基因（D32N 和 A35T）的互补性。人类 PSPH 增强了 SER2 缺失突变体的生长，并揭示了等位基因之间可重复的数量差异。现代等位基因通常具有最强的互补性，而古代基因组变异则具有最强的互补性。",
+      "url": "https://doi.org/10.1002/2211-5463.70308",
+      "sourceUrl": "https://doi.org/10.1002/2211-5463.70308",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "NT-A9, a new triazole, exhibits potent antifungal activity against Candida and Cryptococcus species through potent ergosterol biosynthesis inhibition.",
+      "titleZh": "NT-A9 是一种新型三唑，通过有效抑制麦角甾醇生物合成，对念珠菌和隐球菌表现出有效的抗真菌活性。",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "targetJournal": "全部收录期刊",
+      "issn": "0066-4804",
+      "eissn": "1098-6596",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Zhu S, Ni T, Gao L, Li W, Zhang D, Wu W, Jiang Y, Lu H.",
+      "doi": "10.1128/aac.00768-26",
+      "doiUrl": "https://doi.org/10.1128/aac.00768-26",
+      "pmid": "42554648",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42554648/",
+      "pmcid": "",
+      "abstract": "Invasive fungal infections (IFIs) remain a major global health threat due to limited therapeutic options and rising azole resistance. NT-a9 is a novel triazole antifungal with potent activity against Candida and Cryptococcus species via strong inhibition of ergosterol biosynthesis. In vitro, NT-a9 exhibited potent and sustained antifungal activity against clinical isolates, with superior potency compared to fluconazole (FLC). It also displayed a prolonged post-antifungal effect (PAFE) against most Candida species, a property rarely seen in conventional azoles. Resistance profiling demonstrated that NT-a9 possesses a high genetic barrier, fully suppressing resistant mutant emergence in Cryptococcus species and maintaining stable susceptibility in Candida albicans during 28 days of continuous exposure. NT-a9 retained potent activity against FLC-resistant Cryptococcus neoformans and multidrug-resistant Candida auris, with minimal influence from drug efflux mechanisms. In murine invasive candidiasis, a single low dose of NT-a9 achieved 100% survival and markedly reduced renal fungal burden, significantly outperforming FLC. NT-a9 also substantially improved survival in mice infected with FLC-resistant C. auris. Mechanistically, NT-a9 binds Erg11 with much higher affinity than FLC by forming key hydrogen bonds with Gly307 and His377, leading to irreversible ergosterol depletion, toxic sterol accumulation, and severe fungal membrane damage. Transcriptomic analysis further confirmed that NT-a9 extensively disrupts sterol biosynthesis and triggers compensatory gene expression that reinforces its antifungal action. As a novel triazole integrating long-lasting efficacy, a high resistance barrier, and potent activity against pan-azole-resistant pathogens, NT-a9 represents a promising clinical candidate for treating IFIs.",
+      "abstractZh": "由于治疗选择有限和唑类耐药性不断上升，侵袭性真菌感染（IFI）仍然是全球主要健康威胁。 NT-a9 是一种新型三唑类抗真菌药，通过强烈抑制麦角甾醇生物合成，对念珠菌和隐球菌具有有效活性。在体外，NT-a9 对临床分离株表现出有效且持续的抗真菌活性，其效力优于氟康唑 (FLC)。它还对大多数念珠菌表现出持久的后抗真菌作用 (PAFE)，这是传统唑类药物中罕见的特性。耐药性分析表明，NT-a9 具有较高的遗传屏障，在连续暴露 28 天的过程中，可以完全抑制隐球菌属中耐药突变体的出现，并在白色念珠菌中保持稳定的敏感性。 NT-a9 保留了针对 FLC 耐药性新型隐球菌和多重耐药性耳念珠菌的有效活性，且药物流出机制的影响极小。在小鼠侵袭性念珠菌病中，单次低剂量 NT-a9 实现了 100% 存活，并显着降低了肾脏真菌负担，显着优于 FLC。 NT-a9 还显着提高了感染机智小鼠的存活率",
+      "url": "https://doi.org/10.1128/aac.00768-26",
+      "sourceUrl": "https://doi.org/10.1128/aac.00768-26",
+      "citationCount": 0,
+      "relevanceScore": 63,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Data-driven optimization of siderophore fermentation by &lt;i&gt;Bacillus altitudinis&lt;/i&gt; AS19 and investigation of AS19's antifungal properties against &lt;i&gt;Candida albicans&lt;/i&gt;.",
       "titleZh": "数据驱动的<i>Bacillus altitudinis</i> AS19铁载体发酵优化以及AS19对<i>白色念珠菌</i>的抗真菌特性的研究。",
       "journal": "Applied and environmental microbiology",
@@ -281,6 +376,52 @@
       "journalScore": 34,
       "journalQuartile": "Q4",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The OsWRKY15-OsSUT3 Regulatory Module Enhances Rice Pollen Fertility by Mediating Sucrose Allocation to Anthers.",
+      "titleZh": "OsWRKY15-OsSUT3 调控模块通过调节蔗糖向花药的分配来增强水稻花粉的育性。",
+      "journal": "Plant biotechnology journal",
+      "targetJournal": "全部收录期刊",
+      "issn": "1467-7644",
+      "eissn": "1467-7652",
+      "year": 2026,
+      "date": "2026-08-04",
+      "authors": "Li Q, Zhang C, Wang S, Chen J, Sun Y, Ma W, Yong Y, Yang Q, Chen L, Wen J, Li D.",
+      "doi": "10.1111/pbi.70738",
+      "doiUrl": "https://doi.org/10.1111/pbi.70738",
+      "pmid": "42552817",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42552817/",
+      "pmcid": "",
+      "abstract": "Sucrose transport and starch accumulation are crucial carbohydrate metabolic processes in rice, playing essential roles during late pollen development to ensure pollen maturation, fertility and high grain production. However, the molecular mechanisms regulating sucrose transport and starch accumulation during rice pollen development remain elusive. In this study, we bred and characterized a semi-fertile rice pollen variant, sfp10, which is derived from highland terraced red rice from Yunnan, China. This variant showed insufficient starch accumulation in pollen, reduced pollen fertility and decreased seed setting compared to the wild type. Using map-based cloning, CRISPR/Cas9 mutagenesis and gene complementation, the OsSUT3 gene, which causes the sfp10 variant, was shown to encode a sucrose transporter (SUT) that transports sucrose into pollen for starch synthesis, ensuring pollen viability and fertility. Additionally, transcriptome analysis identified OsWRKY15, a WRKY transcription factor that exhibits a highly similar spatiotemporal expression pattern to OsSUT3 in late-developing panicles. Yeast one-hybrid, EMSA, dual-luciferase reporter and ChIP-seq assays demonstrated that OsWRKY15 directly binds to the promoter region of OsSUT3 and upregulates its expression. Mutation of OsWRKY15 significantly reduced OsSUT3 expression and impaired pollen fertility and seed setting and these defects were further exacerbated in the wrky15/OsSUT3-KO double-knockout lines, while OsSUT3 overexpression in the wrky15 background significantly rescued pollen fertility and seed setting. These findings demonstrate that the OsWRKY15-OsSUT3 regulatory module is essential for sucrose transport and starch accumulation during late pollen development in rice, providing new insights into the transcriptional regulation of carbon allocation to anthers for rice fertility and grain production.",
+      "abstractZh": "蔗糖运输和淀粉积累是水稻中至关重要的碳水化合物代谢过程，在花粉发育后期发挥着重要作用，以确保花粉成熟、育性和高产。然而，水稻花粉发育过程中调节蔗糖运输和淀粉积累的分子机制仍然难以捉摸。在这项研究中，我们培育并鉴定了一种半能育水稻花粉变体 sfp10，它源自中国云南的高原梯田红米。与野生型相比，该变体花粉中淀粉积累不足，花粉育性降低，结籽率降低。通过基于图位的克隆、CRISPR/Cas9 诱变和基因互补，导致 sfp10 变异的 OsSUT3 基因被证明可以编码蔗糖转运蛋白 (SUT)，将蔗糖转运到花粉中进行淀粉合成，确保花粉活力和育性。此外，转录组分析还发现了 OsWRKY15，这是一种 WRKY 转录因子，在发育后期的圆锥花序中表现出与 OsSUT3 高度相似的时空表达模式。酵母单杂交、EMSA、双荧光素酶报告基因和 ChIP-seq 检测表明 OsWRK",
+      "url": "https://doi.org/10.1111/pbi.70738",
+      "sourceUrl": "https://doi.org/10.1111/pbi.70738",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "journalScore": 38,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -678,7 +819,7 @@
       "articleScore": 43,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -870,6 +1011,55 @@
       "journalQuartile": "Q2",
       "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Upper bound on the mutational burden imposed by a CRISPR-Cas9 gene-drive element.",
+      "titleZh": "CRISPR-Cas9 基因驱动元件造成的突变负担的上限。",
+      "journal": "G3 (Bethesda, Md.)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2160-1836",
+      "eissn": "2160-1836",
+      "year": 2026,
+      "date": "2026-08-01",
+      "authors": "Overton MS, Guy SE, Chen X, Martsul A, Carolino K, Akbari OS, Meyer JR, Kryazhimskiy S.",
+      "doi": "10.1093/g3journal/jkaf315",
+      "doiUrl": "https://doi.org/10.1093/g3journal/jkaf315",
+      "pmid": "41706533",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41706533/",
+      "pmcid": "",
+      "abstract": "Homing-based CRISPR-Cas9 gene drives (CCGDs) are powerful tools for genetic control of wild populations, with applications from disease eradication to species conservation. However, Cas9 alone and in a complex with guide RNA can cause double-stranded DNA breaks at off-target sites, which could increase the mutational load and lead to unintended loss-of-heterozygosity (LOH) events. These undesired effects raise potential concerns about the long-term evolutionary safety of CCGDs, but the magnitude of these effects is unknown. To measure how the presence of a CCGD or a Cas9 alone in the genome affects the rates of LOH events and de novo mutations, we carried out a mutation accumulation experiment in yeast Saccharomyces cerevisiae. We found no detectable effects on the genome-wide rates of mutations or LOH events. Our power calculations suggest that CCGD or Cas9 affect these rates by less than 30%, which is much less than natural variation for these traits in yeast. A more detailed examination shows that CCGD or Cas9 may alter the lengths and genomic distributions of LOH events, but the statistical support for these effects is weak. Thus, our results demonstrate that CCGDs impose at most a weak additional mutational burden in the yeast model. Although mutagenic effects of gene drives need to be further evaluated in other systems, our results add credence to the proposition that the evolutionary risks posed by well-designed gene drives may be acceptable.",
+      "abstractZh": "基于归巢的 CRISPR-Cas9 基因驱动 (CCGD) 是野生种群遗传控制的强大工具，其应用范围从疾病根除到物种保护。然而，单独的 Cas9 以及与引导 RNA 的复合物可能会导致脱靶位点的双链 DNA 断裂，这可能会增加突变负荷并导致意外的杂合性丢失 (LOH) 事件。这些不良影响引起了人们对 CCGD 长期进化安全性的潜在担忧，但这些影响的严重程度尚不清楚。为了测量基因组中 CCGD 或 Cas9 的存在如何影响 LOH 事件和从头突变的发生率，我们在酿酒酵母中进行了突变积累实验。我们没有发现对全基因组突变率或 LOH 事件有可检测到的影响。我们的功效计算表明，CCGD 或 Cas9 对这些比率的影响不到 30%，这远小于酵母中这些性状的自然变异。更详细的检查表明 CCGD 或 Cas9 可能会改变 LOH 事件的长度和基因组分布，但这些影响的统计支持很弱。因此，我们的结果表明 CCGD 强加于 mo",
+      "url": "https://doi.org/10.1093/g3journal/jkaf315",
+      "sourceUrl": "https://doi.org/10.1093/g3journal/jkaf315",
+      "citationCount": 1,
+      "relevanceScore": 65,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "CRISPR",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 62,
+      "journalScore": 54,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -1187,7 +1377,7 @@
       "pmid": "42532222",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42532222/",
       "pmcid": "",
-      "abstract": "Aureobasidium melanogenum is a promising non-conventional yeast chassis for synthetic biology. However, techniques recombining large genetic fragments, such as gene clusters, are still unavailable, hindering further metabolic reprogramming in this chassis. To achieve multi-copy integration of genes, we employed highly repetitive ribosomal DNA (rDNA) sequences in A. melanogenum as homologous recombination sites for large genetic fragments. First, integration efficiency of three different regions of A. melanogenum rDNA were investigated: RNA polymerase I promoter region (rDNA1, 1.0kb), partial 26S rDNA region (rDNA2, 1.0kb), and RNA polymerase I terminator region (rDNA3, 1.0kb). Our findings revealed that the highest copy numbers and expression stability were observed for the short heterologous green fluorescent protein gene (gfp, 0.7kb) and the long native polyketide synthase gene (pks, 7.0kb) after rDNA1-mediated integration. Specifically, the copy numbers reached 7.0 and 8.0 for gfp and pks, respectively, and they remained stably expressed in the genome after 120-h subculturing. Furthermore, an 11.0kb gene cluster (comprising the native pks, phosphopantetheinyl transferase (npg1), and scytalone dehydratase genes (scd) responsible for melanin biosynthesis) was integrated at the rDNA1 site, resulting in stable recombination with 15.0 copies and an approximately 12-fold increase in melanin production. Overall, the convenience and efficiency of the proposed rDNA-mediated multi-copy insertion strategy will facilitate superior metabolic engineering of A. melanogenum chassis cells.",
+      "abstract": "Aureobasidium melanogenum is a promising non-conventional yeast chassis for synthetic biology. However, techniques recombining large genetic fragments, such as gene clusters, are still unavailable, hindering further metabolic reprogramming in this chassis. To achieve multi-copy integration of genes, we employed highly repetitive ribosomal DNA (rDNA) sequences in A. melanogenum as homologous recombination sites for large genetic fragments. First, integration efficiency of three different regions of A. melanogenum rDNA were investigated: RNA polymerase I promoter region (rDNA1, 1.0 kb), partial 26S rDNA region (rDNA2, 1.0 kb), and RNA polymerase I terminator region (rDNA3, 1.0 kb). Our findings revealed that the highest copy numbers and expression stability were observed for the short heterologous green fluorescent protein gene (gfp, 0.7 kb) and the long native polyketide synthase gene (pks, 7.0 kb) after rDNA1-mediated integration. Specifically, the copy numbers reached 7.0 and 8.0 for gfp and pks, respectively, and they remained stably expressed in the genome after 120-h subculturing. Furthermore, an 11.0 kb gene cluster (comprising the native pks, phosphopantetheinyl transferase (npg1), and scytalone dehydratase genes (scd) responsible for melanin biosynthesis) was integrated at the rDNA1 site, resulting in stable recombination with 15.0 copies and an approximately 12-fold increase in melanin production. Overall, the convenience and efficiency of the proposed rDNA-mediated multi-copy insertion strategy will facilitate superior metabolic engineering of A. melanogenum chassis cells.",
       "abstractZh": "Aureobasidium melanogenum 是一种有前途的合成生物学非传统酵母底盘。然而，重组大型遗传片段（例如基因簇）的技术仍然不可用，阻碍了该底盘中进一步的代谢重编程。为了实现基因的多拷贝整合，我们采用 A. melanogenum 中高度重复的核糖体 DNA (rDNA) 序列作为大基因片段的同源重组位点。首先，研究了 A. melanogenum rDNA 三个不同区域的整合效率：RNA 聚合酶 I 启动子区域（rDNA1，1.0kb）、部分 26S rDNA 区域（rDNA2，1.0kb）和 RNA 聚合酶 I 终止子区域（rDNA3，1.0kb）。我们的研究结果表明，在 rDNA1 介导的整合后，短异源绿色荧光蛋白基因（gfp，0.7kb）和长天然聚酮合酶基因（pks，7.0kb）观察到最高的拷贝数和表达稳定性。具体来说，gfp和pks的拷贝数分别达到7.0和8.0，并且在传代120小时后在基因组中保持稳定表达。此外，一个 11.0kb 基因簇（包含天然 pks、磷酸泛酰转移酶 (npg1)、",
       "url": "https://doi.org/10.1016/j.jbiotec.2026.07.010",
       "sourceUrl": "https://doi.org/10.1016/j.jbiotec.2026.07.010",
@@ -1709,6 +1899,52 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Decoding the thermocyclic solar-driven fermentation: Multi-omics insights into microbial and metabolic dynamics of traditional Chishui river basin soy sauce.",
+      "titleZh": "解码热循环太阳能驱动发酵：传统赤水河流域酱油微生物和代谢动力学的多组学见解。",
+      "journal": "Food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "1873-7072",
+      "eissn": "1873-7072",
+      "year": 2026,
+      "date": "2026-07-28",
+      "authors": "Deng WQ, Lu ZM, Li XB, Fan ZY, Li T, Zhang XJ, Chai LJ, Xu HY, Zhang QS, Shi JS, Chen G, Xu ZH.",
+      "doi": "10.1016/j.foodchem.2026.150595",
+      "doiUrl": "https://doi.org/10.1016/j.foodchem.2026.150595",
+      "pmid": "42551151",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42551151/",
+      "pmcid": "",
+      "abstract": "Traditional Chishui River Basin soy sauce is produced through prolonged solar-cycle fermentation under diurnal temperature fluctuations and moisture absorption. Here, we employed integrated metagenomic and metabolomic analyses to investigate microbial and metabolic dynamics throughout fermentation. Results revealed a three-phase microbial succession: initial fungal-hydrolytic phase dominated by Aspergillus oryzae (82.28%), marked by proteolysis and amino acid accumulation; transitional phase enriched with Weissella (23.45%) and Zygosaccharomyces rouxii (5.85%), producing organic acids, esters, and maillard intermediates; maturation phase dominated by Bacillus (86.48%), associated with sharp increases in umami-enhancing peptides, pyrazines (e.g., tetramethylpyrazine), and phenolic compounds (e.g., 4-ethylguaiacol). Extended sun exposure selects for Bacillus dominance, allows sufficient time for slow chemical reactions, and enriches the volatile profile with stable pyrazines and phenolic compounds. These findings validate the flavor and mechanisms of traditional Chishui River Basin soy sauce and offer strategies for fermentation optimization via environmental and microbial regulation while maintaining product authenticity.",
+      "abstractZh": "赤水河流域传统酱油是在昼夜温差和吸湿条件下，经过长时间日光循环发酵而成。在这里，我们采用综合宏基因组和代谢组分析来研究整个发酵过程中的微生物和代谢动力学。结果揭示了微生物演替的三个阶段：初始真菌水解阶段以米曲霉（82.28%）为主，以蛋白水解和氨基酸积累为标志；富含Weissella (23.45%) 和Zygosaccharomyces rouxii (5.85%) 的过渡相，产生有机酸、酯和美拉德中间体；成熟阶段以芽孢杆菌为主（86.48％），与鲜味增强肽、吡嗪（例如四甲基吡嗪）和酚类化合物（例如4-乙基愈创木酚）的急剧增加有关。长时间的阳光照射会选择芽孢杆菌的优势，为缓慢的化学反应提供足够的时间，并通过稳定的吡嗪和酚类化合物丰富挥发性成分。这些研究结果验证了赤水河流域传统酱油的风味和机制，并为通过环境和微生物调控优化发酵提供策略",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.150595",
+      "sourceUrl": "https://doi.org/10.1016/j.foodchem.2026.150595",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 18,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Efficient high-temperature simultaneous saccharification and fermentation of lignocellulosic substrates enabled by engineering thermotolerance in an enzyme-secreting industrial Saccharomyces cerevisiae strain.",
       "titleZh": "通过对分泌酶的工业酿酒酵母菌株进行耐热性改造，实现木质纤维素底物的高效高温同步糖化和发酵。",
       "journal": "Bioresource technology",
@@ -2099,7 +2335,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2549,7 +2785,7 @@
       "articleScore": 43,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6848,7 +7084,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14624,7 +14860,7 @@
       "articleScore": 55,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18094,7 +18330,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23711,7 +23947,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23815,7 +24051,7 @@
       "articleScore": 49,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24152,7 +24388,7 @@
       "articleScore": 49,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25980,7 +26216,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26917,7 +27153,7 @@
       "articleScore": 55,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31175,7 +31411,7 @@
       "articleScore": 55,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34341,7 +34577,7 @@
       "articleScore": 43,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36220,9 +36456,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 39,
+      "journalScore": 38,
       "journalQuartile": "Q3",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37256,7 +37492,7 @@
       "articleScore": 57,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38447,7 +38683,7 @@
       "articleScore": 49,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39335,7 +39571,7 @@
       "articleScore": 57,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39384,7 +39620,7 @@
       "articleScore": 43,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 17,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40818,9 +41054,9 @@
       ],
       "included": true,
       "articleScore": 63,
-      "journalScore": 53,
+      "journalScore": 54,
       "journalQuartile": "Q1",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44594,10 +44830,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 1,
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -46210,9 +46446,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 937 篇",
-    "lastStartedAt": "2026-08-05T10:17:46.789Z",
-    "lastFinishedAt": "2026-08-05T10:18:54.987Z",
+    "lastMessage": "更新完成，共 942 篇",
+    "lastStartedAt": "2026-08-06T10:20:01.470Z",
+    "lastFinishedAt": "2026-08-06T10:20:59.841Z",
     "nextRunAt": null,
     "progress": 100
   }
