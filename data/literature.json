@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T10:20:59.841Z",
+  "updatedAt": "2026-08-07T06:05:09.196Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -144,6 +144,58 @@
   },
   "articles": [
     {
+      "title": "Pulcherriminic acid as an antibiofilm effector: expanding &lt;i&gt;Bacillus&lt;/i&gt; functionality against yeast biofilms.",
+      "titleZh": "Pulcherriminic 酸作为抗生物膜效应物：扩展芽孢杆菌针对酵母生物膜的功能。",
+      "journal": "Journal of bacteriology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-9193",
+      "eissn": "1098-5530",
+      "year": 2026,
+      "date": "2026-08-06",
+      "authors": "Srinivasan R, Saravanan TS, Utpat S, Shemesh M, Rajasekharan SK.",
+      "doi": "10.1128/jb.00184-26",
+      "doiUrl": "https://doi.org/10.1128/jb.00184-26",
+      "pmid": "42560306",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42560306/",
+      "pmcid": "",
+      "abstract": "Pathogenic and persistent biofilms are a major challenge in medicine and industry, acting as resilient microbial communities that resist antibiotics and cause persistent infections. In this review, we discuss pulcherriminic acid, a promising iron-chelating molecule produced by antagonistic Bacillus subtilis as a natural weapon against persistent biofilms, particularly those formed by pathogens such as Candida albicans. Drawing on recent research, we explore pulcherriminic acid biosynthesis, its native mechanism of depriving fungi of essential iron to disrupt their growth and virulence, and innovative methods to enhance its production through metabolic engineering. We also highlight its potential applications, from fighting infections to serving as a biocontrol agent in agriculture and even as a natural preservative in food. By harnessing this Bacillus-derived metabolite, we suggest sustainable ideas for tackling antibiotic resistance and persistent biofilm-related problems.",
+      "abstractZh": "致病性和持久性生物膜是医学和工业领域的一个重大挑战，它作为具有抵抗抗生素并导致持续感染的弹性微生物群落。在这篇综述中，我们讨论了普切米尼酸，这是一种由拮抗性枯草芽孢杆菌产生的有前途的铁螯合分子，作为对抗持久性生物膜的天然武器，特别是由白色念珠菌等病原体形成的生物膜。根据最近的研究，我们探索了普彻米尼酸的生物合成、其剥夺真菌必需铁以破坏其生长和毒力的天然机制，以及通过代谢工程提高其产量的创新方法。我们还强调了它的潜在应用，从对抗感染到用作农业生物防治剂，甚至用作食品中的天然防腐剂。通过利用这种芽孢杆菌衍生的代谢物，我们提出了解决抗生素耐药性和持续存在的生物膜相关问题的可持续想法。",
+      "url": "https://doi.org/10.1128/jb.00184-26",
+      "sourceUrl": "https://doi.org/10.1128/jb.00184-26",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "念珠菌",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Evolution-guided yeast complementation reveals functional differences in human PSPH variants.",
       "titleZh": "进化引导的酵母互补揭示了人类 PSPH 变体的功能差异。",
       "journal": "FEBS open bio",
@@ -193,7 +245,59 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "NT-A9, a new triazole, exhibits potent antifungal activity against Candida and Cryptococcus species through potent ergosterol biosynthesis inhibition.",
+      "title": "Life beyond 6,000 genes: From sequence to synthesis in a post-genomics era.",
+      "titleZh": "6000 个基因之外的生命：后基因组时代从序列到合成。",
+      "journal": "FEMS yeast research",
+      "targetJournal": "全部收录期刊",
+      "issn": "1567-1356",
+      "eissn": "1567-1364",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Walker RSK, Archer E, Erpf P, Paulsen IT, Pretorius IS.",
+      "doi": "10.1093/femsyr/foag034",
+      "doiUrl": "https://doi.org/10.1093/femsyr/foag034",
+      "pmid": "42556387",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42556387/",
+      "pmcid": "",
+      "abstract": "The publication of the Saccharomyces cerevisiae genome sequence thirty years ago marked a defining shift in modern biology, establishing yeast as the first fully sequenced eukaryotic model cell. Access to a complete reference genome has catalysed a renaissance in experimental biology, providing the foundation for advances in functional genomics, systems biology, synthetic biology, and biotechnology. This article celebrates the achievements of the yeast sequencing project and highlights how genomics has evolved from a descriptive resource into a central enabling infrastructure for engineering biology, leading to a post-genomic era defined by genome-scale design. We chart the progression from decoding the genome to the omics revolution, highlighting both recent discoveries and persistent enigmas surrounding the 'dark matter' of the yeast genome. We then describe how access to a well-annotated reference genome has culminated in a new era of synthetic genomics exemplified by the Sc2.0 project. Finally, we explore how emerging trends in artificial intelligence and bioelectronics may shape the next thirty years of yeast genomics and engineering biology. This integration of past achievements and future trajectories reinforces the enduring role of S. cerevisiae as a primary eukaryotic model for biological discovery and biotechnological innovation.",
+      "abstractZh": "三十年前酿酒酵母基因组序列的发表标志着现代生物学的一个决定性转变，将酵母确立为第一个完全测序的真核模型细胞。完整参考基因组的获取促进了实验生物学的复兴，为功能基因组学、系统生物学、合成生物学和生物技术的进步奠定了基础。本文庆祝酵母测序项目的成就，并强调基因组学如何从描述性资源发展成为工程生物学的核心支持基础设施，从而引领由基因组规模设计定义的后基因组时代。我们描绘了从解码基因组到组学革命的进展，强调了围绕酵母基因组“暗物质”的最新发现和持续存在的谜团。然后，我们描述了如何获得注释良好的参考基因组，从而开创了以 Sc2.0 项目为例的合成基因组学新时代。最后，我们探讨了人工智能和生物电子学的新兴趋势如何塑造未来三十年的酵母基因组学和工程生物学。这种对过去成就的整合",
+      "url": "https://doi.org/10.1093/femsyr/foag034",
+      "sourceUrl": "https://doi.org/10.1093/femsyr/foag034",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "合成基因组"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "合成生物学",
+        "合成基因组"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "合成基因组"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "NT-A9, a new triazole, exhibits potent antifungal activity against &lt;i&gt;Candida&lt;/i&gt; and &lt;i&gt;Cryptococcus&lt;/i&gt; species through potent ergosterol biosynthesis inhibition.",
       "titleZh": "NT-A9 是一种新型三唑，通过有效抑制麦角甾醇生物合成，对念珠菌和隐球菌表现出有效的抗真菌活性。",
       "journal": "Antimicrobial agents and chemotherapy",
       "targetJournal": "全部收录期刊",
@@ -236,6 +340,156 @@
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0.5,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The genotoxic stress-inducible gene &lt;i&gt;GEI1(Orf19.3109)&lt;/i&gt; is a repressor of virulence in &lt;i&gt;Candida albicans&lt;/i&gt;.",
+      "titleZh": "基因毒性应激诱导基因 <i>GEI1(Orf19.3109)</i> 是白色念珠菌</i>毒力的抑制因子。",
+      "journal": "Virulence",
+      "targetJournal": "全部收录期刊",
+      "issn": "2150-5594",
+      "eissn": "2150-5608",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Zhou Y, Gao W, Feng Y, Tang X, Jin Y, Feng J.",
+      "doi": "10.1080/21505594.2026.2715230",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2715230",
+      "pmid": "42557784",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42557784/",
+      "pmcid": "",
+      "abstract": "Transcriptional reprogramming under genotoxic stress is essential for the survival and pathogenesis of Candida albicans. While many DNA damage response (DDR) genes are well-characterized, the functions of pathogen-specific, stress-inducible genes remain poorly understood. Here, we characterized GEI1 (Orf19.3109), a gene significantly induced by genotoxic agents and oxidative stress, which lacks a clear ortholog in Saccharomyces cerevisiae. Interestingly, although GEI1 expression is triggered by DNA damage stress, its deletion does not impair genotoxin tolerance. Instead, the gei1Δ mutant shows increased resistance to oxidative stress, characterized by reduced intracellular reactive oxygen species (ROS) accumulation. Furthermore, loss of GEI1 leads to hyper-secretion of extracellular aspartyl proteases (Saps) and results in a hypervirulence phenotype in the Galleria mellonella infection model. Transcriptomic profiling and CRISPR-interference (CRISPRi) assays revealed that loss of GEI1 function triggers the hyperactivation of antioxidant defenses and protease secretion. We demonstrate that the hypervirulence of the gei1Δ mutant is primarily driven by the transcriptional derepression of SAP1, SAP3, SAP5 and the putative alcohol dehydrogenase ADH4. Repression of these downstream effectors in the gei1Δ background reduced protease secretion and restored virulence to wild-type levels. Overall, our findings uncouple transcriptional induction from conventional DNA repair functions and reveal a novel regulatory checkpoint where GEI1 links genotoxic stress signaling to the suppression of key pathogenic traits, highlighting a complex strategy by which C. albicans balances stress adaptation and virulence control.",
+      "abstractZh": "基因毒性应激下的转录重编程对于白色念珠菌的生存和发病机制至关重要。虽然许多 DNA 损伤反应 (DDR) 基因已得到充分表征，但对病原体特异性、应激诱导基因的功能仍知之甚少。在这里，我们表征了 GEI1 (Orf19.3109)，这是一种由基因毒性剂和氧化应激显着诱导的基因，在酿酒酵母中缺乏明确的直向同源物。有趣的是，尽管 GEI1 表达是由 DNA 损伤应激触发的，但其缺失并不会损害基因毒素耐受性。相反，gei1Δ突变体表现出对氧化应激的抵抗力增强，其特点是细胞内活性氧（ROS）积累减少。此外，GEI1 的缺失会导致细胞外天冬氨酰蛋白酶 (Saps) 的过度分泌，并导致大蜡螟感染模型中的高毒力表型。转录组分析和 CRISPR 干扰 (CRISPRi) 分析表明，GEI1 功能的丧失会触发抗氧化防御和蛋白酶分泌的过度激活。我们证明gei1Δ突变体的高毒力主要是由转录去阻遏驱动的",
+      "url": "https://doi.org/10.1080/21505594.2026.2715230",
+      "sourceUrl": "https://doi.org/10.1080/21505594.2026.2715230",
+      "citationCount": 0,
+      "relevanceScore": 69,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 58,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The Slt2-Swi6 signaling pathway plays a pivotal role in regulating cell wall biosynthesis, secondary metabolite production, and the pathogenicity of pear fungal &lt;i&gt;A. alternata&lt;/i&gt;.",
+      "titleZh": "Slt2-Swi6信号通路在调节细胞壁生物合成、次生代谢产物产生和梨真菌<i>A的致病性中发挥着关键作用。链格孢属。",
+      "journal": "Virulence",
+      "targetJournal": "全部收录期刊",
+      "issn": "2150-5594",
+      "eissn": "2150-5608",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Li R, Liu Y, Li L, Zhang Y, Wang X, Ji X, Zhang M, Zong Y, Bi Y, Li Y.",
+      "doi": "10.1080/21505594.2026.2715208",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2715208",
+      "pmid": "42557790",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42557790/",
+      "pmcid": "",
+      "abstract": "The cell wall integrity (CWI) MAPK signal pathway is crucial for the assembly of fungal cell walls and their associated virulence, as it activates the expression of the downstream transcription factors Mbp1, Swi6 and RlmA. However, the transcription factors directly regulated by this pathway in Alternaria alternata have yet to be identified. In this study, we delineated the functional roles of two transcription factors, AaSwi6 and AaMbp1, through targeted gene deletion. Disruption of either gene resulted in impaired hyphal extension, reduced mycelial accumulation, decreased conidiation, altered differentiation of infection structures, and impaired melanin synthesis. Furthermore, when compared to the WT, the levels of alternariol (AOH), alternariol monomethyl ether (AME), and tenuazonic acid (TeA) toxins in the two ΔAaSwi6 and ΔAaMbp1 mutants decreased by 63.98% and 86.32%, 36.71% and 82.85% and 33.28% and 33%, respectively. These defects were correlated with diminished virulence on tomato and pear fruit. Compositional analysis of the cell wall composition indicated that the deletion of AaSwi6 resulted in decreased levels of chitin, glucan, and mannan, whereas the deletion of AaMbp1 led to reduced levels of chitin and mannan. Yeast two-hybrid experiments further demonstrated that the MAPK kinase AaSlt2 physically interacted with downstream partners AaSwi6 and AaRlmA, and that AaSwi6 also interacted with AaMbp1 and AaRlmA. In conclusion, our study identifies a physical interaction between AaSlt2 and Swi6/RlmA, suggesting that these components are critical for cell wall synthesis. The finding advances our understanding the pathogenic mechanisms of A. alternata and proposes potential strategies for controlling postharvest diseases.",
+      "abstractZh": "细胞壁完整性 (CWI) MAPK 信号通路对于真菌细胞壁的组装及其相关毒力至关重要，因为它激活下游转录因子 Mbp1、Swi6 和 RlmA 的表达。然而，在链格孢中受该途径直接调节的转录因子尚未确定。在这项研究中，我们通过靶向基因删除描述了两种转录因子 AaSwi6 和 AaMbp1 的功能作用。任一基因的破坏都会导致菌丝延伸受损、菌丝积累减少、分生孢子减少、感染结构分化改变以及黑色素合成受损。此外，与WT相比，ΔAaSwi6和ΔAaMbp1两个突变体中的交链孢醇（AOH）、交链孢醇单甲醚（AME）和特纽阿桑酸（TeA）毒素的水平分别降低了63.98%和86.32%、36.71%和82.85%以及33.28%和33%。这些缺陷与番茄和梨果实毒力的减弱相关。细胞壁成分的组成分析表明，AaSwi6 的缺失导致几丁质、葡聚糖和甘露聚糖的水平降低，而 AaMbp1 的缺失",
+      "url": "https://doi.org/10.1080/21505594.2026.2715208",
+      "sourceUrl": "https://doi.org/10.1080/21505594.2026.2715208",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The transcription factor DhDOF5 regulates mannose biosynthesis in Dendrobium huoshanense under low-temperature and water-deficit stress.",
+      "titleZh": "转录因子DhDOF5在低温缺水胁迫下调控霍山石斛兰的甘露糖生物合成。",
+      "journal": "International journal of biological macromolecules",
+      "targetJournal": "全部收录期刊",
+      "issn": "0141-8130",
+      "eissn": "1879-0003",
+      "year": 2026,
+      "date": "2026-08-05",
+      "authors": "Wang C, Wang S, Guan J, Hao M, Khan H, Peng D, Xing S.",
+      "doi": "10.1016/j.ijbiomac.2026.153958",
+      "doiUrl": "https://doi.org/10.1016/j.ijbiomac.2026.153958",
+      "pmid": "42556679",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42556679/",
+      "pmcid": "",
+      "abstract": "Transcription factor proteins are important biological macromolecules that regulate plant metabolic pathways and stress responses. In Dendrobium huoshanense C. Z. Tang et S. J. Cheng, mannose biosynthesis is closely related to polysaccharide accumulation, however, the protein-level regulators involved in this process remain poorly understood. In this study, a Dof family transcription factor protein, DhDOF5, was identified as a candidate regulator of DhPMM, a key enzyme gene involved in mannose biosynthesis. Bioinformatic and structural analyses showed that DhDOF5 contains a highly conserved Dof DNA-binding domain, supporting its potential function as a transcription factor protein. Yeast one-hybrid and electrophoretic mobility shift assays further confirmed that DhDOF5 directly binds to the DhPMM promoter. Functional analysis in transgenic Arabidopsis thaliana showed that DhDof5 enhanced tolerance to low-temperature and water-deficit stress and promoted polysaccharide accumulation. These findings provide direct evidence that DhDOF5 functions as a DNA-binding transcription factor protein involved in the regulation of mannose biosynthesis under abiotic stress. This study highlights a functional biological macromolecule linking transcriptional regulation with polysaccharide metabolism in D. huoshanense. SIGNIFICANCE STATEMENT: This study characterizes DhDOF5 as a transcription factor protein macromolecule that binds to the DhPMM promoter and contributes to stress-associated polysaccharide accumulation in Dendrobium huoshanense.",
+      "abstractZh": "转录因子蛋白是调节植物代谢途径和胁迫反应的重要生物大分子。在霍山石斛中，甘露糖生物合成与多糖积累密切相关，然而，参与这一过程的蛋白质水平调节因子仍知之甚少。在这项研究中，Dof 家族转录因子蛋白 DhDOF5 被确定为 DhPMM 的候选调节因子，DhPMM 是参与甘露糖生物合成的关键酶基因。生物信息学和结构分析表明，DhDOF5 含有高度保守的 Dof DNA 结合域，支持其作为转录因子蛋白的潜在功能。酵母单杂交和电泳迁移率变动分析进一步证实 DhDOF5 直接结合 DhPMM 启动子。转基因拟南芥的功能分析表明，DhDof5 增强了对低温和缺水胁迫的耐受性，并促进多糖积累。这些发现提供了直接证据，表明 DhDOF5 作为 DNA 结合转录因子蛋白参与非生物胁迫下甘露糖生物合成的调节。这项研究强调了",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153958",
+      "sourceUrl": "https://doi.org/10.1016/j.ijbiomac.2026.153958",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 14,
+      "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -327,9 +581,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 48,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -532,7 +786,7 @@
       "eissn": "1872-8006",
       "year": 2026,
       "date": "2026-08-03",
-      "authors": "Trujilho MNR, de Azevedo Maffeis Dalzoto L, Dos Reis Santos T, Duarte ACM, Leme ER, Marcondes MF, de Souza Judice WA, Machado MFM.",
+      "authors": "Trujilho MNR, Dalzoto LAM, Santos TDR, Duarte ACM, Leme ER, Marcondes MF, Judice WAS, Machado MFM.",
       "doi": "10.1016/j.bbagen.2026.130985",
       "doiUrl": "https://doi.org/10.1016/j.bbagen.2026.130985",
       "pmid": "42546851",
@@ -673,9 +927,9 @@
       ],
       "included": true,
       "articleScore": 63,
-      "journalScore": 48,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2579,7 +2833,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -4559,9 +4813,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4823,7 +5077,7 @@
       "abstractZh": "约 3,000 种单萜吲哚生物碱 (MIA)（包括抗癌药物长春花碱）的生物合成涉及高度不稳定的中间体胡豆素苷元。它由胡豆苷 β-葡萄糖苷酶 (SGD) 形成，随后由盖豆蓼合酶 (GS) 转化，发生在空间分离的区室中，这是主要的生物合成瓶颈。在这里，我们发现了 VinBLAST，一种类似肉桂醇脱氢酶的蛋白质，被重新用作有效加工这种不稳定中间体的支架。 VinBLAST 以物理方式介导细胞核中的 SGD 和 GS 相互作用，并以变构方式增强 GS 催化效率。来自不同植物科的 VinBLAST 同源物增强了几种代表性 MIA 的生物合成，酵母中长春质的产量增加至约 160 mg L-1，比之前的研究高出近 1,000 倍。我们的发现提供了组织 MIA 生物合成中缺失的一环，并实现了Geissoschizine 衍生疗法的可扩展生物生产。",
       "url": "https://doi.org/10.1126/science.aeb0357",
       "sourceUrl": "https://doi.org/10.1126/science.aeb0357",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -4843,11 +5097,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
+      "articleScore": 55,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -4890,9 +5144,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8044,7 +8298,7 @@
       "abstractZh": "对发酵食品生产过程中涉及的微生物生态系统的详细描述至关重要。尽管发酵食品是人类饮食的重要组成部分，并且如今越来越受到人们的关注，但仍然存在一些挑战需要解决。具体来说，通过独立于培养物的方法进行的酵母鉴定仍然局限于属水平。与细菌物种鉴定不同，长读长测序技术几乎没有用于酵母物种鉴定，而且据作者所知，它尚未通过反映食品发酵过程的模拟群落进行验证。因此，在当前的研究中，我们使用 PacBio HiFi 测序平台，提出了一种基于扩增子的元条形码方法，针对包含 ITS1、5.8S rRNA 基因和 ITS2 的全长内部转录间隔区 (ITS) 区域。该方法使用基于 DNA 的模拟群落进行了验证，该模拟群落由参与酸面团、朗比克啤酒和可可发酵过程的酵母物种组成。大多数物种实现了准确的物种级别鉴定。然而，应特别注意富含酵母菌的ni",
       "url": "https://doi.org/10.1128/spectrum.00060-26",
       "sourceUrl": "https://doi.org/10.1128/spectrum.00060-26",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 63,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -8064,7 +8318,7 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
+      "articleScore": 61,
       "journalScore": 45,
       "journalQuartile": "Q1",
       "journalArticleCount": 7,
@@ -8700,7 +8954,7 @@
       "included": true,
       "articleScore": 53,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -10016,10 +10270,10 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 44,
+      "journalScore": 51,
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -11737,9 +11991,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11839,7 +12093,7 @@
       "included": true,
       "articleScore": 45,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -12534,6 +12788,52 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Transcription factor ZdWRKY1 positively promotes the biosynthesis of isoquinoline alkaloids in &lt;i&gt;Zanthoxylum dissitum&lt;/i&gt; Hemsl.",
+      "titleZh": "转录因子ZdWRKY1正向促进花椒异喹啉生物碱的生物合成。",
+      "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0971-5894",
+      "eissn": "0974-0430",
+      "year": 2026,
+      "date": "2026-06-20",
+      "authors": "Zhang C, Wang Y, An T, Chen M, Liu W, Zhou F, Chen X, Sun J, Liu J.",
+      "doi": "10.1007/s12298-026-01780-w",
+      "doiUrl": "https://doi.org/10.1007/s12298-026-01780-w",
+      "pmid": "42558613",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42558613/",
+      "pmcid": "",
+      "abstract": "Zanthoxylum dissitum Hemsl. (Zanthoxylum) is a traditional Chinese medicine plant usually used to treat gynecological diseases, and isoquinoline alkaloids (IQA) are its most valuable components. In this study, the WRKY transcription factor ZdWRKY1 was identified from Zanthoxylum, and its role in regulating IQA biosynthesis was investigated. Transcriptomic analysis revealed that the expression of ZdWRKY1 was positively correlated with the transcript levels of multiple key IQA biosynthetic genes, including ZdNCS, Zd4'OMT, Zd6OMT, ZdBBE, ZdDBOX, and ZdRNMT. Overexpression of ZdWRKY1 in transgenic hairy roots increased total alkaloid yield by 1.45-fold (15.07 mg/g) and magnoflorine by 1.37-fold (289.68 µg/g) compared to controls. Dual-luciferase reporter and yeast one-hybrid assays further confirmed that ZdWRKY1 activates the transcription of Zd4'OMT by binding to the W-box element in its promoter, thereby regulating the accumulation of IQA.Supplementary informationThe online version contains supplementary material available at 10.1007/s12298-026-01780-w.",
+      "abstractZh": "花椒 Hemsl。花椒是一种常用来治疗妇科疾病的中药植物，异喹啉生物碱（IQA）是其最有价值的成分。本研究从花椒中鉴定出 WRKY 转录因子 ZdWRKY1，并研究了其在调节 IQA 生物合成中的作用。转录组分析显示，ZdWRKY1的表达与多个关键IQA生物合成基因的转录水平呈正相关，包括ZdNCS、Zd4'OMT、Zd6OMT、ZdBBE、ZdDBOX和ZdRNMT。与对照相比，转基因毛状根中 ZdWRKY1 的过表达使总生物碱产量增加了 1.45 倍（15.07 mg/g），木兰花碱产量增加了 1.37 倍（289.68 µg/g）。双荧光素酶报告基因和酵母单杂交检测进一步证实，ZdWRKY1 通过与其启动子中的 W-box 元件结合来激活 Zd4'OMT 的转录，从而调节 IQA 的积累。补充信息在线版本包含可在 10.1007/s12298-026-01780-w 获取的补充材料。",
+      "url": "https://doi.org/10.1007/s12298-026-01780-w",
+      "sourceUrl": "https://doi.org/10.1007/s12298-026-01780-w",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "A plug-and-play cytochrome P450 system enables de novo biosynthesis of 2-phenylethanol derivatives.",
       "titleZh": "即插即用的细胞色素 P450 系统能够实现 2-苯基乙醇衍生物的从头生物合成。",
       "journal": "Metabolic engineering",
@@ -12984,7 +13284,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14174,9 +14474,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15192,7 +15492,7 @@
       "abstractZh": "线粒体通过与其他细胞器的直接和间接相互作用来调节细胞过程。一个经过充分研究的例子是线粒体相关内质网膜与内质网的接触1，它控制包括氧化还原和钙稳态在内的途径2,3。最近的研究还报道了癌细胞和酵母中线粒体与核膜的直接接触，促进了促生存信号传导 4,5。在这里，我们确定了线粒体和核孔之间的直接相互作用。使用两种无偏蛋白质组筛选（GST pulldown 和 BioID），我们发现 VDAC1 是与丝状核孔蛋白 RANBP2 相互作用的顶级线粒体候选者。体外 RANBP2 CRISPR 敲除、RANBP2 截短或 RANBP2-VDAC1 相互作用氨基酸的定点诱变导致线粒体-细胞核接近度降低以及核 ATP 和磷酸肌酸水平降低。伴随着核磷酸蛋白质组水平的下降以及参与组蛋白修饰、细胞分化和体外转录调节的途径的下调。此外，RANBP2 C 端结构域的缺失",
       "url": "https://doi.org/10.1038/s41586-026-10588-3",
       "sourceUrl": "https://doi.org/10.1038/s41586-026-10588-3",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 50,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -15215,11 +15515,11 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 48,
-      "journalScore": 44,
+      "articleScore": 54,
+      "journalScore": 51,
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -16936,7 +17236,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -20510,9 +20810,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21325,6 +21625,52 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Engineering yeast metabolism for robust bioproduction under industrial conditions.",
+      "titleZh": "对酵母代谢进行改造，以在工业条件下实现稳健的生物生产。",
+      "journal": "Current opinion in biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0958-1669",
+      "eissn": "1879-0429",
+      "year": 2026,
+      "date": "2026-05-23",
+      "authors": "Araújo J, Domingues L.",
+      "doi": "10.1016/j.copbio.2026.103513",
+      "doiUrl": "https://doi.org/10.1016/j.copbio.2026.103513",
+      "pmid": "42172945",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42172945/",
+      "pmcid": "",
+      "abstract": "Yeast industrial bioproduction is often constrained by stress, substrate variability, and metabolic imbalance. This review provides a critical overview of recent advances in engineering yeast metabolism for robust performance under industrial conditions, increasingly defined by the use of renewable and heterogeneous feedstocks, which impose additional physiological and metabolic challenges. We highlight strategies that have gained particular relevance in the current literature, including the engineering of redox homeostasis and central carbon metabolism, detoxification and stress mitigation pathways, and the reduction of metabolic burden. The increasing contribution of systems biology and multi-omics, alongside dynamic and synthetic regulatory strategies, is also addressed. Finally, we explore the potential of naturally robust yeast chassis and outline future directions for resilient, sustainable, and scalable bioproduction systems.",
+      "abstractZh": "酵母工业生物生产常常受到压力、底物变异和代谢失衡的限制。这篇综述对酵母代谢工程的最新进展进行了重要概述，以在工业条件下实现稳健的性能，工业条件下，工业条件下越来越多地通过使用可再生和异质原料来定义，这带来了额外的生理和代谢挑战。我们重点介绍在当前文献中特别相关的策略，包括氧化还原稳态和中心碳代谢的工程、解毒和压力缓解途径以及代谢负担的减轻。还讨论了系统生物学和多组学的日益增长的贡献，以及动态和综合监管策略。最后，我们探索了天然强大的酵母底盘的潜力，并概述了弹性、可持续和可扩展的生物生产系统的未来方向。",
+      "url": "https://doi.org/10.1016/j.copbio.2026.103513",
+      "sourceUrl": "https://doi.org/10.1016/j.copbio.2026.103513",
+      "citationCount": 0,
+      "relevanceScore": 63,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 6,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Evaluation of fermentation performance of yeast strains isolated from Passiflora ligularis.",
       "titleZh": "从西番莲中分离的酵母菌株的发酵性能评价。",
       "journal": "Archives of microbiology",
@@ -21621,52 +21967,6 @@
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 8,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Engineering yeast metabolism for robust bioproduction under industrial conditions.",
-      "titleZh": "对酵母代谢进行改造，以在工业条件下实现稳健的生物生产。",
-      "journal": "Current opinion in biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0958-1669",
-      "eissn": "1879-0429",
-      "year": 2026,
-      "date": "2026-05-22",
-      "authors": "Araújo J, Domingues L.",
-      "doi": "10.1016/j.copbio.2026.103513",
-      "doiUrl": "https://doi.org/10.1016/j.copbio.2026.103513",
-      "pmid": "42172945",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42172945/",
-      "pmcid": "",
-      "abstract": "Yeast industrial bioproduction is often constrained by stress, substrate variability, and metabolic imbalance. This review provides a critical overview of recent advances in engineering yeast metabolism for robust performance under industrial conditions, increasingly defined by the use of renewable and heterogeneous feedstocks, which impose additional physiological and metabolic challenges. We highlight strategies that have gained particular relevance in the current literature, including the engineering of redox homeostasis and central carbon metabolism, detoxification and stress mitigation pathways, and the reduction of metabolic burden. The increasing contribution of systems biology and multi-omics, alongside dynamic and synthetic regulatory strategies, is also addressed. Finally, we explore the potential of naturally robust yeast chassis and outline future directions for resilient, sustainable, and scalable bioproduction systems.",
-      "abstractZh": "酵母工业生物生产常常受到压力、底物变异和代谢失衡的限制。这篇综述对酵母代谢工程的最新进展进行了重要概述，以在工业条件下实现稳健的性能，工业条件下，工业条件下越来越多地通过使用可再生和异质原料来定义，这带来了额外的生理和代谢挑战。我们重点介绍在当前文献中特别相关的策略，包括氧化还原稳态和中心碳代谢的工程、解毒和压力缓解途径以及代谢负担的减轻。还讨论了系统生物学和多组学的日益增长的贡献，以及动态和综合监管策略。最后，我们探索了天然强大的酵母底盘的潜力，并概述了弹性、可持续和可扩展的生物生产系统的未来方向。",
-      "url": "https://doi.org/10.1016/j.copbio.2026.103513",
-      "sourceUrl": "https://doi.org/10.1016/j.copbio.2026.103513",
-      "citationCount": 0,
-      "relevanceScore": 63,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 55,
-      "journalScore": 48,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23394,7 +23694,7 @@
       "abstractZh": "植物不断暴露于各种非生物胁迫下，对生长和产量产生重大负面影响。植物对这些胁迫的适应是由整合的经典植物激素和植物肽激素信号网络控制的，这些信号网络控制着植物生存和适应极端环境的能力。经典植物激素，包括脱落酸、生长素、赤霉素、细胞分裂素、茉莉酸、水杨酸、油菜素类固醇和最近认识的植物褪黑激素，与基于肽的植物激素协同作用，其中C端编码肽（CEP）在协调整个植物的应激感知、信号转导和适应性反应中发挥着重要作用。这些集成网络控制气孔行为、光合作用、渗透剂和抗氧化剂水平、根结构和能量代谢，从而帮助植物维持体内平衡并优化生存，同时在不利条件下维持最小生长。在压力条件下，这些网络不会孤立地运作，而是形成高度动态的、依赖于环境的调节回路，其中每个生理过程同时受到调节",
       "url": "https://doi.org/10.3390/plants15101538",
       "sourceUrl": "https://doi.org/10.3390/plants15101538",
-      "citationCount": 0,
+      "citationCount": 2,
       "relevanceScore": 49,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -23417,7 +23717,7 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 47,
+      "articleScore": 56,
       "journalScore": 44,
       "journalQuartile": "Q1",
       "journalArticleCount": 17,
@@ -26288,7 +26588,7 @@
       "abstractZh": "耐药真菌感染率的上升和固有耐药病原体的出现给临床带来了越来越大的挑战。由于真菌与哺乳动物密切相关，因此开发没有毒性脱靶效应的抗真菌药物非常困难。靶向基因抑制可以模拟药物介导的抑制并揭示基因剂量敏感性，但真菌病原体白色念珠菌的传统方法是劳动密集型且通量低。在这里，我们在白色念珠菌中采用了混合 CRISPR 干扰 (CRISPRi) 筛选，以实现大规模功能基因组分析。我们评估了真菌中保守的 130 个必需基因在人类中没有密切同源物的抑制敏感性，并跨多个途径鉴定了高度剂量敏感的基因。对十种环境条件的筛选揭示了环境依赖性对基因敏感性的影响。将这些实验扩展到两种耐药临床分离株表明，许多健康缺陷在不同遗传背景下都是保守的。因此，CRISPRi 混合筛选能够在白色念珠菌的不同遗传背景中进行快速、大规模的功能基因组学。",
       "url": "https://doi.org/10.1038/s41564-026-02356-w",
       "sourceUrl": "https://doi.org/10.1038/s41564-026-02356-w",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 71,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -26308,11 +26608,11 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 59,
-      "journalScore": 46,
+      "articleScore": 65,
+      "journalScore": 55,
       "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -27326,7 +27626,7 @@
       "abstractZh": "根据靶细胞的遗传或转录特性选择性根除靶细胞在基础研究、医学、生物技术和农业中仍然很重要1-3。对于涉及细菌的应用，CRISPR 核酸酶提供了有前景的选择，因为它们能够进行 RNA 引导的反选择4-7；然而，事实证明，在真核生物中使用这些相同的核酸酶进行反选择具有更大的限制性8-14。在这里，我们展示了 Cas12a2，一种最近发现的 V 型 CRISPR 核酸酶，表现出 RNA 触发的 DNA 粉碎15,16，并能够以可编程和序列特异性消除表达目标转录物的酵母和人类细胞。触发 Cas12a2 会引起双链 DNA 反式断裂，导致细胞死亡。细胞杀伤可以由多种靶转录物激活，没有观察到脱靶激活。利用这种方法，我们选择性地消除携带人乳头瘤病毒的细胞、未能进行基因编辑的细胞或编码 KRAS 中常见致癌点突变的细胞。这些发现扩展了 CRISPR 工具箱，允许根据真核细胞的转录原选择性消除它们",
       "url": "https://doi.org/10.1038/s41586-026-10466-y",
       "sourceUrl": "https://doi.org/10.1038/s41586-026-10466-y",
-      "citationCount": 2,
+      "citationCount": 3,
       "relevanceScore": 64,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -27349,11 +27649,11 @@
         "基因组编辑"
       ],
       "included": true,
-      "articleScore": 65,
-      "journalScore": 44,
+      "articleScore": 67,
+      "journalScore": 51,
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -30431,9 +30731,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32904,7 +33204,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34667,9 +34967,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35105,9 +35405,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36887,9 +37187,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38234,9 +38534,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38485,9 +38785,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39318,9 +39618,9 @@
       ],
       "included": true,
       "articleScore": 52,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40314,7 +40614,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -40623,7 +40923,7 @@
       "included": true,
       "articleScore": 58,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -43271,9 +43571,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46201,9 +46501,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46446,9 +46746,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 942 篇",
-    "lastStartedAt": "2026-08-06T10:20:01.470Z",
-    "lastFinishedAt": "2026-08-06T10:20:59.841Z",
+    "lastMessage": "更新完成，共 948 篇",
+    "lastStartedAt": "2026-08-07T06:03:52.901Z",
+    "lastFinishedAt": "2026-08-07T06:05:09.196Z",
     "nextRunAt": null,
     "progress": 100
   }
