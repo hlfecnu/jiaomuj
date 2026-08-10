@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:52:02.402Z",
+  "updatedAt": "2026-08-10T06:01:22.044Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3163,6 +3163,52 @@
       "journalScore": 37,
       "journalQuartile": "Q3",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Dual roles of polyphenols in modulating red wine aroma: From yeast-derived aroma accumulation to matrix effects on aroma release.",
+      "titleZh": "多酚在调节红酒香气中的双重作用：从酵母衍生的香气积累到香气释放的基质效应。",
+      "journal": "Current research in food science",
+      "targetJournal": "全部收录期刊",
+      "issn": "2665-9271",
+      "eissn": "2665-9271",
+      "year": 2026,
+      "date": "2026-07-27",
+      "authors": "Xu X, Liu Y, Cui D, Li R, Zhang R, Cheng C, Zhang Z, Qi M, Yu K, Duan C, Lan Y.",
+      "doi": "10.1016/j.crfs.2026.101514",
+      "doiUrl": "https://doi.org/10.1016/j.crfs.2026.101514",
+      "pmid": "42569285",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42569285/",
+      "pmcid": "",
+      "abstract": "Polyphenols are well recognized for their roles in wine color and mouthfeel, yet their comprehensive influence on aroma modulation remains poorly understood. Here, a dual-system approach was employed, combining a synthetic grape must fermentation model analyzed by headspace solid-phase microextraction gas chromatography-mass spectrometry (HS-SPME/GC-MS) with a wine matrix system analyzed by static headspace gas chromatography-mass spectrometry (SHS/GC-MS). During synthetic must fermentation, polyphenol supplementation enhanced fermentation kinetics without inhibiting yeast growth, and promoted the accumulation of fatty acid ethyl esters including ethyl hexanoate, ethyl octanoate, and ethyl decanoate. Within the wine matrix, polyphenols exerted structure-dependent effects on ester volatility, suppressing short-chain and acetate esters while enhancing the release of longer-chain ethyl esters. Sensory evaluation across both systems revealed a consistent shift toward a red wine-like aroma profile. These findings demonstrate that polyphenols dually modulate both biosynthetic accumulation and physicochemical release of fruity esters, collectively shaping red wine aroma typicity.",
+      "abstractZh": "多酚因其在葡萄酒颜色和口感中的作用而广为人知，但它们对香气调节的综合影响仍知之甚少。这里采用了双系统方法，将通过顶空固相微萃取气相色谱-质谱（HS-SPME/GC-MS）分析的合成葡萄汁发酵模型与通过静态顶空气相色谱-质谱（SHS/GC-MS）分析的葡萄酒基质系统相结合。在合成葡萄汁发酵过程中，多酚的补充增强了发酵动力学而不抑制酵母生长，并促进了脂肪酸乙酯（包括己酸乙酯、辛酸乙酯和癸酸乙酯）的积累。在葡萄酒基质中，多酚对酯的挥发性产生结构依赖性影响，抑制短链酯和醋酸酯，同时增强长链乙酯的释放。两个系统的感官评估都显示出一致的向红酒般的香气特征的转变。这些发现表明，多酚双重调节果味酯的生物合成积累和物理化学释放，共同塑造红酒的香气典型性。",
+      "url": "https://doi.org/10.1016/j.crfs.2026.101514",
+      "sourceUrl": "https://doi.org/10.1016/j.crfs.2026.101514",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6525,9 +6571,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12914,7 +12960,7 @@
       "included": true,
       "articleScore": 45,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -23664,9 +23710,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34120,7 +34166,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -47267,9 +47313,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 959 篇",
-    "lastStartedAt": "2026-08-09T04:50:58.587Z",
-    "lastFinishedAt": "2026-08-09T04:52:02.402Z",
+    "lastMessage": "更新完成，共 960 篇",
+    "lastStartedAt": "2026-08-10T06:00:08.022Z",
+    "lastFinishedAt": "2026-08-10T06:01:22.044Z",
     "nextRunAt": null,
     "progress": 100
   }
