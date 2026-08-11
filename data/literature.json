@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T06:01:22.044Z",
+  "updatedAt": "2026-08-11T04:56:33.588Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3253,7 +3253,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -8059,8 +8059,8 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "journalScore": 40,
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -8445,8 +8445,8 @@
       ],
       "included": true,
       "articleScore": 44,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "journalScore": 40,
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14550,7 +14550,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18107,7 +18107,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18152,7 +18152,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19353,7 +19353,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21186,7 +21186,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22775,7 +22775,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25950,7 +25950,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27083,7 +27083,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29301,8 +29301,8 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "journalScore": 40,
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -31107,7 +31107,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31450,7 +31450,7 @@
       "articleScore": 53,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31499,7 +31499,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32034,7 +32034,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -33015,7 +33015,7 @@
       "included": true,
       "articleScore": 53,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34653,7 +34653,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -35496,7 +35496,7 @@
       "articleScore": 47,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35594,7 +35594,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35885,7 +35885,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36323,7 +36323,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37337,7 +37337,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37383,7 +37383,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37427,8 +37427,8 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "journalScore": 40,
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -37478,7 +37478,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38249,7 +38249,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 18,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38630,7 +38630,7 @@
       "abstractZh": "紫外线 A (UVA) 辐射会诱发真皮成纤维细胞的氧化应激和线粒体功能障碍，从而导致光损伤和皮肤老化。本研究调查了酵母/大米发酵滤液 (RFF) 和唾液酸 (SA) 单独或组合对 UVA 引起的人真皮成纤维细胞损伤的保护作用。治疗后评估细胞活力、活性氧 (ROS) 水平、细胞内 ATP 和 NAD+ 含量以及线粒体膜电位 (ΔΨm)。 RFF、SA 及其组合显着提高了 UVA 损伤的成纤维细胞的细胞活力并减少了 ROS 的产生。值得注意的是，联合治疗使细胞内 ATP 水平提高了 201.2%（p + 水平），并有效保留了线粒体膜电位。转录组分析揭示了与细胞能量代谢相关的途径的调节，特别是 AMPK，以及 SIRT1、SIRT3 和 SIRT5 表达的上调。RFF-SA 组合通过增强线粒体弹性，赋予强大的 UVA 光防护能力，为开发保护性化妆品配方奠定了基础。",
       "url": "https://doi.org/10.3390/molecules31081262",
       "sourceUrl": "https://doi.org/10.3390/molecules31081262",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 63,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -38650,7 +38650,7 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
+      "articleScore": 61,
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 11,
@@ -39399,7 +39399,7 @@
       "included": true,
       "articleScore": 61,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -41576,7 +41576,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -42913,7 +42913,7 @@
       "doiUrl": "https://doi.org/10.1002/mnfr.70460",
       "pmid": "41958149",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41958149/",
-      "pmcid": "",
+      "pmcid": "PMC13066772",
       "abstract": "Kurut is a traditional acid-coagulated dairy fermented product from Kazakhstan, China, Turkey, and some Central Asian countries. It can be consumed either fresh, semi-dried, or dried. In this study, probiotic Lacticaseibacillus rhamnosus GG (LGG) dried kurut was produced with and without the addition of Kluyveromyces marxianus KLU1, a yeast strain, we earlier isolated from kurut. K. marxianus KLU1 increased the cell count of LGG, enabling a probiotic level of >106 CFU/g for more than 100 days in dried kurut stored at +4°C. Addition of LGG and K. marxianus KLU1 in kurut had no adverse effects on sensory attributes or physicochemical properties. K. marxianus KLU1 may also be useful in other applications where the aim is to use in situ approaches to increase the cell number of added probiotic lactobacilli in food fermentations.",
       "abstractZh": "库鲁特是来自哈萨克斯坦、中国、土耳其和一些中亚国家的传统酸凝乳发酵产品。它可以新鲜、半干或干食用。在这项研究中，益生菌鼠李糖乳酸菌 GG (LGG) 干库鲁特干果是在添加或不添加马克斯克鲁维酵母 KLU1（一种我们之前从库鲁特分离的酵母菌株）的情况下生产的。 K. marxianus KLU1 增加了 LGG 的细胞数量，使得在 +4°C 下储存的干燥库鲁特中益生菌水平 >106 CFU/g，持续 100 天以上。在 kurut 中添加 LGG 和 K. marxianus KLU1 对感官属性或理化特性没有不利影响。马克斯克鲁维酵母 KLU1 也可用于其他应用，其目的是使用原位方法来增加食品发酵中添加的益生菌乳酸杆菌的细胞数量。",
       "url": "https://doi.org/10.1002/mnfr.70460",
@@ -43013,7 +43013,7 @@
       "abstractZh": "尽管人工智能（AI）已经开始应用于合成生物学，但由于其对大量高质量数据的依赖而受到限制，这对合成生物学提出了重大挑战。预训练模型通过捕获复杂的语言模式和上下文细微差别，使系统能够以极高的准确性和效率理解和生成人类语言，从而深刻地影响了自然语言处理。本研究通过创新的预训练和微调范例，将预训练模型的概念应用于启动子序列分析。我们的分析表明，预训练的 DNA 模型，尤其是 DNABERT，在预测各种数据集大小的启动子表达水平方面始终优于非预训练的模型。基于 DNABERT 的优势，我们开发了 AI 模型 Pymaker，专门用于预测酵母启动子表达水平。此外，我们引入了一种新的碱基突变模型来模拟启动子突变，从而能够生成新的启动子序列。通过将Pymaker与该突变模型整合，我们有效地筛选了高表达、抗突变的启动子。实验五",
       "url": "https://doi.org/10.52601/bpr.2025.240033",
       "sourceUrl": "https://doi.org/10.52601/bpr.2025.240033",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -43036,11 +43036,11 @@
         "合成生物学"
       ],
       "included": true,
-      "articleScore": 51,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "articleScore": 57,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -45341,7 +45341,7 @@
       "abstractZh": "皂苷是一种结构多样的植物苷，具有重要的生态功能和广泛的医药和工业价值。最近的进展已将皂苷研究从描述性途径阐明转向预测性和可编程生物制造。高质量的基因组组装、综合多组学分析和代谢基因簇分析阐明了皂苷生物合成和结构多样化背后的酶逻辑和调控架构，从而能够对途径通量进行定量建模并识别关键调控瓶颈。在此基础上，合成生物学工具，包括基于 CRISPR 的转录调节、合成启动子和转录因子重连，可以对生物合成网络进行精确且可编程的控制。与此同时，结构引导酶工程和人工智能辅助蛋白质设计加速了细胞色素 P450 和糖基转移酶的优化，提高催化效率和途径稳健性。这些策略在多个生产平台上实施，包括工程微生物、植物悬浮细胞、毛状根和不定根系统",
       "url": "https://doi.org/10.3389/fpls.2026.1800149",
       "sourceUrl": "https://doi.org/10.3389/fpls.2026.1800149",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 47,
       "relevanceLevel": "相关",
       "organismKeywords": [],
@@ -45365,9 +45365,9 @@
         "蛋白质工程"
       ],
       "included": true,
-      "articleScore": 46,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "articleScore": 52,
+      "journalScore": 40,
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -47213,55 +47213,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Association between microbiome dynamics and aroma evolution in fermented Chinese white pears (Pyrus × bretschneideri): An integrated volatilomics and microbiome analysis.",
-      "titleZh": "发酵中国白梨（Pyrus × bretschneideri）微生物组动态与香气演变的关联：综合挥发组学和微生物组分析。",
-      "journal": "Food research international (Ottawa, Ont.)",
-      "targetJournal": "全部收录期刊",
-      "issn": "1873-7145",
-      "eissn": "1873-7145",
-      "year": 2026,
-      "date": "2026-03-19",
-      "authors": "Yan Z, Song F, Zhao J, Zhang M, Guan J, Li C, Li D, Tian H.",
-      "doi": "10.1016/j.foodres.2026.118959",
-      "doiUrl": "https://doi.org/10.1016/j.foodres.2026.118959",
-      "pmid": "41956649",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41956649/",
-      "pmcid": "",
-      "abstract": "The flavor of pear cider exhibits regional features, with insufficient and unstable aroma constituting key quality issues. The role of its characteristic aroma and the contribution of native microorganisms to regional distinctiveness remain under explored. This study compared the brewing characteristics of representative white pears, conducted an in-depth analysis of aroma compound evolution and their relationship with microbial communities throughout fermentation, and successfully screened strains with aroma-enhancing function. Results indicated that \"Xuehua\" possessed the optimal processing quality. Six characteristic fermentation aroma were identified, including 2,3-butanediol, hexanal, ethyl caprylate, etc. The core microbes gradually converged, including Saccharomyces cerevisiae, Hanseniaspora, Leuconostoc, etc. Alcohol and total acid correlated strongly with fungi, while reducing sugars correlated strongly with bacteria. Except for hexanal, the characteristic aroma showed positive correlations with F:OTU235. Ethyl caproate and ethyl caprylate correlated positively with B:OTU118. Saccharomyces cerevisiae (F:OTU235) and Lactobacillus plantarum (B:OTU118) were screened selectively and contributed to aroma accumulation.",
-      "abstractZh": "梨酒风味具有地域特色，香气不足且不稳定是主要质量问题。其特征香气的作用以及本土微生物对区域特色的贡献仍有待探索。本研究比较了代表性白梨的酿造特性，深入分析了发酵过程中香气化合物的演化及其与微生物群落的关系，成功筛选出具有增香功能的菌株。结果表明，“雪花”的加工品质最优。鉴定出6种特征发酵香气，包括2,3-丁二醇、己醛、辛酸乙酯等。核心微生物逐渐趋同，包括酿酒酵母、汉逊酵母、明串珠菌等。酒精和总酸与真菌强烈相关，还原糖与细菌强烈相关。除己醛外，特征香气与F:OTU235呈正相关。己酸乙酯和辛酸乙酯与 B:OTU118 呈正相关。选择性筛选酿酒酵母 (F:OTU235) 和植物乳杆菌 (B:OTU118)",
-      "url": "https://doi.org/10.1016/j.foodres.2026.118959",
-      "sourceUrl": "https://doi.org/10.1016/j.foodres.2026.118959",
-      "citationCount": 0,
-      "relevanceScore": 42,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 43,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 19,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.",
       "titleZh": "了解健康人类阴道菌群（加氏乳杆菌 K9）的益生菌潜力：基因组和体外方面。",
       "journal": "Journal, genetic engineering & biotechnology",
@@ -47313,9 +47264,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 960 篇",
-    "lastStartedAt": "2026-08-10T06:00:08.022Z",
-    "lastFinishedAt": "2026-08-10T06:01:22.044Z",
+    "lastMessage": "更新完成，共 959 篇",
+    "lastStartedAt": "2026-08-11T04:55:11.598Z",
+    "lastFinishedAt": "2026-08-11T04:56:33.588Z",
     "nextRunAt": null,
     "progress": 100
   }
