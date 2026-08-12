@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:56:33.588Z",
+  "updatedAt": "2026-08-12T06:04:58.882Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3513,7 +3513,7 @@
       "included": true,
       "articleScore": 43,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -8850,7 +8850,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -12075,7 +12075,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -29063,7 +29063,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -45974,7 +45974,7 @@
       "doiUrl": "https://doi.org/10.1002/fsn3.71662",
       "pmid": "42016258",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42016258/",
-      "pmcid": "",
+      "pmcid": "PMC13093315",
       "abstract": "This study aimed to characterize the fatty acid composition and to evaluate lipid quality indices of kefir produced with varying ratios of chestnut milk and reconstituted skim milk, using both traditional and commercial starter cultures. Lactobacillaceae counts remained high in all samples (8.35-8.70 log cfu/g on MRS and 8.45-9.35 log cfu/g on M17), while intermediate chestnut milk substitution ratios promoted higher yeast growth than either 100% reconstituted or 100% plant-based formulations, particularly in samples fermented with grains. Chestnut milk samples fermented with kefir grains or commercial starter cultures exhibited distinct fatty acid profiles and changes in lipid quality during storage. The 20% chestnut milk sample had significantly higher levels of butyric, caproic, caprylic, capric, myristic, and palmitic acids and α-linolenic acid. In contrast, the 100% chestnut milk sample exhibited the highest concentrations of linoleic and γ-linolenic acids. Fermentation with kefir grains resulted in elevated butyric, caproic, capric, palmitic, margaric, and arachidic acids, as well as polyunsaturated linoleic acid. Samples fermented with a commercial starter culture contained higher levels of oleic, γ-linolenic, α-linolenic, nonadecylic, and gadoleic acids. Throughout storage, short- and medium-chain fatty acids and polyunsaturated fatty acids (ω-6 and ω-3) decreased, while palmitic, margaric, oleic, and arachidic acids increased. The 20% chestnut milk sample had the highest contents of saturated fatty acids, total ω-3 fatty acids, and short- and medium-chain fatty acids. The 100% chestnut milk sample had the highest levels of total unsaturated fatty acids, ω-6 fatty acids, and long-chain fatty acids. Lipid quality indices were most favorable in the 100% chestnut milk and commercial starter fermentations, showing lower atherogenic and thrombogenic indices. These results highlight chestnut milk-based kefir as a low-fat, functional dairy alternative with an enhanced bioactive fatty acid content and favorable lipid quality indices.",
       "abstractZh": "本研究旨在表征脂肪酸组成，并评估使用传统和商业发酵剂以不同比例的栗子奶和复原脱脂奶生产的开菲尔的脂质质量指数。所有样品中的乳杆菌计数仍然很高（MRS 为 8.35-8.70 log cfu/g，M17 为 8.45-9.35 log cfu/g），而中等栗奶替代比例比 100% 重构配方或 100% 植物配方更能促进酵母生长，特别是在用谷物发酵的样品中。用开菲尔粒或商业发酵剂发酵的栗奶样品在储存过程中表现出独特的脂肪酸谱和脂质质量的变化。 20% 栗奶样品的丁酸、己酸、辛酸、癸酸、肉豆蔻酸、棕榈酸和 α-亚麻酸含量显着较高。相比之下，100% 栗奶样品的亚油酸和 γ-亚麻酸浓度最高。用开菲尔粒发酵导致丁酸、己酸、癸酸、棕榈酸、十七酸和花生酸以及多不饱和亚油酸的升高。用含有商业发酵剂的发酵剂发酵的样品",
       "url": "https://doi.org/10.1002/fsn3.71662",
@@ -46921,59 +46921,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "CRISPR-enhanced microalgae biosynthesis: a promising approach for future functional feed ingredients.",
-      "titleZh": "CRISPR 增强的微藻生物合成：未来功能性饲料成分的一种有前途的方法。",
-      "journal": "Journal of animal science and biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1674-9782",
-      "eissn": "2049-1891",
-      "year": 2026,
-      "date": "2026-03-20",
-      "authors": "Li Z, Li C, Liu H, Wang Y, Sun Y, Hou DX, He J, Wu S.",
-      "doi": "10.1186/s40104-026-01367-1",
-      "doiUrl": "https://doi.org/10.1186/s40104-026-01367-1",
-      "pmid": "41857689",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41857689/",
-      "pmcid": "PMC13003683",
-      "abstract": "Microalgae are photosynthetic microorganisms capable of synthesizing diverse high-value bioactive compounds, including premium proteins, polyunsaturated fatty acids, pigments, and vitamins. These natural products exhibit significant potential in enhancing livestock growth and health, offering biological activity and nutritional benefits that surpass chemically synthesized alternatives. Nevertheless, the commercial production of microalgae-derived natural products remains insufficient to meet escalating market demands. Utilizing synthetic biology strategies, especially the CRISPR system, to increase productivity of microalgae cell factories is crucial for scaling up high-value product biosynthesis. This article reviews the current applications, construction strategies, and critical pathway nodes in microalgae cell factory, with emphasis on CRISPR-based genome editing breakthroughs for optimizing microalgae nutritional profiles, and recent progress in microalgae utilization for livestock production, providing a forward-looking perspective on future developments.",
-      "abstractZh": "微藻是光合微生物，能够合成多种高价值生物活性化合物，包括优质蛋白质、多不饱和脂肪酸、色素和维生素。这些天然产品在促进牲畜生长和健康方面表现出巨大潜力，提供超越化学合成替代品的生物活性和营养益处。然而，微藻衍生天然产品的商业化生产仍然不足以满足不断增长的市场需求。利用合成生物学策略，特别是 CRISPR 系统，提高微藻细胞工厂的生产力对于扩大高价值产品生物合成规模至关重要。本文综述了微藻细胞工厂的当前应用、构建策略和关键途径节点，重点介绍了基于CRISPR的基因组编辑在优化微藻营养状况方面的突破，以及微藻在畜牧生产中的利用的最新进展，为未来的发展提供了前瞻性的视角。",
-      "url": "https://doi.org/10.1186/s40104-026-01367-1",
-      "sourceUrl": "https://doi.org/10.1186/s40104-026-01367-1",
-      "citationCount": 0,
-      "relevanceScore": 50,
-      "relevanceLevel": "相关",
-      "organismKeywords": [],
-      "technologyKeywords": [
-        "CRISPR",
-        "生物制造",
-        "合成生物学",
-        "基因组编辑",
-        "细胞工厂"
-      ],
-      "mainKeywords": [
-        "CRISPR",
-        "生物制造",
-        "合成生物学",
-        "基因组编辑",
-        "细胞工厂"
-      ],
-      "matchedYeast": [],
-      "matchedSynbio": [
-        "CRISPR",
-        "生物制造",
-        "合成生物学",
-        "基因组编辑",
-        "细胞工厂"
-      ],
-      "included": true,
-      "articleScore": 48,
-      "journalScore": 36,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Dielectric double shell characterization of yeast cells exposed to simulated microgravity.",
       "titleZh": "暴露于模拟微重力下的酵母细胞的介电双壳表征。",
       "journal": "NPJ microgravity",
@@ -47211,62 +47158,13 @@
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.",
-      "titleZh": "了解健康人类阴道菌群（加氏乳杆菌 K9）的益生菌潜力：基因组和体外方面。",
-      "journal": "Journal, genetic engineering & biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1687-157X",
-      "eissn": "2090-5920",
-      "year": 2026,
-      "date": "2026-03-19",
-      "authors": "Raval K, Shekh S, Prajapati B, Jangbari N, Rana A, Gupta S, Joshi C, Joshi M.",
-      "doi": "10.1016/j.jgeb.2026.100671",
-      "doiUrl": "https://doi.org/10.1016/j.jgeb.2026.100671",
-      "pmid": "42309578",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42309578/",
-      "pmcid": "PMC13018954",
-      "abstract": "Lactobacillus gasseri K9, isolated from a healthy vaginal sample, underwent detailed genomic and phenotypic evaluation. The strain demonstrated strong stress tolerance, adhesion, aggregation, and biofilm formation, while ensuring safety with no mucin degradation or hemolysis. Antimicrobial compounds, pathogen inhibition, and resilience in simulated gastrointestinal conditions highlight its potential role in maintaining vaginal homeostasis and functioning as a safe, effective probiotic candidate. The entire genome sequence of L. gasseri K9, with an emphasis on studying its probiotic potential and safety profile. The complete genome of L. gasseri K9, with a genome size of 1,872,894 base pairs, comprises 1,779 genes, exhibiting an average G + C content of 34.83%. Comprehensive genomic analysis identified genes associated with stress adaptation, carbohydrate utilization, cell adhesion, secondary metabolite biosynthesis, and other probiotic traits through multiple annotation platforms, including RAST, KEGG, COG, CAZyme, BAGEL4, and AntiSMASH. The detection of CRISPR arrays with broad phage-targeting patterns suggests that this strain possesses robust phage defence capabilities. Additionally, the absence of virulence factors and antibiotic resistance determinants, verified using CARD, ResFinder, and VFDB, underscores the safety profile of K9 as a promising probiotic candidate. Pangenome analysis of 278 L. gasseri genomes identified 12 distinctive sequences shared only by the K9 and Q9001 strains, setting them apart from all other isolates. Most of these sequences encoded hypothetical proteins, with one linked to a phage-related HK97-gp10 family protein. This study presents detailed genomic and functional characterization of L. gasseri K9, revealing unique genetic traits, strong probiotic functions, and a robust safety profile. Its role in maintaining vaginal health suggests strong potential for incorporation into probiotic formulations targeting women's wellness. Overall, these findings highlight K9 as a promising strain for next-generation vaginal probiotics.",
-      "abstractZh": "从健康阴道样本中分离出的加氏乳杆菌 K9，经过详细的基因组和表型评估。该菌株表现出较强的应激耐受性、粘附性、聚集性和生物膜形成能力，同时确保安全性，无粘蛋白降解或溶血。抗菌化合物、病原体抑制和模拟胃肠道条件下的恢复能力突出了其在维持阴道稳态和作为安全、有效的益生菌候选者方面的潜在作用。 L.gasseri K9 的整个基因组序列，重点是研究其益生菌潜力和安全性。 L.gasseri K9 的完整基因组大小为 1,872,894 个碱基对，包含 1,779 个基因，平均 G + C 含量为 34.83%。全面的基因组分析通过多个注释平台（包括 RAST、KEGG、COG、CAZyme、BAGEL4 和 AntiSMASH）鉴定了与应激适应、碳水化合物利用、细胞粘附、次级代谢物生物合成和其他益生菌性状相关的基因。具有广泛噬菌体靶向模式的 CRISPR 阵列的检测表明该菌株具有强大的噬菌体防御能力。添加",
-      "url": "https://doi.org/10.1016/j.jgeb.2026.100671",
-      "sourceUrl": "https://doi.org/10.1016/j.jgeb.2026.100671",
-      "citationCount": 0,
-      "relevanceScore": 49,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "CRISPR",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "CRISPR",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "CRISPR",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 47,
-      "journalScore": 36,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 959 篇",
-    "lastStartedAt": "2026-08-11T04:55:11.598Z",
-    "lastFinishedAt": "2026-08-11T04:56:33.588Z",
+    "lastMessage": "更新完成，共 957 篇",
+    "lastStartedAt": "2026-08-12T06:03:59.449Z",
+    "lastFinishedAt": "2026-08-12T06:04:58.882Z",
     "nextRunAt": null,
     "progress": 100
   }
