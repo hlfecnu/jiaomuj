@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:04:58.882Z",
+  "updatedAt": "2026-08-13T06:06:06.913Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3678,7 +3678,7 @@
       "abstractZh": "工程活性材料（ELM）的一个核心挑战是宏观结构组装与持续细胞活力和可编程功能的无缝集成。在这里，我们报告了一种基于真菌的活材料，它通过在低能量过程制造的宏观粘性薄膜中保留蛹虫草菌丝体的代谢活性来应对这一挑战。这些活性纺织品保留了环境响应能力，营养诱导的气生菌丝生长可以实现表面更新，这证明了这一点。天然菌丝体结构进一步允许工程微生物伙伴的体积整合，例如与产生色素的酿酒酵母共培养以进行原位图案化和与黑化黑曲霉共培养以进行内置紫外线屏蔽。这种模块化设计将批量结构制造与基因功能化分离，为合成生物学提供了即插即用的平台。环境评估证实 41 天内形态几乎完全退化。我们的工作为功能性 ELM 建立了一个可扩展且可持续的基础，弥合了结构完整性和生物活性之间的关键差距",
       "url": "https://doi.org/10.1126/sciadv.aed6937",
       "sourceUrl": "https://doi.org/10.1126/sciadv.aed6937",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 42,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -3701,11 +3701,11 @@
         "合成生物学"
       ],
       "included": true,
-      "articleScore": 43,
-      "journalScore": 32,
-      "journalQuartile": "Q4",
+      "articleScore": 49,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -11628,7 +11628,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -31743,7 +31743,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -31985,7 +31985,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -44145,7 +44145,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -47163,8 +47163,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 957 篇",
-    "lastStartedAt": "2026-08-12T06:03:59.449Z",
-    "lastFinishedAt": "2026-08-12T06:04:58.882Z",
+    "lastStartedAt": "2026-08-13T06:05:23.274Z",
+    "lastFinishedAt": "2026-08-13T06:06:06.913Z",
     "nextRunAt": null,
     "progress": 100
   }
