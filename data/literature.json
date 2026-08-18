@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T02:16:47.272Z",
+  "updatedAt": "2026-08-18T02:12:28.348Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -143,6 +143,55 @@
     ]
   },
   "articles": [
+    {
+      "title": "Optimization of fermentation parameters for the valorization of tomato pomace into biomass to produce single cell protein using Saccharomyces cerevisiae.",
+      "titleZh": "优化发酵参数，将番茄渣转化为生物质，利用酿酒酵母生产单细胞蛋白质。",
+      "journal": "Bioresources and bioprocessing",
+      "targetJournal": "全部收录期刊",
+      "issn": "2197-4365",
+      "eissn": "2197-4365",
+      "year": 2026,
+      "date": "2026-08-17",
+      "authors": "Akgun AS, Cabuk DS, Cinar D, Alp O, Kaya D, Guliyeva N, Ince BN, Gulcek D, Oztop MH.",
+      "doi": "10.1186/s40643-026-01115-3",
+      "doiUrl": "https://doi.org/10.1186/s40643-026-01115-3",
+      "pmid": "42606756",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42606756/",
+      "pmcid": "",
+      "abstract": "Tomato pomace, a byproduct of tomato processing industry, can be utilized through fermentation to produce single cell protein (SCP). In this study, fermentation parameters were optimized in a 3-L bioreactor using a full factorial design (FFD), to which a second order polynomial regression model was subsequently fitted to locate the optimum via response surface analysis. While pH, temperature, agitation speed and airflow rate were held constant, the effects of solid load, inoculum volume, and fermentation period were analyzed using a 3 × 3 × 5 experimental design. The resulting biomass was harvested, and its protein content was analyzed. Optimal conditions were identified as a 10.35% solid load and a 2.07% inoculum volume over a 5-day fermentation period. Under these optimized conditions, the model-predicted dry cell weight of 6.92 g/L was validated experimentally at 6.25 g/L, with protein content of 38.40%. These results demonstrate the effective valorization of tomato industry waste into a high value protein resource through optimized bioprocessing.",
+      "abstractZh": "番茄渣是番茄加工业的副产品，可通过发酵生产单细胞蛋白（SCP）。在本研究中，使用全因子设计 (FFD) 在 3 L 生物反应器中优化发酵参数，随后拟合二阶多项式回归模型以通过响应面分析找到最佳值。在 pH、温度、搅拌速度和气流速率保持恒定的情况下，使用 3 × 3 × 5 实验设计分析固体负载、接种量和发酵时间的影响。收获所得的生物质，并分析其蛋白质含量。最佳条件确定为在 5 天的发酵期内固含量为 10.35%，接种量为 2.07%。在这些优化条件下，模型预测的细胞干重为 6.92 g/L，经实验验证为 6.25 g/L，蛋白质含量为 38.40%。这些结果表明，通过优化的生物加工，可以有效地将番茄工业废物转化为高价值的蛋白质资源。",
+      "url": "https://doi.org/10.1186/s40643-026-01115-3",
+      "sourceUrl": "https://doi.org/10.1186/s40643-026-01115-3",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
     {
       "title": "Effects of RIM15 deletion on yeast adaptation to synthetic spruce hydrolysate.",
       "titleZh": "RIM15 缺失对酵母适应合成云杉水解产物的影响。",
@@ -444,7 +493,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "A Dual-Dimensional CRISPR Toolkit Enables One-Step High-Efficiency Multiplex Genome Editing in Komagataella phaffii.",
+      "title": "A dual-dimensional CRISPR toolkit enables one-step high-efficiency multiplex genome editing in Komagataella phaffii.",
       "titleZh": "二维 CRISPR 工具包可在 Komagataella phaffii 中进行一步式高效多重基因组编辑。",
       "journal": "Metabolic engineering",
       "targetJournal": "全部收录期刊",
@@ -458,7 +507,7 @@
       "pmid": "42595042",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42595042/",
       "pmcid": "",
-      "abstract": "Against the backdrop of green biomanufacturing, engineering methanol-utilizing Komagataella phaffii (K. phaffii) represents an effective strategy to expand the one carbon (C1) product profile and speed up the industrialization of C1-based bioeconomy. To address the technical challenges of low efficiency and cumbersome experimental procedures for multiplex gene editing and precise large-fragment integration during the reconstruction of complex metabolic pathways in K. phaffii, this study established a CRISPR toolkit - Efficient Multi-Gene Editing System 3.0 (EMGES 3.0) - which enabled one-step large-fragment integration coupled with multiplex gene knockout. EMGES 3.0 was constructed through the synergistic optimization of a repair-engineered chassis and an episomal CRISPR vector. For chassis engineering, five DNA repair modules: Δlig4 (DNA Ligase IV, non-homologous end joining end ligation), ppMRE11(The endogenous MRE11 gene from Pichia pastoris) overexpression (The Meiotic Recombination 11, DNA double-strand break end resection), Δrad9 (Radiation-Sensitive 9, DNA damage checkpoint regulation), Δmph1 (Mutator Phenotype Helicase 1, improvement of homologous recombinant strand extension), and PapRecT-PaSSB co-expression (stabilization of recombination intermediates) were integrated to generate the highly recombinogenic strain Y09. For vector engineering, cenARS was replaced by panARS and the endogenous promoter PGAP was employed to drive the double hammerhead ribozyme-single guide RNA-hepatitis delta virus ribozyme (double HH-sgRNA-HDV: dHgH)-mediated sgRNA expression, yielding the optimized vector Nov_pGAP_panARS_pLAT1_Cas9. These two features on K. phaffii together enhanced the EMGES 3.0 to a higher standard of transformation rate and editing efficiency. According to our results, EMGES 3.0 achieved dual-functional gene knockout efficiencies between 76.6% and 100%. For insertion of medium-long fragments (> 4.5kb), the efficiency achieved 93.3%. In addition, the one-step integration of ultra-long fragments (> 16kb) achieved 14.8%, which was reported for the first time. Furthermore, the efficiency of simultaneous long-fragment integration at three neutral loci reached 38.4% (> 15kb). We applied the system for one-step production of free fatty acids (FFAs, yield: 5.82 ∼ 7.30 mg/L/OD600) and resveratrol (yield: 1.14 ∼ 1.28 mg/L) using methanol as the sole carbon source. EMGES 3.0 provides a robust technical foundation for complex compounds biosynthesis and high-yield industrial strains, while also advancing K. phaffii as an industrial synthetic biology chassis for efficient C1 utilization.",
+      "abstract": "Against the backdrop of green biomanufacturing, engineering methanol-utilizing Komagataella phaffii (K. phaffii) represents an effective strategy to expand the one carbon (C1) product profile and speed up the industrialization of C1-based bioeconomy. To address the technical challenges of low efficiency and cumbersome experimental procedures for multiplex gene editing and precise large-fragment integration during the reconstruction of complex metabolic pathways in K. phaffii, this study established a CRISPR toolkit - Efficient Multi-Gene Editing System 3.0 (EMGES 3.0) - which enabled one-step large-fragment integration coupled with multiplex gene knockout. EMGES 3.0 was constructed through the synergistic optimization of a repair-engineered chassis and an episomal CRISPR vector. For chassis engineering, five DNA repair modules: Δlig4 (DNA Ligase IV, non-homologous end joining end ligation), ppMRE11(The endogenous MRE11 gene from Pichia pastoris) overexpression (The Meiotic Recombination 11, DNA double-strand break end resection), Δrad9 (Radiation-Sensitive 9, DNA damage checkpoint regulation), Δmph1 (Mutator Phenotype Helicase 1, improvement of homologous recombinant strand extension), and PapRecT-PaSSB co-expression (stabilization of recombination intermediates) were integrated to generate the highly recombinogenic strain Y09. For vector engineering, cenARS was replaced by panARS and the endogenous promoter PGAP was employed to drive the double hammerhead ribozyme-single guide RNA-hepatitis delta virus ribozyme (double HH-sgRNA-HDV: dHgH)-mediated sgRNA expression, yielding the optimized vector Nov_pGAP_panARS_pLAT1_Cas9. These two features on K. phaffii together enhanced the EMGES 3.0 to a higher standard of transformation rate and editing efficiency. According to our results, EMGES 3.0 achieved dual-functional gene knockout efficiencies between 76.6% and 100%. For insertion of medium-long fragments (>4.5 kb), the efficiency achieved 93.3%. In addition, the one-step integration of ultra-long fragments (>16 kb) achieved 14.8%, which was reported for the first time. Furthermore, the efficiency of simultaneous long-fragment integration at three neutral loci reached 38.4% (>15 kb). We applied the system for one-step production of free fatty acids (FFAs, yield: 5.82 ∼ 7.30 mg/L/OD600) and resveratrol (yield: 1.14 ∼ 1.28 mg/L) using methanol as the sole carbon source. EMGES 3.0 provides a robust technical foundation for complex compounds biosynthesis and high-yield industrial strains, while also advancing K. phaffii as an industrial synthetic biology chassis for efficient C1 utilization.",
       "abstractZh": "在绿色生物制造的背景下，利用甲醇工程化Komagataella phaffii（K. phaffii）是扩大单碳（C1）产品范围并加速基于C1的生物经济产业化的有效策略。为了解决K. phaffii复杂代谢途径重建过程中多重基因编辑和精确大片段整合的低效率和繁琐的实验程序的技术挑战，本研究建立了一种CRISPR工具包——高效多基因编辑系统3.0（EMGES 3.0），该工具包实现了一步大片段整合与多重基因敲除相结合。 EMGES 3.0是通过修复工程底盘和附加型CRISPR载体的协同优化构建的。对于底盘工程，五个DNA修复模块：Δlig4（DNA连接酶IV，非同源末端连接末端连接），ppMRE11（来自毕赤酵母的内源性MRE11基因）过表达（减数分裂重组11，DNA双链断裂末端切除），Δrad9（辐射敏感9，DNA损伤检查点调节），Δmph1（突变表型解旋酶） 1、同源重组链延伸的改进",
       "url": "https://doi.org/10.1016/j.ymben.2026.102525",
       "sourceUrl": "https://doi.org/10.1016/j.ymben.2026.102525",
@@ -551,7 +600,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Yeast single-cell proteins from CO2 with tandem biological systems.",
+      "title": "Yeast single-cell proteins from CO&lt;sub&gt;2&lt;/sub&gt; with tandem biological systems.",
       "titleZh": "通过串联生物系统从 CO2 中提取酵母单细胞蛋白。",
       "journal": "Current opinion in biotechnology",
       "targetJournal": "全部收录期刊",
@@ -774,7 +823,7 @@
       "abstractZh": "基因毒性应激下的转录重编程对于白色念珠菌的生存和发病机制至关重要。虽然许多 DNA 损伤反应 (DDR) 基因已得到充分表征，但对病原体特异性、应激诱导基因的功能仍知之甚少。在这里，我们表征了 GEI1 (Orf19.3109)，这是一种由基因毒性剂和氧化应激显着诱导的基因，在酿酒酵母中缺乏明确的直向同源物。有趣的是，尽管 GEI1 表达是由 DNA 损伤应激触发的，但其缺失并不会损害基因毒素耐受性。相反，gei1Δ突变体表现出对氧化应激的抵抗力增强，其特点是细胞内活性氧（ROS）积累减少。此外，GEI1 的缺失会导致细胞外天冬氨酰蛋白酶 (Saps) 的过度分泌，并导致大蜡螟感染模型中的高毒力表型。转录组分析和 CRISPR 干扰 (CRISPRi) 分析表明，GEI1 功能的丧失会触发抗氧化防御和蛋白酶分泌的过度激活。我们证明gei1Δ突变体的高毒力主要是由转录去阻遏驱动的",
       "url": "https://doi.org/10.1080/21505594.2026.2715230",
       "sourceUrl": "https://doi.org/10.1080/21505594.2026.2715230",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 69,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -800,8 +849,8 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 58,
-      "journalScore": 42,
+      "articleScore": 64,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -2357,7 +2406,7 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -3231,6 +3280,64 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Metabolic Engineering of Komagataella Phaffii for de Novo Synthesis of Retinol From Methanol.",
+      "titleZh": "Komagataella Phaffii 的代谢工程用于从甲醇从头合成视黄醇。",
+      "journal": "Biotechnology journal",
+      "targetJournal": "全部收录期刊",
+      "issn": "1860-6768",
+      "eissn": "1860-7314",
+      "year": 2026,
+      "date": "2026-08-01",
+      "authors": "Wu Y, Liu C, Liang S, Jiang Y, Zhang X, Zhou Y, Lin Y.",
+      "doi": "10.1002/biot.70288",
+      "doiUrl": "https://doi.org/10.1002/biot.70288",
+      "pmid": "42605173",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42605173/",
+      "pmcid": "",
+      "abstract": "Retinol, a derivative of vitamin A with potent antioxidant and therapeutic properties, is in high market demand. In response to the low productivity of conventional methods, metabolic engineering has been explored for microbial retinol production. However, systematic engineering strategies for high-level retinol synthesis in Komagataella phaffii remain limited. In this study, the methylotrophic yeast K. phaffii was developed as an engineered chassis for efficient de novo retinol biosynthesis. Based on a previously constructed β-carotene-producing strain, β-carotene-15,15'-dioxygenase (Blh) and retinol dehydrogenase (RDH12) were screened and introduced to establish the synthetic pathway of retinol. To increase precursor supply, key genes in the β-carotene biosynthetic pathway were overexpressed. The mevalonate (MVA) pathway was further optimized, and central carbon metabolism was reprogrammed to enhance metabolic flux toward retinol. Transport engineering was also performed to improve retinol secretion. Several candidate transporters were overexpressed, and the protein encoded by chr1-4_0619 in K. phaffii was identified as an endogenous retinol transporter. The final engineered strain produced 3.38 g/L retinol with BHT supplementation in fed-batch fermentation using a 1.5 L bioreactor. This work represents de novo microbial synthesis of retinol from a one-carbon feedstock, demonstrating the formidable potential of K. phaffii as a sustainable chassis for retinol production.",
+      "abstractZh": "视黄醇是维生素 A 的衍生物，具有有效的抗氧化和治疗特性，市场需求量很大。针对传统方法生产率低下的问题，人们开始探索代谢工程来生产微生物视黄醇。然而，Komagataella phaffii 中高水平视黄醇合成的系统工程策略仍然有限。在这项研究中，甲基营养酵母 K. phaffii 被开发为高效从头生物合成视黄醇的工程底盘。在前期构建的β-胡萝卜素生产菌株的基础上，筛选引入β-胡萝卜素-15,15'-双加氧酶（Blh）和视黄醇脱氢酶（RDH12），建立视黄醇的合成途径。为了增加前体供应，β-胡萝卜素生物合成途径中的关键基因被过度表达。甲羟戊酸（MVA）途径得到进一步优化，中心碳代谢被重新编程，以增强视黄醇的代谢通量。还进行了运输工程以改善视黄醇的分泌。几种候选转运蛋白被过度表达，并且由法菲酵母中的chr1-4_0619编码的蛋白质被鉴定为内源性视黄醇转运蛋白。最终设计的钢管",
+      "url": "https://doi.org/10.1002/biot.70288",
+      "sourceUrl": "https://doi.org/10.1002/biot.70288",
+      "citationCount": 0,
+      "relevanceScore": 78,
+      "relevanceLevel": "高度相关",
+      "organismKeywords": [
+        "毕赤酵母",
+        "念珠菌",
+        "非传统酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "代谢工程",
+        "念珠菌",
+        "非传统酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "毕赤酵母",
+        "念珠菌",
+        "非传统酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 63,
+      "journalScore": 50,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 10,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Multi-omics analysis provides mechanistic insights into tanninase-assisted flavor evolution in Phyllanthus emblica L. wine.",
       "titleZh": "多组学分析为余甘子葡萄酒中单宁酶辅助的风味演变提供了机制见解。",
       "journal": "Food chemistry",
@@ -3511,6 +3618,55 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
+      "journalArticleCount": 10,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Spatial Engineering of Yarrowia lipolytica for the Biosynthesis of Capsanthin.",
+      "titleZh": "用于辣椒红生物合成的解脂耶氏酵母的空间工程。",
+      "journal": "Biotechnology journal",
+      "targetJournal": "全部收录期刊",
+      "issn": "1860-6768",
+      "eissn": "1860-7314",
+      "year": 2026,
+      "date": "2026-08-01",
+      "authors": "Zhang J, Sun L, Zhang L, Din C, Gu Z, Chen L, Xu S.",
+      "doi": "10.1002/biot.70291",
+      "doiUrl": "https://doi.org/10.1002/biot.70291",
+      "pmid": "42605161",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42605161/",
+      "pmcid": "",
+      "abstract": "Capsanthin is a high-value tetraterpenoid widely utilized in the food, cosmetic, and pharmaceutical industries. However, its traditional production via plant extraction and chemical synthesis faces severe sustainability and cost constraints. The oleaginous yeast Yarrowia lipolytica (Y. lipolytica) offers a superior chassis due to its robust mevalonate pathway and abundant lipid droplets for pigment sequestration. In this study, we systematically engineered Y. lipolytica for the de novo biosynthesis of capsanthin. By heterologously co-expressing of Capsicum annuum capsanthin/capsorubin synthase (CaCCS) and Arabidopsis thaliana zeaxanthin epoxidase (AtZEP), we achieved the first reported biosynthesis of capsanthin in Y. lipolytica. Combinatorial screening revealed that full-length sequences of CaCCS and AtZEP yielded optimal production of 6.92 mg/L. To further enhance the productivity of capsanthin, we evaluated spatial compartmentalization strategies. The results demonstrated that targeting the biosynthetic enzymes to the peroxisome via Ser-Lys-Leu (SKL) tags successfully increased the titer to 8.8 mg/L by leveraging its specialized lipophilic and redox microenvironment. Finally, a 5-L fed-batch fermentation was conducted, achieving a maximum capsanthin titer of 48.15 mg/L. This work provides a sustainable and scalable alternative to plant extraction and chemical synthesis for capsanthin production.",
+      "abstractZh": "辣椒红是一种高价值的四萜类化合物，广泛应用于食品、化妆品和制药行业。然而，其通过植物提取和化学合成的传统生产面临着严重的可持续性和成本限制。产油酵母解脂耶氏酵母 (Y. lipolytica) 因其强大的甲羟戊酸途径和丰富的用于色素螯合的脂滴而提供了卓越的底盘。在这项研究中，我们系统地改造了解脂耶氏酵母，用于辣椒红的从头生物合成。通过异源共表达辣椒辣椒红素/辣椒红素合酶（CaCCS）和拟南芥玉米黄质环氧化酶（AtZEP），我们首次在解脂耶氏酵母中实现了辣椒红素的生物合成。组合筛选表明，CaCCS 和 AtZEP 的全长序列产生了 6.92 mg/L 的最佳产量。为了进一步提高辣椒红的生产力，我们评估了空间划分策略。结果表明，通过 Ser-Lys-Leu (SKL) 标签将生物合成酶靶向过氧化物酶体，利用其特殊的亲脂性和氧化还原微环境，成功地将滴度提高至 8.8 mg/L。最后，一个",
+      "url": "https://doi.org/10.1002/biot.70291",
+      "sourceUrl": "https://doi.org/10.1002/biot.70291",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "解脂耶氏酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "解脂耶氏酵母",
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "解脂耶氏酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "journalScore": 50,
+      "journalQuartile": "Q1",
       "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -9415,7 +9571,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10073,7 +10229,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12166,9 +12322,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12999,9 +13155,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13759,7 +13915,7 @@
       "abstractZh": "背景/目的：本研究评估了含有植物乳杆菌、枯草芽孢杆菌、酵母和黑曲霉的复合益生菌发酵饲料（CPFF）对肉牛瘤胃体外发酵、原位饲料降解和生长性能的影响。方法：我们建立了对照组（CON）和添加2%、4%和8% CPFF 的实验组进行体外发酵。结果：结果表明，4% CPFF 组的 NH3-N 浓度显着高于其他组（p p = 0.016）。 2% 和 4% CPFF 组中乙酸盐、丁酸盐、异丁酸盐和戊酸盐的摩尔比例显着高于对照组（p p p p = 0.030）。我们使用 16S rRNA 测序和非靶向代谢组学分析了体外发酵后 CON 组和 4% CPFF 组的瘤胃液样品。微生物群落分析显示，4% CPFF 组中功能性细菌群（例如 Rikenellaceae_RC9_gut_group、Christensenellaceae_R-7_group 和 UCG-002）的丰度显着增加（p p = 0.004），并且 CPFF 组中的平均每日采食量（ADFI）（p = 0.001）显着更高",
       "url": "https://doi.org/10.3390/metabo16070457",
       "sourceUrl": "https://doi.org/10.3390/metabo16070457",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -13779,9 +13935,9 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
+      "articleScore": 55,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19226,7 +19382,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 41,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21357,9 +21513,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21844,9 +22000,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22003,9 +22159,9 @@
       ],
       "included": true,
       "articleScore": 62,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23777,7 +23933,7 @@
       "articleScore": 49,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24836,7 +24992,7 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26353,7 +26509,7 @@
       "articleScore": 54,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28703,7 +28859,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28755,7 +28911,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29977,7 +30133,7 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30430,7 +30586,7 @@
       "articleScore": 57,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32321,9 +32477,9 @@
       ],
       "included": true,
       "articleScore": 52,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32373,9 +32529,9 @@
       ],
       "included": true,
       "articleScore": 58,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32529,9 +32685,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 48,
+      "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33846,7 +34002,7 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -33895,8 +34051,8 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -37254,7 +37410,7 @@
       "articleScore": 49,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40503,7 +40659,7 @@
       "articleScore": 49,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -42530,7 +42686,7 @@
       "articleScore": 43,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -43742,7 +43898,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46150,8 +46306,8 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -47226,7 +47382,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -47913,7 +48069,7 @@
       "articleScore": 59,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -48247,55 +48403,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Hanseniaspora uvarum and Hanseniaspora opuntiae differ in their growth and in the production of volatile organic compounds in wine.",
-      "titleZh": "葡萄汉逊酵母和仙人掌汉逊酵母的生长和葡萄酒中挥发性有机化合物的产生有所不同。",
-      "journal": "Applied microbiology and biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0175-7598",
-      "eissn": "1432-0614",
-      "year": 2026,
-      "date": "2026-03-23",
-      "authors": "Čuš F, Potisek M, Čadež N.",
-      "doi": "10.1007/s00253-026-13800-6",
-      "doiUrl": "https://doi.org/10.1007/s00253-026-13800-6",
-      "pmid": "41870620",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41870620/",
-      "pmcid": "PMC13009034",
-      "abstract": "In recent years, Hanseniaspora uvarum has been partially replaced in Slovenian vineyards by the thermotolerant and invasive Hanseniaspora opuntiae. The fermentation capacity of both Hanseniaspora species was evaluated based on CO₂ release in synthetic and natural must. Additionally, co-inoculations of both strains with S. cerevisiae were carried out in Sauvignon Blanc must at different ratios (1:10 and 10:1). In all experiments, microbial populations were monitored, and the chemical and volatile profiles of the resulting wines were evaluated. During alcoholic fermentation (AF) with pure cultures, the fermentation kinetics of the two Hanseniaspora species were comparable, with CO2 release in natural and synthetic must being two to five times lower compared to AF with the S. cerevisiae. In mixed AF with Hanseniaspora species and S. cerevisiae, there were no significant differences in fermentation capacity at the end of the fermentation compared to S. cerevisiae AF. However, the growth rate appears to be lower in H. opuntiae than in H. uvarum under oenological conditions. The results also showed that the formation of fermentation products differed between the two Hanseniaspora species in pure or mixed cultures, depending on the fermentation medium and inoculum ratio. H. opuntiae was a major producer of 2-phenylethyl acetate, and H. uvarum was a major producer of glycerol during alcoholic fermentation with natural must. The same tendency was observed for isoamyl acetate and ethyl acetate. We can conclude that H. opuntiae could become an important trigger for changes in wine composition if H. uvarum is further replaced on grape berries. KEY POINTS: • In mixed AF, there was no antagonism between Hanseniaspora and Saccharomyces strains • The concentrations of fermentation products differed between Hanseniaspora species. • H. opuntiae could influence changes in wine composition produced by non-inoculated AF.",
-      "abstractZh": "近年来，斯洛文尼亚葡萄园中的Hanseniaspora uvarum 已部分被耐热且具有入侵性的Hanseniaspora opuntiae 所取代。根据合成和天然葡萄汁中二氧化碳的释放量来评估两种汉逊酵母菌的发酵能力。此外，两种菌株与酿酒酵母以不同比例（1:10 和 10:1）在长相思葡萄汁中共同接种。在所有实验中，都对微生物种群进行了监测，并评估了所得葡萄酒的化学和挥发性特征。在纯培养物的酒精发酵 (AF) 过程中，两种 Hanseniaspora 物种的发酵动力学相当，天然和合成葡萄汁中的 CO2 释放量比酿酒酵母的 AF 低两到五倍。在与汉森氏菌和酿酒酵母混合的 AF 中，与酿酒酵母 AF 相比，发酵结束时的发酵能力没有显着差异。然而，在酿酒条件下，H. opuntiae 的生长速度似乎低于 H. uvarum。结果还表明，两种汉逊酵母属物种的发酵产物的形成不同",
-      "url": "https://doi.org/10.1007/s00253-026-13800-6",
-      "sourceUrl": "https://doi.org/10.1007/s00253-026-13800-6",
-      "citationCount": 0,
-      "relevanceScore": 42,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 43,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 10,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "The AcLFYL1-AcCSE module enhances kiwifruit resistance to Pseudomonas syringae pv. actinidiae by regulating cell density and lignin biosynthesis.",
       "titleZh": "AcLFYL1-AcCSE 模块增强了猕猴桃对丁香假单胞菌 pv. 的抗性。猕猴桃通过调节细胞密度和木质素生物合成。",
       "journal": "Journal of integrative plant biology",
@@ -48396,9 +48503,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 982 篇",
-    "lastStartedAt": "2026-08-17T02:15:49.596Z",
-    "lastFinishedAt": "2026-08-17T02:16:47.272Z",
+    "lastMessage": "更新完成，共 984 篇",
+    "lastStartedAt": "2026-08-18T02:11:12.591Z",
+    "lastFinishedAt": "2026-08-18T02:12:28.348Z",
     "nextRunAt": null,
     "progress": 100
   }
