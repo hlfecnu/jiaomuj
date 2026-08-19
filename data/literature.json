@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:12:28.348Z",
+  "updatedAt": "2026-08-19T02:14:44.434Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -189,6 +189,52 @@
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The Slt2-Swi6 signaling pathway plays a pivotal role in regulating cell wall biosynthesis, secondary metabolite production, and the pathogenicity of pear fungal &lt;i&gt;A. alternata&lt;/i&gt;.",
+      "titleZh": "Slt2-Swi6信号通路在调节细胞壁生物合成、次生代谢产物产生和梨真菌<i>A的致病性中发挥着关键作用。链格孢属。",
+      "journal": "Virulence",
+      "targetJournal": "全部收录期刊",
+      "issn": "2150-5594",
+      "eissn": "2150-5608",
+      "year": 2026,
+      "date": "2026-08-16",
+      "authors": "Li R, Liu Y, Li L, Zhang Y, Wang X, Ji X, Zhang M, Zong Y, Bi Y, Li Y.",
+      "doi": "10.1080/21505594.2026.2715208",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2715208",
+      "pmid": "42557790",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42557790/",
+      "pmcid": "",
+      "abstract": "The cell wall integrity (CWI) MAPK signal pathway is crucial for the assembly of fungal cell walls and their associated virulence, as it activates the expression of the downstream transcription factors Mbp1, Swi6, and RlmA. However, the transcription factors directly regulated by this pathway in Alternaria alternata have yet to be identified. In this study, we delineated the functional roles of two transcription factors, AaSwi6 and AaMbp1, through targeted gene deletion. Disruption of either gene resulted in impaired hyphal extension, reduced mycelial accumulation, decreased conidiation, altered differentiation of infection structures, and impaired melanin synthesis. Furthermore, when compared to the WT, the levels of alternariol (AOH), alternariol monomethyl ether (AME), and tenuazonic acid (TeA) toxins in the two ΔAaSwi6 and ΔAaMbp1 mutants decreased by 63.98% and 86.32%, 36.71% and 82.85 %, and 33.28% and 33%, respectively. These defects were correlated with diminished virulence on tomato and pear fruit. Compositional analysis of the cell wall composition indicated that the deletion of AaSwi6 resulted in decreased levels of chitin, glucan, and mannan, whereas the deletion of AaMbp1 led to reduced levels of chitin and mannan. Yeast two-hybrid experiments further demonstrated that the MAPK kinase AaSlt2 physically interacted with downstream partners AaSwi6 and AaRlmA, and that AaSwi6 also interacted with AaMbp1 and AaRlmA. In conclusion, our study identifies a physical interaction between AaSlt2 and Swi6/RlmA, suggesting that these components are critical for cell wall synthesis. The finding advances our understanding the pathogenic mechanisms of A. alternata and proposes potential strategies for controlling postharvest diseases.",
+      "abstractZh": "细胞壁完整性 (CWI) MAPK 信号通路对于真菌细胞壁的组装及其相关毒力至关重要，因为它激活下游转录因子 Mbp1、Swi6 和 RlmA 的表达。然而，在链格孢中受该途径直接调节的转录因子尚未确定。在这项研究中，我们通过靶向基因删除描述了两种转录因子 AaSwi6 和 AaMbp1 的功能作用。任一基因的破坏都会导致菌丝延伸受损、菌丝积累减少、分生孢子减少、感染结构分化改变以及黑色素合成受损。此外，与WT相比，ΔAaSwi6和ΔAaMbp1两个突变体中的交链孢醇（AOH）、交链孢醇单甲醚（AME）和特纽阿桑酸（TeA）毒素的水平分别降低了63.98%和86.32%、36.71%和82.85%以及33.28%和33%。这些缺陷与番茄和梨果实毒力的减弱相关。细胞壁成分的组成分析表明，AaSwi6 的缺失导致几丁质、葡聚糖和甘露聚糖的水平降低，而 AaMbp1 的缺失",
+      "url": "https://doi.org/10.1080/21505594.2026.2715208",
+      "sourceUrl": "https://doi.org/10.1080/21505594.2026.2715208",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2363,52 +2409,6 @@
       "journalScore": 38,
       "journalQuartile": "Q3",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "The Slt2-Swi6 signaling pathway plays a pivotal role in regulating cell wall biosynthesis, secondary metabolite production, and the pathogenicity of pear fungal &lt;i&gt;A. alternata&lt;/i&gt;.",
-      "titleZh": "Slt2-Swi6信号通路在调节细胞壁生物合成、次生代谢产物产生和梨真菌<i>A的致病性中发挥着关键作用。链格孢属。",
-      "journal": "Virulence",
-      "targetJournal": "全部收录期刊",
-      "issn": "2150-5594",
-      "eissn": "2150-5608",
-      "year": 2026,
-      "date": "2026-08-05",
-      "authors": "Li R, Liu Y, Li L, Zhang Y, Wang X, Ji X, Zhang M, Zong Y, Bi Y, Li Y.",
-      "doi": "10.1080/21505594.2026.2715208",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2715208",
-      "pmid": "42557790",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42557790/",
-      "pmcid": "",
-      "abstract": "The cell wall integrity (CWI) MAPK signal pathway is crucial for the assembly of fungal cell walls and their associated virulence, as it activates the expression of the downstream transcription factors Mbp1, Swi6 and RlmA. However, the transcription factors directly regulated by this pathway in Alternaria alternata have yet to be identified. In this study, we delineated the functional roles of two transcription factors, AaSwi6 and AaMbp1, through targeted gene deletion. Disruption of either gene resulted in impaired hyphal extension, reduced mycelial accumulation, decreased conidiation, altered differentiation of infection structures, and impaired melanin synthesis. Furthermore, when compared to the WT, the levels of alternariol (AOH), alternariol monomethyl ether (AME), and tenuazonic acid (TeA) toxins in the two ΔAaSwi6 and ΔAaMbp1 mutants decreased by 63.98% and 86.32%, 36.71% and 82.85% and 33.28% and 33%, respectively. These defects were correlated with diminished virulence on tomato and pear fruit. Compositional analysis of the cell wall composition indicated that the deletion of AaSwi6 resulted in decreased levels of chitin, glucan, and mannan, whereas the deletion of AaMbp1 led to reduced levels of chitin and mannan. Yeast two-hybrid experiments further demonstrated that the MAPK kinase AaSlt2 physically interacted with downstream partners AaSwi6 and AaRlmA, and that AaSwi6 also interacted with AaMbp1 and AaRlmA. In conclusion, our study identifies a physical interaction between AaSlt2 and Swi6/RlmA, suggesting that these components are critical for cell wall synthesis. The finding advances our understanding the pathogenic mechanisms of A. alternata and proposes potential strategies for controlling postharvest diseases.",
-      "abstractZh": "细胞壁完整性 (CWI) MAPK 信号通路对于真菌细胞壁的组装及其相关毒力至关重要，因为它激活下游转录因子 Mbp1、Swi6 和 RlmA 的表达。然而，在链格孢中受该途径直接调节的转录因子尚未确定。在这项研究中，我们通过靶向基因删除描述了两种转录因子 AaSwi6 和 AaMbp1 的功能作用。任一基因的破坏都会导致菌丝延伸受损、菌丝积累减少、分生孢子减少、感染结构分化改变以及黑色素合成受损。此外，与WT相比，ΔAaSwi6和ΔAaMbp1两个突变体中的交链孢醇（AOH）、交链孢醇单甲醚（AME）和特纽阿桑酸（TeA）毒素的水平分别降低了63.98%和86.32%、36.71%和82.85%以及33.28%和33%。这些缺陷与番茄和梨果实毒力的减弱相关。细胞壁成分的组成分析表明，AaSwi6 的缺失导致几丁质、葡聚糖和甘露聚糖的水平降低，而 AaMbp1 的缺失",
-      "url": "https://doi.org/10.1080/21505594.2026.2715208",
-      "sourceUrl": "https://doi.org/10.1080/21505594.2026.2715208",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -48504,8 +48504,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 984 篇",
-    "lastStartedAt": "2026-08-18T02:11:12.591Z",
-    "lastFinishedAt": "2026-08-18T02:12:28.348Z",
+    "lastStartedAt": "2026-08-19T02:14:09.227Z",
+    "lastFinishedAt": "2026-08-19T02:14:44.434Z",
     "nextRunAt": null,
     "progress": 100
   }
