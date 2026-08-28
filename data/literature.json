@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T10:49:26.380Z",
+  "updatedAt": "2026-08-28T12:26:02.570Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -193,6 +193,53 @@
       "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Promoter selection reduces phenotypic heterogeneity and improves bioproduction.",
+      "titleZh": "",
+      "journal": "Trends in biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0167-7799",
+      "eissn": "1879-3096",
+      "year": 2026,
+      "date": "2026-08-27",
+      "authors": "Patel D, Shabestary K, Xu J, Klemm C, Huang WE, Ledesma-Amaro R.",
+      "doi": "10.1016/j.tibtech.2026.08.002",
+      "doiUrl": "https://doi.org/10.1016/j.tibtech.2026.08.002",
+      "pmid": "42648918",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42648918/",
+      "pmcid": "",
+      "abstract": "Cell-to-cell heterogeneity leads to the formation of subpopulations within an isogenic population, resulting in the coexistence of high and low producer cells. However, the impact of this phenotypic heterogeneity on bioproduction has been overlooked. Using flow cytometry to analyse commonly used yeast promoters, we found that many display macro-heterogeneity, generating multiple discrete subpopulations. Additionally, by regressing single-cell protein expression on single-cell RNA sequencing data, we explored the use of predictive models as a guide for selecting promoters with more homogeneous expression at desired expression levels. As a proof of concept, we engineered an improved lycopene pathway by substituting homogeneous promoters for macro-heterogeneous ones and implemented single-cell Raman spectroscopy to demonstrate up to a threefold increase in single-cell and bulk lycopene production. Overall, our results show that promoter heterogeneity can have a large impact on microbial bioprocesses and that the selection of homogeneous promoters can achieve more efficient production in a metabolically engineered pathway.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.tibtech.2026.08.002",
+      "sourceUrl": "https://doi.org/10.1016/j.tibtech.2026.08.002",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1116,6 +1163,53 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Rheological Characterization of Yeast Protein-Sanxan Composite Hydrogels via SAOS, LAOS and Thermal Analysis.",
+      "titleZh": "",
+      "journal": "Gels (Basel, Switzerland)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2310-2861",
+      "eissn": "2310-2861",
+      "year": 2026,
+      "date": "2026-08-20",
+      "authors": "Cao X, Qu Y, Fan Z.",
+      "doi": "10.3390/gels12080747",
+      "doiUrl": "https://doi.org/10.3390/gels12080747",
+      "pmid": "42644991",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42644991/",
+      "pmcid": "",
+      "abstract": "Future foods are driving an urgent need for sustainable and functional protein resources, and synthetic biology is emerging as a powerful platform to produce such proteins efficiently. Here, we designed a yeast protein (YP)-sanxan composite hydrogel obtained. The introduction of YP significantly improved thermal stability (by 5-15 °C) and ensured polymer compatibility. Rheological analysis indicated a frequency-dependent weak gel (tan δ = 0.1-0.3), making it suitable for safe swallowing. The material exhibited Type III nonlinear viscoelastic behavior, characterized by inter-cycle strain softening and a weak overshoot in G″, with Lissajous curves revealing a strain-induced transition from solid-like to fluid-like behavior. Crucially, YP-reinforced gels (5-20%) exhibited higher elastic moduli, indicating that the incorporation of YP strengthened the gel network and increased its structural rigidity, as further confirmed by Strain Sweep. With its tunable rheology and superior thermal stability, this hydrogel holds great potential for functional foods, 3D food printing, delivery systems, and biomedical scaffolds.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.3390/gels12080747",
+      "sourceUrl": "https://doi.org/10.3390/gels12080747",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "合成生物学"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Simplifying Multiplex Genome Engineering in Saccharomyces cerevisiae with Intron-mediated Random Assembly and INtegration (RAIN).",
       "titleZh": "利用内含子介导的随机组装和整合 (RAIN) 简化酿酒酵母的多重基因组工程。",
       "journal": "FEMS yeast research",
@@ -1606,7 +1700,7 @@
       "articleScore": 55,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1750,6 +1844,106 @@
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 1,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "A Ready-to-Use Recombinant Yeast Two-Hybrid Assay for Thyroxine Detection.",
+      "titleZh": "",
+      "journal": "Biosensors",
+      "targetJournal": "全部收录期刊",
+      "issn": "2079-6374",
+      "eissn": "2079-6374",
+      "year": 2026,
+      "date": "2026-08-15",
+      "authors": "Danhausen M, Buchinger S, Belkin S, Ternes TA.",
+      "doi": "10.3390/bios16080441",
+      "doiUrl": "https://doi.org/10.3390/bios16080441",
+      "pmid": "42645059",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42645059/",
+      "pmcid": "",
+      "abstract": "We report a freeze-dried ready-to-use yeast thyroid screen (YTS), preserving the general dose-response characteristics of the freshly prepared counterpart. This field-deployable method reduces the assay time of the overall procedure from several days to 5 h with no requirement for sterile conditions, thus fulfilling key requirements for on-site implementation in a biosensor array. The effects of cell density and concentration of the cryoprotectant trehalose on median effective concentrations (EC50), limit of detection (LOD) and biosensor induction (IF) were determined and monitored over a storage period of 5 months. In addition, the impact of these parameters was monitored on the biosensor survival rate during freeze-drying and the subsequent storage process. Throughout the 5-month study, the freeze-dried recombinant yeast assay retained comparable dose-response characteristics to those of the freshly prepared counterpart, displaying median values of EC50 in the range of 350 nM to 550 nM and LODs in the range of 20 nM to 45 nM of the reference compound thyroxine (T4). Long-term stabilization is demonstrated using spiked (T4, 2 µM) river water and extracted wastewater effluent. After 5 months of storage, the T4-equivalent activities were 96 ± 38% and 112 ± 15% for river water and wastewater, respectively. In summary, we have successfully demonstrated a proof of principle of a field-deployable yeast thyroid screen (YTS) by using freeze-dried cells and trehalose as a cryoprotectant to achieve storability for up to 5 months at 4 °C.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.3390/bios16080441",
+      "sourceUrl": "https://doi.org/10.3390/bios16080441",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物传感器"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物传感器"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物传感器"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Advances in Key Genetic Elements and Strategies for High-Yield Heterologous Protein Expression in Komagataella phaffii.",
+      "titleZh": "",
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2309-608X",
+      "eissn": "2309-608X",
+      "year": 2026,
+      "date": "2026-08-15",
+      "authors": "Han R, Hu R, Liu A, Yu X, Liu D, Zhang H, Zhang H.",
+      "doi": "10.3390/jof12080612",
+      "doiUrl": "https://doi.org/10.3390/jof12080612",
+      "pmid": "42646139",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42646139/",
+      "pmcid": "",
+      "abstract": "Komagataella phaffii has emerged as an important eukaryotic microbial cell factory for the production of industrial enzymes, biopharmaceuticals, and food-related proteins owing to its rapid growth, capacity for eukaryotic post-translational modifications, and suitability for high-cell-density fermentation. However, efficient heterologous protein production remains constrained by limitations in transcriptional regulation, protein secretion, and endoplasmic reticulum (ER) protein-folding capacity. This review summarizes recent advances in engineering key expression elements underlying heterologous protein production in K. phaffii, with particular emphasis on promoter architecture redesign (e.g., upstream activating sequence (UAS) duplication and core promoter mutagenesis), signal peptide replacement and sequence engineering, molecular chaperone co-expression, and quantitative regulation of the unfolded protein response (UPR). Rather than focusing on individual expression modules, this review highlights a systems-level engineering perspective that integrates regulatory elements, intracellular processing, and secretory pathway optimization, illustrating the ongoing transition from empirical modification of individual expression elements to systems-level engineering of the secretory pathway. Recent advances in synthetic biology and artificial intelligence (AI)-assisted approaches are further accelerating the development of predictive and precision engineering approaches for K. phaffii. Together, these advances provide a foundation for the rational design of next-generation K. phaffii cell factories for the sustainable production of structurally complex and high-value recombinant proteins.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.3390/jof12080612",
+      "sourceUrl": "https://doi.org/10.3390/jof12080612",
+      "citationCount": 0,
+      "relevanceScore": 59,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "合成生物学",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 52,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 11,
+      "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -2611,7 +2805,7 @@
       "articleScore": 56,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2811,6 +3005,59 @@
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 15,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Magnetic Nanoparticle-Assisted Immobilized Co-Culture of Saccharomyces cerevisiae and Kluyveromyces marxianus: Effects on Ethanol Production, Sugar Consumption, Biomass Reuse, and Volatile Metabolite Profiles.",
+      "titleZh": "",
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2309-608X",
+      "eissn": "2309-608X",
+      "year": 2026,
+      "date": "2026-08-10",
+      "authors": "Núñez-Caraballo A, Ramos-González R, Aguilar CN, Michelena-Álvarez G, Aguilar-González MA, Martínez-Hernández JL, Iliná A.",
+      "doi": "10.3390/jof12080593",
+      "doiUrl": "https://doi.org/10.3390/jof12080593",
+      "pmid": "42646120",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42646120/",
+      "pmcid": "",
+      "abstract": "Yeast-assisted mixed-culture fermentations have gained attention for their ability to enhance fermentation efficiency and modulate metabolite production. There is little knowledge on the impact of magnetic nanoparticle-assisted immobilization on yeast-yeast interactions during alcoholic fermentation. The co-culture platforms of Saccharomyces cerevisiae and Kluyveromyces marxianus, immobilized on chitosan-coated manganese ferrite nanoparticles, were applied in the fermentation of sugarcane molasses and sugarcane juice in the present study. The chitosan-coated MnFe2O4 nanoparticles were prepared using a one-step coprecipitation reaction followed by hydrothermal treatment and were characterized by X-ray diffraction, Fourier transform infrared spectroscopy, vibrating sample magnetometry, and scanning electron microscopy. An immobilized co-culture system has been shown to provide faster sugar consumption and higher ethanol production than non-immobilized-cell fermentations. Operational stability of the immobilized biomass and higher ethanol production by reuse were confirmed by repeated fermentation cycles. Bioproduction of volatile metabolites varies among monoculture, co-culture, non-immobilized-cell, and immobilized systems, with yeast interactions and magnetic immobilization also affecting secondary metabolite production during fermentation. The findings confirm that magnetic nanoparticle-assisted co-culture fermentation would be an attractive nanobiotechnological tool for enhancing alcoholic fermentation and shed new light on yeast interactions with the nanostructured system when combined with the immobilized solution.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.3390/jof12080593",
+      "sourceUrl": "https://doi.org/10.3390/jof12080593",
+      "citationCount": 0,
+      "relevanceScore": 61,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 54,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3242,7 +3489,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5393,7 +5640,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6372,7 +6619,57 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Kombucha as a Reservoir of Probiotic Yeasts Tailored for Plant-Based Fermentations.",
+      "titleZh": "",
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2309-608X",
+      "eissn": "2309-608X",
+      "year": 2026,
+      "date": "2026-07-30",
+      "authors": "Canonico L, Agarbati A, Zannini F, Ciani M, Comitini F.",
+      "doi": "10.3390/jof12080559",
+      "doiUrl": "https://doi.org/10.3390/jof12080559",
+      "pmid": "42646086",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42646086/",
+      "pmcid": "",
+      "abstract": "Kombucha is a reservoir of health-promoting yeast strains. In this study, molecular characterization of the Kombucha microbiota led to the identification of 52 distinct yeast isolates, highlighting a complex community, where Brettanomyces anomalus was identified as the dominant yeast species. Other key species were identified, such as Pichia membranifaciens, Torulaspora delbrueckii, Zygosaccharomyces bailii, Starmerella bacillaris, and Meyerozyma guilliermondii. These isolated yeasts were screened for essential probiotic requirements, demonstrating excellent functional traits showing over 80% survival rate under simulated gastric and gastrointestinal conditions. Regarding the surface properties, wide cell hydrophobicity and auto-aggregation capabilities were seen. Broad antioxidant ability and robust antimicrobial activity against Escherichia coli and Staphylococcus aureus were observed, highlighting a protective function. Two strains of T. delbrueckii and one strain of Z. bailii stood out as probiotic candidates and were technologically evaluated in different culture combinations: yeast formulation pools using a specialized \"probiotic pool\" (PP) and a broader \"yeast pool\" (YP) both yielded successful analytical and sensory profiles. A strain of Lachancea thermotolerans, isolated from a distinct natural matrix, was employed as a technological booster to drive a yeast-based, bacteria-free kombucha. This study confirmed that specialized kombucha yeasts were not just fermentation drivers, but sustainable assets for developing novel functional plant-based probiotic beverages.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.3390/jof12080559",
+      "sourceUrl": "https://doi.org/10.3390/jof12080559",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造",
+        "念珠菌"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6560,9 +6857,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6706,7 +7003,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7238,6 +7535,62 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "A decoupled transcription platform enables tunable and predictable gene expression in yeast.",
+      "titleZh": "",
+      "journal": "Nature communications",
+      "targetJournal": "全部收录期刊",
+      "issn": "2041-1723",
+      "eissn": "2041-1723",
+      "year": 2026,
+      "date": "2026-07-27",
+      "authors": "Chen Y, Li H, Duan L, Liu Y, Yan J, Chen H, Yang J.",
+      "doi": "10.1038/s41467-026-76008-2",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76008-2",
+      "pmid": "42649178",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42649178/",
+      "pmcid": "",
+      "abstract": "Predictable control of gene expression is essential for building genetic circuits and improving metabolic pathways, but conventional promoter libraries often behave unpredictably when genes are combined. Here we develop CRISPR-Activated Promoter-based Orthogonal expression (CAPO), a quantitative platform for controlling multiple genes in yeast. CAPO uses synthetic CRISPR-activated promoters that remain silent until matching guide RNAs recruit dCas9-VPR. We tune each gene by varying guide RNA abundance with defined T7 promoters, while keeping regulatory channels orthogonal. CAPO reaches expression levels comparable to strong native yeast promoters, maintains low background activity, and preserves promoter-strength order across different genes. We apply CAPO to program broad fluorescence color outputs and to rapidly optimize lycopene and 3-hydroxypropionic acid biosynthesis. These results establish CAPO as a scalable platform for predictable engineering of eukaryotic gene networks.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1038/s41467-026-76008-2",
+      "sourceUrl": "https://doi.org/10.1038/s41467-026-76008-2",
+      "citationCount": 0,
+      "relevanceScore": 70,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "CRISPR",
+        "遗传回路",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "代谢工程",
+        "CRISPR",
+        "遗传回路",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "CRISPR",
+        "遗传回路",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Classification of fermentation methods for white mulberry products using fluorescence spectroscopy combined with deep learning.",
       "titleZh": "荧光光谱结合深度学习对白桑葚制品发酵方法进行分类",
       "journal": "Analytical methods : advancing methods and applications",
@@ -7372,9 +7725,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9214,7 +9567,7 @@
       "articleScore": 51,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10599,7 +10952,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10795,7 +11148,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10844,7 +11197,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12430,9 +12783,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12716,9 +13069,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13065,9 +13418,9 @@
       ],
       "included": true,
       "articleScore": 48,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13901,9 +14254,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17077,9 +17430,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17126,9 +17479,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17369,9 +17722,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17565,9 +17918,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18312,9 +18665,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20391,7 +20744,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20634,7 +20987,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21026,7 +21379,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22614,9 +22967,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22663,9 +23016,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22905,9 +23258,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23438,9 +23791,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23634,9 +23987,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25387,7 +25740,7 @@
       "articleScore": 56,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26136,7 +26489,7 @@
       "articleScore": 59,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26520,9 +26873,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27182,7 +27535,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27370,9 +27723,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27929,7 +28282,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28560,7 +28913,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28907,9 +29260,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28954,9 +29307,9 @@
       ],
       "included": true,
       "articleScore": 44,
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29296,7 +29649,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30557,9 +30910,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30698,9 +31051,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30796,9 +31149,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31739,9 +32092,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32033,9 +32386,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33561,9 +33914,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33820,7 +34173,7 @@
       "articleScore": 59,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34016,7 +34369,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34155,9 +34508,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34304,7 +34657,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34638,7 +34991,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35861,9 +36214,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35967,7 +36320,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36204,9 +36557,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36938,7 +37291,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36987,7 +37340,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37181,9 +37534,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37325,7 +37678,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38109,7 +38462,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38701,9 +39054,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38859,7 +39212,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -38954,7 +39307,7 @@
       "articleScore": 60,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39356,9 +39709,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39501,7 +39854,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -39710,7 +40063,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39754,9 +40107,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40051,9 +40404,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40295,7 +40648,7 @@
       "articleScore": 45,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40641,7 +40994,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40739,7 +41092,7 @@
       "articleScore": 62,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41658,7 +42011,7 @@
       "articleScore": 56,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41940,7 +42293,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -42863,7 +43216,7 @@
       "articleScore": 52,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -42912,7 +43265,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -43995,9 +44348,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44098,7 +44451,7 @@
       "articleScore": 57,
       "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44347,9 +44700,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44601,9 +44954,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -44892,9 +45245,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -45275,9 +45628,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -45886,7 +46239,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46028,9 +46381,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46074,9 +46427,9 @@
       ],
       "included": true,
       "articleScore": 61,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46128,7 +46481,7 @@
       "articleScore": 45,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 28,
+      "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -46530,9 +46883,9 @@
       ],
       "included": true,
       "articleScore": 60,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -47308,9 +47661,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 34,
+      "journalArticleCount": 33,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -48764,9 +49117,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -49000,7 +49353,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -49098,114 +49451,13 @@
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Glucosamine Yield Improvement in Engineered &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; with Ethanol Yield Reduction by Carbon Flux Redistribution.",
-      "titleZh": "通过碳通量再分配降低乙醇产量，从而提高工程酿酒酵母中的葡萄糖胺产量。",
-      "journal": "Foods (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2304-8158",
-      "eissn": "2304-8158",
-      "year": 2026,
-      "date": "2026-03-30",
-      "authors": "Ke M, Zheng X, Feng J, Cheng J, Yang P.",
-      "doi": "10.3390/foods15071163",
-      "doiUrl": "https://doi.org/10.3390/foods15071163",
-      "pmid": "41976457",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41976457/",
-      "pmcid": "PMC13073038",
-      "abstract": "Glucosamine (GlcN) is an essential amino monosaccharide widely used in pharmaceuticals, nutraceuticals, and cosmetics. Microbial fermentation presents a sustainable alternative to its traditional chemical production. However, in Saccharomyces cerevisiae, competitive carbon flux towards ethanol significantly limits GlcN yields. In this study, an S. cerevisiae strain for GlcN biosynthesis was engineered by integrating heterologous GlmD (glucosamine-6-phosphate deaminase) and GlmP (glucosamine-6-phosphate phosphatase) genes. To redirect carbon flux, the pyruvate decarboxylase genes pdc1, pdc5, and pdc6 were sequentially knocked out using the Clustered Regularly Interspaced Short Palindromic Repeats Cas9 (CRISPR-Cas9) approach, generating strains S. cerevisiaeGlmDP/pdc1Δ, GlmDP/pdc1Δpdc5Δ, and GlmDP/pdc1Δpdc5Δpdc6Δ. S. cerevisiae GlmDP/pdc1Δpdc5Δpdc6Δ achieved a GlcN titer of 2.20 ± 0.11 g/L, a 1.54-fold increase over the parental S. cerevisia GlmDP strain, while its ethanol yield decreased by 26%. This enhancement was achieved without significantly affecting cell growth or glucose consumption. Comparative transcriptomics between the triple-knockout and parental yeasts revealed 892 differentially expressed genes. Pathways related to glycolysis and ethanol formation were predominantly downregulated, whereas pathways potentially supporting GlcN synthesis were upregulated. The engineered strain demonstrated high genetic stability over 50 generations. Our findings demonstrate that disrupting ethanol formation is an effective strategy to enhance GlcN production in S. cerevisiae, providing valuable insights for carbon flux redistribution.",
-      "abstractZh": "葡萄糖胺 (GlcN) 是一种必需的氨基单糖，广泛用于药品、营养品和化妆品。微生物发酵为传统化学生产提供了一种可持续的替代方案。然而，在酿酒酵母中，乙醇的竞争性碳通量显着限制了 GlcN 产量。在本研究中，通过整合异源 GlmD（6-磷酸葡萄糖胺脱氨酶）和 GlmP（6-磷酸葡萄糖胺磷酸酶）基因，设计了用于 GlcN 生物合成的酿酒酵母菌株。为了重定向碳通量，使用成簇规则间隔短回文重复 Cas9 (CRISPR-Cas9) 方法依次敲除丙酮酸脱羧酶基因 pdc1、pdc5 和 pdc6，产生菌株 S. cerevisiaeGlmDP/pdc1Δ、GlmDP/pdc1Δpdc5Δ 和 GlmDP/pdc1Δpdc5Δpdc6Δ。酿酒酵母 GlmDP/pdc1Δpdc5Δpdc6Δ 的 GlcN 滴度达到 2.20 ± 0.11 g/L，比亲本酿酒酵母 GlmDP 菌株增加了 1.54 倍，而其乙醇产量下降了 26%。这种增强是在没有显着影响细胞生长或葡萄糖消耗的情况下实现的。第 892 章",
-      "url": "https://doi.org/10.3390/foods15071163",
-      "sourceUrl": "https://doi.org/10.3390/foods15071163",
-      "citationCount": 0,
-      "relevanceScore": 68,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "CRISPR",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "CRISPR",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "CRISPR",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 57,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 34,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Species- and salt-dependent Mg&lt;sup&gt;2+&lt;/sup&gt; handling during fermentation - Comparative responses of Saccharomyces boulardii and Lactobacilli.",
-      "titleZh": "发酵过程中物种和盐依赖性 Mg<sup>2+</sup> 处理 - 布拉酵母菌和乳杆菌的比较反应。",
-      "journal": "International journal of food microbiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0168-1605",
-      "eissn": "1879-3460",
-      "year": 2026,
-      "date": "2026-03-30",
-      "authors": "Varvara RA, Senila M, Senila L, Ranga F, Ciont C, Cocean AM, Medeleanu M, Becze A, Vodnar DC.",
-      "doi": "10.1016/j.ijfoodmicro.2026.111758",
-      "doiUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111758",
-      "pmid": "41933543",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41933543/",
-      "pmcid": "",
-      "abstract": "Magnesium is an essential cofactor in microbial metabolism, and its availability during fermentation can substantially influence probiotic growth, metabolic activity, and intracellular mineral handling. This study aimed to evaluate the influence of four magnesium salts, bisglycinate, malate, citrate, and taurate, on fermentation performance, metabolism, and cell-associated magnesium accumulation in three microorganisms: Saccharomyces boulardii MYA-796, Lacticaseibacillus rhamnosus ATCC 53103, and Limosilactobacillus fermentum LC-40. Fermentation assays revealed pronounced strain- and salt-dependent responses. S. boulardii exhibited enhanced viability in the presence of Mg-mal and a marked shift in fermentation metabolism, characterized by a ∼50% reduction in ethanol production and distinct changes in extracellular malic and citric acid levels between T0 and T24. L. rhamnosus benefited primarily from Mg-cit and Mg-mal, maintaining higher cell counts and improved pH stability, whereas L. fermentum sustained robust growth across all treatments with mainly quantitative changes in organic acid profiles. Analysis of cell-associated magnesium accumulation identified S. boulardii as the strain exhibiting the highest magnesium accumulation capacity, reaching nearly 700 μg/g DW with Mg-tau, compared to less than 270 μg/g DW in lactic acid bacteria (LAB). Docking simulations supported these findings, identifying yeast ALR1 as having the highest binding potential score (∼4.9), whereas LAB MgtE showed only moderate binding potential. These results indicate that S. boulardii accumulates magnesium levels up to 4-fold higher than those of the LAB strains tested, highlighting its suitability as a model system for studying mineral accumulation and metabolic adaptation under magnesium-enriched fermentation conditions.",
-      "abstractZh": "镁是微生物代谢中重要的辅助因子，其在发酵过程中的可用性可以极大地影响益生菌的生长、代谢活动和细胞内矿物质处理。本研究旨在评估四种镁盐（双甘氨酸盐、苹果酸盐、柠檬酸盐和牛磺酸盐）对三种微生物（布拉酵母菌 MYA-796、鼠李糖乳杆菌 ATCC 53103 和发酵柠檬酸杆菌 LC-40）的发酵性能、代谢和细胞相关镁积累的影响。发酵测定揭示了明显的菌株和盐依赖性反应。布拉氏酵母菌在 Mg-mal 存在下表现出活力增强和发酵代谢显着变化，其特征是乙醇产量减少约 50%，并且 T0 和 T24 之间细胞外苹果酸和柠檬酸水平发生明显变化。鼠李糖乳杆菌主要受益于 Mg-cit 和 Mg-mal，维持了较高的细胞计数并改善了 pH 稳定性，而发酵乳杆菌在所有处理中均保持强劲生长，主要是有机酸谱的数量变化。细胞相关镁积累的分析确定布拉氏酵母菌是最有效的",
-      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111758",
-      "sourceUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111758",
-      "citationCount": 0,
-      "relevanceScore": 67,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "布拉氏酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "布拉氏酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "布拉氏酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 57,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 28,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 997 篇",
-    "lastStartedAt": "2026-08-27T10:48:29.187Z",
-    "lastFinishedAt": "2026-08-27T10:49:26.380Z",
+    "lastMessage": "更新完成，共 1002 篇",
+    "lastStartedAt": "2026-08-28T12:24:44.690Z",
+    "lastFinishedAt": "2026-08-28T12:26:02.570Z",
     "nextRunAt": null,
     "progress": 100
   }
