@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T06:30:33.470Z",
+  "updatedAt": "2026-09-01T05:56:54.153Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -2839,7 +2839,7 @@
       "included": true,
       "articleScore": 59,
       "journalScore": 45,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -9968,9 +9968,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12326,9 +12326,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16822,9 +16822,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18590,9 +18590,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22182,9 +22182,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25054,9 +25054,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29026,9 +29026,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30398,9 +30398,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30447,9 +30447,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31726,9 +31726,9 @@
       ],
       "included": true,
       "articleScore": 62,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34862,6 +34862,53 @@
       "journalScore": 44,
       "journalQuartile": "Q2",
       "journalArticleCount": 12,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Draft genome sequence of Priestia megaterium MHES4, a biofertilizer candidate isolated from tomato rhizosphere in Bangladesh.",
+      "titleZh": "",
+      "journal": "BMC genomic data",
+      "targetJournal": "全部收录期刊",
+      "issn": "2730-6844",
+      "eissn": "2730-6844",
+      "year": 2026,
+      "date": "2026-05-09",
+      "authors": "Hannan MN, Khan S, Siddique N, Hossain MN, Islam R, Nahar K, Rahman GKMM, Shozib HB, Molla AH, Hoque MN, Haque MM.",
+      "doi": "10.1186/s12863-026-01431-9",
+      "doiUrl": "https://doi.org/10.1186/s12863-026-01431-9",
+      "pmid": "42106633",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42106633/",
+      "pmcid": "PMC13330037",
+      "abstract": "ObjectiveThe genus Priestia has recently gained attention for its plant growth-promoting potential. To examine the genomic traits and biosafety profile for potential field application as a native, climate-smart bioinoculant, we sequenced, assembled and annotated the genome of Priestia megaterium strain MHES4, isolated from the rhizosphere of tomato plant grown in drought-prone ecosystem of Rajshahi, Bangladesh.Data descriptionGenome assembly data from the shotgun whole genome sequencing (WGS) of the P. megaterium MHES4 revealed 60 contigs with a total length of 5,267,048 bp, an N50 of 446,003 bp and 37.9% G + C content. The mean sequencing depth was 127.58×, with 100% breadth of coverage. Genome completeness assessed was 97.43% with 3.5% contamination, confirming high assembly quality. In total, 5,484 protein-coding genes were annotated. Additionally, 5,445 protein-coding sequences, 28 tRNAs, and 5 rRNAs were identified. Functional analysis identified gene clusters involved in the synthesis of secondary metabolites, such as phytoene synthase and alpha-amylase, and a Type I CRISPR-Cas system. Biosafety assessment using in silico tools detected no virulence factors or transmissible antibiotic resistance genes, indicating its potential safe use in agriculture. Overall, this genomic resource provides valuable insights into the genetic potential of P. megaterium MHES4 for nutrient cycling and adaptation to the rhizosphere environment.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1186/s12863-026-01431-9",
+      "sourceUrl": "https://doi.org/10.1186/s12863-026-01431-9",
+      "citationCount": 0,
+      "relevanceScore": 61,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 54,
+      "translationError": "Translation returned 429",
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40103,9 +40150,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -40493,7 +40540,7 @@
       "included": true,
       "articleScore": 53,
       "journalScore": 41,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -40948,9 +40995,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41251,9 +41298,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41646,9 +41693,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 14,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -50770,52 +50817,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Heterologous Expression of ZmAHL10 Gene Enhances Low Nitrogen Tolerance in Transgenic Arabidopsis.",
-      "titleZh": "ZmAHL10 基因的异源表达增强转基因拟南芥的低氮耐受性。",
-      "journal": "Plants (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2223-7747",
-      "eissn": "2223-7747",
-      "year": 2026,
-      "date": "2026-03-31",
-      "authors": "Liu J, Li Y, Zuo G, Li J, Shi H, Wang S.",
-      "doi": "10.3390/plants15071062",
-      "doiUrl": "https://doi.org/10.3390/plants15071062",
-      "pmid": "41977721",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41977721/",
-      "pmcid": "PMC13074375",
-      "abstract": "Nitrogen is an essential element for plant growth, and low nitrogen stress significantly restricts crop yield. Therefore, cultivating crop varieties that are tolerant to low nitrogen is crucial for agricultural production. The AT-hook motif nuclear localization protein (AHL) family is vital for plant stress resistance. To investigate the potential regulatory mechanisms of the AHL family in maize under low nitrogen stress, 35 ZmAHL genes were identified from the maize genome using bioinformatics methods. The results indicated that these genes encode proteins with lengths ranging from 203 to 573 amino acids, with relative molecular weights between 20.68 and 59.68 kDa, and they are unevenly distributed across 10 chromosomes. Most proteins encoded by these genes are alkaline hydrophilic proteins, primarily localized in the nucleus. Family expansion occurred through tandem and fragment repeats, which exhibited evolutionary conservation with rice homologous genes. Transcriptome analysis revealed that the majority of ZmAHL genes in drought-tolerant maize inbred lines were significantly up-regulated under drought and low nitrogen stress, with the ZmAHL10 gene displaying the most pronounced response to low nitrogen conditions. Experiments involving transgenic Arabidopsis thaliana further confirmed that the growth status, nitrogen uptake, and photosynthetic pigment content of ZmAHL10 overexpression strains under low nitrogen conditions were superior to those of the wild type, while the mutant exhibited significant growth inhibition. Overall, this study delineated the fundamental characteristics of the maize ZmAHL gene family and established that ZmAHL10 enhances low nitrogen tolerance in plants by improving nitrogen absorption capacity and maintaining the stability of the photosynthetic system. This research provides candidate genes and a theoretical foundation for the molecular breeding of maize with enhanced low nitrogen tolerance.",
-      "abstractZh": "氮是植物生长必需的元素，低氮胁迫严重限制作物产量。因此，培育耐低氮作物品种对农业生产至关重要。 AT-hook 基序核定位蛋白 (AHL) 家族对于植物抗逆性至关重要。为了研究低氮胁迫下玉米AHL家族的潜在调控机制，利用生物信息学方法从玉米基因组中鉴定出35个ZmAHL基因。结果表明，这些基因编码的蛋白质长度为203至573个氨基酸，相对分子量为20.68至59.68 kDa，并且它们不均匀地分布在10条染色体上。这些基因编码的大多数蛋白质是碱性亲水蛋白质，主要位于细胞核中。家族扩张是通过串联和片段重复发生的，这表现出与水稻同源基因的进化保守性。转录组分析显示，耐旱玉米自交系中的大多数 ZmAHL 基因在干旱和低氮胁迫下显着上调，其中 ZmAHL10 基因表现出最明显的变化。",
-      "url": "https://doi.org/10.3390/plants15071062",
-      "sourceUrl": "https://doi.org/10.3390/plants15071062",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "异源表达"
-      ],
-      "mainKeywords": [
-        "异源表达",
-        "念珠菌"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "异源表达"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 15,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Proanthocyanidins: structure, biosynthesis, regulation, and structure-activity relationships.",
       "titleZh": "原花青素：结构、生物合成、调节和构效关系。",
       "journal": "aBIOTECH",
@@ -50961,8 +50962,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 1032 篇",
-    "lastStartedAt": "2026-08-31T06:29:42.014Z",
-    "lastFinishedAt": "2026-08-31T06:30:33.470Z",
+    "lastStartedAt": "2026-09-01T05:55:57.110Z",
+    "lastFinishedAt": "2026-09-01T05:56:54.153Z",
     "nextRunAt": null,
     "progress": 100
   }
