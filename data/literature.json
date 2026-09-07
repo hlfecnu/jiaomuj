@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:23:18.487Z",
+  "updatedAt": "2026-09-07T05:32:38.022Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -143,6 +143,100 @@
     ]
   },
   "articles": [
+    {
+      "title": "BpCYCD3;1 regulates organ growth by activating the cell cycle module in white birch.",
+      "titleZh": "",
+      "journal": "Plant science : an international journal of experimental plant biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1873-2259",
+      "eissn": "1873-2259",
+      "year": 2026,
+      "date": "2026-09-05",
+      "authors": "Yue L, Wang X, Zheng Z.",
+      "doi": "10.1016/j.plantsci.2026.113406",
+      "doiUrl": "https://doi.org/10.1016/j.plantsci.2026.113406",
+      "pmid": "42700890",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42700890/",
+      "pmcid": "",
+      "abstract": "Cyclin D proteins are key regulators of cell cycle progression and plant growth. Here, we identified BpCYCD3;1, a CYCD3 family member in birch, and investigated its function. Phylogenetic and sequence analyses showed that BpCYCD3;1 is evolutionarily conserved and contains canonical cell cycle-related domains. Promoter and expression analyses suggested responsiveness to environmental and hormonal signals, with preferential expression in leaves. BpCYCD3;1 overexpression promoted leaf expansion and and biomass accumulation, whereas CRISPR/Cas9 knockout reduced vegetative growth. Cytological analyses revealed increased cell density and epidermal cell number in overexpression lines, indicating enhanced cell proliferation. At the molecular level, BpCYCD3;1 upregulated G1/S transition regulators and DNA replication-related genes. Yeast two-hybrid and docking analyses suggested interaction between BpCYCD3;1 and CDKA;1, as well as the interaction between RBR and E2F transcription factors, and binding of E2FA/E2FB to downstream promoters. Together, these results indicate that BpCYCD3;1 promotes vegetative growth by activating the CDKA-RBR-E2F regulatory module, providing a potential target for improving tree growth and biomass production.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.plantsci.2026.113406",
+      "sourceUrl": "https://doi.org/10.1016/j.plantsci.2026.113406",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Nutritional regulation of LC-PUFA biosynthesis in the marine polychaete Platynereis dumerilii.",
+      "titleZh": "",
+      "journal": "Comparative biochemistry and physiology. Part B, Biochemistry & molecular biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1096-4959",
+      "eissn": "1879-1107",
+      "year": 2026,
+      "date": "2026-09-05",
+      "authors": "Bainour K, Ara JP, Navarro JC, Monroig Ó.",
+      "doi": "10.1016/j.cbpb.2026.111284",
+      "doiUrl": "https://doi.org/10.1016/j.cbpb.2026.111284",
+      "pmid": "42700950",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42700950/",
+      "pmcid": "",
+      "abstract": "Long-chain polyunsaturated fatty acids (LC-PUFA) are essential nutrients for membrane function, development, and immunity in animals. Polychaetes are promising sources of LC-PUFA due to their endogenous biosynthetic capacity, but optimal feeding strategies to enhance their nutritional value remain poorly understood. We investigated the nutritional regulation of LC-PUFA biosynthesis in the marine polychaete Platynereis dumerilii fed three diets differing in fatty acid (FA) profiles: spinach, yeast, and commercial fish feed. Juveniles were cultured for 37 days at 35‰ salinity, and survival, growth, total lipids, FA profiles, and expression of elongases, desaturases, and putative transcription factors were analysed. Survival rates were high across all diets (93.3-95.0%), while growth was significantly reduced in spinach-fed worms, which showed a lower specific growth rate (1.5 ± 0.1% day-1) than worms fed yeast (2.2 ± 0.1% day-1) or fish feed (2.0 ± 0.1% day-1). Diet strongly affected FA composition: fish feed increased n-3 LC-PUFA, spinach elevated α-linolenic acid, and yeast enhanced n-6 LC-PUFA. Despite low dietary LC-PUFA, eicosapentaenoic acid levels remained stable, indicating active endogenous synthesis. Gene expression responses were diet-dependent, with elongase Elovl2/5 expression higher in fish-feed-fed worms (0.8 ± 0.3) than in yeast-fed worms (0.4 ± 0.1), while the front-end desaturase Fed1 (Δ5 activity) and methyl-end desaturase ω des1 (Δ12 activity) showed their highest expression in spinach-fed worms (3.9 ± 1.8 and 2.4 ± 1.0, respectively). Overall, P. dumerilii adjusted its lipid metabolism in response to dietary inputs, demonstrating transcriptional plasticity and reinforcing its potential as a sustainable source of LC-PUFA.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.cbpb.2026.111284",
+      "sourceUrl": "https://doi.org/10.1016/j.cbpb.2026.111284",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
     {
       "title": "A new MRR1 gain-of-function mutation involved in cross-resistance to antifungal agents in the fungal priority pathogen Candida parapsilosis.",
       "titleZh": "",
@@ -453,6 +547,59 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Proteome-wide profiling of lysine β-hydroxybutyrylation in Reynoutria japonica (Huzhang) and its dynamics under hydrogen sulfide stress.",
+      "titleZh": "",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "targetJournal": "全部收录期刊",
+      "issn": "0981-9428",
+      "eissn": "1873-2690",
+      "year": 2026,
+      "date": "2026-09-03",
+      "authors": "You L, Deng Y, Zhang Y, Xiong H, Zhang P, Zhang J, Han M, Ye Z, Zhang Z, Li C, Zhou C, You J, Zheng L, Zhang Y.",
+      "doi": "10.1016/j.plaphy.2026.111712",
+      "doiUrl": "https://doi.org/10.1016/j.plaphy.2026.111712",
+      "pmid": "42700578",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42700578/",
+      "pmcid": "",
+      "abstract": "Reynoutria japonica is both an important industrial source of resveratrol and a medicinal plant notable for its strong environmental adaptability. However, its responses to hydrogen sulfide (H2S), a key environmental signaling molecule, remain largely unexplored. Lysine β-hydroxybutyrylation (Kbhb) is a newly identified short-chain fatty acylation, but its role in regulating plant stress responses is unclear. Here, we performed the first proteome-wide profiling of Kbhb in R. japonica, identifying 17,102 high-confidence sites across 6185 proteins. Motif analysis revealed six conserved motifs. Functional enrichment analysis revealed that Kbhb-modified proteins are predominantly involved in core carbon and energy metabolism, with extensive modifications on enzymes related to acetyl-CoA flux, β-hydroxybutyrate metabolism, and the biosynthesis of resveratrol and anthraquinones. Under NaHS-imposed H2S stress, short-term exposure (3 h) triggered ROS accumulation and increased global Kbhb levels, particularly on histones H3 and H2A, suggesting an early signaling or chromatin-associated response; prolonged exposure reduced chlorophyll content and decreased Kbhb abundance. Pharmacological inhibition and in planta transient assays identified RjapHDA5L and RjapHDA9L as potential candidate regulators that regulate Kbhb modification's homeostasis. Furthermore, functional validation in a yeast heterologous expression system demonstrated that increasing Kbhb levels via β-hydroxybutyrate (BHB) or HDAC inhibitor treatment significantly enhanced the enzymatic activity of isocitrate dehydrogenase (IDH), a key TCA cycle enzyme. These findings indicate that Kbhb serves as a functional activator of core metabolic enzymes. Our study provides the first global landscape of Kbhb in R. japonica and establishes a molecular foundation for understanding how Kbhb dynamics regulate plant metabolism and epigenetic adaptation under environmental stress.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.111712",
+      "sourceUrl": "https://doi.org/10.1016/j.plaphy.2026.111712",
+      "citationCount": 0,
+      "relevanceScore": 45,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "异源表达",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 16,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Screening,identification, and preliminary characterization of yeast strains with brewing-related traits from Hovenia acerba Lindl. fermentation broth.",
       "titleZh": "",
       "journal": "Archives of microbiology",
@@ -609,6 +756,106 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Bioactive Constituents of &lt;i&gt;Piper crocatum&lt;/i&gt; Ruiz &amp; Pav. and &lt;i&gt;Piper betle&lt;/i&gt; Linn. as Antifungal and Antibiofilm Agents Against &lt;i&gt;Candida albicans&lt;/i&gt;.",
+      "titleZh": "",
+      "journal": "Drug design, development and therapy",
+      "targetJournal": "全部收录期刊",
+      "issn": "1177-8881",
+      "eissn": "1177-8881",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Kurnia D, Tristyaningrum NA, Herlina T, Kai K, Evangelina Iii IA.",
+      "doi": "10.2147/dddt.s605752",
+      "doiUrl": "https://doi.org/10.2147/dddt.s605752",
+      "pmid": "42701785",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42701785/",
+      "pmcid": "",
+      "abstract": "Oral infections caused by biofilm-forming fungi such as Candida albicans pose a major therapeutic challenge due to their lead to increased drug resistance, recurrent infections, and reduced efficacy of conventional antifungal agents. Piper crocatum Ruiz and Pav. and Piper betle Linn. have attracted significant attention for further research due to their rich phytochemical composition, which could potentially serve as sources of natural compounds with antifungal and antibiofilm activity. This review summarizes and critically compares the bioactive constituents, antifungal mechanisms, and antibiofilm properties of both species against one of the oral fungal pathogens, Candida albicans. Current evidence indicates that P. crocatum contains a variety of metabolites with diverse structures, such as phytosterols, amide alkaloids, neolignans, and sesquiterpenoids. Some of these compounds exhibit antifungal activity in vitro and show predictive interactions with the CYP51, ERG11, and Sap5, which are involved in ergosterol biosynthesis and the virulence of C. albicans. However, there is currently no evidence of antibiofilm activity by P. crocatum against Candida albicans. Consequently, this additional research is required in the future. In contrast, antifungal and antibiofilm evidence in P. betle is predominantly centered on hydroxychavicol, which demonstrated reproducible antifungal activity, disruption of fungal membrane integrity, interference with morphogenesis, and concentration-dependent inhibition of Candida biofilm formation. Overall, both species represent promising sources of antifungal lead compounds. However, translational development remains limited by insufficient mechanistic validation, lack of in vivo evidence, and formulation-related challenges.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.2147/dddt.s605752",
+      "sourceUrl": "https://doi.org/10.2147/DDDT.S605752",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Biosynthesis of Crinipellin Diterpenes in Mushroom Marasmius fiardii PR-910.",
+      "titleZh": "",
+      "journal": "Journal of the American Chemical Society",
+      "targetJournal": "全部收录期刊",
+      "issn": "0002-7863",
+      "eissn": "1520-5126",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Guo LL, Su F, Wei J, Li X, Wang X, Chen HP, Liu JK.",
+      "doi": "10.1021/jacs.6c10016",
+      "doiUrl": "https://doi.org/10.1021/jacs.6c10016",
+      "pmid": "42701257",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42701257/",
+      "pmcid": "",
+      "abstract": "Crinipellins are a distinctive family of 5/5/5/5 tetracyclic diterpenoids previously reported exclusively from mushrooms of the genus Crinipellis. Despite extensive synthetic studies, the biosynthetic machinery responsible for crinipellin formation has remained elusive. Here, we identify the crinipellin biosynthetic gene cluster (mfd) from the mushroom Marasmius fiardii PR-910, a member of the family Marasmiaceae to which Crinipellis also belongs, although M. fiardii PR-910 itself has not been previously reported to produce crinipellins. Using a combination of site-directed mutagenesis guided by an AlphaFold3-generated structural model, stable isotope-labeling studies, density functional theory (DFT) calculations, and ab initio molecular dynamics (AIMD) simulations, the cyclization mechanism of the diterpene synthase MfdB, which constructs the fused tetraquinane scaffolds 1 and 2, was elucidated. Mutagenesis of MfdB uncovered cryptic cyclization pathways that generate structurally diverse diterpenes, including unprecedented bridged and rearranged diterpene skeletons (4-6), whose formation is supported by computational analyses, and further revealed an unusual arginine-rich diphosphate-binding architecture. Heterologous expression studies in Aspergillus oryzae and Saccharomyces cerevisiae established the oxidative functions of the cytochrome P450 enzymes MfdC, MfdD, and MfdE, leading to the production of 19 previously undescribed oxidized metabolites (16-34). Notably, MfdE, a member of the largely unexplored CYP_FUM15-like subfamily, catalyzes an unusual oxidative demethylation through C-C bond cleavage, expanding the known catalytic repertoire of fungal cytochrome P450 enzymes. Collectively, this work establishes the biosynthetic logic of crinipellin formation, reveals how terpene synthase plasticity generates cryptic diterpene scaffolds, and demonstrates how oxidative tailoring by multiple cytochrome P450 enzymes drives diterpene scaffold diversification.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1021/jacs.6c10016",
+      "sourceUrl": "https://doi.org/10.1021/jacs.6c10016",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "translationError": "Translation returned 429",
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Enzymatic depolymerization of laboratory waste DNA to a dGMP-containing pool and analytical assessment of dGTP in a crude-lysate guanylate kinase system.",
       "titleZh": "",
       "journal": "Molecular biology reports",
@@ -751,7 +998,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1678,6 +1925,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Ribosome engineering enhances genetic code expansion in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;.",
+      "titleZh": "",
+      "journal": "Synthetic and systems biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "2405-805X",
+      "eissn": "2405-805X",
+      "year": 2027,
+      "date": "2026-08-29",
+      "authors": "Chen X, Shen W, Chen X, Zhang F, Yang B, Yue Z, Zhao G.",
+      "doi": "10.1016/j.synbio.2026.08.009",
+      "doiUrl": "https://doi.org/10.1016/j.synbio.2026.08.009",
+      "pmid": "42701464",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42701464/",
+      "pmcid": "",
+      "abstract": "Genetic code expansion enables the site-specific installation of noncanonical amino acids (ncAAs) into proteins, but its limited efficiency in eukaryotes remains a major barrier to broader application. Here we establish a visual, plug-and-play screening platform to evolve 18S ribosomal DNA in Saccharomyces cerevisiae and identify ribosomal variants that improve ncAA incorporation. The best-performing strain, designated ribo-hyper, increased ncAA-dependent GFP production by 2.9-fold relative to the wild-type rDNA strain and enhanced incorporation across distinct orthogonal aminoacyl-tRNA synthetase/tRNA pairs. Characterization of ribo-hyper showed that global translation activity and cellular growth were moderately reduced. Proteomic analysis further revealed changes in amino acid biosynthesis, translation-related proteins and stress-response pathways, indicating that the engineered ribosome reshapes cellular translation homeostasis. Perturbation of translation quality-control pathways, including the ribosome-rescue factors Dom34 and Hbs1 and the core mRNA exosome component Ski6, reduced ncAA-containing protein output, whereas disruption of ribosome quality-control factor Rqc2 had little effect. These findings support a role for ribosome rescue and associated mRNA turnover in efficient ncAA incorporation in the ribo-hyper strain. Together, our results establish eukaryotic ribosome engineering as a viable strategy for improving genetic code expansion in yeast.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.synbio.2026.08.009",
+      "sourceUrl": "https://doi.org/10.1016/j.synbio.2026.08.009",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 21,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "TaDEP1 regulates grain size and abiotic stress tolerance by interacting with TaMyb309 in bread wheat.",
       "titleZh": "",
       "journal": "Molecular breeding : new strategies in plant improvement",
@@ -1827,6 +2124,59 @@
       "journalScore": 37,
       "journalQuartile": "Q3",
       "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Characterization of two key cytochrome P450 enzymes in &lt;i&gt;Isodon amethystoides&lt;/i&gt; and &lt;i&gt;de novo&lt;/i&gt; production of 3α,15β-dihydroxy-&lt;i&gt;ent-&lt;/i&gt;kaurene in yeast.",
+      "titleZh": "",
+      "journal": "Synthetic and systems biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "2405-805X",
+      "eissn": "2405-805X",
+      "year": 2027,
+      "date": "2026-08-27",
+      "authors": "Chen Y, Song X, Wang Y, Han Y, Xia M, Yuan S, Ma Y, Wang J, Ma Q, Liu S, Su P, Huang L.",
+      "doi": "10.1016/j.synbio.2026.08.004",
+      "doiUrl": "https://doi.org/10.1016/j.synbio.2026.08.004",
+      "pmid": "42701548",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42701548/",
+      "pmcid": "",
+      "abstract": "Glaucocalyxin A (GLA), a well-known ent-kaurene diterpenoid, has emerged as a high-value bioactive natural product in pharmaceutical research owing to its potent and broad-spectrum activities. To date, its total synthesis has proven extremely challenging due to poor yield and intricate routes, and the biosynthetic pathway of GLA remains poorly understood. Herein, we identified two enzymes, IamCYP71D761 and IamCYP706V18, in Isodon amethystoides, which specifically mediate the C3α- and C15β-hydroxylation of ent-kaurene with high stereoselectivity and regioselectivity, respectively, generating 3α,15β-dihydroxy-ent-kaurene (3), a key precursor in the biosynthesis of GLA. In addition, we established an efficient de novo biosynthesis platform for 3 in Saccharomyces cerevisiae. Briefly, high-efficiency isozyme screening, protein engineering, increased acetyl-CoA synthesis, and copy number enhancement were applied to the ent-kaurene biosynthesis module. Subsequently, promoter optimization, competitive pathway knockout, and electron transfer optimization were introduced, resulting in production of 3 to 24.0 ± 0.2 mg/L in shake flask. In summary, this work highlights the pivotal roles of IamCYP71D761 and IamCYP706V18 in the heterologous biosynthesis of 3, offering valuable insights for the further pathway reconstruction and de novo production of GLA, GLB, and other ent-kaurene diterpenoids.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.synbio.2026.08.004",
+      "sourceUrl": "https://doi.org/10.1016/j.synbio.2026.08.004",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2919,7 +3269,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3377,7 +3727,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4308,7 +4658,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5033,7 +5383,7 @@
       "eissn": "1873-4596",
       "year": 2026,
       "date": "2026-08-11",
-      "authors": "Ramírez-Robles D, Espinoza-Simón E, López-Miranda M, Juárez-Meléndez K, Nieto-Zaragoza E, Torres-Marcial K, Ríos-Castro E, Filipovic M, Torres-Quiroz F.",
+      "authors": "Ramírez-Robles D, Espinoza-Simón E, López-Miranda M, Juárez-Meléndez K, Nieto-Zaragoza E, Torres-Marcial K, Ríos-Castro E, Filipovic MR, Torres-Quiroz F.",
       "doi": "10.1016/j.freeradbiomed.2026.08.021",
       "doiUrl": "https://doi.org/10.1016/j.freeradbiomed.2026.08.021",
       "pmid": "42580539",
@@ -5669,7 +6019,7 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5814,7 +6164,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5863,7 +6213,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5909,7 +6259,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6443,7 +6793,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6688,7 +7038,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8001,7 +8351,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9775,7 +10125,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11185,7 +11535,7 @@
       "included": true,
       "articleScore": 43,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -13470,7 +13820,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13516,7 +13866,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13565,7 +13915,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14253,7 +14603,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14452,7 +14802,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14851,7 +15201,7 @@
       "articleScore": 56,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17012,7 +17362,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17512,7 +17862,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17992,7 +18342,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18245,7 +18595,7 @@
       "articleScore": 55,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20777,7 +21127,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20929,7 +21279,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21175,7 +21525,7 @@
       "articleScore": 59,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21224,7 +21574,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22044,7 +22394,7 @@
       "articleScore": 53,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23085,7 +23435,7 @@
       "articleScore": 47,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23878,7 +24228,7 @@
       "articleScore": 45,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25260,7 +25610,7 @@
       "articleScore": 48,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25940,7 +26290,7 @@
       "articleScore": 56,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26154,7 +26504,7 @@
       "articleScore": 60,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27184,7 +27534,7 @@
       "articleScore": 46,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27236,7 +27586,7 @@
       "articleScore": 53,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27337,7 +27687,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28159,9 +28509,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28974,7 +29324,7 @@
       "included": true,
       "articleScore": 47,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -30545,7 +30895,7 @@
       "articleScore": 44,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31642,7 +31992,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32095,7 +32445,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35283,7 +35633,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35911,7 +36261,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36805,7 +37155,7 @@
       "articleScore": 43,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 19,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37728,7 +38078,7 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39317,7 +39667,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -39703,7 +40053,7 @@
       "articleScore": 49,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -41713,9 +42063,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 843 篇",
-    "lastStartedAt": "2026-09-06T05:22:03.778Z",
-    "lastFinishedAt": "2026-09-06T05:23:18.487Z",
+    "lastMessage": "更新完成，共 850 篇",
+    "lastStartedAt": "2026-09-07T05:31:50.398Z",
+    "lastFinishedAt": "2026-09-07T05:32:38.022Z",
     "nextRunAt": null,
     "progress": 100
   }
