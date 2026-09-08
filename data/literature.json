@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:32:38.022Z",
+  "updatedAt": "2026-09-08T05:31:11.358Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -144,6 +144,56 @@
   },
   "articles": [
     {
+      "title": "MdLYK7 enhances resistance to Valsa canker by activating salicylic acid signaling and PbeBGLU12-mediated fungal cell wall stress.",
+      "titleZh": "",
+      "journal": "Plant physiology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0032-0889",
+      "eissn": "1532-2548",
+      "year": 2026,
+      "date": "2026-09-07",
+      "authors": "Cai M, Sun E, Yu H, Zheng Y, Hu H, Ma X, Du C, Wang W, Chen Z, Shao Y, Hou Y, Wei X, Chen B, Zuo C.",
+      "doi": "10.1093/plphys/kiag645",
+      "doiUrl": "https://doi.org/10.1093/plphys/kiag645",
+      "pmid": "42704633",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42704633/",
+      "pmcid": "",
+      "abstract": "Valsa canker (VC), caused by necrotrophic fungi in genus Valsa, is a devastating disease that threatens apple and pear production in China and other regions of East Asia. Receptor-like kinases (RLKs) play crucial roles in pathogen signal perception and the initiation of immune responses. However, key members of RLKs contribute to VC resistance and potential functions remain largely elusive. In this study, we identified a Malus domestica lysin-motif RLK gene, MdLYK7, whose overexpression substantially enhanced the VC resistance in apple and pear fruits and in suspension cells of Pyrus betulifolia 'Duli-G03'. Heterologous overexpression of MdLYK7 in P. betulifolia significantly induced PbeBGLU12, which encodes the β-glucosidase 12-like protein. Among them, Yeast two-hybrid (Y2H) library screening, bimolecular fluorescence complementation, luciferase complementation imaging, and co-immunoprecipitation assays showed that MdLYK7 interacted with PbeBGLU12. Functional analysis further demonstrated that PbeBGLU12 is required for MdLYK7-mediated immune response, promotes salicylic acid (SA) accumulation and SA-responsive gene expression, and increases fungal cell wall stress in Valsa pyri. Transcriptome analysis indicated that overexpression of MdLYK7 resulted in differential expression of genes associated with phenylpropanoid biosynthesis and starch and sucrose metabolism in 'Duli-G03' cells in response to Valsa pyri (Vp) signals. Collectively, these results reveal an MdLYK7-PbeBGLU12 module that enhances Valsa canker resistance by activating SA-associated defense responses and imposing stress on the fungal cell wall. This study provides new insight into the molecular basis of Valsa canker resistance and identifies candidate targets for resistance breeding in apple and pear.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/plphys/kiag645",
+      "sourceUrl": "https://doi.org/10.1093/plphys/kiag645",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 43,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 13,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "BpCYCD3;1 regulates organ growth by activating the cell cycle module in white birch.",
       "titleZh": "",
       "journal": "Plant science : an international journal of experimental plant biology",
@@ -232,7 +282,7 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -547,6 +597,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Functional characterization of LeWRKY24 targeting LeSAT2 to promote acylshikonin biosynthesis.",
+      "titleZh": "",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "targetJournal": "全部收录期刊",
+      "issn": "0981-9428",
+      "eissn": "1873-2690",
+      "year": 2026,
+      "date": "2026-09-03",
+      "authors": "Lai X, Wang C, Yang M, Ding Y, Wang X, Jie W, Yang L, Lv X, Zhang Y, Xing Y, Hu X, Yin T, Fazal A, Liang W, Han H, Lu G, Yang Y, Wen Z, Qi J.",
+      "doi": "10.1016/j.plaphy.2026.111709",
+      "doiUrl": "https://doi.org/10.1016/j.plaphy.2026.111709",
+      "pmid": "42702122",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42702122/",
+      "pmcid": "",
+      "abstract": "(R)-shikonin/(S)-alkannin and their derivatives (collectively denoted as shikonins) are abundantly distributed in Boraginaceae roots. Acetylshikonin, as a crucial derivative of (R)-shikonin, possesses substantial research significance. Previous investigations have shown that LeSAT2, specifically catalyzes the acylation of (R)-shikonin to yield various acylated (R)-shikonin derivatives, including acetylshikonin. Additionally, electrophoretic mobility shift assays (EMSA) indicated that LeWRKY24 transcription factors may be involved in the transcriptional regulation of LeSAT2. For this study, the interaction between LeWRKY24 and LeSAT2 was further verified using dual-luciferase reporter (DLR) and yeast one-hybrid (Y1H) assays. The LeWRKY24 overexpression vector was constructed and introduced into Echium plantagineum to induce transgenic hairy roots. High-performance liquid chromatography (HPLC) analysis showed that in LeWRKY24-overexpressing hairy root lines, a significant increase was observed in the total pigment content, and in particular, the content of acetylshikonin was dramatically upregulated by as much as 200-fold. Transcriptome data revealed that genes associated with shikonin biosynthesis in the overexpression lines were significantly upregulated, activating the metabolic pathway, which explains the molecular mechanism underlying this regulatory effect. Our results also confirm that LeWRKY24 possesses cross-species regulatory universality in acylshikonin biosynthesis, laying a foundation for its widespread application in the metabolic engineering of Boraginaceae plants.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.111709",
+      "sourceUrl": "https://doi.org/10.1016/j.plaphy.2026.111709",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 17,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Proteome-wide profiling of lysine β-hydroxybutyrylation in Reynoutria japonica (Huzhang) and its dynamics under hydrogen sulfide stress.",
       "titleZh": "",
       "journal": "Plant physiology and biochemistry : PPB",
@@ -595,7 +695,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -953,6 +1053,53 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Fermentation Time Modulates the Osteoprotective Effects of Milk Kefir in Glucocorticoid-Induced Osteoporotic Rats.",
+      "titleZh": "",
+      "journal": "Molecular nutrition & food research",
+      "targetJournal": "全部收录期刊",
+      "issn": "1613-4125",
+      "eissn": "1613-4133",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Cordeiro Maia TA, Leitão MGS, Silva ECD, Vieira LV, Bessa ST, Rocha ISD, Silva PGB, Oliveira FADS, Goes P, Gonçalves PG, Leite DCA, Costa FWG, Rodrigues LKA, Gondim DV.",
+      "doi": "10.1002/mnfr.70601",
+      "doiUrl": "https://doi.org/10.1002/mnfr.70601",
+      "pmid": "42703818",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42703818/",
+      "pmcid": "",
+      "abstract": "Milk kefir has shown osteoprotective potential, but whether fermentation duration influences its effects remains unclear. This study evaluated the influence of fermentation time on milk kefir microbial composition and its effects on mandibular bone in glucocorticoid-induced osteoporotic rats. Milk kefir was fermented for 1, 4, or 7 days (MK1, MK4, MK7). Forty male Wistar rats were assigned to five groups (n = 8): healthy control, glucocorticoid-induced osteoporosis (GIO), and GIO treated with MK1, MK4, or MK7. Osteoporosis was induced by weekly intramuscular dexamethasone (7 mg/kg) for 5 weeks, followed by 12 weeks of daily kefir administration (0.7 mL). Microbial composition was assessed by 16S and 18S rRNA gene amplicon sequencing. Lactobacillus dominated the bacterial community, whereas Saccharomyces predominated among fungi, with no major changes across fermentation times. Prolonged fermentation (MK4 and MK7) significantly increased serum calcium, mandibular cortical thickness, interradicular bone area, collagen maturity, and fracture resistance. These findings indicate that prolonged fermentation enhances the osteoprotective effects of milk kefir, despite relative stability of the dominant microbial taxa, highlighting fermentation duration as an important factor in optimizing milk kefir for preserving mandibular bone under osteoporotic conditions.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1002/mnfr.70601",
+      "sourceUrl": "https://doi.org/10.1002/mnfr.70601",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Functional characterization of CiCIPK8 and CiCIPK11 reveals their roles in osmotic stress via CBL-CIPK signaling in pecan (Carya illinoinensis).",
       "titleZh": "",
       "journal": "Plant physiology and biochemistry : PPB",
@@ -998,7 +1145,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1442,7 +1589,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -2660,7 +2807,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3727,7 +3874,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4658,7 +4805,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6259,7 +6406,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6793,7 +6940,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8400,7 +8547,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9341,7 +9488,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9531,7 +9678,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9578,7 +9725,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10476,7 +10623,7 @@
       "included": true,
       "articleScore": 59,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11043,7 +11190,7 @@
       "included": true,
       "articleScore": 45,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11895,7 +12042,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -13820,7 +13967,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13866,7 +14013,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13915,7 +14062,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15152,7 +15299,7 @@
       "articleScore": 55,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17362,7 +17509,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19081,7 +19228,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19858,7 +20005,7 @@
       "articleScore": 55,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19907,7 +20054,7 @@
       "articleScore": 47,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20300,7 +20447,7 @@
       "articleScore": 48,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20349,7 +20496,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21079,10 +21226,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -21574,7 +21721,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23186,6 +23333,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Yeast (&lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;)-fermented moist feed for improving growth performance, carcass traits, and meat quality of broiler chickens.",
+      "titleZh": "",
+      "journal": "Journal of advanced veterinary and animal research",
+      "targetJournal": "全部收录期刊",
+      "issn": "2311-7710",
+      "eissn": "2311-7710",
+      "year": 2026,
+      "date": "2026-06-22",
+      "authors": "Rayhan MA, Aktar J, Sohag SR, Al-Mamun M, Hashem MA, Debi MR.",
+      "doi": "10.5455/javar.2026.m1043",
+      "doiUrl": "https://doi.org/10.5455/javar.2026.m1043",
+      "pmid": "42703593",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42703593/",
+      "pmcid": "",
+      "abstract": "Objectives: Despite numerous studies on Saccharomyces cerevisiae, most focus on single-ingredient fermentation, with limited applicability to fermented complete moist feed with gradual replacement of the control diet. Therefore, this study aimed to explore the impact of different inclusion levels of yeast-fermented moist feed on the overall productivity of broiler chicken. Materials and Methods: Corn-soy-based mash feed was fermented for 48 h at 29 °C in a controlled environment with 2% yeast and 40% water. A feeding trial was conducted with 300 Indian River day-old chicks for a period of 35 days. Birds were divided into five dietary treatment groups: CD = Control Diet; YFM-25 = 75% Control + 25% yeast-fermented moist feed; YFM-50 = 50% Control + 50% yeast-fermented moist feed; YFM-75 = 25% Control + 75% yeast-fermented moist feed; YFM-100 = 100% yeast-fermented moist feed having six replications (10 birds/replication). Results: Broilers fed with 75% and 100% yeast-fermented moist feed had significantly (p p p p p p Conclusions: Overall, incorporating yeast-fermented moist feed, especially at 75% and 100% levels, offers an effective natural strategy to improve broiler performance, enhance meat quality, and increase economic returns.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.5455/javar.2026.m1043",
+      "sourceUrl": "https://doi.org/10.5455/javar.2026.m1043",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "A CRISPR-Cas9 Toolkit Enabling Tunable Integration and Transient Homologous Recombination Enhancement in Yarrowia lipolytica.",
       "titleZh": "CRISPR-Cas9 工具包可在解脂耶氏酵母中实现可调谐整合和瞬时同源重组增强。",
       "journal": "Biotechnology and bioengineering",
@@ -23435,7 +23632,7 @@
       "articleScore": 47,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27586,7 +27783,7 @@
       "articleScore": 53,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27687,7 +27884,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30164,7 +30361,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 13,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32445,7 +32642,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33926,7 +34123,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -36261,7 +36458,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 16,
+      "journalArticleCount": 17,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -37304,7 +37501,7 @@
       "included": true,
       "articleScore": 60,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -37690,7 +37887,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -39957,7 +40154,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -42010,62 +42207,13 @@
       "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Prolonged Deltamethrin Exposure Induces Dose-Dependent Glycerol Overproduction and Efficient Deltamethrin Removal by &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;.",
-      "titleZh": "长期接触溴氰菊酯会导致剂量依赖性甘油过量产生，并通过酿酒酵母有效去除溴氰菊酯。",
-      "journal": "Metabolites",
-      "targetJournal": "全部收录期刊",
-      "issn": "2218-1989",
-      "eissn": "2218-1989",
-      "year": 2026,
-      "date": "2026-04-29",
-      "authors": "Yavuz M, Yavuz HG, Kaya RA, Eren O, Bereketoglu C, Turanli B.",
-      "doi": "10.3390/metabo16050305",
-      "doiUrl": "https://doi.org/10.3390/metabo16050305",
-      "pmid": "42188014",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42188014/",
-      "pmcid": "PMC13208566",
-      "abstract": "Background/Objectives: Pest management strategies rely on insecticides such as deltamethrin (DM), a commonly applied type II pyrethroid. As a natural component of food-associated microflora, Saccharomyces cerevisiae inevitably encounters DM residues in crops used for fermentation processes, including dough leavening and winemaking. However, the prolonged effect of DM exposure on yeast fermentation performance and its capacity to remove DM remained unclear. Methods: In this study, S. cerevisiae was continuously exposed to a non-lethal concentration (10 mg/L) and a low-inhibition toxic concentration (30 mg/L) of DM for 30 days. Results: Yeast exhibited high removal capacity, removing 98.05 ± 1.2% and 98.28 ± 0.4% of DM at 10 mg/L and 30 mg/L, respectively. Prolonged exposure to DM at both concentrations did not significantly affect biomass formation, glucose consumption, ethanol production, or acetic acid levels. In contrast, glycerol production increased markedly, reaching 1.1 g/L and 1.5 g/L in cultures exposed to 10 mg/L and 30 mg/L DM, respectively. Consistent with these changes, the expression levels of GPD1 and GPD2, which encode rate-limiting enzymes in glycerol biosynthesis, were upregulated in a dose-dependent manner. Conclusions: Given the fact that Saccharomyces cerevisiae is a workhorse for the biotechnological industry and has a wide range of applications, including in the food industry, elevated glycerol production in yeast under DM exposure is noteworthy in terms of yeast-based applications.",
-      "abstractZh": "背景/目标：害虫管理策略依赖于杀虫剂，例如溴氰菊酯 (DM)，一种常用的 II 型拟除虫菊酯。作为食品相关微生物群的天然成分，酿酒酵母不可避免地会在用于发酵过程（包括面团发酵和酿酒）的作物中遇到DM残留物。然而，DM 暴露对酵母发酵性能及其去除 DM 能力的长期影响仍不清楚。方法：在本研究中，酿酒酵母连续暴露于非致死浓度（10 mg/L）和低抑制毒性浓度（30 mg/L）的DM 30天。结果：酵母表现出较高的去除能力，在 10 mg/L 和 30 mg/L 时分别去除 98.05 ± 1.2% 和 98.28 ± 0.4% 的 DM。长时间暴露于两种浓度的 DM 不会显着影响生物量形成、葡萄糖消耗、乙醇产量或乙酸水平。相比之下，暴露于 10 mg/L 和 30 mg/L DM 的培养物中甘油产量显着增加，分别达到 1.1 g/L 和 1.5 g/L。与这些变化一致的是，编码甘油生物合成限速酶的 GPD1 和 GPD2 的表达水平，",
-      "url": "https://doi.org/10.3390/metabo16050305",
-      "sourceUrl": "https://doi.org/10.3390/metabo16050305",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 850 篇",
-    "lastStartedAt": "2026-09-07T05:31:50.398Z",
-    "lastFinishedAt": "2026-09-07T05:32:38.022Z",
+    "lastMessage": "更新完成，共 853 篇",
+    "lastStartedAt": "2026-09-08T05:30:18.782Z",
+    "lastFinishedAt": "2026-09-08T05:31:11.358Z",
     "nextRunAt": null,
     "progress": 100
   }
