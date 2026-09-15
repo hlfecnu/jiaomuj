@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:38:01.037Z",
+  "updatedAt": "2026-09-15T05:40:10.539Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -143,6 +143,53 @@
     ]
   },
   "articles": [
+    {
+      "title": "CRISPR and yeast two-hybrid screens identify CD81 as a proviral host factor for PRRSV.",
+      "titleZh": "",
+      "journal": "Journal of virology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0022-538X",
+      "eissn": "1098-5514",
+      "year": 2026,
+      "date": "2026-09-14",
+      "authors": "Chen Y, He Z, Pan Y, Luo Y, Huang B, Zhang Y, Li G, Guo C.",
+      "doi": "10.1128/jvi.01033-26",
+      "doiUrl": "https://doi.org/10.1128/jvi.01033-26",
+      "pmid": "42734356",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42734356/",
+      "pmcid": "",
+      "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) remains a major economic burden on the global swine industry. Identifying host factors that mediate viral invasion is critical for developing antiviral strategies. Here, using a CRISPR screen targeting genes encoding cell surface CD proteins combined with yeast two-hybrid screening, we identified the tetraspanin CD81 as a novel host factor that promoted PRRSV infection by directly interacting with viral glycoprotein 5 (GP5). CD81 knockdown reduced PRRSV infection, whereas CD81 overexpression enhanced it. Consistently, antibody-mediated blockade of CD81 restricted infection in both Marc-145 cells and primary porcine alveolar macrophages. Mechanistic analysis showed that CD81 mainly facilitated viral internalization, and its C-terminal transmembrane region was required for GP5 binding and efficient infection. During infection, CD81 underwent autophagic degradation mediated by the selective autophagy receptor NDP52, suggesting a host restriction response that reduced CD81 availability. PRRSV countered this process by promoting NDP52 degradation, thereby stabilizing CD81 and favoring infection. These findings identify CD81 as both a key factor in PRRSV pathogenesis and a potential target for antiviral intervention.IMPORTANCEPorcine reproductive and respiratory syndrome virus (PRRSV) remains one of the most economically important swine pathogens worldwide, yet effective antiviral strategies are lacking because of its extensive genetic diversity and immune evasion. Here, we identified the tetraspanin CD81 as a previously unrecognized host factor that promoted efficient PRRSV infection. CD81 directly interacted with the viral glycoprotein GP5 to facilitate viral internalization, whereas disruption of CD81 by genetic depletion or antibody blockade markedly restricted infection. We further demonstrated that CD81 abundance was controlled by NDP52-mediated selective autophagy as an intrinsic antiviral mechanism, which PRRSV overcame by degrading NDP52 to stabilize CD81 and enhance viral replication. These findings reveal a previously unrecognized virus-host interaction that governs PRRSV entry and identify CD81 as a promising host-directed therapeutic target.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1128/jvi.01033-26",
+      "sourceUrl": "https://doi.org/10.1128/jvi.01033-26",
+      "citationCount": 0,
+      "relevanceScore": 71,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
     {
       "title": "The dirigent protein MsDIR6 functions in drought tolerance and modulates reactive oxygen species scavenging and secondary metabolite biosynthesis in alfalfa.",
       "titleZh": "",
@@ -911,7 +958,7 @@
       "eissn": "1939-4586",
       "year": 2026,
       "date": "2026-09-09",
-      "authors": "Sudo T, Yamanaka K, Sugihara S, Tani M.",
+      "authors": "Sudo T, Sakamoto R, Yamanaka K, Sugihara S, Tani M.",
       "doi": "10.1091/mbc.e26-07-0335",
       "doiUrl": "https://doi.org/10.1091/mbc.e26-07-0335",
       "pmid": "42715150",
@@ -3088,7 +3135,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3281,6 +3328,53 @@
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 1,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The histone deacetylase BpHST1 influences branch angle in white birch (Betula platyphylla).",
+      "titleZh": "",
+      "journal": "The Plant journal : for cell and molecular biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0960-7412",
+      "eissn": "1365-313X",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Hou L, Li B, Liu Y, Zhang Q, Zheng Z.",
+      "doi": "10.1111/tpj.71116",
+      "doiUrl": "https://doi.org/10.1111/tpj.71116",
+      "pmid": "42732543",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42732543/",
+      "pmcid": "PMC13571764",
+      "abstract": "Optimization of tree architecture is essential for advancing sustainable forestry, as appropriate canopy structure can contribute to growth and development. However, the molecular mechanisms that control tree architecture have not been fully characterized. While the putative NAD-dependent histone deacetylase HST1 was shown to regulate branching architecture in multiple crop species, whether epigenetic mechanism also influence tree architecture is unknown. Here, we investigated the genetic regulation of branching angle in white birch (Betula platyphylla Suk.), a pioneer tree of the temperate and boreal forests. Using bphst1 mutants generated via gene editing, we demonstrate that BpHST1 is involved in tree architecture by modulating branching angles. We provide evidence that BpHST1 is a histone deacetylase associated with altered H3K27ac levels and that it affects the expression of the cellulase gene CELLULASE 1 (BpCEL1). Compared with the wild type, BpHST1 knockout and BpCEL1 overexpression both resulted in reduced branch angles, supporting BpCEL1 as a candidate downstream effector of BpHST1. Our study suggests that BpHST1 influences the birch architecture by altering H3K27 acetylation at the BpCEL1 locus, elucidating a previously unknown aspect of the epigenetic mechanisms that control tree architecture in white birch.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1111/tpj.71116",
+      "sourceUrl": "https://doi.org/10.1111/tpj.71116",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "基因组编辑"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "基因组编辑"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "基因组编辑"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 36,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -3629,6 +3723,53 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Zinc-dependent turnover of ZIP3 transporter mRNA by trypanosome ZNK1.",
+      "titleZh": "",
+      "journal": "Nucleic acids research",
+      "targetJournal": "全部收录期刊",
+      "issn": "0305-1048",
+      "eissn": "1362-4962",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Leão T, Trenaman A, Tinti M, Ruiz GB, Viegas IJ, Figueiredo LM, Duarte M, Tomás AM, Horn D.",
+      "doi": "10.1093/nar/gkag877",
+      "doiUrl": "https://doi.org/10.1093/nar/gkag877",
+      "pmid": "42728798",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42728798/",
+      "pmcid": "PMC13569496",
+      "abstract": "Like other cells, parasitic and other trypanosomatids sense Zn2+ and regulate Zn2+ transport, but the mechanisms involved remained unknown. Here, we identify a trypanosome RNA-binding protein that specifically eliminates ZIP3 transporter mRNA in Zn2+-replete conditions. We first demonstrate that Trypanosoma brucei ZIP3 mRNA abundance is subject to 3'-untranslated region (3'-UTR) and Zn2+-dependent negative control. A genome-wide RNA interference library screen, using a reporter associated with the ZIP3 3'-UTR, identifies Tb927.11.9510 as a candidate Zn2+-sensor, and we name this protein Zinc Nuclear Knuckles 1 (ZNK1) since it localizes to the nucleus and contains several Zn2+-knuckle motifs. ZNK1 is conserved among trypanosomatids, and a PIN domain suggests a ribonuclease-based mechanism. We use Cas9-editing to knockout ZNK1 and observe specific accumulation of ZIP3 transcripts, and increased intracellular Zn2+, in znk1 null cells. We validate ZNK1 as a ZIP3 3'-UTR-dependent negative regulator and identify a GU-repeat motif in the ZIP3 3'-UTR that is predictive of ZNK1-based negative control. In conclusion, ZNK1 eliminates ZIP3 transporter mRNA in a Zn2+-dependent manner. We suggest that trypanosomatid ZNK1 is a highly selective zinc finger nuclease that binds GU-repeat motifs within ZIP3 3'-UTRs and degrades Zn2+ transporter mRNA only when the tandem sensor knuckle modules are coordinated with Zn2+.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/nar/gkag877",
+      "sourceUrl": "https://doi.org/10.1093/nar/gkag877",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4197,9 +4338,9 @@
       "included": true,
       "articleScore": 57,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4405,6 +4546,62 @@
       "journalScore": 37,
       "journalQuartile": "Q3",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Exploring the potential of sequential fermentation with indigenous &lt;i&gt;Candida&lt;/i&gt; sp. and &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; to enhance chemical profile and flavor characteristics of apricot wine.",
+      "titleZh": "",
+      "journal": "Food chemistry: X",
+      "targetJournal": "全部收录期刊",
+      "issn": "2590-1575",
+      "eissn": "2590-1575",
+      "year": 2026,
+      "date": "2026-08-27",
+      "authors": "Han B, Li S, Ma J, Ma Y, Wang Y, Wu H, Li D, Wang Y, Liu H.",
+      "doi": "10.1016/j.fochx.2026.104371",
+      "doiUrl": "https://doi.org/10.1016/j.fochx.2026.104371",
+      "pmid": "42733689",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42733689/",
+      "pmcid": "",
+      "abstract": "Three indigenous yeasts, Saccharomyces cerevisiae S-7, Candida humilis DBXD1, and Candida glabrata X6, were evaluated for their potential to enhance the aromatic complexity of apricot wines. Specific activity analysis revealed high β-glucosidase (>2.84 U/mg prot) and esterase (>0.76 U/mg prot) production by these strains. Sequential fermentation of Candida sp. with S. cerevisiae S2-7 increased the contents of key volatile compounds, including ethyl esters (ethyl 9-decenoate, ethyl laurate, ethyl palmitate, ethyl benzoate), acetates (ethyl acetate, isoamyl acetate, hexyl acetate), alcohols (1-heptanol, benzyl alcohol, phenylethyl alcohol), and terpenoids (linalool, α-terpineol, α-lonol), enhancing berries, stone fruits, and floral aromas of apricot wines. Metabolic pathway analysis identified glycine and serine metabolism, glucose-alanine cycle, and alanine metabolism as the primary differential pathways contributing to flavor enhancement. These results demonstrated the great potential of sequential inoculation with indigenous high enzyme-producing yeasts in improving the flavor quality of apricot wines.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.fochx.2026.104371",
+      "sourceUrl": "https://doi.org/10.1016/j.fochx.2026.104371",
+      "citationCount": 0,
+      "relevanceScore": 74,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "念珠菌",
+        "酵母",
+        "生物制造",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 61,
+      "translationError": "Translation returned 429",
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4849,9 +5046,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6648,9 +6845,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11327,7 +11524,7 @@
       "articleScore": 61,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11424,9 +11621,9 @@
       ],
       "included": true,
       "articleScore": 47,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11873,9 +12070,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 34,
+      "journalScore": 36,
       "journalQuartile": "Q4",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12226,9 +12423,9 @@
       ],
       "included": true,
       "articleScore": 47,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12365,9 +12562,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12602,9 +12799,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12651,9 +12848,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 34,
+      "journalScore": 36,
       "journalQuartile": "Q4",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12793,9 +12990,9 @@
       ],
       "included": true,
       "articleScore": 39,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13241,7 +13438,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15499,7 +15696,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -17179,9 +17376,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19197,9 +19394,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22884,7 +23081,7 @@
       "articleScore": 43,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23375,7 +23572,7 @@
       "articleScore": 65,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24257,9 +24454,9 @@
       "included": true,
       "articleScore": 63,
       "translationError": "Translation returned 429",
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24404,9 +24601,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26779,9 +26976,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29622,7 +29819,7 @@
       "abstractZh": "茉莉酸 (JA) 信号是植物次生代谢的关键调节因子，但绞股蓝中茉莉酸 (JA) 信号如何平衡快速激活与及时抑制人参皂苷生物合成仍不清楚。在这里，我们研究了 JA 响应性碱性螺旋-环-螺旋 (bHLH) 转录因子对人参皂苷生物合成的转录调控机制。通过将转录组和系统发育分析与酵母单杂交、电泳迁移率变动测定、双荧光素酶测定、转基因毛状根过表达和RNA干扰以及代谢物分析相结合，我们鉴定了关键调节因子并确定了它们在G. pentaphyllum人参皂苷生物合成途径中的作用。我们鉴定了拮抗性 bHLH 对：GpGAB（g36559，激活剂）和 GpGIB（g21771，抑制剂）。 GpGAB 激活人参皂苷生物合成基因 GpDS、GpPPDS 和 GpUGT94AT1，而 GpGIB 抑制 GpDS 和 GpPPDS 的表达。 GpGAB 还上调了 GpGIB 的表达，且 GpGAB 对 JA 治疗的反应早于 GpGIB。总而言之，我们的结果支持一个模型，其中 GpGAB 和 GpGIB 形成一个延时负反馈循环，可以微调人参",
       "url": "https://doi.org/10.1111/nph.71346",
       "sourceUrl": "https://doi.org/10.1111/nph.71346",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -29642,8 +29839,8 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 40,
+      "articleScore": 55,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -30292,9 +30489,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30880,7 +31077,7 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -31180,7 +31377,7 @@
       ],
       "included": true,
       "articleScore": 47,
-      "journalScore": 40,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -31327,9 +31524,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 44,
+      "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33549,7 +33746,7 @@
       "articleScore": 45,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33693,7 +33890,7 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33955,58 +34152,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "The lldD lactate dehydrogenase is a determinant of lactic acid tolerance in Pichia kudriavzevii by pyruvate metabolism pathway",
-      "titleZh": "lldD 乳酸脱氢酶是毕赤酵母丙酮酸代谢途径乳酸耐受性的决定因素",
-      "journal": "Food Microbiology.",
-      "targetJournal": "全部收录期刊",
-      "issn": "0740-0020",
-      "eissn": "",
-      "year": 2026,
-      "date": "2026-06-01",
-      "authors": "Zhang H, Han M, Pang Z, Li W, Li X, Sun B.",
-      "doi": "",
-      "doiUrl": "",
-      "pmid": "",
-      "pmidUrl": "",
-      "pmcid": "",
-      "abstract": "Lactic acid stress is common in traditional fermented foods. Pichia kudriavzevii owes its industrial prevalence to its superior acid tolerance, making deciphering its response mechanism imperative for sustainable fermentation processes. This work explored the remarkable acid tolerance of P. kudriavzevii, which can tolerate 80 g/L lactic acid. The key lactic acid tolerance gene lldD of P. kudriavzevii was determined through transcriptomic analysis. Importantly, this work knocked out the key gene lldD related to lactic acid tolerance for the first time by using the CRISPR-Cas9 technology. Meanwhile, the lldD knockout strain (pk-ΔlldD) was successfully constructed. There were significant differences between pk-ΔlldD and P. kudriavzevii in terms of tolerance to lactic acid, metabolism of lactic acid, utilization of glucose and ethanol production. In addition, the deletion of the gene lldD has a significant impact on the ABC transporter and metabolites of the amino acid metabolic pathway in P. kudriavzevii. In conclusion, this work provides a theoretical basis for engineering high acid-tolerant industrial yeast strains through targeted genetic modification. It helps enhance the stability of fermentation processes under lactic acid stress and ultimately lays a foundation for promoting efficient and low-loss production in the fermentation industry.",
-      "abstractZh": "乳酸应激在传统发酵食品中很常见。库德里阿泽维毕赤酵母（Pichia kudriavzevii）在工业上的流行归功于其卓越的耐酸能力，因此破译其反应机制对于可持续发酵过程至关重要。这项工作探索了 P. kudriavzevii 显着的耐酸能力，它可以耐受 80 g/L 的乳酸。通过转录组分析确定了P. kudriavzevii的关键乳酸耐受基因lldD。重要的是，这项工作首次利用CRISPR-Cas9技术敲除与乳酸耐受相关的关键基因lldD。同时，成功构建了lldD敲除菌株（pk-ΔlldD）。 pk-ΔlldD与P. kudriavzevii在乳酸耐受性、乳酸代谢、葡萄糖利用和乙醇生产方面存在显着差异。此外，lldD基因的缺失对P. kudriavzevii中的ABC转运蛋白和氨基酸代谢途径的代谢物具有显着影响。总之，该工作为通过靶向基因改造工程设计高耐酸工业酵母菌株提供了理论基础。它有助于增强稳定性",
-      "url": "",
-      "sourceUrl": "",
-      "citationCount": 0,
-      "relevanceScore": 52,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "代谢工程",
-        "CRISPR",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "代谢工程",
-        "CRISPR",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "代谢工程",
-        "CRISPR",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "The PbWRKY7-PbMADS2 transcriptional module coordinates volatile ester biosynthesis in pear fruit.",
       "titleZh": "PbWRKY7-PbMADS2 转录模块协调梨果实中的挥发性酯生物合成。",
       "journal": "Plant physiology",
@@ -34056,52 +34201,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "The redox state of photosynthetic electron transport chain regulates chlorophyll biosynthesis in the cyanobacterium Synechocystis PCC 6803.",
-      "titleZh": "光合电子传递链的氧化还原状态调节蓝藻集胞藻 PCC 6803 中的叶绿素生物合成。",
-      "journal": "Plant & cell physiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0032-0781",
-      "eissn": "1471-9053",
-      "year": 2026,
-      "date": "2026-06-01",
-      "authors": "Yu C, Yan WW, Wu XY, Qi YX, Xu HF, Dai GZ, Qiu BS.",
-      "doi": "10.1093/pcp/pcaf163",
-      "doiUrl": "https://doi.org/10.1093/pcp/pcaf163",
-      "pmid": "41351478",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/41351478/",
-      "pmcid": "",
-      "abstract": "Cyanobacteria are widely distributed in various environmental conditions with dynamic changes in photosynthetic activity and chlorophyll content. However, it remains elusive how their chlorophyll biosynthesis is regulated by the redox state of photosynthetic electron transport chain (PETC). In this study, the effects of light-dark transition and inhibition of different sites within PETC on the transcriptional expression of chlorophyll biosynthesis-related genes were investigated in Synechocystis PCC 6803. It was demonstrated that the transcript levels of chlorophyll biosynthesis-related genes were generally stimulated upon light exposure and suppressed in darkness. The introduction of electron transport inhibitors changed the pattern of light-induced expression of these genes, suggesting the redox state of PETC governs the chlorophyll biosynthesis. Meanwhile, the transcription regulation pattern of chlorophyll biosynthesis-related genes can be categorized into three groups based on their different transcriptional responses to the inhibition of PETC. The low-oxygen inducible gene chlAII, which encodes magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase, could be activated by an over-reduced plastoquinone pool. Several redox-sensitive transcription factors were identified to play some roles in regulating chlorophyll biosynthesis by constructing and screening a yeast one-hybrid library. The transcription factor cyAbrB1 was shown to bind to the promoters of most chlorophyll biosynthesis-related genes, implying its global transcriptional regulatory role in chlorophyll biosynthesis. Our research provides a systematic understanding of the transcription regulation mechanism of chlorophyll biosynthesis triggered by the redox state of PETC in cyanobacteria.",
-      "abstractZh": "蓝藻广泛分布于各种环境条件下，光合活性和叶绿素含量动态变化。然而，光合电子传递链（PETC）的氧化还原状态如何调节它们的叶绿素生物合成仍然难以捉摸。本研究在集胞藻PCC 6803中研究了PETC内不同位点的光暗转换和抑制对叶绿素生物合成相关基因转录表达的影响。结果表明，叶绿素生物合成相关基因的转录水平通常在光照下受到刺激，在黑暗下受到抑制。电子传递抑制剂的引入改变了这些基因的光诱导表达模式，表明 PETC 的氧化还原状态控制着叶绿素生物合成。同时，叶绿素生物合成相关基因的转录调控模式根据其对PETC抑制的不同转录反应可分为三类。编码镁原卟啉 IX 单甲酯（氧化）环化酶的低氧诱导基因 ChlAII 可能被激活",
-      "url": "https://doi.org/10.1093/pcp/pcaf163",
-      "sourceUrl": "https://doi.org/10.1093/pcp/pcaf163",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "The role of the nucleus in the control of mitochondrial precursor proteins in yeast.",
       "titleZh": "细胞核在酵母线粒体前体蛋白控制中的作用。",
       "journal": "Protein science : a publication of the Protein Society",
@@ -34146,111 +34245,13 @@
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Wine yeast terroir: Presence and persistence of different oenological yeast clones (Saccharomyces and non-Saccharomyces) in spontaneous fermentations",
-      "titleZh": "葡萄酒酵母风土：自然发酵中不同酿酒酵母克隆（酵母菌和非酵母菌）的存在和持久性",
-      "journal": "Food Microbiology.",
-      "targetJournal": "全部收录期刊",
-      "issn": "0740-0020",
-      "eissn": "",
-      "year": 2026,
-      "date": "2026-06-01",
-      "authors": "Benito-Castellanos A, Larreina B, Calvo de La Banda MT, Ojeda S, González-Arenzana L, Gutiérrez AR.",
-      "doi": "",
-      "doiUrl": "",
-      "pmid": "",
-      "pmidUrl": "",
-      "pmcid": "",
-      "abstract": "Microbiota linked to vineyards and winemaking has emerged as a key factor in defining terroir, giving rise to the concept of microbial terroir. This idea suggests that microbial communities, especially yeasts, may influence wine typicity over time. However, the extent to which these communities shape wine characteristics tied to a specific region or winery remains debated. This study examined yeast species and strains in 16 spontaneous fermentations (8 in 2022, 8 in 2023) at the same winery, using grapes from four vineyards and two winemaking conditions. A total of 1,036 yeast colonies were identified at species and strain levels. Among them, 222 Saccharomyces cerevisiae colonies were grouped into 37 native strains and three previously used commercial strains. The most abundant non-Saccharomyces yeasts were Metchnikowia pulcherrima (161 isolates, 15 strains) and Lachancea thermotolerans (138 isolates, 21 strains). Less common species included Starmerella bacillaris (34 isolates, 15 strains), Kazachstania servazzi (10 isolates, 1 strain), and Hanseniaspora vineae (20 isolates, 2 strains). Yeast biodiversity varied by vineyard and winemaking conditions. Differences between vintages suggest that annual climate variation significantly affects yeast diversity. No non-Saccharomyces strains were consistently found across fermentations and vintages, indicating the absence of stable terroir-associated strains. Although some Saccharomyces cerevisiae clones recurred, most were specific to a vintage, vineyard, or fermentation type, and thus cannot be considered responsible for a repeatable microbial signature in the wines produced.",
-      "abstractZh": "与葡萄园和酿酒相关的微生物群已成为定义风土的关键因素，从而产生了微生物风土的概念。这个想法表明，微生物群落，尤其是酵母，可能会随着时间的推移影响葡萄酒的典型性。然而，这些社区在多大程度上塑造了与特定地区或酒庄相关的葡萄酒特征仍然存在争议。这项研究使用来自四个葡萄园和两种酿酒条件的葡萄，检查了同一酒庄的 16 次自然发酵（2022 年 8 次，2023 年 8 次）中的酵母种类和菌株。在物种和菌株水平上总共鉴定了 1,036 个酵母菌落。其中，222 个酿酒酵母菌落分为 37 个天然菌株和 3 个先前使用的商业菌株。最丰富的非酵母菌是 Metchnikowia pulcherrima（161 个分离株，15​​ 个菌株）和 Lachancea thermotolerans（138 个分离株，21 个菌株）。不太常见的物种包括 Starmerella bacillaris（34 个分离株，15​​ 个菌株）、Kazachstania servazzi（10 个分离株，1 个菌株）和 Hanseniaspora vineae（20 个分离株，2 个菌株）。酵母生物多样性因葡萄园和酿酒条件而异。年份之间的差异",
-      "url": "",
-      "sourceUrl": "",
-      "citationCount": 0,
-      "relevanceScore": 67,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造",
-        "酿酒酵母"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 53,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Co-fermentation of &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; and &lt;i&gt;Pichia fermentans&lt;/i&gt; enhances the flavor of bread.",
-      "titleZh": "酿酒酵母和发酵毕赤酵母的共同发酵增强了面包的风味。",
-      "journal": "Food science and biotechnology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1226-7708",
-      "eissn": "2092-6456",
-      "year": 2026,
-      "date": "2026-05-30",
-      "authors": "Hong HJ, Lee CH, Yoon JA, Shim SM, Kim MD.",
-      "doi": "10.1007/s10068-026-02198-6",
-      "doiUrl": "https://doi.org/10.1007/s10068-026-02198-6",
-      "pmid": "42534546",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42534546/",
-      "pmcid": "",
-      "abstract": "Saccharomyces cerevisiae is widely used in food fermentation for its reliable fermentation performance. However, using it as the sole starter in the bakery industry limits the range of flavor compounds. In this study, the co-fermentation of S. cerevisiae Saf-instant with P. fermentans NIYL31404 was examined with respect to fermentation performance and volatile compound production. The co-fermentation of P. fermentans NIYL31404 with Saf-instant produced approximately 1.4-, 1.5-, and 1.3-fold higher concentrations of isoamyl alcohol, isobutanol, and phenylethyl alcohol, respectively, than fermentation with Saf-instant alone. Principal component analysis indicated clear distinctions in flavor profiles, demonstrating that co-fermentation with P. fermentans NIYL31404 and S. cerevisiae yielded a distinctive aromatic quality. Thus, the present study demonstrates that co-fermenting S. cerevisiae with P. fermentans NIYL31404 improves the aromatic quality of bread and overcomes limitations in aroma diversity associated with conventional bread fermentation.",
-      "abstractZh": "酿酒酵母以其可靠的发酵性能而广泛应用于食品发酵。然而，将其用作烘焙行业的唯一发酵剂限制了风味化合物的范围。在本研究中，检查了酿酒酵母 Saf-instant 与发酵假单胞菌 NIYL31404 的共发酵的发酵性能和挥发性化合物的产生。发酵假单胞菌 NIYL31404 与 Saf-instant 的共同发酵产生的异戊醇、异丁醇和苯乙醇浓度分别比单独使用 Saf-instant 发酵高约 1.4、1.5 和 1.3 倍。主成分分析表明风味特征存在明显差异，表明发酵假单胞菌 NIYL31404 和酿酒酵母的共同发酵产生了独特的芳香品质。因此，本研究表明，酿酒酵母与发酵假单胞菌 NIYL31404 共同发酵可提高面包的芳香质量，并克服与传统面包发酵相关的香气多样性的限制。",
-      "url": "https://doi.org/10.1007/s10068-026-02198-6",
-      "sourceUrl": "https://doi.org/10.1007/s10068-026-02198-6",
-      "citationCount": 0,
-      "relevanceScore": 67,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 57,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 5,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 691 篇",
-    "lastStartedAt": "2026-09-14T05:36:38.763Z",
-    "lastFinishedAt": "2026-09-14T05:38:01.037Z",
+    "lastStartedAt": "2026-09-15T05:37:42.656Z",
+    "lastFinishedAt": "2026-09-15T05:40:10.539Z",
     "nextRunAt": null,
     "progress": 100
   }
