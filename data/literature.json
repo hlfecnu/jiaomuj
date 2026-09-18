@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T05:40:13.246Z",
+  "updatedAt": "2026-09-18T05:27:29.042Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -246,6 +246,56 @@
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "GmMYB29 activates Gm4CL3 to enhance soybean resistance to Heterodera glycines.",
+      "titleZh": "",
+      "journal": "Plant science : an international journal of experimental plant biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1873-2259",
+      "eissn": "1873-2259",
+      "year": 2026,
+      "date": "2026-09-16",
+      "authors": "Qu S, Zhang J, Zhang M, Du S, Zhao X, Li H, Teng W, Li Y, Zhao X, Han Y.",
+      "doi": "10.1016/j.plantsci.2026.113456",
+      "doiUrl": "https://doi.org/10.1016/j.plantsci.2026.113456",
+      "pmid": "42749193",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42749193/",
+      "pmcid": "",
+      "abstract": "Soybean cyst nematode is a devastating soil-borne pathogen that severely limits soybean yield worldwide. To uncover downstream target genes of the resistance-associated transcription factor GmMYB29, we combined ChIP-seq and RNA-seq data from T3-generation GmMYB29-overexpressing soybean plants, alongside Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses, to screen candidate genes carrying transcription factor binding peaks within the 2000 bp region upstream of transcription start sites (TSS). Four orthogonal molecular assays-yeast one-hybrid (Y1H), electrophoretic mobility shift assay (EMSA), dual-luciferase reporter (LUC) system, and GUS histochemical staining-collectively confirmed the specific physical interaction between GmMYB29 and the promoter of Gm4CL3. We generated transgenic soybean hairy roots overexpressing Gm4CL3 (OX-Gm4CL3) and CRISPR-Cas9-mediated Gm4CL3 knockout lines (KO-Gm4CL3), with wild-type (WT) plants serving as controls. Inoculation assays using SCN 3 demonstrated that OX-Gm4CL3 roots displayed substantially improved SCN resistance, while KO-Gm4CL3 roots were hypersusceptible to nematode infection. Mechanistic investigations revealed that Gm4CL3 promotes lignin deposition in root tissues to block SCN penetration. Furthermore, GmMYB29 and Gm4CL3 act synergistically to activate lignin biosynthetic pathways and strengthen soybean resistance against SCN 3 (SCN Race 3, the dominant physiological race in Northeast China). In summary, this study functionally characterizes Gm4CL3 and defines a previously unreported GmMYB29-Gm4CL3 regulatory cascade that mediates plant defense against SCN. This module functions independent of classic SCN resistance loci rhg1/Rhg4, providing new genetic resources for SCN-resistant soybean molecular breeding.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.plantsci.2026.113456",
+      "sourceUrl": "https://doi.org/10.1016/j.plantsci.2026.113456",
+      "citationCount": 0,
+      "relevanceScore": 50,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 48,
+      "translationError": "Translation returned 429",
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -506,7 +556,7 @@
       "doiUrl": "https://doi.org/10.1186/s40643-026-01133-1",
       "pmid": "42742792",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42742792/",
-      "pmcid": "",
+      "pmcid": "PMC13578150",
       "abstract": "Heme-enriched microbial products represent value-added bioproducts that can be produced through sustainable fermentation processes. Current microbial heme production platforms rely mainly on refined sugars and downstream purification, limiting cost-effectiveness. Here, we developed a lignocellulosic hydrolysate-based bioprocess for producing heme-enriched yeast extract using Saccharomyces cerevisiae. The xylose-fermenting S. cerevisiae SR8 accumulated approximately twofold higher specific intracellular heme on xylose than on glucose, reaching 0.25 ± 0.02 mg/g dry cell weight (DCW) compared with 0.13 ± 0.01 mg/g DCW, consistent with reduced Crabtree repression and enhanced respiratory metabolism. During fed-batch cultivation with Miscanthus × giganteus hydrolysates, residual glucose control suppressed ethanol overflow and promoted biomass formation, resulting in 17.5 ± 0.4 g/L DCW, a specific heme content of 0.20 ± 0.01 mg/g DCW, and a heme titer of 3.4 ± 0.1 mg/L. This performance exceeded that of a mock hydrolysate with identical sugar composition. Autolysis of the resulting biomass produced a lyophilized yeast extract containing 36 ± 2 µg heme/g, exceeding the heme content of the commercial yeast extract tested and supported comparable microbial growth. These results indicate that downstream heme recovery during yeast extract production remains a key bottleneck for improving the overall process efficiency and product heme density. Among the downstream extraction methods tested, high-pressure homogenization most effectively enhanced heme release. Overall, these results demonstrate lignocellulosic hydrolysate valorization into heme-enriched yeast extract and identify downstream recovery as a key target for process optimization.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s40643-026-01133-1",
@@ -832,7 +882,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1648,7 +1698,7 @@
       "eissn": "1873-2976",
       "year": 2026,
       "date": "2026-09-09",
-      "authors": "Sainan Y, Renmei L, Dechong O, Chenghan Y, Yiyue C, Jiayuan C, Qi Y, Xianjun C, Chu J, Yingping Z, Yang Y, Xiwei T.",
+      "authors": "Yang S, Liu R, Ou D, Yang C, Chen Y, Chen J, Qi Y, Chen X, Chu J, Zhuang Y, Yang Y, Tian X.",
       "doi": "10.1016/j.biortech.2026.135765",
       "doiUrl": "https://doi.org/10.1016/j.biortech.2026.135765",
       "pmid": "42716397",
@@ -1838,7 +1888,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2561,7 +2611,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3472,7 +3522,7 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -3524,9 +3574,9 @@
       "included": true,
       "articleScore": 53,
       "translationError": "Translation returned 429",
-      "journalScore": 40,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5099,8 +5149,8 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 37,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6414,7 +6464,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6715,6 +6765,56 @@
       "journalScore": 45,
       "journalQuartile": "Q1",
       "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Dataset on the generation and inhibitor-based selection of &lt;i&gt;Candida utilis&lt;/i&gt; mutants for enhanced protein production.",
+      "titleZh": "",
+      "journal": "Data in brief",
+      "targetJournal": "全部收录期刊",
+      "issn": "2352-3409",
+      "eissn": "2352-3409",
+      "year": 2026,
+      "date": "2026-08-26",
+      "authors": "Palcevska J, Kusnere Z, Raita S, Geiba Z, Vamza I.",
+      "doi": "10.1016/j.dib.2026.113177",
+      "doiUrl": "https://doi.org/10.1016/j.dib.2026.113177",
+      "pmid": "42750693",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42750693/",
+      "pmcid": "",
+      "abstract": "This data article presents a dataset on the generation and inhibitor-based selection of Candida utilis mutants for enhanced protein production. The experimental approach combines random mutagenesis using ethyl methanesulfonate with screening in media supplemented with amino acid biosynthesis inhibitors. These inhibitors impose selective pressure on metabolic pathways related to amino acid synthesis. The dataset includes experimental data from medium screening, mutagenesis, inhibitor-based mutant selection, and cultivation medium optimization using Response Surface Methodology. The applied screening concept uses inhibitory compounds to identify mutant cells that can grow under conditions where the wild-type strain is suppressed. Measured parameters include biomass concentration, protein content, protein yield, optical density, survival rates, and amino acid composition. The dataset also provides replicate measurements, mean values, and standard deviations. The dataset documents the complete workflow from medium screening to mutant selection and process optimization, including validation under shake-flask and bioreactor conditions. It identifies an optimized workflow for C. utilis strain improvement for single-cell protein production. Among the generated mutants, GA0.4/39-2 showed the best overall performance and was successfully validated in 5 L bioreactor cultivation, reaching a maximum biomass concentration of 23.87 ± 0.75 g/L and a maximum protein yield of 11.49 g/L. The dataset provides a reusable framework for microbial strain improvement, single-cell protein production, and bioprocess optimization that may also support the development of similar workflows for other microorganisms.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.dib.2026.113177",
+      "sourceUrl": "https://doi.org/10.1016/j.dib.2026.113177",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7527,7 +7627,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7827,7 +7927,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10115,7 +10215,57 @@
       "translationError": "Translation returned 429",
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Raman-guided sample subset selection for cost-efficient offline calibration in bioprocesses.",
+      "titleZh": "",
+      "journal": "Bioprocess and biosystems engineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1615-7591",
+      "eissn": "1615-7605",
+      "year": 2026,
+      "date": "2026-08-12",
+      "authors": "Wilms T, Schwenke F, King R, Knorn S.",
+      "doi": "10.1007/s00449-026-03402-x",
+      "doiUrl": "https://doi.org/10.1007/s00449-026-03402-x",
+      "pmid": "42584694",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42584694/",
+      "pmcid": "",
+      "abstract": "In bioprocess engineering, model-based methods play a vital role in understanding complex dynamics of novel species or strains. However, the model development is often hampered by prohibitive costs associated with redundant reference analyses and poorly informed sampling schedules due to insufficient prior knowledge about the process dynamics. We propose a model-free PAT strategy, termed Raman-guided sample subset selection (RGSS) to prioritise informative offline reference assays from inline Raman spectra before nonlinear model calibration. RGSS is demonstrated with Saccharomyces cerevisiae fed-batch fermentations and evaluated by auto- and cross-validation (CV), as well as with practical identifiability analysis of an unstructured mechanistic model. The approach is implemented using constrained vector quantization (CVQ) with full-spectrum and analyte-specific wavenumber-selection and benchmarked against uniform-in-time sampling, random subsampling, and Kennard-Stone (KS) selection. The best RGSS scenarios, using only five selected reference assays per analyte, retained offline CV accuracy (NRMSE = 3.49) close to the full-data reference (NRMSE = 3.29) using all 22 samples. KS selection was also competitive for ten selected samples (NRMSE = 3.79), whereas uniform-in-time sampling resulted in higher CV errors for five and ten samples (8.47 and 65.57). Random subsampling occasionally produced competitive subsets, but showed broad variability over 20 random runs (NRMSE median [IQR]: 6.14 [4.84-47.76] and 15.48 [5.07-44.34]) for five and ten randomly selected samples. These results support RGSS as a cost-efficient, spectrally informed sample subset selection framework for prioritising offline assays in model-based bioprocess development.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1007/s00449-026-03402-x",
+      "sourceUrl": "https://doi.org/10.1007/s00449-026-03402-x",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 43,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10962,7 +11112,7 @@
       "articleScore": 45,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11156,7 +11306,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16244,9 +16394,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17762,7 +17912,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -17867,7 +18017,7 @@
       "articleScore": 56,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18751,9 +18901,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19642,7 +19792,7 @@
       "included": true,
       "articleScore": 52,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19891,9 +20041,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21632,7 +21782,7 @@
       "abstractZh": "转座子是深刻塑造真核基因组结构的基本遗传元件。酵母和丝状真菌已成为合成生物学和代谢工程中生物成分生产的重要底盘生物。在这篇综述中，我们总结了在这些真菌系统中开发基于转座子的基因组工程工具的当前理解和未来机遇。真菌反向末端重复（ITR）DNA转座子以及长末端重复（LTR）和非LTR反转录转座子可以加速基因组诱变，有利于筛选优良基因型和表型。 CRISPR 相关转座子 (CAST) 在大型转基因的位点特异性整合方面具有巨大的潜力，绕过了非酵母菌宿主中同源重组 (HR) 效率低所带来的限制。总体而言，基于转座子的工具代表了加速酵母和丝状真菌基因组工程和菌株开发的宝贵且尚未开发的途径。",
       "url": "https://doi.org/10.1002/yea.70036",
       "sourceUrl": "https://doi.org/10.1002/yea.70036",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 67,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -21658,10 +21808,10 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 57,
-      "journalScore": 46,
+      "articleScore": 63,
+      "journalScore": 49,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21920,9 +22070,9 @@
       ],
       "included": true,
       "articleScore": 58,
-      "journalScore": 46,
+      "journalScore": 49,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21974,7 +22124,7 @@
       "articleScore": 54,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22116,9 +22266,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23279,9 +23429,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23538,7 +23688,7 @@
       "articleScore": 51,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24271,7 +24421,7 @@
       "articleScore": 55,
       "journalScore": 43,
       "journalQuartile": "Q2",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24317,7 +24467,7 @@
       "articleScore": 49,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26341,7 +26491,7 @@
       "abstractZh": "为了推进细胞生命的计算模拟，我们提出了一种虚拟酵母，这是一种人工智能（AI）驱动的代理，通过使用酿酒酵母作为遗传上易于处理且数据丰富的模型系统，通过集成多模式生物数据、机械推理和主动实验来模拟真核细胞行为。细胞复杂性被分解为八个以功能为中心的模块，涵盖遗传、代谢和结构系统，每个模块都实现为通过基于大型语言模型的编排层进行协调的特定领域的人工智能工具。该系统建立在机械知识、亚细胞架构和动态三个数据支柱的基础上，将表示学习和生成建模集成在一个闭环学习管道中，可自主设计和执行实验。虚拟酵母既可以作为概念平台，也可以作为操作平台来优化生物合成途径，支持跨不同细胞过程的假设的生成和优先级排序，并加速目标发现。通过将生物现实主义与自主人工智能推理相结合，虚拟酵母建立了一个可推广的蓝图",
       "url": "https://doi.org/10.1038/s41586-026-10574-9",
       "sourceUrl": "https://doi.org/10.1038/s41586-026-10574-9",
-      "citationCount": 1,
+      "citationCount": 3,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -26364,11 +26514,11 @@
         "合成生物学"
       ],
       "included": true,
-      "articleScore": 57,
-      "journalScore": 49,
+      "articleScore": 63,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 1,
+      "journalMedianCitationsPerYear": 2,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -27933,9 +28083,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28359,7 +28509,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30631,9 +30781,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30679,7 +30829,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30726,9 +30876,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30933,9 +31083,9 @@
       ],
       "included": true,
       "articleScore": 61,
-      "journalScore": 46,
+      "journalScore": 49,
       "journalQuartile": "Q1",
-      "journalArticleCount": 4,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31373,7 +31523,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32297,9 +32447,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 9,
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32394,7 +32544,7 @@
       "articleScore": 43,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32949,10 +33099,10 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 49,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 1,
+      "journalMedianCitationsPerYear": 2,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -34442,98 +34592,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Epistasis among clustered lineage-specific amino acid substitutions in the Drosophila Trio protein.",
-      "titleZh": "果蝇 Trio 蛋白中簇状谱系特异性氨基酸取代之间的上位性。",
-      "journal": "PLoS genetics",
-      "targetJournal": "全部收录期刊",
-      "issn": "1553-7390",
-      "eissn": "1553-7404",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Borne F, Taverner AM, Andolfatto P.",
-      "doi": "10.1371/journal.pgen.1012175",
-      "doiUrl": "https://doi.org/10.1371/journal.pgen.1012175",
-      "pmid": "42234705",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42234705/",
-      "pmcid": "PMC13258152",
-      "abstract": "Intramolecular epistasis is increasingly recognized as a key factor shaping patterns of evolutionary rate variation among protein sites and constraining adaptive evolution. While genome-wide analyses have revealed that intramolecular epistatic interactions can drive the spatial clustering of amino acid substitutions, direct empirical evidence for such interactions and their evolutionary consequences remains limited. Using a population genetic screen for spatially-clustered and lineage-specific adaptive amino acid substitutions in Drosophila proteins, we systematically identify experimentally tractable candidates for functional analysis. As proof of concept, we focus on the Trio protein, a Rho guanine nucleotide exchange factor that exhibits three spatially-clustered putatively adaptive amino acid substitutions in the D. melanogaster lineage. By systematically reconstructing evolutionary intermediates in vivo using genome editing, we find that all possible intermediate states exhibit reduced viability and/or locomotor defects, providing strong evidence for epistatic constraints on evolutionary trajectories. Notably, these deleterious effects are recessive, suggesting that intermediate combinations of epistatically interacting amino acid substitutions can accumulate in heterozygotes prior to fixation, thereby circumventing apparent constraints imposed by maladaptive intermediate states. Together, these findings provide a rare empirical view of the fitness landscape shaped by intramolecular epistasis and establish a framework for investigating the constraints on adaptive protein evolution in diploid multicellular organisms.",
-      "abstractZh": "分子内上位性越来越被认为是塑造蛋白质位点之间进化速率变异模式和限制适应性进化的关键因素。虽然全基因组分析表明分子内上位相互作用可以驱动氨基酸取代的空间聚类，但这种相互作用及其进化后果的直接经验证据仍然有限。使用群体遗传筛选果蝇蛋白质中的空间聚类和谱系特异性适应性氨基酸取代，我们系统地识别了实验上易于处理的候选者进行功能分析。作为概念证明，我们重点关注 Trio 蛋白，这是一种 Rho 鸟嘌呤核苷酸交换因子，在黑腹果蝇谱系中表现出三个空间聚集的假定适应性氨基酸取代。通过使用基因组编辑系统地重建体内进化中间体，我们发现所有可能的中间状态都表现出生存能力降低和/或运动缺陷，为进化轨迹的上位性限制提供了强有力的证据。值得注意的是，这些有害影响是隐性的，表明媒介",
-      "url": "https://doi.org/10.1371/journal.pgen.1012175",
-      "sourceUrl": "https://doi.org/10.1371/journal.pgen.1012175",
-      "citationCount": 0,
-      "relevanceScore": 46,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "基因组编辑"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "基因组编辑"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "基因组编辑"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "journalScore": 37,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Genetic Tools in the Nakaseomyces clade for Evolutionary Comparisons of Signal Transduction Pathways.",
-      "titleZh": "Nakaseomyces 进化枝中用于信号转导途径进化比较的遗传工具。",
-      "journal": "Yeast (Chichester, England)",
-      "targetJournal": "全部收录期刊",
-      "issn": "0749-503X",
-      "eissn": "1097-0061",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Abraham M, Iosue CL, Wykoff DD.",
-      "doi": "10.1002/yea.70029",
-      "doiUrl": "https://doi.org/10.1002/yea.70029",
-      "pmid": "42233354",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42233354/",
-      "pmcid": "PMC13548925",
-      "abstract": "The genus Nakaseomyces provides four species that are closely related but have different characteristics. For example, N. glabratus (formerly known as Candida glabrata) is a common human pathogen, whereas N. bracarensis and N. nivariensis have been isolated in clinical settings but are not common human pathogens. N. delphensis was isolated from fruit and there is no evidence it is pathogenic. Given the differences, we developed the clade as a molecular genetic system where we could introduce plasmids and assess transcriptional output from cloned promoters. We engineered a CRISPR/Cas9 plasmid that allows for rapid Gibson cloning of gRNAs, generated auxotrophic strains for amino acids and nucleotides, and introduced plasmids into each species. We used promoter-YFP plasmids to determine that while there are differences between the species, each species likely has intact thiamine and phosphate (THI and PHO) signal transduction pathways, and that gene expression in N. glabratus and N. bracarensis is more similar to one another than to the other two species. Finally, we determine that N. glabratus, N. bracarensis, and N. nivariensis persist in a murine macrophage for 24 h, whereas N. delphensis does not. This work describes new molecular tools for genetic manipulation in the Nakaseomyces clade and allows for evolutionary questions to be explored.",
-      "abstractZh": "Nakaseomyces 属提供了四个密切相关但具有不同特征的物种。例如，光滑奈瑟菌（以前称为光滑念珠菌）是一种常见的人类病原体，而布拉卡奈瑟菌和尼瓦里奈瑟菌已在临床环境中分离出来，但不是常见的人类病原体。德尔菲猪笼草是从水果中分离出来的，没有证据表明它具有致病性。考虑到这些差异，我们将进化枝开发为分子遗传系统，我们可以在其中引入质粒并评估克隆启动子的转录输出。我们设计了一种 CRISPR/Cas9 质粒，可以快速吉布森克隆 gRNA，生成氨基酸和核苷酸营养缺陷型菌株，并将质粒引入每个物种。我们使用启动子-YFP 质粒来确定，虽然物种之间存在差异，但每个物种都可能具有完整的硫胺素和磷酸盐（THI 和 PHO）信号转导途径，并且光滑猪笼草和布拉卡雷猪笼草中的基因表达彼此比其他两个物种更相似。最后，我们确定 N. glabratus、N. bracarensis 和 N. nivariensis 在小鼠巨噬细胞中持续存在 24 小时，而 N. del",
-      "url": "https://doi.org/10.1002/yea.70029",
-      "sourceUrl": "https://doi.org/10.1002/yea.70029",
-      "citationCount": 0,
-      "relevanceScore": 46,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "CRISPR"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "CRISPR"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "CRISPR"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "journalScore": 46,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Genomic and phenotypic analysis of stress-tolerant, aroma-producing yeast screened under low-a&lt;sub&gt;w&lt;/sub&gt;, low-moisture content for low-salt chili fermentation.",
       "titleZh": "在低 a<sub>w</sub>、低水分含量下筛选用于低盐辣椒发酵的耐胁迫、产香酵母的基因组和表型分析。",
       "journal": "Food research international (Ottawa, Ont.)",
@@ -34579,52 +34637,6 @@
       "journalScore": 48,
       "journalQuartile": "Q1",
       "journalArticleCount": 17,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Inositol biosynthesis is inversely regulated by glycolytic activity.",
-      "titleZh": "肌醇生物合成受糖酵解活性逆向调节。",
-      "journal": "Biochimica et biophysica acta. Molecular and cell biology of lipids",
-      "targetJournal": "全部收录期刊",
-      "issn": "1388-1981",
-      "eissn": "1879-2618",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Onu CJ, Adu M, Jabbar D, Ezumel E, Schmidtke MW, Saiardi A, Greenberg ML.",
-      "doi": "10.1016/j.bbalip.2026.159752",
-      "doiUrl": "https://doi.org/10.1016/j.bbalip.2026.159752",
-      "pmid": "42242622",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42242622/",
-      "pmcid": "PMC13432036",
-      "abstract": "Inositol is an essential metabolite required for membrane biogenesis, cell signaling and trafficking, and gene expression. Its importance is underscored by the fact that inositol depletion leads to death in eukaryotic cells ranging from yeast to human. Perturbation of inositol homeostasis is implicated in numerous human disorders. In yeast, inositol is synthesized de novo from glucose-6-phosphate (G-6-P) through a two-step pathway controlled by the rate-limiting enzyme myo-inositol phosphate synthase (MIPS), encoded by INO1. INO1 expression is tightly controlled by the Henry regulatory circuit in response to inositol and by the Reg1-Snf1 pathway in response to glucose. As both inositol synthesis and glycolysis utilize the same precursor, G-6-P, the current study tested the hypothesis that inositol synthesis is regulated by glycolytic activity. Genetic and pharmacological approaches were used to alter glycolysis. Inositol synthesis was determined by liquid chromatography mass spectrometry analysis of [U-13C]-glucose incorporation into inositol and by assaying INO1 mRNA and MIPS protein expression. In rho0 cells and wild type cells treated with the electron transport inhibitor potassium cyanide, both of which exhibit increased glycolytic activity, inositol levels were reduced by 47.5% and 57.9%, respectively, compared to controls. INO1 mRNA and MIPS protein levels were also decreased in these cells. The effect of downregulation of glycolysis was determined using the humanized yeast strain HHK2, which expresses a decreased rate of glycolysis due to the less active human hexokinase. Consistent with our hypothesis, HHK2 cells exhibited a 41.5% increase in inositol synthesis. Dysregulation of inositol synthesis did not affect glycolysis. These results identify altered glycolytic activity as a mechanism of inositol regulation and demonstrate the role of metabolic crosstalk in controlling these biochemical pathways.",
-      "abstractZh": "肌醇是膜生物发生、细胞信号传导和运输以及基因表达所需的重要代谢物。肌醇消耗会导致从酵母到人类的真核细胞死亡，这一事实凸显了其重要性。肌醇稳态的扰动与许多人类疾病有关。在酵母中，肌醇是由葡萄糖-6-磷酸 (G-6-P) 通过由 INO1 编码的限速酶肌醇磷酸合酶 (MIPS) 控制的两步途径从头合成。 INO1 的表达受到响应肌醇的 Henry 调节回路和响应葡萄糖的 Reg1-Snf1 通路的严格控制。由于肌醇合成和糖酵解都利用相同的前体 G-6-P，因此当前的研究测试了肌醇合成受糖酵解活性调节的假设。使用遗传和药理学方法来改变糖酵解。通过液相色谱质谱分析 [U-13C]-葡萄糖掺入肌醇并通过测定 INO1 mRNA 和 MIPS 蛋白表达来测定肌醇合成。在用电子传递抑制剂钾处理的 rho0 细胞和野生型细胞中",
-      "url": "https://doi.org/10.1016/j.bbalip.2026.159752",
-      "sourceUrl": "https://doi.org/10.1016/j.bbalip.2026.159752",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34719,105 +34731,7 @@
       "articleScore": 49,
       "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Selective rewiring of Met4 ubiquitin regulation enhances S-adenosylmethionine accumulation in sake yeast.",
-      "titleZh": "Met4 泛素调节的选择性重连可增强清酒酵母中 S-腺苷甲硫氨酸的积累。",
-      "journal": "Journal of bioscience and bioengineering",
-      "targetJournal": "全部收录期刊",
-      "issn": "1389-1723",
-      "eissn": "1347-4421",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Kakoi S, Nishimura A, Senjyu H, Asai T, Akashi T.",
-      "doi": "10.1016/j.jbiosc.2026.05.003",
-      "doiUrl": "https://doi.org/10.1016/j.jbiosc.2026.05.003",
-      "pmid": "42236438",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42236438/",
-      "pmcid": "",
-      "abstract": "S-Adenosylmethionine (SAM) is a central sulfur-containing metabolite that serves as a universal methyl-group donor and a high-value molecule for food and pharmaceutical applications. In Saccharomyces cerevisiae, sulfate assimilation into methionine and SAM is coordinately governed by the transcription factor Met4, whose activity is controlled by Met30-dependent ubiquitination. This feedback represses sulfur-metabolic gene expression under methionine-replete conditions and limits metabolic input into the methionine-SAM branch. While metabolic engineering has often targeted individual enzymatic steps to enhance SAM accumulation, direct tuning of this transcriptional hub remains underexplored. Here, we engineered a sake yeast strain expressing a Met4 K163RΔInh variant combining a Lys163-to-Arg substitution with deletion of the Met30-interacting inhibitory region. The engineered Met4 remained predominantly nuclear during methionine supplementation and maintained elevated expression of sulfur-assimilation genes under methionine-replete conditions. Metabolite profiling under methionine supplementation revealed increased abundance of methionine/SAM-cycle-related metabolites relative to the control strain, consistent with enhanced output into the methionine/SAM-linked branch. Even in nutrient-rich medium, the Met4 K163RΔInh strain expanded the intracellular SAM pool compared with the parental strain. Together, selective rewiring of Met4 ubiquitin control provides a transcription-factor-centric route to construct SAM-accumulating sake yeast strains and complements enzyme-level pathway engineering for sulfur-derived metabolite production.",
-      "abstractZh": "S-腺苷甲硫氨酸 (SAM) 是一种中心含硫代谢物，可作为通用甲基供体以及食品和制药应用的高价值分子。在酿酒酵母中，硫酸盐同化为蛋氨酸和 SAM 是由转录因子 Met4 协调控制的，其活性由 Met30 依赖性泛素化控制。这种反馈在蛋氨酸充足的条件下抑制硫代谢基因的表达，并限制蛋氨酸-SAM 分支的代谢输入。虽然代谢工程通常针对单个酶促步骤来增强 SAM 积累，但对该转录中心的直接调节仍未得到充分探索。在这里，我们设计了表达 Met4 K163RΔInh 变体的清酒酵母菌株，该变体结合了 Lys163 到 Arg 的取代以及 Met30 相互作用抑制区的删除。改造后的 Met4 在补充蛋氨酸期间主要保持在核内，并在蛋氨酸充足的条件下维持硫同化基因的表达升高。补充蛋氨酸后的代谢物分析显示，蛋氨酸/SAM 循环相关代谢物的丰度相对于未补充蛋氨酸时有所增加。",
-      "url": "https://doi.org/10.1016/j.jbiosc.2026.05.003",
-      "sourceUrl": "https://doi.org/10.1016/j.jbiosc.2026.05.003",
-      "citationCount": 0,
-      "relevanceScore": 60,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "代谢工程",
-        "通路工程"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "代谢工程",
-        "通路工程"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "代谢工程",
-        "通路工程"
-      ],
-      "included": true,
-      "articleScore": 53,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Spatiotemporal Decoupling of Carbon and Energy Flux Enables Efficient Biomanufacturing of Aviation Fuel Precursors from CO&lt;sub&gt;2&lt;/sub&gt;.",
-      "titleZh": "碳和能量通量的时空解耦使得利用 CO<sub>2</sub> 高效生物制造航空燃料前体。",
-      "journal": "Journal of the American Chemical Society",
-      "targetJournal": "全部收录期刊",
-      "issn": "0002-7863",
-      "eissn": "1520-5126",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Ye Y, Dong F, Bian X, Bai D, Wu W, Jiang X, Yang B, Hou Y, Lei L, Lian J, Li Z.",
-      "doi": "10.1021/jacs.6c04185",
-      "doiUrl": "https://doi.org/10.1021/jacs.6c04185",
-      "pmid": "42233249",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42233249/",
-      "pmcid": "",
-      "abstract": "Sustainable biomanufacturing of high-value, structurally complex chemicals directly from CO2 represents a frontier for carbon neutrality yet remains fundamentally constrained by a trade-off intrinsic to photobiohybrid systems: catabolic oxidation of fixed carbon must be invoked to regenerate intracellular reducing power, creating a futile cycle that reoxidizes photosynthetically fixed carbon back to CO2 and erodes the overall carbon atom economy. Overcoming this bottleneck requires a unified platform capable of simultaneously supplying carbon substrates and regenerating reducing equivalents to maximize anabolic flux. Here, we report a spatiotemporally decoupled photobiohybrid system that achieves carbon-efficient CO2 conversion through an \"extracellular fixation and intracellular empowerment\" strategy. A bifunctional catalyst of iron single atoms anchored on nitrogen-doped carbon quantum dots (Fe-NC QDs), featuring atomically dispersed Fe-N4 active sites, was developed. Extracellularly, the Fe-NC QDs catalyze CO2 reduction to methanol with a production rate of 826.10 μmol·g-1·h-1 and 91.33% selectivity; intracellularly, the same QDs are internalized by engineered Pichia pastoris and photocatalytically regenerate NADH through a flavin-mediated electron transport chain. Coupling this bifunctional catalyst with an artificial phosphoketolase pathway enables the direct conversion of CO2 into the C15 aviation fuel precursor epi-isozizaene at a titer of 1.98 mg·L-1, corresponding to a 3-fold increase in product titer over conventional methanol-feeding strategies. By spatiotemporally decoupling carbon supply from energy regeneration, this work establishes a generalizable framework for solar-driven biosynthesis of complex multicarbon feedstocks and advances the development of a circular bioeconomy.",
-      "abstractZh": "直接从二氧化碳中可持续地生物制造高价值、结构复杂的化学品代表了碳中和的前沿，但从根本上仍然受到光生物混合系统固有的权衡的限制：必须调用固定碳的分解代谢氧化来再生细胞内还原能力，从而形成一个徒劳的循环，将光合固定碳重新氧化回二氧化碳并侵蚀整体碳原子经济。克服这一瓶颈需要一个能够同时提供碳底物和再生还原当量的统一平台，以最大限度地提高合成代谢通量。在这里，我们报告了一种时空解耦的光生物混合系统，该系统通过“细胞外固定和细胞内赋权”策略实现碳高效的二氧化碳转化。开发了一种锚定在氮掺杂碳量子点（Fe-NC QD）上的铁单原子双功能催化剂，具有原子分散的 Fe-N4 活性位点。在细胞外，Fe-NC量子点催化CO2还原为甲醇，产率为826.10 μmol·g-1·h-1，选择性为91.33%；在细胞内，相同的量子点被工程毕赤酵母内化",
-      "url": "https://doi.org/10.1021/jacs.6c04185",
-      "sourceUrl": "https://doi.org/10.1021/jacs.6c04185",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "毕赤酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "毕赤酵母"
-      ],
-      "matchedYeast": [
-        "毕赤酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34869,109 +34783,13 @@
       "journalArticleCount": 27,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Transcriptional profiling of anthocyanin biosynthesis in variegated and non-variegated dorsal petal regions of Impatiens uliginosa.",
-      "titleZh": "",
-      "journal": "BMC plant biology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1471-2229",
-      "eissn": "1471-2229",
-      "year": 2026,
-      "date": "2026-06-03",
-      "authors": "Zhang W, Chi H, Yu H, Zhang L, Zhang X, Luo X, Huang H, Huang M.",
-      "doi": "10.1186/s12870-026-09116-2",
-      "doiUrl": "https://doi.org/10.1186/s12870-026-09116-2",
-      "pmid": "42231167",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42231167/",
-      "pmcid": "PMC13449508",
-      "abstract": "BackgroundPetal variegation is an important ornamental trait in flowering plants and has major implications for both evolutionary biology, because it can promote speciation and diversity, and horticulture, because it enhances aesthetic appeal and commercial value. Here, we used Impatiens uliginosa as a model system and combined morphological, anatomical, physiological, biochemical, transcriptomic, and molecular approaches to investigate the mechanisms underlying petal variegation.ResultsFreehand sectioning revealed that pigments were predominantly localized in the upper epidermal cells. Compared with the non-variegated dorsal petal regions, the variegated dorsal petal regions contained approximately three times as many pigment-accumulating cells; these cells were smaller, more densely arranged, and exhibited higher pigment density per unit area, collectively contributing to the darker coloration of the variegated regions. Pigment-content analysis showed that the variegated dorsal petal regions accumulated significantly higher levels of total carotenoids, anthocyanins, and flavonoids than the non-variegated dorsal petal regions. Semi-quantitative analysis further indicated that anthocyanin-related compounds, particularly delphinidin, pelargonidin, and peonidin derivatives, were enriched in the variegated dorsal petal regions. To investigate the molecular basis of this differential pigmentation, we performed comparative RNA-seq analysis of the variegated and non-variegated dorsal petal regions and identified a suite of candidate genes potentially involved in variegation formation. Functional validation of one candidate, IuMYB114, was carried out using virus-induced gene silencing (VIGS). Silencing of IuMYB114 resulted in a significant reduction in both the size and color intensity of the variegated dorsal petal regions. qRT-PCR analysis confirmed that IuMYB114 expression in silenced plants was only 11% of that in wild-type plants. Moreover, the expression of several key anthocyanin-biosynthetic genes, including IuANS, IuUFGT, and IuF3'5'H, was significantly downregulated in the silenced lines.ConclusionsTaken together, these results suggest that IuMYB114 is likely associated with the positive regulation of anthocyanin biosynthesis and may play an important role in the formation of variegated and non-variegated dorsal petal regions in I. uliginosa, potentially through the regulation of anthocyanin biosynthetic genes. The spatially restricted expression of IuMYB114 may therefore contribute to differential anthocyanin deposition and, consequently, to petal variegation.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1186/s12870-026-09116-2",
-      "sourceUrl": "https://doi.org/10.1186/s12870-026-09116-2",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "念珠菌"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "translationError": "Translation returned 429",
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 9,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "High glucose is associated with thermotolerance and better maintenance of mitochondrial polarization in Cyberlindnera fabianii under heat stress.",
-      "titleZh": "高葡萄糖与热应激下 Cyber​​lindnera fabianii 的耐热性和更好地维持线粒体极化有关。",
-      "journal": "Food microbiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1095-9998",
-      "eissn": "1095-9998",
-      "year": 2026,
-      "date": "2026-06-02",
-      "authors": "Liu Q, Yan C, Xiao X, Chen X, Li X.",
-      "doi": "10.1016/j.fm.2026.105187",
-      "doiUrl": "https://doi.org/10.1016/j.fm.2026.105187",
-      "pmid": "42425659",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42425659/",
-      "pmcid": "",
-      "abstract": "Cyberlindnera fabianii is a Baijiu-associated non-Saccharomyces yeast that may encounter transient heat stress during fermentation, but the mechanisms underlying its thermotolerance remain poorly understood. Here, we evaluated heat survival, culture turbidity, culturability, JC-1-based relative mitochondrial polarization, and transcriptomic responses of C. fabianii at 45 °C under different glucose concentrations. C. fabianii showed higher CFU-based survival than Saccharomyces cerevisiae after 2 h of heat exposure. During prolonged incubation, 30% glucose improved culturability and was accompanied by higher relative mitochondrial membrane potential (MMP), less disrupted JC-1 staining patterns, weaker repression of glycolysis- and TCA-cycle-related transcripts, and increased PPP-related transcript levels together with upregulation of ROS-scavenging genes. These findings indicate a glucose-associated improvement in heat-stress tolerance, particularly involving early maintenance of mitochondrial polarization and metabolic/redox-related transcriptional responses; however, the current data do not determine whether this effect is transient or long-lasting. Under glucose-limited conditions, glycerol or xylose co-feeding increased turbidity and partially supported CFU retention, with substrate-dependent differences in extracellular glucose consumption. Overall, these findings suggest that glucose availability is closely associated with thermotolerance and mitochondrial polarization in C. fabianii, and that, in liquid culture, selected co-substrates may partially reproduce aspects of the high-glucose-associated phenotype without requiring comparable glucose supplementation.",
-      "abstractZh": "Cyber​​lindnera fabianii 是一种与白酒相关的非酵母菌，在发酵过程中可能会遇到短暂的热应激，但其耐热性的机制仍知之甚少。在这里，我们评估了 C. fabianii 在 45 °C 和不同葡萄糖浓度下的热存活、培养物浊度、可培养性、基于 JC-1 的相对线粒体极化和转录组反应。热暴露 2 小时后，C. fabianii 显示出比酿酒酵母更高的 CFU 存活率。在长时间的培养过程中，30%的葡萄糖提高了可培养性，并伴随着较高的相对线粒体膜电位（MMP）、JC-1染色模式的破坏较少、糖酵解和TCA循环相关转录本的抑制较弱、PPP相关转录本水平增加以及ROS清除基因的上调。这些发现表明葡萄糖相关的热应激耐受性改善，特别是涉及线粒体极化和代谢/氧化还原相关转录反应的早期维持；然而，目前的数据并不能确定这种影响是短暂的还是持久的。在葡萄糖限制条件下",
-      "url": "https://doi.org/10.1016/j.fm.2026.105187",
-      "sourceUrl": "https://doi.org/10.1016/j.fm.2026.105187",
-      "citationCount": 0,
-      "relevanceScore": 42,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 43,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 5,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 706 篇",
-    "lastStartedAt": "2026-09-17T05:38:43.092Z",
-    "lastFinishedAt": "2026-09-17T05:40:13.246Z",
+    "lastMessage": "更新完成，共 702 篇",
+    "lastStartedAt": "2026-09-18T05:26:17.812Z",
+    "lastFinishedAt": "2026-09-18T05:27:29.042Z",
     "nextRunAt": null,
     "progress": 100
   }
