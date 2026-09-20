@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:23:25.180Z",
+  "updatedAt": "2026-09-20T05:36:18.016Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -194,6 +194,103 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Ethanol Fermentation-based Valorization of Alginate Extraction Residue from Pelagic Brown Seaweed Sargassum siliquosum.",
+      "titleZh": "",
+      "journal": "Applied biochemistry and biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0273-2289",
+      "eissn": "1559-0291",
+      "year": 2026,
+      "date": "2026-09-18",
+      "authors": "Rajendran K, Nagarajan D, Chen CW, Chang JS, Dong CD.",
+      "doi": "10.1007/s12010-026-05933-1",
+      "doiUrl": "https://doi.org/10.1007/s12010-026-05933-1",
+      "pmid": "42758396",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42758396/",
+      "pmcid": "",
+      "abstract": "Brown seaweeds are the primary industrial source of alginates and are increasingly valued as marine-based feedstocks in integrated biorefineries. However, the substantial solid residue generated in the alginate extraction industry remains underexplored as a secondary source of carbon and energy. This study investigated the potential of the alginate-extracted residue (AER) from Sargassum siliquosum biomass collected from the southwestern coast of Taiwan as a substrate for bioethanol production. The alkaline extraction method yielded 39.00% alginate and 33.80% residue on a dry weight basis. Comprehensive characterization of the AER revealed that the solid fraction is enriched in carbohydrates (33.00%), especially the cellulose fraction, with a monosaccharide composition of glucose, fucose, and xylose in addition to guluronic acid. Elemental analysis revealed that the residue is enriched in carbon (35.29%) and shows notable reductions in ash, sulfur, and phenolic compounds. Fourier-transform infrared spectroscopy (FT-IR) analysis confirmed the selective removal of mannuronic and guluronic acid residues in AER compared to biomass, while cellulose-associated functional groups have been preserved. Enzymatic hydrolysis with commercial fungal cellulase released 2.90 g/L glucose from biomass and 5.10 g/L glucose from AER, respectively. Fermentation of the hydrolysates with Saccharomyces cerevisiae BCRC 22458 yielded ethanol titers of 0.89 and 1.20 g/L from biomass and AER hydrolysate, respectively. Concentration of the hydrolysates to increase the sugar concentration increased the ethanol titer to 2.47 g/L (yield 0.098 g/g biomass; productivity 0.33 g/L/h) for AER and 1.18 g/L for biomass. These results demonstrated that S. siliquosum AER is a promising secondary feedstock for bioethanol fermentation within a cascading biorefinery approach for brown seaweeds.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1007/s12010-026-05933-1",
+      "sourceUrl": "https://doi.org/10.1007/s12010-026-05933-1",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Industrial-scale optimization of fed-batch fermentation enhances biomass productivity of Pasteurella multocida B:2 for hemorrhagic septicemia vaccine.",
+      "titleZh": "",
+      "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+      "targetJournal": "全部收录期刊",
+      "issn": "1517-8382",
+      "eissn": "1678-4405",
+      "year": 2026,
+      "date": "2026-09-18",
+      "authors": "Rasool A, Sattar S, Farooq MZ, Abbas A, Hussain S, Afroz H, Akram N, Ansari AR.",
+      "doi": "10.1007/s42770-026-02088-3",
+      "doiUrl": "https://doi.org/10.1007/s42770-026-02088-3",
+      "pmid": "42758249",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42758249/",
+      "pmcid": "",
+      "abstract": "Hemorrhagic septicemia (HS), caused by Pasteurella multocida serotype B:2, remains a major transboundary disease of cattle and buffalo, particularly in tropical regions. Efficient vaccine production requires high-density biomass generation under controlled and scalable fermentation conditions. This study designed as a sequential process-development and optimization study aimed to optimize industrial-scale cultivation of P. multocida B:2 using a 150-L bioreactor system with S1-S5 samples (n = 5) representing independent fermentation runs from analytical measurements through media selection, fed-batch supplementation, pH control, and thermal preconditioning strategies. Comparative batch cultivation demonstrated superior biomass production in tryptose phosphate broth (TPB) compared to casein sucrose yeast (CSY) medium (OD600 1.57 vs 0.76; p 2.5-fold increase in biomass productivity compared to conventional batch cultivation. These findings provide a scalable and cost-effective fermentation framework for improved commercial production of HS vaccine antigen.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1007/s42770-026-02088-3",
+      "sourceUrl": "https://doi.org/10.1007/s42770-026-02088-3",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Antioxidant Dipeptides Enhance Stress Tolerance and Fermentation Performance of Lager Yeast During High-Gravity Brewing.",
       "titleZh": "",
       "journal": "Applied biochemistry and biotechnology",
@@ -234,9 +331,9 @@
       "included": true,
       "articleScore": 55,
       "translationError": "Translation returned 429",
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -616,7 +713,7 @@
       "doiUrl": "https://doi.org/10.1155/ijfo/6621201",
       "pmid": "42756733",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42756733/",
-      "pmcid": "",
+      "pmcid": "PMC13583440",
       "abstract": "Sorghum motoho is a fermented sorghum porridge produced through natural fermentation or backslopping. To understand the in situ microbial population and their metabolic roles during fermentation, water, tomoso (traditional starter culture), and motoho samples were collected from eight areas in the Free State and Eastern Cape provinces of South Africa. The highest lactic acid bacteria (LAB) population was 6.81 Log CFU/g in motoho (pH 3.97) from Area 3 and 6.78 Log CFU/g in tomoso (pH 4.43) from Area 6, whereas the lowest yeast population was 3.09 Log CFU/g in tomoso (pH 3.16) from Area 5. The highest population was 6.78 Log CFU/g in motoho (pH 3.93) from Area 8. Overall, the LAB population (5.74 Log CFU/g) was frequently isolated in tomoso, whereas the yeast population (5.36 Log CFU/g) was isolated in motoho. Selected LAB and yeast isolates were differentiated using RAPD-PCR analysis using M13 primer; 15 and 23 distinct groups were observed among the 27 and 31 LAB and yeast isolates, respectively. Analysis of the 16S rDNA identified Schleiferilactobacillus harbinensis, Levilactobacillus brevis, Lactiplantibacillus plantarum, and Limosilactobacillus fermentum across seven areas, with L. brevis frequently isolated from tomoso samples of the six areas studied. Analysis of the D1D2 domain of the 26S rDNA identified the yeasts Candida sake, Kazachstania unispora, Pichia kudriavzevii, Pichia fermentans, and Saccharomyces boulardii, which the latter three were frequently isolated in tomoso and motoho from six areas. When compared with species from different regions and products, the motoho LAB isolates clustered together, whereas the yeast isolates clustered into eight groups on the neighbor-joining phylogenetic tree. In the tomoso and motoho samples from all areas, the lactic acid concentration was detected between 0.04 and 1.97 mg/100 g, whereas the acetic concentration was below 0.36 mg/100 g. None of the LAB were amylolactic while the yeasts Saccharomyces cerevisiae, C. sake, and S. boulardii fermented maltose. The study revealed that the tomoso possessed a diverse microbial population, which consisted of different non-Saccharomyces yeast species that survived the fermentation conditions.",
       "abstractZh": "",
       "url": "https://doi.org/10.1155/ijfo/6621201",
@@ -1604,9 +1701,9 @@
       "included": true,
       "articleScore": 43,
       "translationError": "Translation returned 429",
-      "journalScore": 35,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 2,
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2315,7 +2412,7 @@
       "doiUrl": "https://doi.org/10.1016/j.isci.2026.117407",
       "pmid": "42756093",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42756093/",
-      "pmcid": "",
+      "pmcid": "PMC13582009",
       "abstract": "Biofilm-based manufacturing offers superior robustness, yet the spatial logic governing its metabolic resilience remains a \"black box,\" hindering rational strain engineering. Here, we present a spatiotemporal transcriptomic map of Saccharomyces cerevisiae biofilms under industrial conditions. We identify a fundamental \"reproduction-metabolism decoupling\" strategy: the biofilm functions as a self-organizing system where outer cells act as a \"metabolic shield\"-activating retrograde signaling to endure stress and maximize glycolysis-while inner cells serve as a \"protected nursery\" for rapid proliferation. This spatial division of labor explains biofilm stability and provides a genetic blueprint for spatially programming microbial factories for next-generation biomanufacturing.",
       "abstractZh": "",
       "url": "https://doi.org/10.1016/j.isci.2026.117407",
@@ -3333,9 +3430,9 @@
       "included": true,
       "articleScore": 53,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3500,7 +3597,7 @@
       "doiUrl": "https://doi.org/10.3389/fmicb.2026.1913745",
       "pmid": "42755919",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42755919/",
-      "pmcid": "",
+      "pmcid": "PMC13582299",
       "abstract": "Shubat is a traditional fermented camel milk beverage in which lactic acid bacteria and yeasts jointly determine fermentation behavior, but the kinetic properties of autochthonous strains remain insufficiently characterized. This study aimed to model the growth and metabolite production of Lactobacillus helveticus SH4 and Kluyveromyces marxianus Y45, two most dominant species found in Kazakhstani shubat. Growth was evaluated under different temperatures, pH values, and carbohydrate sources, and described using logistic, cardinal pH-temperature, and Monod models. Lactic acid and ethanol production were measured during cultivation, and co-culture behavior was assessed in modified MRS medium and reconstituted camel milk. L. helveticus SH4 showed optimal growth at pH 7.22 ± 0.11 and 39.66 ± 0.38°C, while K. marxianus Y45 grew optimally at pH 5.39 ± 0.23 and 37.78 ± 0.71°C. SH4 grew efficiently on glucose, galactose, and lactose, whereas Y45 showed the highest growth rate on glucose. Metabolite analysis indicated lactic acid production by SH4 and ethanol production by Y45. In co-culture, both strains followed monoculture-based growth trends in modified MRS, while reconstituted camel milk reduced the final SH4 population. These results provide quantitative parameters for understanding and improving controlled shubat fermentation.",
       "abstractZh": "",
       "url": "https://doi.org/10.3389/fmicb.2026.1913745",
@@ -6113,9 +6210,9 @@
       "included": true,
       "articleScore": 45,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6160,9 +6257,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8193,9 +8290,9 @@
       "included": true,
       "articleScore": 44,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12595,7 +12692,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18383,9 +18480,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18773,9 +18870,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20106,9 +20203,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21277,9 +21374,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26056,9 +26153,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28301,9 +28398,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28640,9 +28737,9 @@
       "included": true,
       "articleScore": 55,
       "translationError": "Translation returned 429",
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29760,9 +29857,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 35,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 2,
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32371,9 +32468,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 44,
+      "journalScore": 43,
       "journalQuartile": "Q1",
-      "journalArticleCount": 12,
+      "journalArticleCount": 11,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35195,65 +35292,13 @@
       "journalArticleCount": 26,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Toward Sustainable Paclitaxel Bioproduction: Plant Biology, Biosynthesis and Platform Engineering.",
-      "titleZh": "迈向可持续紫杉醇生物生产：植物生物学、生物合成和平台工程。",
-      "journal": "Plants (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2223-7747",
-      "eissn": "2223-7747",
-      "year": 2026,
-      "date": "2026-06-04",
-      "authors": "Zhang M, Xing X, Zhu H.",
-      "doi": "10.3390/plants15111741",
-      "doiUrl": "https://doi.org/10.3390/plants15111741",
-      "pmid": "42280778",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42280778/",
-      "pmcid": "PMC13259073",
-      "abstract": "Paclitaxel (Taxol), a taxane diterpenoid from Taxus species, is a clinically important microtubule-stabilizing anticancer agent widely used in chemotherapy. However, its supply remains limited by precursor scarcity and the molecule's structural complexity. The biosynthetic pathway from geranylgeranyl diphosphate (GGPP) to paclitaxel is estimated to involve 19 to 23 enzymatic steps. Recent multi-omics approaches have substantially elucidated this pathway, yet key mechanistic questions persist, notably the formation of the oxetane ring. Complete heterologous biosynthesis is further hampered by poor cytochrome P450 (CYP) expression in non-native hosts and insufficient metabolic flux. This review synthesizes advances across four themes: (1) progressive elucidation of the biosynthetic pathway, with emphasis on the CYP-mediated oxygenation cascade and oxetane ring formation; (2) genomic and regulatory insights from Taxus genome assemblies, transcription factor networks, and spatial multi-omics; (3) metabolic engineering in microbial hosts, including Escherichia coli, Saccharomyces cerevisiae, and non-conventional chassis; and (4) plant-based heterologous production platforms. Critical bottlenecks are identified, including unresolved enzymatic steps, CYP functional expression, flux partitioning, and bioprocess scale-up. Strategies to overcome these challenges are discussed.",
-      "abstractZh": "紫杉醇（Taxol）是一种来自红豆杉属的紫杉烷二萜类化合物，是临床上重要的微管稳定抗癌剂，广泛用于化疗。然而，其供应仍然受到前体稀缺性和分子结构复杂性的限制。从香叶基香叶基二磷酸 (GGPP) 到紫杉醇的生物合成途径估计涉及 19 至 23 个酶促步骤。最近的多组学方法已经基本上阐明了这一途径，但关键的机制问题仍然存在，特别是氧杂环丁烷环的形成。非天然宿主中细胞色素 P450 (CYP) 表达不良和代谢通量不足进一步阻碍了完全的异源生物合成。本综述综合了四个主题的进展：（1）生物合成途径的逐步阐明，重点是 CYP 介导的氧合级联和氧杂环丁烷环的形成； (2) 来自红豆杉基因组组装、转录因子网络和空间多组学的基因组和调控见解； （3）微生物宿主的代谢工程，包括大肠杆菌、酿酒酵母和非常规底盘； (4)基于植物的异源生产平台。批评博",
-      "url": "https://doi.org/10.3390/plants15111741",
-      "sourceUrl": "https://doi.org/10.3390/plants15111741",
-      "citationCount": 0,
-      "relevanceScore": 60,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酿酒酵母",
-        "酵母",
-        "代谢工程"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "included": true,
-      "articleScore": 53,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 12,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 711 篇",
-    "lastStartedAt": "2026-09-19T05:22:10.781Z",
-    "lastFinishedAt": "2026-09-19T05:23:25.180Z",
+    "lastMessage": "更新完成，共 712 篇",
+    "lastStartedAt": "2026-09-20T05:35:05.552Z",
+    "lastFinishedAt": "2026-09-20T05:36:18.016Z",
     "nextRunAt": null,
     "progress": 100
   }
