@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:41:10.591Z",
+  "updatedAt": "2026-09-26T05:45:02.205Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -144,6 +144,162 @@
   },
   "articles": [
     {
+      "title": "Distinct polyamine effects on &lt;i&gt;Candida albicans&lt;/i&gt; morphogenesis identify spermidine as a key regulator.",
+      "titleZh": "",
+      "journal": "Microbiology spectrum",
+      "targetJournal": "全部收录期刊",
+      "issn": "2165-0497",
+      "eissn": "2165-0497",
+      "year": 2026,
+      "date": "2026-09-23",
+      "authors": "Pathirana RU, Camargo MI, Vela GG, Kadosh D.",
+      "doi": "10.1128/spectrum.00833-26",
+      "doiUrl": "https://doi.org/10.1128/spectrum.00833-26",
+      "pmid": "42775536",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42775536/",
+      "pmcid": "",
+      "abstract": "Polyamines play essential and multifaceted roles in all organisms. However, their unique functions in fungal cell differentiation provide an opportunity to identify novel antifungal targets, as inhibition of essential metabolic pathways represents a promising therapeutic strategy. In this study, we characterized two putative regulators of the polyamine biosynthesis pathway in the major human fungal pathogen Candida albicans, identified based on their homology to Saccharomyces cerevisiae SPE1 and SPE2, which encode ornithine decarboxylase and S-adenosylmethionine decarboxylase, respectively. We generated single and double gene deletion strains for CaSPE1 and CaSPE2 and found that disruption of these genes severely impaired yeast cell growth due to disturbed polyamine homeostasis. This dysregulation was associated with pronounced cell vacuolar enlargement, indicating that cellular stress is linked to polyamine imbalance. Filamentation analyses revealed that polyamine-induced morphogenesis by spermine and spermidine is growth medium-dependent, likely reflecting differences in the bioavailability of different types of polyamines. Among the polyamines tested, spermine acted synergistically with glucose to promote filamentation in minimal medium. Collectively, our findings demonstrate that polyamines mediate a finely tuned balance between yeast cell proliferation and filamentous growth in C. albicans. Notably, spermidine directly regulates polyamine homeostasis to govern cell growth and filamentation, and spermine appears to be the primary polyamine driving filamentation, potentially through a dual signaling mechanism that integrates metabolic status and morphogenetic regulation.ImportanceMetabolic plasticity is a critical determinant of microbial commensalism and pathogenicity, shaped by the evolutionary pressure that drives niche-specific adaptations. These processes are not well understood in a species-specific context across diverse morphogenetic programs that govern fungal adaptations. As a major dimorphic human fungal pathogen, Candida albicans finely tunes its metabolic pathways to support its growth and virulence properties, including morphogenesis. Here, we investigated one such understudied pathway: polyamine metabolism under distinct growth conditions. Building upon previous studies on fungal polyamine biology, we demonstrated that polyamine homeostasis influences growth, cell morphology, and filamentation in C. albicans. This study expands our understanding of how diverse polyamines shape C. albicans physiology by providing insight into the dual roles of polyamines as nutrients and signaling molecules. These findings illustrate the complex relationship between polyamine metabolism and morphogenesis in C. albicans while identifying polyamine metabolism as a pathway of continued interest for antifungal target discovery.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1128/spectrum.00833-26",
+      "sourceUrl": "https://doi.org/10.1128/spectrum.00833-26",
+      "citationCount": 0,
+      "relevanceScore": 64,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Harnessing Yarrowia lipolytica as a platform for animal-free and secretory production of human lactoferrin.",
+      "titleZh": "",
+      "journal": "Bioresource technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0960-8524",
+      "eissn": "1873-2976",
+      "year": 2026,
+      "date": "2026-09-22",
+      "authors": "Wu Z, Ren H, Cai P, Wang Y, Lertphadungkit P, Wang J, Hong Y, Wu R, Mao Y, Yin S, Xu P.",
+      "doi": "10.1016/j.biortech.2026.135927",
+      "doiUrl": "https://doi.org/10.1016/j.biortech.2026.135927",
+      "pmid": "42772382",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772382/",
+      "pmcid": "",
+      "abstract": "Human lactoferrin (hLF) is an iron-binding glycoprotein with important nutritional and therapeutic functions. Microbial production of recombinant hLF offers a scalable and animal-free alternative to extraction from milk, but efficient secretion remains a major challenge. Here, we developed Yarrowia lipolytica as a microbial platform for high-level production and secretion of recombinant hLF. By systematically improving protein expression, secretion, and protein-folding factors, we identified a key limitation in hLF production: simply increasing gene copy number did not proportionally increase extracellular hLF yield and instead caused impaired cell growth and morphology. We therefore enhanced the cellular protein-folding and secretory machinery, which substantially enhanced the cells to accommodate and secrete higher levels of hLF. Through this coordinated engineering strategy, the best-performing strain produced 409.9 mg/L secreted hLF in shake flasks. Further process optimization in a 5-L fed-batch fermentation increased the hLF titer to 3.14 g/L. These results demonstrate that balancing recombinant protein expression with host secretory capacity is critical for efficient production of complex proteins. More broadly, this work establishes Y. lipolytica as a promising platform for sustainable, animal-free manufacturing of lactoferrin and potentially other high-value nutritional and therapeutic proteins.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135927",
+      "sourceUrl": "https://doi.org/10.1016/j.biortech.2026.135927",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "解脂耶氏酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "解脂耶氏酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "解脂耶氏酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 31,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Vps1 and select autophagic machinery are required for coenzyme Q uptake and trafficking to mitochondria.",
+      "titleZh": "",
+      "journal": "The Journal of biological chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-9258",
+      "eissn": "1083-351X",
+      "year": 2026,
+      "date": "2026-09-22",
+      "authors": "Guile MD, Anderson KA, Jain A, Toulmay A, Prinz WA, Clarke CF.",
+      "doi": "10.1016/j.jbc.2026.113592",
+      "doiUrl": "https://doi.org/10.1016/j.jbc.2026.113592",
+      "pmid": "42772560",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772560/",
+      "pmcid": "",
+      "abstract": "Coenzyme Q (CoQ) is an important lipid found in nearly all cellular membranes in eukaryotes. Biosynthesis of CoQ occurs within mitochondria, where it functions as an electron carrier in oxidative phosphorylation and participates in key metabolic pathways. In both mitochondrial and non-mitochondrial membranes, the hydroquinone form of CoQ (CoQH2) also functions as a radical-scavenging antioxidant and participates in other processes required for cell maintenance and survival. Individuals with CoQ deficiency may benefit from high-dose CoQ supplementation; however, its bioavailability is limited, and treatment responses can vary. Here, we sought to gain mechanistic insight into how exogenous CoQ is trafficked to mitochondria. We used the yeast model system Saccharomyces cerevisiae, that produce CoQ6 with a polyisoprenyl tail containing six isoprene units. A CoQ6-deficient (coq2Δ) yeast mutant is used to investigate genes and corresponding pathways required for the cellular uptake and trafficking of exogenous CoQ6 to mitochondrial respiratory complexes. Specifically, we identify essential residues in the dynamin-like protein Vps1 that are required for CoQ6 trafficking and show that yeast vps1 mutants with known defects in autophagy are incapable of trafficking exogenously supplemented CoQ6 to mitochondria. Importantly, we identify a non-canonical role for several autophagic proteins in CoQ6 trafficking. Taken together, our data suggest that uptake of exogenous CoQ6 and its delivery to the mitochondria relies on a novel, specialized lipid trafficking pathway comprised of select autophagic and endosomal membrane trafficking proteins, and the lytic compartment which serves as a transport hub.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113592",
+      "sourceUrl": "https://doi.org/10.1016/j.jbc.2026.113592",
+      "citationCount": 0,
+      "relevanceScore": 45,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 38,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Adaptive laboratory evolution enables autotrophic growth of Eubacterium limosum under defined medium conditions.",
       "titleZh": "",
       "journal": "Bioresource technology",
@@ -250,7 +406,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Heterologous Expression of Xanthophyllomyces dendrorhous crtS/crtR in Escherichia coli for Preliminary Astaxanthin Formation.",
+      "title": "Heterologous expression of Xanthophyllomyces dendrorhous crtS/crtR in Escherichia coli for preliminary astaxanthin formation.",
       "titleZh": "",
       "journal": "Protein expression and purification",
       "targetJournal": "全部收录期刊",
@@ -447,6 +603,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "RsHSFA3 of Rhododendron simsii confers plant heat tolerance by molecular regulation.",
+      "titleZh": "",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "targetJournal": "全部收录期刊",
+      "issn": "0981-9428",
+      "eissn": "1873-2690",
+      "year": 2026,
+      "date": "2026-09-20",
+      "authors": "Zuo W, He Y, Zeng L, Guo Q, Li Q, Zhang B, Li H.",
+      "doi": "10.1016/j.plaphy.2026.111742",
+      "doiUrl": "https://doi.org/10.1016/j.plaphy.2026.111742",
+      "pmid": "42772028",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772028/",
+      "pmcid": "",
+      "abstract": "Global warming severely restricts the cultivation and landscape application of heat-sensitive alpine rhododendrons. Rhododendron simsii, an important parent of hybrid azaleas, exhibits strong heat tolerance and wide environmental adaptability. Heat Shock transcription Factors (HSFs) act as core regulators governing plant heat tolerance. Screening and functional characterization of HSF genes in R. simsii can supply candidate genes for genetic improvement of heat-sensitive Rhododendron species. In this study, a total of 22 HSF family members were identified from the whole-genome sequence of R. simsii, one of which encodes a gene rapidly and markedly induced by heat stress, designated RsHSFA3. Subcellular localization assay verified that RsHSFA3 localizes to the cell nucleus. Heterologous overexpression of RsHSFA3 significantly elevated basal heat tolerance and acquired heat tolerance in transgenic Arabidopsis. CRISPR/Cas9-mediated gene-edited callus lines of R. simsii targeting RsHSFA3 were generated. Physiological measurements demonstrated that RsHSFA3 positively regulates heat tolerance by boosting reactive oxygen species (ROS) scavenging capacity and preserving cell membrane stability. Integrative analyses of DAP-seq, yeast one-hybrid and dual-luciferase reporter assay validated that RsHSFA3 binds to the promoters of heat-responsive genes including RsHSP70, RsHSP30, RsAPG2, RsXPO1 and RsHSP80 to activate their transcription. Yeast two-hybrid and bimolecular fluorescence complementation assays further revealed physical interactions between RsHSFA3 and RsHSP70 as well as RsHSP82. Collectively, RsHSFA3 synergistically enhances heat tolerance in R. simsii via activating the expression of heat shock proteins and facilitating ROS detoxification. The findings provide valuable genetic resource and theoretical foundation for directed heat-tolerance breeding of Rhododendron varieties.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.111742",
+      "sourceUrl": "https://doi.org/10.1016/j.plaphy.2026.111742",
+      "citationCount": 0,
+      "relevanceScore": 50,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 48,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 16,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "The transcription factor CiMYC2 positively regulates terpenoid biosynthesis by activating the expression of CiHMGR and CiTPS4 in Chrysanthemum indicum var. aromaticum.",
       "titleZh": "",
       "journal": "Plant science : an international journal of experimental plant biology",
@@ -455,7 +661,7 @@
       "eissn": "1873-2259",
       "year": 2026,
       "date": "2026-09-20",
-      "authors": "Gao W, Han J, Haotian XU, Chen F, Meng Q.",
+      "authors": "Gao W, Han J, Xu H, Chen F, Meng Q.",
       "doi": "10.1016/j.plantsci.2026.113463",
       "doiUrl": "https://doi.org/10.1016/j.plantsci.2026.113463",
       "pmid": "42764059",
@@ -834,9 +1040,9 @@
       "included": true,
       "articleScore": 43,
       "translationError": "Translation returned 429",
-      "journalScore": 37,
+      "journalScore": 38,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2005,62 +2211,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Yeast Strain Development and Process Intensification in High-Gravity Fermentation.",
-      "titleZh": "",
-      "journal": "FEMS yeast research",
-      "targetJournal": "全部收录期刊",
-      "issn": "1567-1356",
-      "eissn": "1567-1364",
-      "year": 2026,
-      "date": "2026-09-11",
-      "authors": "Chu-Ky S, Pham TA, Pham NH, Nguyen TT, Nguyen CN, Nguyen TC, Le T, Dam TH, Nguyen LH, Nguyen TMT, Nguyen TA, Phung LH, Phi QT, Pham QA, Truong QP, Pham KC, Tien LH, Dang MN, Tien TN, Son JE, Jung SK, Hwang UW, Kim SR.",
-      "doi": "10.1093/femsyr/foag046",
-      "doiUrl": "https://doi.org/10.1093/femsyr/foag046",
-      "pmid": "42726027",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42726027/",
-      "pmcid": "",
-      "abstract": "High- and very-high-gravity (HG/VHG) fermentation increases substrate loading and product titers, thereby improving fermenter utilisation and potentially reducing water use and downstream processing requirements. Initially developed for brewing and fuel ethanol production, these approaches are now applied more broadly in food, beverage, and bioproduct manufacturing. This MiniReview summarises operational definitions and industrial drivers of HG/VHG fermentation and examines the associated constraints in rheology, mass and heat transfer, osmotic and ethanol stress, nutrient availability, and oxidative damage. Yeast improvement strategies are reviewed, including adaptive laboratory evolution, mutagenesis, genome shuffling, multiplex genome editing, non-conventional yeasts, and multi-omics-guided selection. Process developments such as no-cook simultaneous liquefaction, saccharification and fermentation (SLSF), enzyme formulation, nutrient management, and in situ product recovery are considered together with applications in alcoholic beverages, organic acids, microbial lipids, and other value-added products. The review also discusses coproduct valorisation and the need to integrate strain development with process design. Current evidence supports HG/VHG fermentation as a useful process-intensification platform, although performance and sustainability depend strongly on feedstock, operating conditions, product requirements, and the basis used to report fermentation outcomes.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1093/femsyr/foag046",
-      "sourceUrl": "https://doi.org/10.1093/femsyr/foag046",
-      "citationCount": 0,
-      "relevanceScore": 81,
-      "relevanceLevel": "高度相关",
-      "organismKeywords": [
-        "酵母",
-        "非传统酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "基因组编辑",
-        "定向进化"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造",
-        "非传统酵母",
-        "基因组编辑",
-        "定向进化"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "非传统酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "基因组编辑",
-        "定向进化"
-      ],
-      "included": true,
-      "articleScore": 65,
-      "translationError": "Translation returned 429",
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Anti-psychotic drugs act synergistically in combination with antifungal drugs to inhibit drug-resistant &lt;i&gt;Cryptococcus neoformans&lt;/i&gt; and &lt;i&gt;Candida albicans&lt;/i&gt;.",
       "titleZh": "",
       "journal": "mSphere",
@@ -2208,6 +2358,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Feathered bioreactor: transforming a chicken egg into a recombinant protein biomanufacturing foundry.",
+      "titleZh": "",
+      "journal": "Poultry science",
+      "targetJournal": "全部收录期刊",
+      "issn": "0032-5791",
+      "eissn": "1525-3171",
+      "year": 2026,
+      "date": "2026-09-10",
+      "authors": "Naim A, Sharma A, Ray SK, Nayak D.",
+      "doi": "10.1016/j.psj.2026.107751",
+      "doiUrl": "https://doi.org/10.1016/j.psj.2026.107751",
+      "pmid": "42772146",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772146/",
+      "pmcid": "",
+      "abstract": "The limitations of conventional small-molecule drugs in treating complex chronic and inherited disorders have driven demand for recombinant protein therapeutics offering superior target specificity and mechanistic precision. However, existing production platforms remain inadequate: bacterial systems lack post-translational processing machinery; yeast and insect systems produce non-human glycans; and mammalian cell-based systems, while biologically capable, require infrastructure that renders therapeutics inaccessible in resource-limited settings. This review examines the transgenic chicken egg as a compelling manufacturing alternative, whose oviduct epithelium can be reprogrammed through Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR-associated protein 9 (CRISPR/Cas9) mediated primordial germ cell editing to secrete recombinant proteins directly into albumen at clinically meaningful yields. The chicken egg's predominant human-compatible N-acetylneuraminic acid (Neu5Ac) glycosylation, natural sterility, and simplified protein matrix collectively address the biological and economic shortcomings of conventional platforms. Regulatory approval of egg-derived biopharmaceuticals, including Kanuma and Epovet, validates this approach. Outstanding challenges, including incomplete sialylation and extended flock-establishment timelines, are critically discussed, along with strategies to overcome them.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.psj.2026.107751",
+      "sourceUrl": "https://doi.org/10.1016/j.psj.2026.107751",
+      "citationCount": 0,
+      "relevanceScore": 64,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "translationError": "Translation returned 429",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 5,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Light-responsive PyNAC90 orchestrates anthocyanin biosynthesis through combinatorial transcriptional activation and COP1-mediated degradation in pear.",
       "titleZh": "",
       "journal": "Molecular horticulture",
@@ -2298,9 +2498,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2799,56 +2999,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Transcriptomic Responses of Kveik Yeasts to Heat and Ethanol Stress.",
-      "titleZh": "",
-      "journal": "FEMS yeast research",
-      "targetJournal": "全部收录期刊",
-      "issn": "1567-1356",
-      "eissn": "1567-1364",
-      "year": 2026,
-      "date": "2026-09-09",
-      "authors": "Shirasaya D, Powell CD.",
-      "doi": "10.1093/femsyr/foag043",
-      "doiUrl": "https://doi.org/10.1093/femsyr/foag043",
-      "pmid": "42714845",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42714845/",
-      "pmcid": "",
-      "abstract": "Kveik strains are a group of Saccharomyces cerevisiae strains notable for their exceptional tolerance to environmental stress. To investigate the molecular basis of this robustness, the transcriptomes of three kveik strains and a conventional ale strain were compared under non-stress and stress conditions using RNA-seq. Under non-stress conditions, kveik strains showed elevated basal expression of environmental stress response genes, suggesting that part of the stress-responsive transcriptional program is active irrespective of stress exposure. Catalase activity was elevated, providing physiological support for the transcriptomic findings related to oxidative-stress defense. Under sublethal heat stress, conventional ale yeast displayed transcriptional patterns associated with cell-cycle restraint and chromosome organization, whereas kveik strains showed enrichment of genes related to protein refolding, ribosome biogenesis, and cell-wall biosynthesis, suggesting retention of a transcriptional emphasis on growth-associated processes alongside stress-protective responses. Under ethanol stress, both groups upregulated translation-related processes; however, metabolic functions were more strongly enriched in ale yeast, while kveik strains showed patterns consistent with maintenance of translation-related functions together with increased emphasis on cell surface-associated processes. Overall, kveik stress tolerance appears to reflect elevated basal preparedness and transcriptional patterns consistent with the maintenance of biosynthetic and structural processes under stress, supporting their potential suitability for intensive industrial fermentations.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1093/femsyr/foag043",
-      "sourceUrl": "https://doi.org/10.1093/femsyr/foag043",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "translationError": "Translation returned 429",
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Transcriptomics reveals metabolic division of labor and reproduction-metabolism decoupling in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; biofilms.",
       "titleZh": "",
       "journal": "iScience",
@@ -2945,9 +3095,9 @@
       "included": true,
       "articleScore": 43,
       "translationError": "Translation returned 429",
-      "journalScore": 37,
+      "journalScore": 38,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3188,7 +3338,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3238,7 +3388,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3525,52 +3675,52 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "A new MRR1 gain-of-function mutation involved in cross-resistance to antifungal agents in the fungal priority pathogen Candida parapsilosis.",
+      "title": "Screening, fermentation performance and biotransformation potential of maltose-negative yeasts for aroma enhancement in non-alcoholic beer production.",
       "titleZh": "",
-      "journal": "Medical mycology",
+      "journal": "International journal of food microbiology",
       "targetJournal": "全部收录期刊",
-      "issn": "1369-3786",
-      "eissn": "1460-2709",
+      "issn": "0168-1605",
+      "eissn": "1879-3460",
       "year": 2026,
-      "date": "2026-09-04",
-      "authors": "Cadeau M, de Lima JR, Marcela-Sabou A, Robert E, Pape PL, Ourliac-Garnier I, Morio F.",
-      "doi": "10.1093/mmy/myag094",
-      "doiUrl": "https://doi.org/10.1093/mmy/myag094",
-      "pmid": "42696756",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42696756/",
+      "date": "2026-09-05",
+      "authors": "Svedlund N, Goldstein L, Magalhães F, Grundy J, McBain D, Reyes A, Gibson B, Wietstock PC.",
+      "doi": "10.1016/j.ijfoodmicro.2026.112038",
+      "doiUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.112038",
+      "pmid": "42772231",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772231/",
       "pmcid": "",
-      "abstract": "ObjectivesCandida parapsilosis is a leading cause of invasive candidiasis globally, with rising reports of fluconazole resistance threatening its clinical management. Among the mechanisms involved, gain-of-function mutations in the MRR1 gene have emerged as key drivers of antifungal resistance. We aimed to investigate a novel amino acid substitution (G982E) in the Mrr1 zinc cluster transcription factor, identified in a fluconazole-resistant C. parapsilosis isolate from a patient exposed to fluconazole.MethodsUsing CRISPR-Cas9 genome editing, we introduced the G982E variant into two fluconazole-susceptible C. parapsilosis genetic backgrounds. The antifungal susceptibility of the engineered mutants was assessed in vitro against a broad panel of systemic antifungal agents. A Galleria mellonella infection model was also used to evaluate the impact of the G982E variant on antifungal treatment efficacy and virulence in vivo.ResultsAcquisition of the G982E substitution dramatically altered the antifungal susceptibility profile, particularly for fluconazole for which the MIC increased to >256 µg/mL. However, the magnitude of the MIC increase varied by azole, with the greatest increase seen for fluconazole (>9-10-fold), followed by voriconazole (5-fold), isavuconazole (3-fold), but also flucytosine (1.5-fold). In contrast, susceptibility to posaconazole remained largely unchanged. In vivo, this new variant conferred fluconazole treatment failure but was associated with a significant reduction in virulence.ConclusionsThe G982E is a novel Mrr1 gain-of-function mutation driving high-level fluconazole resistance in C. parapsilosis. These findings reinforce the central role of Mrr1 in antifungal resistance, underscore the functional diversity of its mutational landscape, with potential implications for fungal fitness and transcriptional regulation.",
+      "abstract": "The global non-alcoholic beer (NAB) market is experiencing unprecedented growth due to a general trend in reduced alcohol consumption. Despite this growth, NABs often do not match their alcoholic counterparts in sensory quality, particularly in aroma complexity and \"worty\" notes. Yeasts can contribute to aroma not only by producing ethanol, esters, and higher alcohols, but also through biotransformation of bound hop- and malt-derived precursors, releasing low-threshold volatile thiols such as 3-mercaptohexan-1-ol (3MH), 3-sulfanyl-4-methylpentan-1-ol (3S4MP) and 4-mercapto-4-methylpentan-2-one (4MMP), which can impart tropical, guava, grapefruit and blackcurrant notes. Here, we screened 86 yeasts, including non-Saccharomyces species, via a multi-step screening strategy combining micro fermentation-based assessment of maltose utilisation, inability to produce volatile phenolic off-flavours via decarboxylation, biotransformation potential (assessed qualitatively via growth on cysteine as sole nitrogen source, indicative of β-lyase activity), and aromatic potential. Nine strains meeting these criteria were applied in wort fermentation trials. Strain selection to pilot-scale trials was determined by sensory analysis and chemical analysis, including direct quantification of thiol release via GC-MS/QQQ. Of these, Pichia membranifaciens and Saccharomycodes ludwigii were identified as most suitable for non-alcoholic IPA-style beer production, exhibiting enhanced fruity and floral aromas relative to a commercial maltose-negative Saccharomyces cerevisiae strain. In two pilot-scale trials using different hop varieties, and in one trial with the addition of thiol precursors, GC-MS/QQQ analyses combined with sensory evaluation showed that yeast strain selection and precursor supplementation both enhanced hop-derived aroma expression, particularly when dry hopping during active fermentation. Direct quantification confirmed that precursor supplementation increased the wort bound-thiol precursor concentration up to 2.3-fold, supporting precursor availability as a key driver of thiol release. These findings demonstrate that targeted, low-cost micro fermentation-based yeast screening, combined with hop and precursor management, provides a practical route to producing aromatic, hop-forward non-alcoholic beers with enhanced tropical and fruity character.",
       "abstractZh": "",
-      "url": "https://doi.org/10.1093/mmy/myag094",
-      "sourceUrl": "https://doi.org/10.1093/mmy/myag094",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112038",
+      "sourceUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.112038",
       "citationCount": 0,
-      "relevanceScore": 64,
+      "relevanceScore": 67,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
-        "念珠菌"
+        "酵母",
+        "酿酒酵母"
       ],
       "technologyKeywords": [
-        "基因组编辑",
-        "CRISPR"
+        "生物制造"
       ],
       "mainKeywords": [
-        "念珠菌",
-        "基因组编辑",
-        "CRISPR"
+        "酵母",
+        "生物制造",
+        "酿酒酵母"
       ],
       "matchedYeast": [
-        "念珠菌"
+        "酵母",
+        "酿酒酵母"
       ],
       "matchedSynbio": [
-        "基因组编辑",
-        "CRISPR"
+        "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
+      "articleScore": 57,
       "translationError": "Translation returned 429",
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4032,7 +4182,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4127,9 +4277,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4182,7 +4332,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4496,6 +4646,371 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "[High-level expression of PET depolymerases in &lt;i&gt;Pichia pastoris&lt;/i&gt; and construction of a crude enzyme stabilization system].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Zhou J, Lin H, Qian X, Xu A, Jiang M.",
+      "doi": "10.13345/j.cjb.260313",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260313",
+      "pmid": "42773676",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773676/",
+      "pmcid": "",
+      "abstract": "Improving the production of polyethylene terephthalate (PET) depolymerases is essential for reducing the cost of enzymatic PET recycling and facilitating its industrial application. To enhance the production of PET hydrolases, the fungal-derived hydrolase HiC and the bacterial-derived hydrolase LCCICCG were employed as model enzymes. Strategies including recombinant strain construction, gene copy number optimization, molecular chaperone-assisted expression, fermentation scale-up, and crude enzyme stabilization were systematically investigated. The strains with secretory expression were generated by chromosomal integration, and multicopy transformants were obtained through high-stringency zeocin selection. To further improve protein production, we introduced PDI, ERO1, SEC53, SEC1, HAC1, and GCN4 as helper factors. GCN4 showed the strongest enhancement effect on HiC production, whereas ERO1 and HAC1 were more effective for LCCICCG. No significant synergistic effect was observed when ERO1 and HAC1 were co-expressed. In 5-L bioreactors, the optimized strains achieved the titers of 2.36 g/L for HiC and 1.72 g/L for LCCICCG. Furthermore, in a 50 L fermenter, the maximum extracellular protein concentration of HiC reached 8.5 g/L. A crude enzyme stabilization system composed of 0.1% Kathon, 10% glycerol, and 0.5% phenoxyethanol was subsequently established. After storage at room temperature for 30 days, HiC and LCCICCG retained 56.43% and 78.11% of their initial activities, respectively. The results demonstrate that coordinated optimization of expression and formulation can improve both the production and storage stability of PET depolymerases, thereby supporting their practical application in enzymatic PET recycling.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260313",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260313",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Medium optimization and fermentation regulation strategies for enhancing CO&lt;sub&gt;2&lt;/sub&gt; conversion to acetic acid coupled with H&lt;sub&gt;2&lt;/sub&gt; by &lt;i&gt;Clostridium ljungdahlii&lt;/i&gt;].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Li S, Su H, Guo X, Chen J, Li F, Lyu M.",
+      "doi": "10.13345/j.cjb.260275",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260275",
+      "pmid": "42773675",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773675/",
+      "pmcid": "",
+      "abstract": "Clostridium ljungdahlii can reduce CO2 to acetic acid via the Wood-Ljungdahl pathway using H2 as an energy source and CO2 as a carbon source, and it is a key chassis for realizing resource utilization of CO2. Acetic acid, as a bulk basic organic chemical raw material, has a large market demand and wide application scenarios. Moreover, the syngas fermentation route is green and low-carbon, with mild reaction conditions, making it an ideal direction for replacing traditional petroleum-based processes. However, during the fermentation process, it encountered problems such as slow growth, low biomass, and low acetic acid production. Therefore, in this study, the strain C. ljungdahlii SL40, which was obtained through laboratory adaptive evolution, was selected as the object of investigation. Through optimization of the culture medium and regulation of key fermentation processes, its acetic acid synthesis capacity was enhanced. Single-factor experiments integrated with response surface methodology were used to optimize the culture conditions. The optimal parameters were determined as follows: H2: CO2=60%: 40% (V/V), yeast extract 4.0 g/L, FeSO4 16 mg/L, culture temperature 37℃. Further experiments were conducted in a 5 L fermentation tank to investigate the effects of aeration rate and pH on the product. The results showed that increasing the aeration rate from 0.8 L/min to 1.5 L/min significantly promoted the production of acetic acid, raising the acetic acid concentration from 20.740 g/L to 25.950 g/L. When pH was controlled at 5.85, the acetic acid concentration was further increased to 36.570 g/L. Through systematic optimization, this study effectively broke through the key bottlenecks such as low biomass and low gas utilization rate in the autotrophic fermentation of the strain and significantly improved the acetic acid yield. These findings provide a feasible path for the directed conversion of CO2 to produce high value-added chemicals and has good industrial application potential.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260275",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260275",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Metabolic engineering of &lt;i&gt;Yarrowia lipolytica&lt;/i&gt; for astaxanthin production].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Sun S, Yang Q, Zhou Z, Fan Y, Zhao Y, Deng Y.",
+      "doi": "10.13345/j.cjb.260148",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260148",
+      "pmid": "42773662",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773662/",
+      "pmcid": "",
+      "abstract": "Astaxanthin, a high-value terpenoid secondary metabolite that exhibits excellent antioxidant activity, has broad application potential in the pharmaceutical and nutraceutical industries. However, its sophisticated biosynthetic pathway poses a great challenge for efficient production and industrial-scale application of astaxanthin. In this study, the unconventional oleaginous yeast Yarrowia lipolytica was employed as the chassis organism, and a multidimensional metabolic engineering strategy combined with fermentation process optimization was used to construct a microbial cell factory for astaxanthin production. Firstly, a heterologous β-carotene biosynthetic pathway was reconstituted, the carbon flux supply of the mevalonate (MVA) pathway was systematically enhanced, and endogenous branch metabolism was blocked, leading to the initial construction of an astaxanthin-producing strain. Subsequently, a RIDD-RIAD protein interaction tag was introduced to optimize the expression patterns of the key rate-limiting enzymes of β-carotene ketolase (CrtW) and β-carotene hydroxylase (CrtZ), thereby effectively improving the efficiency of astaxanthin biosynthesis. Following this, six rounds of iterative targeted metabolic modification combined with shake-flask fermentation significantly enhanced the biosynthetic potential of the engineered strains. The results showed that the engineered strain YAX11 achieved an astaxanthin titer of 107.4 mg/L in shake-flask fermentation, and the titer was increased to 1 148.4 mg/L in a 5 L bioreactor. Through the deep integration of metabolic network remodeling and fermentation process optimization, this study successfully constructed a Y. lipolytica cell factory for astaxanthin production, providing a theoretical reference for the green and large-scale manufacturing of astaxanthin, as well as metabolic engineering strategies for the heterologous synthesis of other terpenoid compounds.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260148",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260148",
+      "citationCount": 0,
+      "relevanceScore": 73,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "解脂耶氏酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "解脂耶氏酵母",
+        "代谢工程",
+        "酵母",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "解脂耶氏酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "细胞工厂",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 60,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Microenvironmental regulation strategies and applications of yeast surface display systems].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Luo X, Cao W, Yang J, Jiang W, Liu H, Li C.",
+      "doi": "10.13345/j.cjb.260250",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260250",
+      "pmid": "42773648",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773648/",
+      "pmcid": "",
+      "abstract": "Yeast surface display (YSD) is an important technological platform integrating protein engineering, synthetic biology, and industrial biocatalysis. Its catalytic efficiency and stability highly depend on the dynamic synergy of the three-tier microenvironments: the cell wall, intracellular environment, and extracellular compartments. This review systematically elaborates on the core components of the YSD microenvironment, including the cell wall, anchor proteins, intracellular secretion pathways, and extracellular physicochemical properties, and clarifies their critical roles in the folding, activity, and anchoring efficiency of displayed proteins. In addition, this review summarizes targeted regulation strategies, including cell wall gene engineering, optimization of anchor proteins and linkers, enhancement of intracellular secretion pathways, adaptation of extracellular culture conditions, and spatial arrangement of multienzyme co-display. It reveals that synergistic optimization of the three-tier microenvironments can significantly improve display efficiency and catalytic performance. YSD technology based on microenvironment regulation has achieved substantial application progress in industrial production, biomedicine, and environmental remediation. However, current microenvironment regulation still faces challenges in terms of precision, compatibility, and stability. Future research should focus on developing corresponding regulation strategies to break through technical bottlenecks and promote the industrial application of YSD. Microenvironment regulation provides important theoretical and technical support for the performance optimization and industrial translation of YSD.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260250",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260250",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "蛋白质工程"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "合成生物学",
+        "蛋白质工程"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "蛋白质工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Multidimensional metabolic engineering of &lt;i&gt;Yarrowia lipolytica&lt;/i&gt; for β-carotene production].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Li Y, Shan L, Chen M, Liu Q, Han P, Dai Z, Wang Q.",
+      "doi": "10.13345/j.cjb.260398",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260398",
+      "pmid": "42773661",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773661/",
+      "pmcid": "",
+      "abstract": "β-carotene is a natural lipid-soluble carotenoid widely used in the food and pharmaceutical industries. Although metabolic engineering efforts for the production of β-carotene via microbial fermentation have achieved certain progress, there remains room for further improvement. Compared with Saccharomyces cerevisiae or Escherichia coli, Yarrowia lipolytica exhibits a pronounced lipid-flux orientation in its core metabolic logic, conferring a natural advantage for the production of lipid-soluble compounds. This study aims to engineer Y. lipolytica strains for efficient β-carotene production. First, heterologous synthesis of β-carotene was achieved by replacing native promoters with strong ones, attenuating competing pathways, and introducing a bifunctional enzyme derived from Mucor circinelloides. Subsequently, β-carotene production was enhanced through morphological engineering to inhibit hyphal formation, optimization of key gene copy numbers, and improvement of acetyl-CoA supply. The resulting engineered strain LY20 achieved a β-carotene titer of 346.2 mg/L in shake-flask fermentation. Furthermore, in fed-batch fermentation with glucose as the carbon source in a 7.5-L bioreactor, the β-carotene titer reached 3.56 g/L. This study systematically optimizes the biosynthetic pathway for β-carotene through systems metabolic engineering, highlighting the potential of Y. lipolytica for the engineered synthesis of highly hydrophobic natural products and providing guidance for the efficient production of other lipid-soluble terpenoids.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260398",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260398",
+      "citationCount": 0,
+      "relevanceScore": 74,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "解脂耶氏酵母",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "解脂耶氏酵母",
+        "代谢工程",
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "解脂耶氏酵母",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 61,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Recent advances in the assembly and functional applications of synthetic genomes].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Zhao L, Wang B, Jia B.",
+      "doi": "10.13345/j.cjb.260267",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260267",
+      "pmid": "42773654",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773654/",
+      "pmcid": "",
+      "abstract": "With the development of DNA synthesis and genome engineering technology, life science research has gradually evolved from gene editing to higher-level genome writing. By designing and constructing large-scale DNA fragments and even complete genomes from scratch, researchers have been able to reconstruct the genetic structures of life systems at the genome scale, which enables the systematical study of the relationship between genome structure and function. Related studies have achieved remarkable progress in various biological systems such as prokaryotes, Saccharomyces cerevisiae, and mammalian cells and have shown broad application prospects of this technology in functional gene screening, biological manufacturing, medical research, and basic life science research. This paper systematically reviews the main progress in large-scale DNA design and assembly technology, summarizes the research progress of synthetic genomes in different biological systems and their potential in functional gene screening and biotechnology applications, and discusses the current technical challenges and future development directions, aiming to provide a reference for the research and application of synthetic genome engineering.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260267",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260267",
+      "citationCount": 0,
+      "relevanceScore": 68,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成基因组",
+        "基因组编辑"
+      ],
+      "mainKeywords": [
+        "合成基因组",
+        "酿酒酵母",
+        "酵母",
+        "基因组编辑"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成基因组",
+        "基因组编辑"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "[Research progress in synthesis of cordycepin by microorganisms].",
+      "titleZh": "",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1000-3061",
+      "eissn": "1872-2075",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Tian Y, Chen L, Liang Y, Zhu Q, Zhang C, Lu W.",
+      "doi": "10.13345/j.cjb.260120",
+      "doiUrl": "https://doi.org/10.13345/j.cjb.260120",
+      "pmid": "42773651",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42773651/",
+      "pmcid": "",
+      "abstract": "Cordycepin is a natural nucleoside antibiotic isolated from the fruiting bodies of Cordyceps militaris. It possesses diverse health-beneficial and medicinal values. However, the conventional fermentation processes for cordycepin production suffer from inherent drawbacks, including low yields, prolonged production cycles, and batch-to-batch inconsistency. These problems result in the exorbitant market price of cordycepin and severely restrict the potential for market application. The advent of synthetic biology has offered a revolutionary approach to address this challenge. This article systematically reviews the development trajectory of cordycepin production, spanning from conventional fermentation to modern synthetic biology-based manufacturing. It focuses on analyzing the breakthrough advancements in the construction of microbial cell factories such as Saccharomyces cerevisiae and cordycepin synthesis. Finally, it provides perspectives on the future development of more efficient, eco-friendly, and intelligent cordycepin biomanufacturing technologies by leveraging enzyme engineering and synthetic biology. And this study offers theoretical support and technical references for constructing high-cordycepin-producing strains, which is critical to facilitate the industrialization of cordycepin.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.13345/j.cjb.260120",
+      "sourceUrl": "https://doi.org/10.13345/j.cjb.260120",
+      "citationCount": 0,
+      "relevanceScore": 48,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学",
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "合成生物学",
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学",
+        "蛋白质工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 46,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "A novel &lt;i&gt;GWT1&lt;/i&gt; A397T substitution combined with &lt;i&gt;TAC1B&lt;/i&gt; F214I reduces manogepix susceptibility and fosmanogepix efficacy in &lt;i&gt;Candida auris&lt;/i&gt;.",
       "titleZh": "",
       "journal": "Microbiology spectrum",
@@ -4544,7 +5059,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5138,7 +5653,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5757,7 +6272,7 @@
       "doiUrl": "https://doi.org/10.1111/1750-3841.71462",
       "pmid": "42768836",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42768836/",
-      "pmcid": "",
+      "pmcid": "PMC13594688",
       "abstract": "Growing demand for proteins has driven exploration of unconventional plant matrices combined with fermentation technologies. Cashew apple bagasse, a byproduct of juice production, is a potential fermentation substrate for microbial protein production (single-cell protein). This study evaluated the effects of 10%, 20%, and 30% cashew bagasse flour enriched with Saccharomyces cerevisiae protein on the instrumental properties (proximate composition, color, texture, and volatile compound profile), sensory profile (Preferred Attribute Elicitation [PAE] and Free Choice Profiling [FCP]), and consumers' emotional responses (using a validated food-specific emoji list) to plant-based and hybrid meatballs. Incorporation at 30% significantly increased hardness and gumminess while reducing elasticity in all samples (p < 0.05), with more pronounced changes in hybrid meatballs. The enriched flour increased volatile complexity, introducing ester compounds in hybrid products and imparting a \"fermented\" character in analogs, which masked and/or reduced terpene contribution. The L* value increased significantly in hybrid products, from 26.08 in the control to 30.85 at 30% incorporation, indicating greater color lightness (p < 0.05). In descriptive tests, consumers perceived intensity differences among products but described them using similar terms, generating 19 attributes in the check-all-that-apply (CATA) test. Acceptance thresholds were 20% incorporation for plant-based analogs and 10% for hybrid products, influenced by familiarity with meat matrices and lack of reference standards for plant-based foods. Regarding emotional profiling, enriched flour had a greater impact than product type, reducing positive emotions and increasing feelings of confusion and surprise, without leading to rejection. Consumer responses varied by the base matrix (plant or animal), while moderate incorporation levels maintained technological and sensory balance.",
       "abstractZh": "",
       "url": "https://doi.org/10.1111/1750-3841.71462",
@@ -10051,7 +10566,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11076,7 +11591,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12969,7 +13484,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13161,9 +13676,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13606,7 +14121,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14046,9 +14561,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 37,
+      "journalScore": 38,
       "journalQuartile": "Q3",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14242,9 +14757,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14314,7 +14829,7 @@
       "doiUrl": "https://doi.org/10.1128/aem.00815-26",
       "pmid": "42549944",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42549944/",
-      "pmcid": "",
+      "pmcid": "PMC13607003",
       "abstract": "Candida albicans is a common opportunistic pathogenic fungus capable of causing severe infections when host immunity is compromised or when the normal microbial flora is disrupted. The widespread use of antifungal agents has led to the increasing emergence of drug resistance, underscoring the urgent need for novel antifungal strategies. Bacillus altitudinis AS19 has been found to produce a substance with specific antimicrobial activity against C. albicans under iron-deficient conditions. In this study, the fermentation medium and culture conditions for siderophore production by AS19 were optimized using response surface methodology (RSM) and an artificial neural network-genetic algorithm (ANN-GA) model. The ANN-GA model demonstrated superior optimization performance compared with RSM. The optimal conditions were pH 6.363, sucrose 29.730 g/L, and KH2PO4 0.185 g/L, under which the yield increased more than twofold compared with the pre-optimization level of 26.53%. To further investigate the antimicrobial mechanism, molecular docking and dynamics simulations were employed to virtually screen siderophores with anti-C. albicans activity and identify their potential targets. Among the candidates, Nocardamin Glucuronide was prioritized as the top hit, and the presence of desferrioxamine-type siderophores produced by AS19 was subsequently confirmed by LC-MS, validating the in silico predictions. In addition, in vitro assays were performed to determine the minimum inhibitory concentration, minimum fungicidal concentration, and time-kill kinetics of the crude siderophore extract. The time-kill curve clearly demonstrated its potent antimicrobial activity against C. albicans. Overall, this study provides both a theoretical basis and experimental evidence for the development of novel siderophore-based antimicrobial agents targeting C. albicans.IMPORTANCECandida albicans is a common opportunistic fungal pathogen responsible for severe infections in immunocompromised individuals, while increasing antifungal resistance has reduced the effectiveness of current treatments. In this study, a natural compound with specific anti-C. albicans activity produced by Bacillus altitudinis AS19 under iron-deficient conditions was investigated. Artificial intelligence-based models were used to optimize fermentation conditions, significantly improving production efficiency. Molecular simulations were performed to explore the potential antimicrobial mechanism, and in vitro assays confirmed its antifungal activity. These results provide a basis for developing novel antifungal agents targeting C. albicans.",
       "abstractZh": "白色念珠菌是一种常见的机会致病真菌，当宿主免疫力受损或正常微生物菌群被破坏时，能够引起严重感染。抗真菌药物的广泛使用导致耐药性的不断出现，凸显了对新型抗真菌策略的迫切需要。研究发现，高原芽孢杆菌 AS19 在缺铁条件下可产生一种对白色念珠菌具有特异性抗菌活性的物质。在本研究中，利用响应面法（RSM）和人工神经网络遗传算法（ANN-GA）模型优化了AS19产生铁载体的发酵培养基和培养条件。与 RSM 相比，ANN-GA 模型表现出优越的优化性能。最佳条件为pH 6.363、蔗糖29.730 g/L、KH2PO4 0.185 g/L，在此条件下，产量比优化前的26.53%提高了两倍多。为了进一步研究抗菌机制，采用分子对接和动力学模拟来虚拟筛选具有抗梭菌的铁载体。白色念珠菌的活动并确定其潜在目标。其中c",
       "url": "https://doi.org/10.1128/aem.00815-26",
@@ -15164,6 +15679,56 @@
       "journalScore": 45,
       "journalQuartile": "Q1",
       "journalArticleCount": 5,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "A new MRR1 gain-of-function mutation involved in cross-resistance to antifungal agents in the fungal priority pathogen Candida parapsilosis.",
+      "titleZh": "",
+      "journal": "Medical mycology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1369-3786",
+      "eissn": "1460-2709",
+      "year": 2026,
+      "date": "2026-08-01",
+      "authors": "Cadeau M, de Lima JR, Sabou AM, Robert E, Le Pape P, Ourliac-Garnier I, Morio F.",
+      "doi": "10.1093/mmy/myag094",
+      "doiUrl": "https://doi.org/10.1093/mmy/myag094",
+      "pmid": "42696756",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42696756/",
+      "pmcid": "",
+      "abstract": "ObjectivesCandida parapsilosis is a leading cause of invasive candidiasis globally, with rising reports of fluconazole resistance threatening its clinical management. Among the mechanisms involved, gain-of-function mutations in the MRR1 gene have emerged as key drivers of antifungal resistance. We aimed to investigate a novel amino acid substitution (G982E) in the Mrr1 zinc cluster transcription factor, identified in a fluconazole-resistant C. parapsilosis isolate from a patient exposed to fluconazole.MethodsUsing CRISPR-Cas9 genome editing, we introduced the G982E variant into two fluconazole-susceptible C. parapsilosis genetic backgrounds. The antifungal susceptibility of the engineered mutants was assessed in vitro against a broad panel of systemic antifungal agents. A Galleria mellonella infection model was also used to evaluate the impact of the G982E variant on antifungal treatment efficacy and virulence in vivo.ResultsAcquisition of the G982E substitution dramatically altered the antifungal susceptibility profile, particularly for fluconazole for which the minimum inhibitory concentration (MIC) increased to >256 µg/mL. However, the magnitude of the MIC increase varied by azole, with the greatest increase seen for fluconazole (>9-10 log-fold), followed by voriconazole (5 log-fold), isavuconazole (3 log-fold), but also flucytosine (1.5 log-fold). In contrast, susceptibility to posaconazole remained largely unchanged. In vivo, this new variant conferred fluconazole treatment failure but was associated with a significant reduction in virulence.ConclusionsThe G982E is a novel Mrr1 gain-of-function mutation driving high-level fluconazole resistance in C. parapsilosis. These findings reinforce the central role of Mrr1 in antifungal resistance, underscore the functional diversity of its mutational landscape, with potential implications for fungal fitness and transcriptional regulation.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/mmy/myag094",
+      "sourceUrl": "https://doi.org/10.1093/mmy/myag094",
+      "citationCount": 0,
+      "relevanceScore": 64,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "基因组编辑",
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "基因组编辑",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "基因组编辑",
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "translationError": "Translation returned 429",
+      "journalScore": 43,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16255,9 +16820,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16395,9 +16960,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17271,7 +17836,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -17468,9 +18033,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17575,9 +18140,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18012,9 +18577,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20616,7 +21181,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21310,7 +21875,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21356,7 +21921,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21405,7 +21970,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21511,7 +22076,7 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Efficient biosynthesis of ɑ-bisabolene in s. Cerevisiae by combinatorial regulation of acetyl-CoA supply, bisabolene synthase expression, and bisabolene transportation.",
+      "title": "Efficient biosynthesis of ɑ-bisabolene in S. cerevisiae by combinatorial regulation of acetyl-CoA supply, bisabolene synthase expression, and bisabolene transportation.",
       "titleZh": "s 中 ɑ-红没药烯的高效生物合成。酿酒酵母通过乙酰辅酶A供应、红没药烯合酶表达和红没药烯运输的组合调节。",
       "journal": "Bioresource technology",
       "targetJournal": "全部收录期刊",
@@ -21806,9 +22371,9 @@
       ],
       "included": true,
       "articleScore": 47,
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22495,9 +23060,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22689,9 +23254,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22738,9 +23303,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24803,7 +25368,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25646,7 +26211,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26422,9 +26987,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 40,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28769,9 +29334,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 40,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29356,7 +29921,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31455,7 +32020,7 @@
       "articleScore": 47,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 15,
+      "journalArticleCount": 16,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33869,9 +34434,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33915,10 +34480,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -34261,9 +34826,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35110,112 +35675,117 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Apple ZAT11, a C2H2-type zinc finger protein, enhances resistance to Penicillium expansum by affecting jasmonic acid biosynthesis in apple.",
-      "titleZh": "Apple ZAT11 是一种 C2H2 型锌指蛋白，通过影响苹果中茉莉酸的生物合成来增强对扩展青霉的抵抗力。",
-      "journal": "The New phytologist",
+      "title": "Transcriptomic responses of kveik yeasts to heat and ethanol stress.",
+      "titleZh": "",
+      "journal": "FEMS yeast research",
       "targetJournal": "全部收录期刊",
-      "issn": "1469-8137",
-      "eissn": "1469-8137",
+      "issn": "1567-1356",
+      "eissn": "1567-1364",
       "year": 2026,
-      "date": "2026-06-08",
-      "authors": "Lu Y, Wang K, Su Y, Dhanasekaran S, Yang Q, Zhang H.",
-      "doi": "10.1111/nph.71312",
-      "doiUrl": "https://doi.org/10.1111/nph.71312",
-      "pmid": "42260296",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42260296/",
-      "pmcid": "PMC13443279",
-      "abstract": "Blue mold, caused by Penicillium expansum, is a prevalent postharvest disease of apple and significantly limits apple quality. Apple have key genes underlying their biological stress responses and corresponding functions that remain largely unexplored. Here, we identified MdZAT11, a Cys2/His2 (C2H2)-type zinc finger protein, as a crucial positive regulator of apple resistance to P. expansum infection. Utilizing transcription factor-centered yeast one-hybrid (TF-centered Y1H) and RNA sequencing analyses, we discovered 1059 potential target genes of MdZAT11, with Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment indicating significant enrichment in stress-responsive pathways, particularly jasmonic acid (JA) biosynthesis. Further investigation revealed that MdZAT11 enhances the expression of JA biosynthesis genes (MdAOS, MdAOC, MdLOX6, and MdLOX3.1) by directly binding to their promoters, as demonstrated by electrophoretic mobility shift assays (EMSA), dual-luciferase reporter (DLR) assays, and RT-qPCR analysis, thereby augmenting JA biosynthesis. Taken together, our findings advance understanding of the transcriptional regulation of defense against P. expansum in apple and identify MdZAT11 as a candidate gene worth further investigation for disease resistance in this species.",
-      "abstractZh": "蓝霉病是由扩展青霉引起的，是苹果采后常见的病害，严重影响苹果的品质。苹果的生物应激反应和相应功能背后的关键基因在很大程度上尚未被探索。在这里，我们确定了 MdZAT11，一种 Cys2/His2 (C2H2) 型锌指蛋白，是苹果抵抗 P. expansum 感染的关键正调节因子。利用以转录因子为中心的酵母一杂交体（以TF为中心的Y1H）和RNA测序分析，我们发现了MdZAT11的1059个潜在靶基因，京都基因和基因组百科全书（KEGG）途径富集表明应激反应途径显着富集，特别是茉莉酸（JA）生物合成。进一步的研究表明，MdZAT11 通过直接结合 JA 生物合成基因（MdAOS、MdAOC、MdLOX6 和 MdLOX3.1）的启动子来增强其表达，如电泳迁移率变动分析 (EMSA)、双荧光素酶报告基因 (DLR) 分析和 RT-qPCR 分析所证明的那样，从而增强 JA 生物合成。总而言之，我们的研究结果促进了对 P. expansum 防御转录调控的理解。",
-      "url": "https://doi.org/10.1111/nph.71312",
-      "sourceUrl": "https://doi.org/10.1111/nph.71312",
+      "date": "2026-01-01",
+      "authors": "Shirasaya D, Powell CD.",
+      "doi": "10.1093/femsyr/foag043",
+      "doiUrl": "https://doi.org/10.1093/femsyr/foag043",
+      "pmid": "42714845",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42714845/",
+      "pmcid": "PMC13599773",
+      "abstract": "Kveik strains are a group of Saccharomyces cerevisiae strains notable for their exceptional tolerance to environmental stress. To investigate the molecular basis of this robustness, the transcriptomes of three kveik strains and a conventional ale strain were compared under non-stress and stress conditions using RNA-seq. Under non-stress conditions, kveik strains showed elevated basal expression of environmental stress response genes, suggesting that part of the stress-responsive transcriptional program is active irrespective of stress exposure. Catalase activity was elevated, providing physiological support for the transcriptomic findings related to oxidative-stress defense. Under sublethal heat stress, conventional ale yeast displayed transcriptional patterns associated with cell-cycle restraint and chromosome organization, whereas kveik strains showed enrichment of genes related to protein refolding, ribosome biogenesis, and cell-wall biosynthesis, suggesting retention of a transcriptional emphasis on growth-associated processes alongside stress-protective responses. Under ethanol stress, both groups upregulated translation-related processes; however, metabolic functions were more strongly enriched in ale yeast, while kveik strains showed patterns consistent with maintenance of translation-related functions together with increased emphasis on cell surface-associated processes. Overall, kveik stress tolerance appears to reflect elevated basal preparedness and transcriptional patterns consistent with the maintenance of biosynthetic and structural processes under stress, supporting their potential suitability for intensive industrial fermentations.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/femsyr/foag043",
+      "sourceUrl": "https://doi.org/10.1093/femsyr/foag043",
       "citationCount": 0,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
-        "念珠菌",
-        "酵母"
+        "酵母",
+        "酿酒酵母"
       ],
       "technologyKeywords": [
         "生物制造"
       ],
       "mainKeywords": [
-        "生物制造",
-        "念珠菌",
-        "酵母"
+        "酵母",
+        "酿酒酵母",
+        "生物制造"
       ],
       "matchedYeast": [
-        "念珠菌",
-        "酵母"
+        "酵母",
+        "酿酒酵母"
       ],
       "matchedSynbio": [
         "生物制造"
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "CEN-Display: Construction and optimization of a surface display system in Saccharomyces cerevisiae CEN.PK2-1C.",
-      "titleZh": "CEN-Display：酿酒酵母 CEN.PK2-1C 表面显示系统的构建和优化。",
-      "journal": "Bioresource technology",
+      "title": "Yeast strain development and process intensification in high-gravity fermentation.",
+      "titleZh": "",
+      "journal": "FEMS yeast research",
       "targetJournal": "全部收录期刊",
-      "issn": "0960-8524",
-      "eissn": "1873-2976",
+      "issn": "1567-1356",
+      "eissn": "1567-1364",
       "year": 2026,
-      "date": "2026-06-08",
-      "authors": "Li Z, Zhang B, Liu M, Deng C, Wu X, Wang L, Verstrepen KJ, Zhao G, Zhang Y.",
-      "doi": "10.1016/j.biortech.2026.135113",
-      "doiUrl": "https://doi.org/10.1016/j.biortech.2026.135113",
-      "pmid": "42264410",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42264410/",
-      "pmcid": "",
-      "abstract": "Over the past decades, yeast surface display (YSD) technology has emerged as a powerful biotechnological tool with broad applications in biomedicine, industrial catalysis, and environmental science. However, its efficiency, stability and applicability are often limited by proteolytic degradation during secretion in commonly used strains and steric hindrance associated with anchoring architectures. In this study, we developed a high-performance platform, \"CEN-Display,\" using a systematic engineering strategy on the Saccharomyces cerevisiae CEN.PK2-1C strain to expand the YSD toolbox for new chassis. The host chassis was engineered by deleting key vacuolar proteases PEP4/PRB1 to suppress degradation and CAN1 to modulate membrane permeability. And the redesigned display vector incorporated a de novo designed rigid linker (>600 aa) to minimize steric hindrance. Moreover, we conducted a systematic evaluation of eight candidate GPI-anchored proteins and refined cultivation process, specifically optimizing initial inoculation density and induction timing. Eventually, we identified 28_YI as a highly efficient and stable anchor, achieving a sixfold increase in α-galactosidase display efficiency and a 63.5% enhancement in enzymatic activity relative to the conventional Aga1-Aga2 system. Furthermore, the CEN-Display platform exhibited robust compatibility and stability for displaying both the complex enzyme (β-glucosidase, BGL1) and the degradation-prone nanobody (VHH 7D12). Collectively, this work establishes a high-performance yeast surface display platform based on the CEN.PK chassis and provides a foundation for the construction and application of high-performance display systems with broad utility in protein engineering and functional screening.",
-      "abstractZh": "在过去的几十年里，酵母表面显示（YSD）技术已成为一种强大的生物技术工具，在生物医学、工业催化和环境科学领域有着广泛的应用。然而，其效率、稳定性和适用性常常受到常用菌株分泌过程中蛋白水解降解以及与锚定结构相关的空间位阻的限制。在这项研究中，我们开发了一个高性能平台“CEN-Display”，在酿酒酵母 CEN.PK2-1C 菌株上使用系统工程策略来扩展新底盘的 YSD 工具箱。主机底盘是通过删除关键的液泡蛋白酶 PEP4/PRB1 来抑制降解和 CAN1 来调节膜通透性而设计的。重新设计的显示载体纳入了从头设计的刚性接头（> 600 aa），以最大限度地减少空间阻碍。此外，我们对八个候选 GPI 锚定蛋白进行了系统评估，并改进了培养工艺，特别是优化了初始接种密度和诱导时间。最终，我们确定 28_YI 是一个高效且稳定的锚定点，实现了 α-半乳糖苷酶展示效率的六倍提高",
-      "url": "https://doi.org/10.1016/j.biortech.2026.135113",
-      "sourceUrl": "https://doi.org/10.1016/j.biortech.2026.135113",
+      "date": "2026-01-01",
+      "authors": "Chu-Ky S, Pham TA, Pham NH, Nguyen TT, Nguyen CN, Nguyen TC, Le T, Dam TH, Nguyen LH, Nguyen TMT, Nguyen TA, Phung LH, Phi QT, Pham QA, Truong QP, Pham KC, Tien LH, Dang MN, Tien TN, Son JE, Jung SK, Hwang UW, Kim SR.",
+      "doi": "10.1093/femsyr/foag046",
+      "doiUrl": "https://doi.org/10.1093/femsyr/foag046",
+      "pmid": "42726027",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42726027/",
+      "pmcid": "PMC13599774",
+      "abstract": "High- and very-high-gravity (HG/VHG) fermentation increases substrate loading and product titers, thereby improving fermenter utilization and potentially reducing water use and downstream processing requirements. Initially developed for brewing and fuel ethanol production, these approaches are now applied more broadly in food, beverage, and bioproduct manufacturing. This MiniReview summarises operational definitions and industrial drivers of HG/VHG fermentation and examines the associated constraints in rheology, mass and heat transfer, osmotic and ethanol stress, nutrient availability, and oxidative damage. Yeast improvement strategies are reviewed, including adaptive laboratory evolution, mutagenesis, genome shuffling, multiplex genome editing, non-conventional yeasts, and multi-omics-guided selection. Process developments such as no-cook simultaneous liquefaction, saccharification and fermentation, enzyme formulation, nutrient management, and in situ product recovery are considered together with applications in alcoholic beverages, organic acids, microbial lipids, and other value-added products. The review also discusses coproduct valorization and the need to integrate strain development with process design. Current evidence supports HG/VHG fermentation as a useful process-intensification platform, although performance and sustainability depend strongly on feedstock, operating conditions, product requirements, and the basis used to report fermentation outcomes.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/femsyr/foag046",
+      "sourceUrl": "https://doi.org/10.1093/femsyr/foag046",
       "citationCount": 0,
-      "relevanceScore": 61,
-      "relevanceLevel": "较高相关",
+      "relevanceScore": 81,
+      "relevanceLevel": "高度相关",
       "organismKeywords": [
-        "酿酒酵母",
         "酵母",
-        "念珠菌"
+        "非传统酵母"
       ],
       "technologyKeywords": [
-        "蛋白质工程"
+        "生物制造",
+        "基因组编辑",
+        "定向进化"
       ],
       "mainKeywords": [
-        "酿酒酵母",
         "酵母",
-        "念珠菌",
-        "蛋白质工程"
+        "生物制造",
+        "非传统酵母",
+        "基因组编辑",
+        "定向进化"
       ],
       "matchedYeast": [
-        "酿酒酵母",
         "酵母",
-        "念珠菌"
+        "非传统酵母"
       ],
       "matchedSynbio": [
-        "蛋白质工程"
+        "生物制造",
+        "基因组编辑",
+        "定向进化"
       ],
       "included": true,
-      "articleScore": 54,
-      "journalScore": 48,
+      "articleScore": 65,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 31,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 710 篇",
-    "lastStartedAt": "2026-09-25T05:39:58.778Z",
-    "lastFinishedAt": "2026-09-25T05:41:10.591Z",
+    "lastMessage": "更新完成，共 721 篇",
+    "lastStartedAt": "2026-09-26T05:43:21.867Z",
+    "lastFinishedAt": "2026-09-26T05:45:02.205Z",
     "nextRunAt": null,
     "progress": 100
   }
