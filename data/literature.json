@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:45:02.205Z",
+  "updatedAt": "2026-09-27T06:04:46.597Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -844,7 +844,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -938,7 +938,7 @@
       "articleScore": 55,
       "translationError": "Translation returned 429",
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -8497,7 +8497,7 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 41,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -15581,10 +15581,10 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 38,
-      "journalQuartile": "Q3",
+      "journalScore": 43,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -21329,7 +21329,7 @@
       "articleScore": 46,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21627,7 +21627,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -26743,7 +26743,7 @@
       "included": true,
       "articleScore": 56,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -26813,7 +26813,7 @@
       "abstractZh": "丙酮酸脱羧酶 (PDC) 以焦磷酸硫胺素为辅酶，催化丙酮酸脱羧生成乙醛。酿酒酵母有两种功能性PDC，Pdc1和Pdc5，它们的反应构成了酒精发酵途径的第一步。 PDC1 在野生型细胞中大量表达，而当细胞在葡萄糖培养基中培养时，PDC5 明显受到抑制。 PDC5 表达在 Pdc1 缺失突变体中被诱导，这种现象称为自动调节，并且这种诱导依赖于转录调节因子 Pdc2。因此，有人提出Pdc1除了具有PDC的功能外，还发挥基因表达调节剂的作用。然而，Pdc1 抑制 PDC5 诱导的调节机制仍然知之甚少。此外，我们对 PDC1 缺陷单独导致的表型知之甚少，因为 PDC5 表达通过自动调节补偿了细胞中的整体 PDC 活性。在这里，我们发现 PDC1 缺失突变体表现出对 2-脱氧葡萄糖 (2-DG) 的敏感性增加。我们发现 PDC2 的过度表达抑制了 pdc1Δ 细胞的 2-DG 敏感表型，并且",
       "url": "https://doi.org/10.1111/febs.70640",
       "sourceUrl": "https://doi.org/10.1111/febs.70640",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -26836,11 +26836,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 51,
-      "journalScore": 38,
-      "journalQuartile": "Q3",
+      "articleScore": 57,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -27647,7 +27647,7 @@
       "abstractZh": "种群混合是植物、动物和真菌范围扩张的常见结果，并推动基因组的快速多样化和适应。酿酒业的全球化已将驯化的欧洲酿酒酵母葡萄酒菌株引入北美，促进了远缘谱系之间的混合。然而，混合物对酿酒酵母生物多样性和适应性的影响程度仍不清楚。在这里，我们整合群体遗传学、高通量表型分析和基因性状作图来表征北美葡萄酒产区酿酒酵母混合物的进化影响。对从加州分离出来的与葡萄酒和橡木相关的酿酒酵母菌株的全基因组调查揭示了葡萄酒菌株的区域多样性，其中一个子集聚集在太平洋西海岸葡萄酒（PWCW）进化枝内。 PWCW 进化枝是源自葡萄酒/欧洲和北美橡木菌株的混合群体，首次在加拿大描述。系统发育分析进一步表明，PWCW 分支内的混合是由北美橡树谱系最近东西向扩散到加利福尼亚州所驱动的。固体琼脂表型分析揭示了关键葡萄酒",
       "url": "https://doi.org/10.1093/gbe/evag149",
       "sourceUrl": "https://doi.org/10.1093/gbe/evag149",
-      "citationCount": 0,
+      "citationCount": 2,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -27670,8 +27670,8 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 51,
-      "journalScore": 41,
+      "articleScore": 61,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -27769,7 +27769,7 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 41,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -34549,7 +34549,7 @@
       "doiUrl": "https://doi.org/10.1038/s41522-026-01046-z",
       "pmid": "42277043",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42277043/",
-      "pmcid": "",
+      "pmcid": "PMC13612522",
       "abstract": "Pretreating feed via fermentation to enhance its nutritional value is effective for young ruminants. This study optimized fermented feed using a microbial consortium of Saccharomyces cerevisiae, Bacillus licheniformis, and Enterococcus faecalis, and explored its mechanisms on growth performance and ruminal function in goat kids. The Bacillus licheniformis is the most critical determinant of the nutritional value of FF. Optimized FF had higher levels of crude protein, calcium, phosphorus, and limiting amino acids (AA). The FF contained viable microbiota with lower diversity but greater evenness. The microbiota was enriched in AA and carbohydrate metabolism by enhancing the abundance of Leuconostoc lactis and Lactococcus lactis. A 40-day feeding trial was then conducted with 20-day-old goat kids. Compared to conventional feed, FF increased feed digestibility, body weight and carcass weight. Mechanistically, FF enhanced the interactions among rumen microbes and increased the gene abundance related to carbohydrate and AA metabolism. The FF then upregulated expression of mitochondrial respiratory chain-related genes in the rumen epithelium, thereby improving epithelial energy metabolism. Overall, this study shows that fermented feed optimized by microbial consortium improves goat kid growth and carcass quality through the fermented feed-rumen microbiota axis, offering a sustainable approach for ruminant production.",
       "abstractZh": "通过发酵对饲料进行预处理以提高其营养价值对于幼龄反刍动物来说是有效的。本研究利用酿酒酵母、地衣芽孢杆菌和粪肠球菌组成的微生物群落优化发酵饲料，并探讨其对山羊幼崽生长性能和瘤胃功能的影响机制。地衣芽孢杆菌是FF营养价值最关键的决定因素。优化的 FF 具有更高水平的粗蛋白、钙、磷和限制性氨基酸 (AA)。 FF 包含多样性较低但均匀度较高的活微生物群。通过提高乳酸明串珠菌和乳酸乳球菌的丰度，丰富了微生物群的 AA 和碳水化合物代谢。然后对 20 天大的小山羊进行了为期 40 天的喂养试验。与传统饲料相比，FF 提高了饲料消化率、体重和胴体重量。从机制上讲，FF 增强了瘤胃微生物之间的相互作用，并增加了与碳水化合物和 AA 代谢相关的基因丰度。然后FF上调瘤胃上皮中线粒体呼吸链相关基因的表达，从而改善上皮能量代谢",
       "url": "https://doi.org/10.1038/s41522-026-01046-z",
@@ -35647,7 +35647,7 @@
       "abstractZh": "在冷冻面团的生产、运输和加工过程中，温度波动使酵母面临冻融（FT）压力，导致酵母细胞损伤。本研究探讨了不同发酵过程下 FT 循环对酵母线粒体结构和功能的影响。随着 FT 循环的增加，细胞死亡率、线粒体膜电位和超氧阴离子 (O2.-) 生成率显着增加，在 FT6 组中观察到最高值。细胞色素c含量和细胞色素c氧化酶活性在各组之间存在差异，而异柠檬酸脱氢酶活性在FT-0中最高。乙酰辅酶A合成酶活性随着FT循环而增加，并且FT6中的α-酮戊二酸脱氢酶活性高于FT3中。 ACS1 和 KGD 的基因表达随着周期的增加而增加，而 FT3 中的 YNO1、AGT32 和 MDM34 的基因表达低于 FT0 和 FT6。与对照相比，FT胁迫下IDH2、CYC7、NDI1、AIF1、DNM1、AGT11、AGT8和MDM12的表达上调。总的来说，FT 应激通过调节关键酶活性、促进 O2.- 产生、改变膜电位和上调来诱导酵母细胞死亡并损害线粒体功能。",
       "url": "https://doi.org/10.1038/s41538-026-00921-5",
       "sourceUrl": "https://doi.org/10.1038/s41538-026-00921-5",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 63,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -35667,11 +35667,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
-      "journalScore": 42,
-      "journalQuartile": "Q2",
+      "articleScore": 61,
+      "journalScore": 52,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -35784,8 +35784,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 721 篇",
-    "lastStartedAt": "2026-09-26T05:43:21.867Z",
-    "lastFinishedAt": "2026-09-26T05:45:02.205Z",
+    "lastStartedAt": "2026-09-27T06:03:00.257Z",
+    "lastFinishedAt": "2026-09-27T06:04:46.597Z",
     "nextRunAt": null,
     "progress": 100
   }
