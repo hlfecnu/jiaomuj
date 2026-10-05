@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:35:08.416Z",
+  "updatedAt": "2026-10-05T06:28:23.968Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -2025,6 +2025,56 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Comprehensive two-dimensional liquid chromatographic profiling reveals distinct phytochemical modifications in soybean meal induced by fermentation and enzymatic hydrolysis.",
+      "titleZh": "",
+      "journal": "Journal of chromatography. A",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-9673",
+      "eissn": "1873-3778",
+      "year": 2026,
+      "date": "2026-09-20",
+      "authors": "Silva FO, Montero L, Cifuentes A, Herrero M, Monteiro M, Perrone D.",
+      "doi": "10.1016/j.chroma.2026.467469",
+      "doiUrl": "https://doi.org/10.1016/j.chroma.2026.467469",
+      "pmid": "42828874",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42828874/",
+      "pmcid": "",
+      "abstract": "Soybean consumption has been associated with potential health benefits related to the presence of several bioactive compounds, especially isoflavones and soyasaponins. Food processing can drastically modify the phytochemical profile of soybeans, but this complex change cannot be properly investigated by traditional chromatographic techniques. Thus, we aimed at employing two-dimensional liquid chromatography coupled to tandem mass spectrometry to characterize the metabolite profile of soybean meal (SBM) and to study changes caused by fermentation with Saccharomyces cerevisiae (FSBM) and enzymatic hydrolysis with a food-grade cellulase (ESBM). Extraction with methanol:water (1:1, v/v) led to the highest yield and to the most diverse phytochemical profile. Twelve isoflavones were identified in SBM, and both bioprocesses fully converted glycosylated isoflavones to their corresponding aglycones, which were the only isoflavones present in FSBM and ESBM. Among 39 tentatively identified soyasaponins, 28 were unique to SBM, while only three were common to all samples. Fermentation markedly shifted the SBM phytochemical profile: 39 compounds disappeared and 42 were newly detected under these analytical conditions (including 18 soyasaponins). Enzymatic hydrolysis caused a distinct change, with 43 compounds disappearing and 36 new ones emerging (including seven soyasaponins not detected in FSBM). These results highlight the importance of advanced chromatographic methods in unraveling phytochemical complexity and emphasize the role of controlled biotechnological processing strategies in enhancing the chemical diversity of soybean-based ingredients.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.chroma.2026.467469",
+      "sourceUrl": "https://doi.org/10.1016/j.chroma.2026.467469",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
@@ -15388,7 +15438,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -20931,7 +20981,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -29741,7 +29791,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34383,9 +34433,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 691 篇",
-    "lastStartedAt": "2026-10-04T06:33:46.334Z",
-    "lastFinishedAt": "2026-10-04T06:35:08.416Z",
+    "lastMessage": "更新完成，共 692 篇",
+    "lastStartedAt": "2026-10-05T06:27:14.607Z",
+    "lastFinishedAt": "2026-10-05T06:28:23.968Z",
     "nextRunAt": null,
     "progress": 100
   }
