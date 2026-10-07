@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:28:23.968Z",
+  "updatedAt": "2026-10-07T06:46:44.839Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -413,7 +413,7 @@
       "doiUrl": "https://doi.org/10.1186/s12964-026-03229-9",
       "pmid": "42827260",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42827260/",
-      "pmcid": "",
+      "pmcid": "PMC13632457",
       "abstract": "The actin-rich cell cortex is a viscoelastic structure essential for processes such as cell migration and division, yet the full spectrum of actin assembly factors that build and regulate the cortex in mammalian cells remains incompletely defined. While the Arp2/3 complex generates actin networks mostly comprising short, branched filaments, formins like mDia1 and mDia3 assemble long, linear filaments capable of withstanding the high mechanical load produced by myosin-driven contraction at the cell rear. To obtain a complete inventory of formins that regulate mechanics of the contractile cortex in B16-F1 melanoma cells, we systematically screened Diaphanous-related formins (DRFs) for interactions with Rho-family GTPases regulating contractility. This screen led to the identification of Daam1/2 and FMNL2/3 as cortical formins, since active variants of these formins as well as the endogenous proteins prominently localized to the rear cortex of polarized B16-F1 cells. Yeast two-hybrid (Y2H) and GST pull-down assays revealed prominent interactions of Daam1/2 with active RhoA, RhoB, RhoC, RhoD, and Cdc42, and weaker binding to Rac1 and Rif. Pyrene-actin polymerization and single-filament TIRF assays further demonstrated that these GTPases effectively relieve autoinhibition of Daam-family formins, with Daam1 and 2 emerging as a potent elongators. In line with this, CRISPR/Cas9-generated Daam1/2 double-knockout cells exhibited multiple defects, including formation of multiple leading edges, impaired random 2D migration, reduced focal adhesion (FA) turnover and inefficient rear retraction. However, contrary to earlier work, we found no evidence that Daam1/2 regulate the formation of finger-like protrusions. By comparison, FMNL2 appears to act as a dual-role formin at both the cell front and rear, interacting with and being activated by several GTPases linked to contractility and protrusion. Analytical ultracentrifugation further clarified previous inconsistencies by showing that the affinity of FMNL2 for GTPases, particularly for Rac1, depends on the length of its N-terminal fragment and the presence of the full FH3 domain. Finally, we show that cells lacking Daam1/2 and mDia1/3 display pronounced cortical defects, including reduced rigidity, excessive blebbing, and delayed cytokinesis, demonstrating that these formins cooperate to preserve cortical architecture and function.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s12964-026-03229-9",
@@ -644,6 +644,53 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Biosynthesis mechanisms, antimicrobial effects, and characterization of silver nanoparticles produced by bacterial and actinomycete isolates derived from a gold mine.",
+      "titleZh": "",
+      "journal": "Microbial cell factories",
+      "targetJournal": "全部收录期刊",
+      "issn": "1475-2859",
+      "eissn": "1475-2859",
+      "year": 2026,
+      "date": "2026-09-30",
+      "authors": "Taher H, Ibrahim S, Salem N, Sayed R, Abdulla H.",
+      "doi": "10.1186/s12934-026-03109-4",
+      "doiUrl": "https://doi.org/10.1186/s12934-026-03109-4",
+      "pmid": "42823729",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42823729/",
+      "pmcid": "PMC13632160",
+      "abstract": "BackgroundSilver nanoparticles (AgNPs) are widely studied for their antimicrobial properties, and microbial synthesis offers an eco-friendly and scalable alternative to conventional methods. While Streptomyces spp. are well-known producers, little is known about AgNP biosynthesis by microorganisms adapted to metal-rich environments such as gold mines, which may represent a largely unexplored source of microorganisms with potential for AgNP biosynthesis. This study investigated the biosynthetic potential of bacterial and actinomycete isolates recovered from the Sukari Gold Mine, Egypt, with a focus on optimizing cell-free extract (CFE) preparation, nanoparticle characterization, and understanding the underlying biochemical contributions.ResultsOut of 57 isolates, three Streptomyces strains showed the highest AgNP biosynthesis capability. Among the tested methods, soaking was selected as the preferred CFE preparation approach because it provided comparable AgNP biosynthesis while offering a simpler and more practical procedure than freeze/thaw and sonication. The biosynthesized AgNPs exhibited antimicrobial activity against tested microorganisms, with enhanced performance relative to commercial AgNPs. Antimicrobial assessment was supported by MIC and MBC determinations. Biochemical analysis of the CFE revealed the presence of phenols, proteins, and nucleic acids (DNA and RNA), while FTIR analysis identified functional groups including hydroxyl, amine, aromatic, alkene, and alkyne groups, suggesting their involvement in reduction and stabilization processes. The napA gene was detected in all active strains, indicating the potential for nitrate reductase production; however, its role in Ag⁺ reduction appears to be contributory rather than definitive. Characterization using UV-Vis spectroscopy, XRD, FTIR, AFM, HR-TEM, and zeta potential analysis confirmed the formation of stable AgNPs with spherical to irregular morphologies, sizes ranging from 5 to 52 nm, and high colloidal stability (zeta potential up to - 37.3 mV).ConclusionsThese findings highlight gold mine-derived actinomycetes as promising candidates for the green synthesis of stable, bioactive AgNPs and suggest that multiple biomolecules act synergistically during nanoparticle formation.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1186/s12934-026-03109-4",
+      "sourceUrl": "https://doi.org/10.1186/s12934-026-03109-4",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -997,9 +1044,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4601,6 +4648,59 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Systematic optimization of Komagataella phaffii (Pichia pastoris) for high-efficiency recombinant protein production: Advancements in strain engineering, fermentation optimization, and AI-driven technologies.",
+      "titleZh": "",
+      "journal": "Engineering microbiology",
+      "targetJournal": "全部收录期刊",
+      "issn": "2667-3703",
+      "eissn": "2667-3703",
+      "year": 2026,
+      "date": "2026-09-11",
+      "authors": "Huang Y, Wang J, Wang A, Zheng L, Lin Y, Liang S.",
+      "doi": "10.1016/j.engmic.2026.100305",
+      "doiUrl": "https://doi.org/10.1016/j.engmic.2026.100305",
+      "pmid": "42830927",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42830927/",
+      "pmcid": "PMC13634273",
+      "abstract": "Komagataella phaffii (formerly Pichia pastoris) has emerged as an indispensable eukaryotic expression host for the production of industrial enzymes, food proteins, and therapeutic proteins owing to its Generally Recognized as Safe (GRAS) status, efficient protein secretion capacity, eukaryotic post-translational modification system, and high cell-density fermentation capabilities. In recent years, advances in genetic engineering tools, improved understanding of protein synthesis and secretion pathways in K. phaffii, and the development of systematic strategies for enhancing recombinant protein expression have further established this yeast as an effective eukaryotic expression system. This review summarizes the advances in the design and screening of expression cassette components, including promoters, signal peptides, and terminators, in recombinant strain engineering of K. phaffii. It also provides a comprehensive overview of the key molecular processes affecting protein synthesis and secretion, including transcription, translation, translocation, folding, post-translational modification, endoplasmic reticulum homeostasis, and vesicular transport, together with the corresponding engineering strategies to enhance expression performance. Based on this, strategies for optimizing high-cell-density fermentation are discussed. This review highlights the recent progress in emerging artificial intelligence (AI)-driven technologies applied to the optimization of K. phaffii expression systems, including AI-based protein sequence design and expression prediction, intelligent control of fermentation processes, and genome-scale metabolic modeling-guided strain engineering. Finally, current challenges and future perspectives of the K. phaffii expression system are discussed. Overall, this review systematically summarizes the optimization strategies and underlying mechanisms for recombinant protein expression in K. phaffii, aiming to provide a comprehensive reference for researchers and accelerate the deployment of efficient yeast cell factories across sustainable manufacturing and advanced bioprocess industries.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.engmic.2026.100305",
+      "sourceUrl": "https://doi.org/10.1016/j.engmic.2026.100305",
+      "citationCount": 0,
+      "relevanceScore": 78,
+      "relevanceLevel": "高度相关",
+      "organismKeywords": [
+        "毕赤酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "菌株工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "菌株工程",
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "毕赤酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "菌株工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 63,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Anti-psychotic drugs act synergistically in combination with antifungal drugs to inhibit drug-resistant &lt;i&gt;Cryptococcus neoformans&lt;/i&gt; and &lt;i&gt;Candida albicans&lt;/i&gt;.",
       "titleZh": "",
       "journal": "mSphere",
@@ -4811,7 +4911,7 @@
       "doiUrl": "https://doi.org/10.1016/j.psj.2026.107751",
       "pmid": "42772146",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42772146/",
-      "pmcid": "",
+      "pmcid": "PMC13631901",
       "abstract": "The limitations of conventional small-molecule drugs in treating complex chronic and inherited disorders have driven demand for recombinant protein therapeutics offering superior target specificity and mechanistic precision. However, existing production platforms remain inadequate: bacterial systems lack post-translational processing machinery; yeast and insect systems produce non-human glycans; and mammalian cell-based systems, while biologically capable, require infrastructure that renders therapeutics inaccessible in resource-limited settings. This review examines the transgenic chicken egg as a compelling manufacturing alternative, whose oviduct epithelium can be reprogrammed through Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR-associated protein 9 (CRISPR/Cas9) mediated primordial germ cell editing to secrete recombinant proteins directly into albumen at clinically meaningful yields. The chicken egg's predominant human-compatible N-acetylneuraminic acid (Neu5Ac) glycosylation, natural sterility, and simplified protein matrix collectively address the biological and economic shortcomings of conventional platforms. Regulatory approval of egg-derived biopharmaceuticals, including Kanuma and Epovet, validates this approach. Outstanding challenges, including incomplete sialylation and extended flock-establishment timelines, are critically discussed, along with strategies to overcome them.",
       "abstractZh": "",
       "url": "https://doi.org/10.1016/j.psj.2026.107751",
@@ -5089,6 +5189,53 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Breeding of &lt;i&gt;Serratia marcescens&lt;/i&gt; GEN-M54 for high prodigiosin yield via two-step light fermentation.",
+      "titleZh": "",
+      "journal": "Biodesign research",
+      "targetJournal": "全部收录期刊",
+      "issn": "2693-1257",
+      "eissn": "2693-1257",
+      "year": 2026,
+      "date": "2026-09-09",
+      "authors": "Sun J, Cui Y, Guo F, Jiang Y, Zhang W, Jiang W, Xin F, Jiang M.",
+      "doi": "10.1016/j.bidere.2026.100110",
+      "doiUrl": "https://doi.org/10.1016/j.bidere.2026.100110",
+      "pmid": "42828148",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42828148/",
+      "pmcid": "PMC13631659",
+      "abstract": "Prodigiosin is a tripyrrole-based microbial pigment that exhibits diverse biological activities, including antioxidant, antimicrobial, and anticancer properties. Moreover, it possesses excellent color fastness and dye uptake, making it a promising candidate in medicine, cosmetics and dye industries. In this study, the high-prodigiosin-producing mutant Serratia marcescens strain GEN-M54 was obtained through sequential physical and chemical mutagenesis. The effect of light on the prodigiosin production was investigated, and a two-step sequential light fermentation strategy was developed to promote the prodigiosin accumulation. Additionally, gene transcription analysis was conducted to elucidate changes in the metabolic flux of prodigiosin precursor synthesis under red-light stress conditions. Finally, a prodigiosin production of 6623.1 mg/L and a content of 471.4 mg/g were achieved through the two-step fermentation strategy, representing an increase of 77.1% and 46.8%, respectively. Overall, this study provides an efficient microbial platform and an efficient fermentation strategy for future prodigiosin production.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.bidere.2026.100110",
+      "sourceUrl": "https://doi.org/10.1016/j.bidere.2026.100110",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 40,
       "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
@@ -7180,9 +7327,9 @@
       "included": true,
       "articleScore": 54,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11982,7 +12129,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13251,10 +13398,10 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -13901,7 +14048,7 @@
       "included": true,
       "articleScore": 53,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14333,7 +14480,7 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14426,7 +14573,7 @@
       "articleScore": 49,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14579,7 +14726,7 @@
       "articleScore": 51,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15134,9 +15281,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15438,7 +15585,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15937,10 +16084,10 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 50,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -16140,10 +16287,10 @@
       ],
       "included": true,
       "articleScore": 63,
-      "journalScore": 47,
+      "journalScore": 50,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -16341,9 +16488,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
+      "journalScore": 40,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16676,9 +16823,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17954,9 +18101,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -18438,7 +18585,7 @@
       "articleScore": 57,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19319,10 +19466,10 @@
       ],
       "included": true,
       "articleScore": 52,
-      "journalScore": 38,
-      "journalQuartile": "Q3",
+      "journalScore": 43,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -19637,7 +19784,7 @@
       "abstractZh": "组合途径优化是代谢工程中提高菌株性能的有效方法。虽然机器学习 (ML) 在指导设计-构建-测试-学习 (DBTL) 周期方面表现出了良好的前景，但大多数应用程序仅限于较小的设计空间，从而限制了预测和探索-利用策略的潜力。在这项工作中，我们应用了两个 DBTL 循环来优化酿酒酵母中对香豆酸的生产。第一个周期涉及构建一个包含 18 个基因和 20 个启动子（1.7 亿种可能的设计）的大型组合文库。在第二个周期中，我们采用了基于梯度强盗的机器学习推荐策略，调整以平衡探索和利用。我们的结果表明，这种平衡策略优于贪婪的、基于特征重要性的方法，从而导致菌株性能更大的多样性并改善了顶级生产者的识别。值得注意的是，将相同的策略应用于替代亲本菌株产生了最高的对香豆酸滴度（1.23 g/L），比原始菌株提高了 2.37 倍。这些发现凸显了机器学习引导探索在大型设计空间中的价值，并证明了",
       "url": "https://doi.org/10.1021/acssynbio.5c00864",
       "sourceUrl": "https://doi.org/10.1021/acssynbio.5c00864",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 42,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -19660,11 +19807,11 @@
         "代谢工程"
       ],
       "included": true,
-      "articleScore": 43,
-      "journalScore": 38,
-      "journalQuartile": "Q3",
+      "articleScore": 49,
+      "journalScore": 43,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -20981,7 +21128,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21486,7 +21633,7 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 42,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -21624,10 +21771,10 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -22032,7 +22179,7 @@
       "abstractZh": "生物膜代表了临床和环境环境中主要的微生物生活方式，其中细胞外聚合物 (EPS) 基质提供结构完整性、代谢合作和明显的抗菌耐受性。该基质形成由多糖、蛋白质、细胞外 DNA (eDNA)、脂质和相关离子组成的动态大分子网络，共同调节水合、粘附、扩散阻力和持久性。在 ESKAPE（屎肠球菌、金黄色葡萄球菌、肺炎克雷伯菌、鲍曼不动杆菌、铜绿假单胞菌和肠杆菌属）病原体和白色念珠菌中，保守的基质成分塑造了生物膜结构，从而实现了营养隔离、免疫逃避和慢性感染。生物膜根除的机制进展凸显了酶解聚、抗生素渗透动力学、纳米颗粒介导的破坏、噬菌体编码的解聚酶和抗体引导靶向的作用。生物膜抑制方面的并行进展强调群体感应干扰、粘附阻断、表面工程、疫苗和免疫调节策略，以防止早期发生",
       "url": "https://doi.org/10.1016/j.biotechadv.2026.108994",
       "sourceUrl": "https://doi.org/10.1016/j.biotechadv.2026.108994",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 46,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -22052,8 +22199,8 @@
         "CRISPR"
       ],
       "included": true,
-      "articleScore": 45,
-      "journalScore": 42,
+      "articleScore": 51,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -22693,7 +22840,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23001,7 +23148,7 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 42,
+      "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -24177,10 +24324,10 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 47,
+      "journalScore": 50,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -24251,7 +24398,7 @@
       "abstractZh": "背景魔芋葡甘聚糖（KGM）是一种高粘度、水溶性膳食纤维，主要积累在魔芋（A. konjac）的球茎中。由于其优异的凝胶形成和保水性能，KGM 被广泛应用于食品工业。 KGM 的生物合成涉及纤维素合酶样 (CSL) 酶和甘露聚糖合成相关 (MSR) 蛋白的协调作用。然而，对于魔芋中这些成分之间的调控机制和功能相互作用仍然知之甚少。结果在这项研究中，我们系统地表征了魔芋中的 AkCSLA 基因家族，并鉴定了 11 个成员。转录组分析显示，AkCSLA2 和 AkCSLA3 在球茎扩张和成熟过程中高度表达，与活跃的 KGM 积累相一致。本塞姆氏烟草 (N.benthamiana) 的亚细胞定位测定表明，AkCSLA2 和 AkCSLA3 蛋白均定位于质膜、内质网和高尔基体。使用酵母双杂交和免疫共沉淀测定进行的蛋白质相互作用分析表明，AkMSR1（拟南芥 MSR1 的同源物）与 AkC 特异性相互作用",
       "url": "https://doi.org/10.1186/s12870-026-09555-x",
       "sourceUrl": "https://doi.org/10.1186/s12870-026-09555-x",
-      "citationCount": 1,
+      "citationCount": 0,
       "relevanceScore": 57,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -24274,8 +24421,8 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 57,
-      "journalScore": 42,
+      "articleScore": 51,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -25415,7 +25562,7 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -25562,9 +25709,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25826,7 +25973,7 @@
       "abstractZh": "约 3,000 种单萜吲哚生物碱 (MIA)（包括抗癌药物长春花碱）的生物合成涉及高度不稳定的中间体胡豆素苷元。它由胡豆苷 β-葡萄糖苷酶 (SGD) 形成，随后由盖豆蓼合酶 (GS) 转化，发生在空间分离的区室中，这是主要的生物合成瓶颈。在这里，我们发现了 VinBLAST，一种类似肉桂醇脱氢酶的蛋白质，被重新用作有效加工这种不稳定中间体的支架。 VinBLAST 以物理方式介导细胞核中的 SGD 和 GS 相互作用，并以变构方式增强 GS 催化效率。来自不同植物科的 VinBLAST 同源物增强了几种代表性 MIA 的生物合成，酵母中长春质的产量增加至约 160 mg L-1，比之前的研究高出近 1,000 倍。我们的发现提供了组织 MIA 生物合成中缺失的一环，并实现了Geissoschizine 衍生疗法的可扩展生物生产。",
       "url": "https://doi.org/10.1126/science.aeb0357",
       "sourceUrl": "https://doi.org/10.1126/science.aeb0357",
-      "citationCount": 1,
+      "citationCount": 2,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -25846,11 +25993,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
-      "journalScore": 47,
+      "articleScore": 59,
+      "journalScore": 52,
       "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 1,
+      "journalMedianCitationsPerYear": 2,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -25893,9 +26040,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 45,
+      "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 7,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26060,7 +26207,7 @@
       "articleScore": 66,
       "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26960,7 +27107,7 @@
       "abstractZh": "多通道膜蛋白的生物合成对内质网 (ER) 质量控制提出了挑战，特别是当跨膜片段含有功能所需的极性或带电残基时。 Fks1 是酵母 β-(1,3)-葡聚糖合酶的催化亚基，它体现了这一挑战，因为其大型多通道跨膜结构必须支持质膜上的葡聚糖合成，同时在内质网中进行有效的生物发生。在这里，我们研究了 PBR1 (YNL181W) 的细胞作用，这是一种重要基因，尽管其预测产物与氧化还原酶相似，但其作用仍未得到表征。通过将定量形态学分析与全局遗传相互作用分析相结合，我们发现 PBR1 功能集中在细胞壁生物合成上，并且与 FKS1 的功能非常相似。 Pbr1 功能的部分丧失会导致温度敏感的生长缺陷，但也会损害 β-(1,3)-葡聚糖的合成，并削弱细胞壁的完整性。在这些条件下，Fks1 未能在细胞表面积累，而是积累在 ER 相关区室中，在那里它表现出稳定性降低。生化分析揭示了immat的积累",
       "url": "https://doi.org/10.1073/pnas.2612792123",
       "sourceUrl": "https://doi.org/10.1073/pnas.2612792123",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -26980,11 +27127,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 47,
+      "articleScore": 55,
+      "journalScore": 50,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -27552,6 +27699,53 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Genomic and metabolic divergence of the primary symbiont Candidatus Portiera between Bemisia tabaci and other whitefly species.",
+      "titleZh": "",
+      "journal": "BMC genomics",
+      "targetJournal": "全部收录期刊",
+      "issn": "1471-2164",
+      "eissn": "1471-2164",
+      "year": 2026,
+      "date": "2026-07-10",
+      "authors": "Lei T, Fan YJ, Song HD, Zhang XJ, Wang HL, Song C, Liu YQ, Qi X.",
+      "doi": "10.1186/s12864-026-13143-6",
+      "doiUrl": "https://doi.org/10.1186/s12864-026-13143-6",
+      "pmid": "42432470",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42432470/",
+      "pmcid": "PMC13637331",
+      "abstract": "BackgroundThe primary symbiont Candidatus Portiera is essential for nutrient provisioning in whiteflies. Genomic instability is a hallmark of Bemisia tabaci-associated Portiera, but the specific molecular evolutions and their metabolic consequences compared to Portiera from other whiteflies remain unclear.ResultsTo overcome the limited sampling of previous studies, we assembled novel Portiera genomes from seven additional B. tabaci cryptic species. Comparative genomic, phylogenetic, and species delimitation analyses were conducted with other publicly available Portiera genomes. Branch-model selection analysis identified differentially evolved genes in the B. tabaci-associated Portiera, which were significantly enriched in amino acid biosynthetic pathways. The composition of essential amino acids biosynthetic pathways was systematically analyzed across Portiera, host nuclear, and secondary symbiont genomes. B. tabaci-associated Portiera formed a monophyletic lineage with larger genomes, lower coding density, and accelerated evolutionary rates, classified as a single species distinct from Portiera in other whiteflies. Twenty-two genes showed significantly different evolutionary rates with enrichment in amino acid biosynthetic pathways. Key genes for lysine and arginine biosynthesis were lost or pseudogenized in B. tabaci-associated Portiera but remained intact in other whiteflies like Trialeurodes vaporariorum. The synthesis of most other essential amino acids was similarly incomplete across all Portiera, relying on host or secondary symbiont genes for pathway completion.ConclusionsThe B. tabaci-associated Portiera represents a unique symbiotic metabolic architecture where host horizontally transferred genes may potentially compensate for Portiera's genomic erosion, contrasting with the more autonomous Portiera in other whiteflies. This study reveals divergent evolutionary trajectories and metabolic integration strategies in whitefly symbiotic systems.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1186/s12864-026-13143-6",
+      "sourceUrl": "https://doi.org/10.1186/s12864-026-13143-6",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "GmMADS17, a MADS-box transcription factor, promotes flowering in soybean.",
       "titleZh": "GmMADS17 是一种 MADS-box 转录因子，可促进大豆开花。",
       "journal": "BMC plant biology",
@@ -27591,7 +27785,7 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -28754,7 +28948,7 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -29791,7 +29985,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -29983,7 +30177,7 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -32726,7 +32920,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -33508,7 +33702,7 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
+      "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
@@ -33791,7 +33985,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34136,107 +34330,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "&lt;i&gt;Candida albicans&lt;/i&gt; RLM1 Diversity Regulates Cell Wall Composition and Virulence.",
-      "titleZh": "<i>白色念珠菌</i> RLM1 多样性调节细胞壁组成和毒力。",
-      "journal": "ACS infectious diseases",
-      "targetJournal": "全部收录期刊",
-      "issn": "2373-8227",
-      "eissn": "2373-8227",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Tsai ST, Tsai IA, Song BY, Yu ST, Lin YC, Shieh JC, Chang CM, Tsai MH, Wang SH.",
-      "doi": "10.1021/acsinfecdis.5c01095",
-      "doiUrl": "https://doi.org/10.1021/acsinfecdis.5c01095",
-      "pmid": "42340924",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42340924/",
-      "pmcid": "",
-      "abstract": "Candida albicans RLM1, a transcription factor essential for cell wall integrity, contains a polymorphic CAA/G repeat (poly-Q) associated with recurrent vulvovaginal candidiasis. We aim to investigate how poly-Q repeat variations alter C. albicans phenotypic changes to elucidate the correlation between CAI microsatellites and virulence. Using CRISPR/Cas9, we generated RLM1-edited C. albicans strains with varying poly-Q repeats, including an 11Q variant from a clinical isolate and the 39Q allele from the parental SC5314 strain. The RLM1-edited strains with higher poly-Q exhibited greater cell wall stress tolerance and reduced echinocandin sensitivity. Transmission electron microscopy revealed significant alterations in cell wall thickness and cell volume in the low poly-Q strain treated with sub-MIC caspofungin, while no such changes were observed in high poly-Q strains. Corresponding changes in cell wall composition, as evidenced by the ratios of glucose to mannose, were observed in the caspofungin-treated yeast cells. The Galleria mellonella infection model demonstrated that the virulence of the high poly-Q strains was significantly enhanced, accompanied by higher adhesion and survival in activated THP-1 macrophages. Compared with the RLM1 39Q/41Q strain, the 11Q/Δ strain displayed differential expression of envelope-associated genes and reduced induction of downstream cell wall synthesis genes under caspofungin stress. These findings indicate that RLM1 polymorphisms modulate C. albicans virulence through changes in cell wall composition and transcriptional regulation and support a role for RLM1 genetic variation in host immune evasion.",
-      "abstractZh": "白色念珠菌 RLM1 是细胞壁完整性所必需的转录因子，含有与复发性外阴阴道念珠菌病相关的多态性 CAA/G 重复序列 (poly-Q)。我们的目的是研究 Poly-Q 重复变异如何改变白色念珠菌表型变化，以阐明 CAI 微卫星与毒力之间的相关性。使用 CRISPR/Cas9，我们生成了经过 RLM1 编辑的具有不同多 Q 重复序列的白色念珠菌菌株，包括来自临床分离株的 11Q 变体和来自亲本 SC5314 菌株的 39Q 等位基因。具有较高 Poly-Q 的 RLM1 编辑菌株表现出更高的细胞壁应激耐受性和降低的棘白菌素敏感性。透射电子显微镜显示，用亚 MIC 卡泊芬净处理的低 Poly-Q 菌株的细胞壁厚度和细胞体积发生显着变化，而在高 Poly-Q 菌株中未观察到此类变化。在卡泊芬净处理的酵母细胞中观察到细胞壁组成的相应变化，如葡萄糖与甘露糖的比率所证明的。大蜡螟感染模型表明，高poly-Q菌株的毒力显着增强，并伴有更高的粘附力和存活率。",
-      "url": "https://doi.org/10.1021/acsinfecdis.5c01095",
-      "sourceUrl": "https://doi.org/10.1021/acsinfecdis.5c01095",
-      "citationCount": 0,
-      "relevanceScore": 65,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "念珠菌",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "CRISPR"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "酵母",
-        "CRISPR"
-      ],
-      "matchedYeast": [
-        "念珠菌",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "CRISPR"
-      ],
-      "included": true,
-      "articleScore": 56,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "A putative role for Mrx3 and Fmp10 in regulating yeast mitochondrial acyl-CoA thioesters.",
-      "titleZh": "Mrx3 和 Fmp10 在调节酵母线粒体酰基辅酶 A 硫酯中的假定作用。",
-      "journal": "Biochimica et biophysica acta. Molecular cell research",
-      "targetJournal": "全部收录期刊",
-      "issn": "0167-4889",
-      "eissn": "1879-2596",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Costa-Lima MM, Gomes F, Damaceno TR, Barros MH.",
-      "doi": "10.1016/j.bbamcr.2026.120178",
-      "doiUrl": "https://doi.org/10.1016/j.bbamcr.2026.120178",
-      "pmid": "42341887",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42341887/",
-      "pmcid": "",
-      "abstract": "The hotdog-fold acyl-CoA thioesterases (ACOTs) are enzymes typically related to lipid metabolism and are widely spread across the tree of life, but many members of this group are poorly characterized. In this work, through in silico analyzes we identified the MICOS-associated mitochondrial proteins of unknown function Mrx3 and Fmp10 as two putative ACOTs in Saccharomyces cerevisiae with structural homology to the mammalian thioesterases Them4 and Them5, which possess a conserved motif that is catalytic toward thioester hydrolysis. Lipidomics analyses revealed that the mrx3Δ and fmp10Δ mutants have lower free fatty acid (FFA) levels with concomitant accumulation of storage lipids, besides a decreased pool of cardiolipin species. During our functional investigation, we observed that the absence of either protein partially restores respiratory capacity in the leu5Δ strain, whose mutation has been previously linked to very slow respiratory growth due to severe Coenzyme A (CoA) depletion in the mitochondrial matrix. We verified that the respiratory defect of the leu5Δ mutant is also related to a defect in the respiratory chain given the low NADH-dependent oxygen consumption rate and is specifically linked to defective Complex IV activity. The strain's growth defect was exacerbated by deletion of the glycine transporter HEM25 and was ameliorated by either δ-aminolevulinic acid (ALA, a heme precursor) or iron supplementation. These results may indicate that the leu5Δ strain has a subtle heme deficiency. We propose a model in which Mrx3 and Fmp10 control the mitochondrial acyl-CoA/CoA ratio through a thioesterase activity, which finely modulates the mitochondrial membrane lipidome, with a concomitant effect in heme biosynthesis. In the leu5Δ mutant, there is a disturbed metabolic homeostasis. Deleting these hotdog-fold proteins cause increased acyl-CoA levels and partially restores metabolic balance, potentially by repartitioning carbon flux through the tricarboxylic acid (TCA) cycle to replenish succinyl-CoA using the limited available CoA pool, which may be sufficient to restore heme biosynthesis. This mechanism highlights the critical role of CoA compartmentalization and the underlying connection of distinct metabolic pathways.",
-      "abstractZh": "热狗折叠酰基辅酶A硫酯酶（ACOT）是通常与脂质代谢相关的酶，广泛分布在生命树中，但该组的许多成员的特征很少。在这项工作中，通过计算机分析，我们鉴定了功能未知的 MICOS 相关线粒体蛋白 Mrx3 和 Fmp10 作为酿酒酵母中的两个假定的 ACOT，与哺乳动物硫酯酶 Them4 和 Them5 具有结构同源性，它们具有催化硫酯水解的保守基序。脂质组学分析表明，除了心磷脂种类减少外，mrx3Δ 和 fmp10Δ 突变体还具有较低的游离脂肪酸 (FFA) 水平，并伴随着储存脂质的积累。在我们的功能研究过程中，我们观察到，任何一种蛋白质的缺失都会部分恢复 leu5Δ 菌株的呼吸能力，该菌株的突变先前已被认为与由于线粒体基质中辅酶 A (CoA) 严重消耗而导致呼吸生长非常缓慢有关。我们验证了 leu5Δ 突变体的呼吸缺陷也与呼吸链缺陷有关，因为 NADH 依赖性耗氧率较低，并且是",
-      "url": "https://doi.org/10.1016/j.bbamcr.2026.120178",
-      "sourceUrl": "https://doi.org/10.1016/j.bbamcr.2026.120178",
-      "citationCount": 0,
-      "relevanceScore": 60,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "代谢工程",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "代谢工程",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "代谢工程",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 53,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Effects of Mixed Culture Fermentation on Quality of Non-Fried Whole-Wheat Instant Noodles.",
       "titleZh": "混合发酵对非油炸全麦方便面品质的影响。",
       "journal": "Foods (Basel, Switzerland)",
@@ -34281,161 +34374,13 @@
       "journalArticleCount": 23,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Enzymatic conversion of insoluble yeast β-glucans into low-molecular-weight, water-soluble prebiotics using enzyme cocktails derived from natural rubber serum.",
-      "titleZh": "使用源自天然橡胶浆液的酶混合物将不溶性酵母 β-葡聚糖酶促转化为低分子量水溶性益生元。",
-      "journal": "International journal of biological macromolecules",
-      "targetJournal": "全部收录期刊",
-      "issn": "0141-8130",
-      "eissn": "1879-0003",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Aroonkesorn A, Sukprasirt P, Dumidae A, Buaking M, Wititsuwannakul R, Pitakpornpreecha T.",
-      "doi": "10.1016/j.ijbiomac.2026.153208",
-      "doiUrl": "https://doi.org/10.1016/j.ijbiomac.2026.153208",
-      "pmid": "42342174",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42342174/",
-      "pmcid": "",
-      "abstract": "Yeast and mushroom β-(1,3/1,6)-glucans are well known for immunomodulatory and anti-inflammatory activities, yet their prebiotic potential remains limited by high molecular weight (MW), rigid triple-helical conformation, and poor solubility, which restrict microbial fermentation. Here, we developed a sustainable valorization strategy using enzyme cocktails derived from natural rubber serum (NRS), enriched in crude endo-β-1,3-glucanase, to depolymerize insoluble β-glucans (IBGs) from Saccharomyces cerevisiae into hydrolyzed β-glucans (HBGs). Enzymatic processing generated low-MW HBGs (∼5.6 kDa) with markedly improved water solubility and modified surface morphology. HBGs exhibited triple-helical structures with enhanced antioxidant activity (DPPH•, ABTS•+, H2O2 scavenging, and ferric reducing assays) and resisted simulated gastrointestinal digestion. In vitro fermentation demonstrated selective stimulation of probiotic growth, particularly Lacticaseibacillus rhamnosus, with culture supernatants showing broad-spectrum antimicrobial activity. Metabolomic analysis revealed distinct metabolic shifts and increased short-chain fatty acid (SCFAs) production, notably propionate and butyrate. These findings establish NRS-derived enzymatic bioprocessing as a green platform for producing low-MW, water-soluble β-glucans with improved fermentability and multifunctional bioactivity, supporting their development as candidate prebiotic-oriented gut-health ingredients.",
-      "abstractZh": "酵母和蘑菇 β-(1,3/1,6)-葡聚糖因其免疫调节和抗炎活性而闻名，但其益生元潜力仍然受到高分子量 (MW)、刚性三螺旋构象和较差溶解度的限制，这些限制了微生物发酵。在这里，我们开发了一种可持续的增值策略，使用源自天然橡胶浆液（NRS）的酶混合物，富含粗制内切β-1,3-葡聚糖酶，将酿酒酵母中的不溶性β-葡聚糖（IBG）解聚为水解β-葡聚糖（HBG）。酶处理产生低分子量 HBG (∼5.6 kDa)，其水溶性显着提高，表面形态发生改变。 HBG 表现出三螺旋结构，具有增强的抗氧化活性（DPPH•、ABTS•+、H2O2 清除和铁还原分析），并能抵抗模拟胃肠道消化。体外发酵证明可以选择性刺激益生菌生长，特别是鼠李糖乳杆菌，培养物上清液显示出广谱抗菌活性。代谢组学分析揭示了明显的代谢变化和短链脂肪酸 (SCFA) 产量增加，尤其是丙酸和丁酸",
-      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153208",
-      "sourceUrl": "https://doi.org/10.1016/j.ijbiomac.2026.153208",
-      "citationCount": 0,
-      "relevanceScore": 61,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "念珠菌",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母",
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 54,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 7,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Loss of essential outer membrane functions causes drug hypersensitization in &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; overexpressing multidrug efflux pumps.",
-      "titleZh": "",
-      "journal": "mBio",
-      "targetJournal": "全部收录期刊",
-      "issn": "2150-7511",
-      "eissn": "2150-7511",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Hamami E, Huo W, Neal K, Neisewander I, Shivangi, Freundlich JS, Geisinger E, Isberg RR.",
-      "doi": "10.1128/mbio.00902-26",
-      "doiUrl": "https://doi.org/10.1128/mbio.00902-26",
-      "pmid": "42339869",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42339869/",
-      "pmcid": "PMC13463702",
-      "abstract": "Elevated expression of resistance-nodulation-cell division (RND) drug transporters is commonly observed in clinical isolates of Acinetobacter baumannii, a nosocomial pathogen associated with multidrug-resistant infections. We describe here a CRISPRi platform directed toward identifying essential gene hypomorphs that preferentially change resistance to the fluoroquinolone antibiotic ciprofloxacin in RND pump overproducers. An sgRNA library, including single and double nucleotide mutations directed against essential genes of A. baumannii was constructed and introduced into multiple strain backgrounds, allowing strain-specific, titratable knockdown efficiencies to be analyzed. Other than NusG depletions, few candidates showed lowered fitness in the absence of drug treatment, specifically in strains overexpressing the RND efflux pumps AdeAB, AdeIJK, or AdeFGH. In the presence of ciprofloxacin, the hypomorphs that caused hypersensitivity were predicted to result in outer membrane dysfunction, with the AdeFGH overproducer appearing particularly sensitive to such disruptions. Most notably, depletion of the predicted monovalent cation-proton antiporter component PhaF compromised efflux pump function, as it resulted in increased ciprofloxacin accumulation in strains overproducing AdeFGH and disrupted cytosolic pH. On the other hand, depletions of translation-associated proteins and components of the proton-pumping ATP synthase conferred fitness benefits in the presence of the drug in at least two pump-overproducing strains. Therefore, pump overproduction exacerbated stress caused by defective outer membrane integrity, while the activity of at least one efflux pump overproducer required the function of an antiporter that maintains cytosolic pH homeostasis.ImportanceAcinetobacter baumannii clinical isolates are increasingly multidrug-resistant, leaving patients with few effective treatment options. Many of these isolates are fluoroquinolone resistant due to drug target mutations in the two major type II topoisomerases, as well as mutations that activate resistance-nodulation-cell division efflux pump expression. This work identifies essential gene products that support the fitness of efflux pump hyperexpressers during treatment with the fluoroquinolone antibiotic ciprofloxacin, most of which are involved in OM biogenesis. These findings suggest new strategies for combination therapy with currently available fluoroquinolones to sensitize and combat high-level resistant strains.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1128/mbio.00902-26",
-      "sourceUrl": "https://doi.org/10.1128/mbio.00902-26",
-      "citationCount": 0,
-      "relevanceScore": 46,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "CRISPR"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "CRISPR"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "CRISPR"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "translationError": "Translation returned 429",
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Yeast nuclei-mediated precise delivery of synthetic megabase-scale human DNA into mammalian embryos.",
-      "titleZh": "酵母细胞核介导的将合成的兆碱基级人类 DNA 精确递送至哺乳动物胚胎中。",
-      "journal": "Nature protocols",
-      "targetJournal": "全部收录期刊",
-      "issn": "1754-2189",
-      "eissn": "1750-2799",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Liu Y, Zhou J, Liu Z, Yuan YJ.",
-      "doi": "10.1038/s41596-026-01374-6",
-      "doiUrl": "https://doi.org/10.1038/s41596-026-01374-6",
-      "pmid": "42342988",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42342988/",
-      "pmcid": "",
-      "abstract": "The cross-species delivery of megabase-scale synthetic DNA molecules, from microorganisms into mammalian cells, remains a major challenge for synthetic genomics. Recently, we developed nucleus isolation for chromosome extraction (NICE), a method that enables the isolation of yeast nuclei containing intact synthetic megabase-scale DNA with preserved chromatin structure. By leveraging the unique epigenomic features of Saccharomyces cerevisiae, which lacks cytosine methylation and repressive histone marks, synthetic DNA encapsulated within isolated yeast nuclei was successfully delivered into mouse early embryos, maintaining a naive state. This work established a unique platform for studying the establishment of de novo epigenetic modifications and their influence on transcriptional regulation over time. Here, we provide a detailed protocol for NICE, including the isolation of yeast nuclei and their subsequent delivery into mammalian embryos. The high-concentration and high-purity isolated nuclei can be stored at -80 °C for >6 months. Using microinjection, we achieved 100% delivery efficiency, reliably transferring isolated yeast nuclei into mouse embryos. The entire procedure, including pulsed-field gel electrophoresis verification, can be completed within ~5 d. When the isolated yeast nuclei are intended for cross-species delivery into embryos, prior familiarity with mammalian embryo microinjection techniques may be required. This protocol offers an efficient and reliable method for the delivery of large-scale genetic information, advancing the study of complex biological functions.",
-      "abstractZh": "从微生物到哺乳动物细胞的兆碱基级合成 DNA 分子的跨物种传递仍然是合成基因组学的主要挑战。最近，我们开发了用于染色体提取的细胞核分离 (NICE)，这种方法能够分离含有完整的合成兆碱基级 DNA 并保留染色质结构的酵母细胞核。通过利用酿酒酵母独特的表观基因组特征（缺乏胞嘧啶甲基化和抑制性组蛋白标记），封装在分离的酵母细胞核内的合成DNA成功地传递到小鼠早期胚胎中，保持幼稚状态。这项工作建立了一个独特的平台，用于研究从头表观遗传修饰的建立及其对转录调控随时间的影响。在这里，我们为 NICE 提供了详细的方案，包括酵母细胞核的分离以及随后将其递送到哺乳动物胚胎中。高浓度、高纯度的分离细胞核可在-80°C保存>6个月。使用显微注射，我们实现了 100% 的递送效率，将分离的酵母细胞核可靠地转移到小鼠胚胎中。整个过程，包括",
-      "url": "https://doi.org/10.1038/s41596-026-01374-6",
-      "sourceUrl": "https://doi.org/10.1038/s41596-026-01374-6",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "合成生物学"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "合成生物学"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "合成生物学"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 692 篇",
-    "lastStartedAt": "2026-10-05T06:27:14.607Z",
-    "lastFinishedAt": "2026-10-05T06:28:23.968Z",
+    "lastMessage": "更新完成，共 691 篇",
+    "lastStartedAt": "2026-10-07T06:45:13.013Z",
+    "lastFinishedAt": "2026-10-07T06:46:44.839Z",
     "nextRunAt": null,
     "progress": 100
   }
