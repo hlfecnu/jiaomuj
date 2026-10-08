@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:46:44.839Z",
+  "updatedAt": "2026-10-08T06:55:44.779Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -2967,7 +2967,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5978,7 +5978,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9388,7 +9388,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10712,7 +10712,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10912,7 +10912,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11277,7 +11277,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12082,7 +12082,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12279,7 +12279,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13354,7 +13354,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14291,7 +14291,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15030,7 +15030,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16632,7 +16632,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21727,7 +21727,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22444,7 +22444,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22695,7 +22695,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27353,7 +27353,7 @@
       "doiUrl": "https://doi.org/10.1186/s13036-026-00731-z",
       "pmid": "42436509",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42436509/",
-      "pmcid": "",
+      "pmcid": "PMC13640322",
       "abstract": "BackgroundThe transition toward a sustainable bioeconomy necessitates the development of robust microbial platforms capable of C1 chemical valorization, particularly the conversion of methanol into high-value chemicals. Komagataella phaffii is a premier methylotrophic host for such applications due to its natural methanol utilization pathways and high-density fermentation capabilities. However, its potential as a C1-based synthetic biology chassis has been hampered by inefficient homologous recombination and the technical complexity of multigene pathway integration. To accelerate the design-build-test-learn (DBTL) cycle for methanol-based biomanufacturing, a more sophisticated and high-throughput genome engineering toolkit is required.ResultsWe report the development of an HR-enhanced K. phaffii chassis (dKR) achieved by synergistically deleting Ku70 and overexpressing RAD52 at the chromosomal level. This engineering markedly improved the robustness and reproducibility of CRISPR/Cas9-mediated genome editing, increasing integration efficiency from 15.3% in the wild-type to 68.1% in the dKR chassis when using short 50-bp homology arms. The platform demonstrated exceptional capacity for vector-free multi-fragment assembly, achieving an integration efficiency of 86.5% for nine linear DNA fragments. Furthermore, the implementation of a tRNA-ribozyme CRISPR system enabled simultaneous multi-locus integration at three distinct genomic sites with 44.6% efficiency. Notably, the chassis supported direct in vivo plasmid assembly of ten fragments (9 fragments + 1 backbone) with 44.8% efficiency, effectively bypassing E. coli-based cloning. Functional validation via a carotenoid biosynthetic pathway resulted in β-carotene production while maintaining normal cellular growth and metabolic productivity.ConclusionThis study established a versatile genome-engineering platform that advances K. phaffii from a protein-expression host to a broadly applicable biological engineering chassis. By enabling streamlined cellular design and reproducible multigene integration, the platform supports applications spanning synthetic biology, metabolic engineering, and bioproduction. More broadly, the approach illustrates how rational manipulation of DNA repair pathways can enhance genome engineering performance in non-conventional hosts, providing transferable design principles relevant to biological engineering across multiple domains.",
       "abstractZh": "背景向可持续生物经济的转变需要开发能够实现 C1 化学品增值的强大微生物平台，特别是能够将甲醇转化为高价值化学品。由于其天然的甲醇利用途径和高密度发酵能力，Komagataella phaffii 是此类应用的首要甲基营养宿主。然而，其作为基于 C1 的合成生物学底盘的潜力受到低效同源重组和多基因途径整合技术复杂性的阻碍。为了加速基于甲醇的生物制造的设计-构建-测试-学习（DBTL）周期，需要更复杂和高通量的基因组工程工具包。结果我们报告了通过在染色体水平协同删除Ku70和过表达RAD52来实现HR增强的K.phaffii底盘（dKR）的开发。该工程显着提高了 CRISPR/Cas9 介导的基因组编辑的稳健性和可重复性，当使用短 50 bp 同源臂时，将整合效率从野生型的 15.3% 提高到 dKR 底盘中的 68.1%。该平台展示了卓越的能力",
       "url": "https://doi.org/10.1186/s13036-026-00731-z",
@@ -27759,7 +27759,7 @@
       "doiUrl": "https://doi.org/10.1186/s12870-026-09476-9",
       "pmid": "42432503",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42432503/",
-      "pmcid": "",
+      "pmcid": "PMC13640086",
       "abstract": "BackgroundSoybean is an important crop used for oil, grain and feed. Due to its strong photoperiod sensitivity, flowering is a critical developmental process regulated by multiple genes that determines reproductive success and yield of soybean. Therefore, identifying regulatory genes controlling flowering is of great importance for developing widely adapted and high-yielding soybean varieties.ResultsIn this study, we identified a soybean MADS-box transcription factor gene GmMADS17 through transcriptome analysis of two extreme flowering phenotype families derived from a recombinant inbred line (RIL) population of Qihuang 34 and Jidou 17. Functional validation using both overexpression and CRISPR/Cas9-mediated mutagenesis demonstrated that GmMADS17 promotes flowering in soybean. Yeast two-hybrid, bimolecular fluorescence complementation assays and Co-immunoprecipitation assay further revealed that GmMADS17 could interact with 3 GmAP1 proteins (GmAP1a, c and d). In addition, genetic diversity analysis indicated strong selection at the GmMADS17 locus during soybean domestication, characterized by the near fixation of GmMADS17-Hap2, which might be associated with early-flowering in cultivated soybeans.ConclusionsThe results of this study may provide strategic genetic insights for molecular breeding programs aimed at enhancing soybean adaptation.",
       "abstractZh": "研究背景大豆是重要的石油、粮食和饲料作物。由于其强烈的光周期敏感性，开花是一个受多个基因调控的关键发育过程，决定大豆的繁殖成功和产量。因此，鉴定控制开花的调控基因对于开发广泛适应性和高产的大豆品种具有重要意义。结果在本研究中，我们通过对来自岐黄34和吉豆17的重组自交系（RIL）群体的两个极端开花表型家族的转录组分析，鉴定了大豆MADS-box转录因子基因GmMADS17。使用过表达和CRISPR/Cas9介导的诱变进行的功能验证表明，GmMADS17促进开花大豆开花。酵母双杂交、双分子荧光互补分析和免疫共沉淀分析进一步表明，GmMADS17 可以与 3 个 GmAP1 蛋白（GmAP1a、c 和 d）相互作用。此外，遗传多样性分析表明，在大豆驯化过程中，GmMADS17位点存在强烈选择，其特征是GmMADS17-Hap2的近固定，这可能与栽培中的早花有关。",
       "url": "https://doi.org/10.1186/s12870-026-09476-9",
@@ -27996,7 +27996,7 @@
       "doiUrl": "https://doi.org/10.1186/s12866-026-05393-x",
       "pmid": "42432481",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42432481/",
-      "pmcid": "",
+      "pmcid": "PMC13640374",
       "abstract": "BackgroundMicrobial metabolic engineering increasingly depends on identifying robust non-conventional yeast chassis with favorable metabolic traits. Although Saccharomyces cerevisiae remains the main model for isoprenoid engineering, alternative yeasts may provide superior native precursor availability. Here, we report the first comparative metabolomic characterization of Saccharomycopsis fibuligera, focusing on the mevalonate and terpenoid backbone biosynthesis pathways.ResultsLC-MS profiling revealed elevated levels of acetyl-CoA, HMG-CoA, and MVA in S. fibuligera, suggesting strong native flux through the MVA pathway. The universal isoprenoid precursors IPP and DMAPP accumulated at substantially higher levels than in S. cerevisiae, together with enrichment of FPP and ergosterol abundance, indicating efficient channeling toward sterol biosynthesis. Conversely, upper glycolysis metabolites were reduced, while TCA cycle intermediates were enriched, supporting the proposed Crabtree-negative phenotype of S. fibuligera. Amino acid profiling also indicated enhanced nitrogen storage capacity.ConclusionsThese results position S. fibuligera as a metabolically favorable platform with high intrinsic MVA pathway activity and precursor availability for terpenoid production, highlighting its strong potential as an emerging microbial chassis for next‑generation terpenoid bioproduction.",
       "abstractZh": "背景微生物代谢工程越来越依赖于识别具有有利代谢特征的稳健的非传统酵母底盘。尽管酿酒酵母仍然是类异戊二烯工程的主要模型，但替代酵母可以提供卓越的天然前体可用性。在这里，我们报告了 Saccharomycopsis fibuligera 的第一个比较代谢组学特征，重点关注甲羟戊酸和萜类主链生物合成途径。结果LC-MS 分析显示 Saccharomycopsis fibuligera 中乙酰辅酶 A、HMG-CoA 和 MVA 水平升高，表明通过 MVA 途径的强大天然通量。通用类异戊二烯前体 IPP 和 DMAPP 的积累水平明显高于酿酒酵母，同时 FPP 和麦角甾醇丰度也有所富集，表明甾醇生物合成的有效通道。相反，上部糖酵解代谢物减少，而 TCA 循环中间体富集，支持了所提出的 S. fibuligera 的 Crabtree 阴性表型。氨基酸分析还表明氮储存能力增强。结论这些结果将 S. fibuligera 定位为代谢有利的平台，具有高",
       "url": "https://doi.org/10.1186/s12866-026-05393-x",
@@ -28280,7 +28280,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28326,7 +28326,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28612,7 +28612,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29839,7 +29839,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29891,7 +29891,7 @@
       "articleScore": 54,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33937,7 +33937,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34082,7 +34082,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 23,
+      "journalArticleCount": 22,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34328,59 +34328,13 @@
       "journalArticleCount": 28,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Effects of Mixed Culture Fermentation on Quality of Non-Fried Whole-Wheat Instant Noodles.",
-      "titleZh": "混合发酵对非油炸全麦方便面品质的影响。",
-      "journal": "Foods (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2304-8158",
-      "eissn": "2304-8158",
-      "year": 2026,
-      "date": "2026-06-24",
-      "authors": "Han HR, Shang RX, Cui WW, Chen Y, Li LL, Tian XL, Zhang J, Zhao Y.",
-      "doi": "10.3390/foods15132265",
-      "doiUrl": "https://doi.org/10.3390/foods15132265",
-      "pmid": "42450384",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42450384/",
-      "pmcid": "PMC13360998",
-      "abstract": "Non-fried whole-wheat instant noodles feature high dietary fiber and balanced nutrition but suffer from poor rehydration, texture, and flavor. This study aims to improve the quality of these noodles through mixed fermentation of yeast and lactic acid bacteria (LAB). The rehydration characteristics, textural profile, sensory quality, microstructure, volatile flavor compounds, and in vitro digestibility of non-fried instant whole-wheat noodles were evaluated. Yeast primarily reduced rehydration time and improved mouthfeel, whereas LAB mainly contributed to the formation of a continuous and uniform gluten network as well as the enhancement of noodle flavor. Moderate addition of the mixed culture (1% yeast + 0.05% LAB) promoted the construction of a homogeneous gluten network in non-fried whole-wheat instant noodles, effectively reducing starch digestibility and estimated glycemic index (eGI). However, excessive addition caused opposite effects on these noodles. This study provides an effective processing strategy for the production of high-quality, low-eGI whole-wheat instant noodles, which are suitable for people pursuing healthy diets and controlling blood sugar levels.",
-      "abstractZh": "非油炸全麦方便面膳食纤维高、营养均衡，但复水性、口感和风味较差。本研究旨在通过酵母和乳酸菌（LAB）的混合发酵来提高这些面条的质量。对非油炸方便全麦面条的复水特性、质构特征、感官质量、微观结构、挥发性风味物质和体外消化率进行了评价。酵母主要减少复水时间并改善口感，而乳酸菌主要有助于形成连续均匀的面筋网络以及增强面条风味。适量添加混合培养物（1%酵母+0.05%LAB）促进非油炸全麦方便面中均质面筋网络的构建，有效降低淀粉消化率和估计血糖指数（eGI）。然而，过量的添加却给这些面条带来了相反的效果。该研究为生产高品质、低eGI全麦方便面提供了有效的加工策略，适合追求健康饮食和控制血糖水平的人们。",
-      "url": "https://doi.org/10.3390/foods15132265",
-      "sourceUrl": "https://doi.org/10.3390/foods15132265",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 23,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 691 篇",
-    "lastStartedAt": "2026-10-07T06:45:13.013Z",
-    "lastFinishedAt": "2026-10-07T06:46:44.839Z",
+    "lastMessage": "更新完成，共 690 篇",
+    "lastStartedAt": "2026-10-08T06:54:15.747Z",
+    "lastFinishedAt": "2026-10-08T06:55:44.779Z",
     "nextRunAt": null,
     "progress": 100
   }
