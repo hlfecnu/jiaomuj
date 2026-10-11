@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:36:13.308Z",
+  "updatedAt": "2026-10-11T06:43:02.134Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -3045,7 +3045,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11824,7 +11824,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13779,7 +13779,7 @@
       "articleScore": 54,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14442,9 +14442,9 @@
       "included": true,
       "articleScore": 49,
       "translationError": "Translation returned 429",
-      "journalScore": 40,
+      "journalScore": 37,
       "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14546,7 +14546,7 @@
       "articleScore": 52,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15699,7 +15699,7 @@
       "articleScore": 44,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16303,7 +16303,7 @@
       "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21328,7 +21328,7 @@
       "articleScore": 57,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24261,9 +24261,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 41,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25398,9 +25398,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 41,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27666,9 +27666,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 41,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28825,9 +28825,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 41,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28885,7 +28885,7 @@
       "articleScore": 48,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30053,9 +30053,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 41,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32254,7 +32254,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 10,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33325,52 +33325,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Candida-associated immune and metabolic rewiring in chronic obstructive pulmonary disease.",
-      "titleZh": "慢性阻塞性肺疾病中念珠菌相关的免疫和代谢重新布线。",
-      "journal": "BMC pulmonary medicine",
-      "targetJournal": "全部收录期刊",
-      "issn": "1471-2466",
-      "eissn": "1471-2466",
-      "year": 2026,
-      "date": "2026-06-26",
-      "authors": "Wang R, Chen Z, Wang Y, Zhao N, Li K, Gong H, Zhang Y, Lai S, Ye Z, Yang H.",
-      "doi": "10.1186/s12890-026-04415-8",
-      "doiUrl": "https://doi.org/10.1186/s12890-026-04415-8",
-      "pmid": "42351012",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42351012/",
-      "pmcid": "PMC13386562",
-      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is characterized by persistent systemic inflammation. Candida colonization is frequently observed in patients with COPD, yet its systemic impact remains poorly understood. This study aimed to identify molecular alterations uniquely induced by Candida under COPD conditions.MethodsAn interaction-based model incorporating COPD status, Candida colonization, and their interaction term was used to define COPD-context-dependent Candida-responsive genes and metabolites. Peripheral blood mononuclear cell transcriptomes were analyzed by RNA sequencing, followed by functional enrichment, protein-protein interaction (PPI), and transcription factor (TF) motif analyses. Plasma metabolomics was performed to identify exclusive differential metabolites and enriched pathways. Multi-omic integration was performed to assess coordinated relationships between genes and metabolites, with correlation network construction and Spearman's correlation validation.ResultsA subset of differentially expressed genes (DEGs) was exclusively altered in the CA_COPD versus COPD comparison. These genes were primarily enriched in immune regulation and inflammatory signaling pathways. PPI analysis identified limited but biologically meaningful interaction networks, while TF motif analysis implicated the zf-C2H2 family as a potential regulator of context-specific transcriptional remodeling. Metabolomic profiling revealed exclusive differential metabolites in CA_COPD. Upregulated metabolites were marginally associated with amino sugar and nucleotide sugar metabolism, whereas downregulated metabolites were significantly enriched in aminoacyl-tRNA biosynthesis, central carbon metabolism, protein digestion and absorption, and ABC transporter pathways. Integrated multi-omic analysis demonstrated tightly coordinated gene-metabolite networks linking transcriptional and metabolic reprogramming under Candida-COPD interaction conditions.ConclusionCandida colonization induces distinct COPD-context-dependent transcriptional and metabolic reprogramming, suggesting a specific host response signature that may contribute to disease progression.",
-      "abstractZh": "背景慢性阻塞性肺疾病（COPD）的特点是持续性全身炎症。慢性阻塞性肺病患者中经常观察到念珠菌定植，但其全身影响仍知之甚少。本研究旨在鉴定慢性阻塞性肺病（COPD）条件下念珠菌独特诱导的分子改变。方法采用基于相互作用的模型，结合慢性阻塞性肺病（COPD）状态、念珠菌定植及其相互作用项来定义慢性阻塞性肺病（COPD）背景依赖性念珠菌反应基因和代谢物。通过 RNA 测序分析外周血单核细胞转录组，然后进行功能富集、蛋白质-蛋白质相互作用 (PPI) 和转录因子 (TF) 基序分析。进行血浆代谢组学来鉴定独特的差异代谢物和富集途径。进行多组学整合，通过相关网络构建和 Spearman 相关验证来评估基因和代谢物之间的协调关系。结果在 CA_COPD 与 COPD 比较中，差异表达基因 (DEG) 的子集被专门改变。这些基因主要富集在免疫调节和炎症方面。",
-      "url": "https://doi.org/10.1186/s12890-026-04415-8",
-      "sourceUrl": "https://doi.org/10.1186/s12890-026-04415-8",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Comprehensive Candidate Gene for Ginsenoside Rg1 Biosynthesis: Identification, Systematic Analysis, and Verification.",
       "titleZh": "人参皂苷 Rg1 生物合成的综合候选基因：鉴定、系统分析和验证。",
       "journal": "Plants (Basel, Switzerland)",
@@ -33518,53 +33472,6 @@
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 12,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Integration of GWAS and WGCNA reveals novel candidate genes for cottonseed oil content in Gossypium hirsutum L.",
-      "titleZh": "GWAS 和 WGCNA 的整合揭示了陆地棉棉籽油含量的新候选基因。",
-      "journal": "BMC plant biology",
-      "targetJournal": "全部收录期刊",
-      "issn": "1471-2229",
-      "eissn": "1471-2229",
-      "year": 2026,
-      "date": "2026-06-26",
-      "authors": "Lv B, Pan Z, Gao H, Zhang X, Yang L, Wang G, Lan G, Huangfu Z, Cao C, Hou B, Xia Z, Zhang M, Qiao X, Xing C, Li P.",
-      "doi": "10.1186/s12870-026-09340-w",
-      "doiUrl": "https://doi.org/10.1186/s12870-026-09340-w",
-      "pmid": "42350962",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42350962/",
-      "pmcid": "PMC13560397",
-      "abstract": "Genetic improvement of cottonseed oil content represents a crucial strategy for enhancing the comprehensive utilization of cotton. Here, genome-wide association study (GWAS) and weighted gene co-expression network analysis (WGCNA) were integrated to elucidate the genetic control underlying oil content. Phenotypic evaluation of 159 cotton accessions revealed extensive genetic variation, with kernel oil content ranging from 17.81% to 39.50%. Population structure analysis based on 20,213 single nucleotide polymorphisms (SNPs) classified the accessions into two major subpopulations. A total of 18 SNPs exhibited significant associations with oil content, two of which were stably detected across multiple environments using the FarmCPU model. Further haplotype analysis within linkage disequilibrium (LD) blocks confirmed a favorable haplotype on chromosome A05 that was strongly correlated with elevated oil content. Integration of publicly available transcriptome data from 11 ovule developmental stages with WGCNA identified modules significantly linked to oil content. Of the 74 candidate genes within LD intervals, 17 were assigned to WGCNA modules. Functional annotation and enrichment analyses highlighted four putative candidate genes (GH_A05G1503, GH_A05G1506, GH_A05G1531, and GH_A10G2150) involved in oil biosynthesis. These findings deepen our understanding of the genetic mechanisms governing cottonseed oil biosynthesis and lay a foundation for breeding high-oil cotton varieties.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1186/s12870-026-09340-w",
-      "sourceUrl": "https://doi.org/10.1186/s12870-026-09340-w",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "translationError": "Translation returned 429",
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33800,111 +33707,13 @@
       "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "A Label-Free Cell-Based Biosensor Method for Ethanol Quantification Using Temperature-Induced Spontaneous Cell Detachment.",
-      "titleZh": "使用温度诱导的自发细胞分离进行乙醇定量的无标记细胞生物传感器方法。",
-      "journal": "Biosensors",
-      "targetJournal": "全部收录期刊",
-      "issn": "2079-6374",
-      "eissn": "2079-6374",
-      "year": 2026,
-      "date": "2026-06-25",
-      "authors": "Yongabi D, Krane A, Espreafico Guelerman Ramos H, Xavier Bustia S, Gruber J, Schöning MJ, Delvigne F, Wagner P.",
-      "doi": "10.3390/bios16070355",
-      "doiUrl": "https://doi.org/10.3390/bios16070355",
-      "pmid": "42505431",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42505431/",
-      "pmcid": "PMC13406514",
-      "abstract": "Rapid, low-cost ethanol quantification is vital for beverage quality control, biofuel production, and pharmaceutical applications, yet current approaches are costly, reagent- or label-dependent, or rely on spectroscopy with substantial sample preparation. We introduce a purely cell-based, label-free biosensor that exploits temperature-gradient-induced spontaneous detachment of Saccharomyces cerevisiae from a chip surface. The readout is the detachment half-time, td50, derived from time-resolved changes in interfacial thermal resistance, Rth, at the solid-liquid interface. Cells were pre-exposed to ethanol (0-70% v/v) and the detachment kinetics monitored using the heat transfer method (HTM). Under these conditions, cells display a pronounced non-monotonic td50 response with a peak around 20% v/v ethanol. Overall, the td50 rises from ~45 min (0% ethanol) to ≳10 h (20%) and then decreases, with no detachment at 60% and beyond. Critically, cell quality gates the detachment window. Fresh yeast responds up to ~50%, whereas aged yeast ceases to detach above ~8%, demonstrating a dual-function assay. Complementary measurements show that ethanol decreases surface tension monotonically, as expected, while optical/SEM imaging reveals aggregation above the detachment window. Requiring only a heater and a temperature probe, this platform offers a compact and low-cost strategy for ethanol sensing. Its applicability in a complex matrix is further demonstrated using whiskey diluted to selected alcohol concentrations, which produced responses consistent with the ethanol calibration trend. Potentially, it also offers a thermal assay for real-time monitoring of microbial cell quality across biotechnology and bioengineering applications. Considering ethanol as a proxy for drugs, the strategy may also support label-free drug screening on cells. At a fundamental level, the non-monotonic effect of ethanol, and especially the sharp maximum at 20%, remains unresolved and invites further studies.",
-      "abstractZh": "快速、低成本的乙醇定量对于饮料质量控制、生物燃料生产和制药应用至关重要，但目前的方法成本高昂，依赖于试剂或标签，或者依赖于大量样品制备的光谱学。我们引入了一种纯粹基于细胞的、无标记的生物传感器，它利用温度梯度诱导的酿酒酵母从芯片表面的自发分离。读数是半脱离时间 td50，源自固液界面处界面热阻 Rth 的时间分辨变化。将细胞预先暴露于乙醇 (0-70% v/v) 中，并使用传热方法 (HTM) 监测脱离动力学。在这些条件下，细胞表现出明显的非单调 td50 响应，峰值约为 20% v/v 乙醇。总体而言，td50 从约 45 分钟（0% 乙醇）上升到 ≳10 小时（20%），然后下降，在 60% 及以上时没有脱离。至关重要的是，细胞质量决定了分离窗口。新鲜酵母的响应高达约 50%，而老化酵母在约 8% 以上则停止分离，这证明了双功能测定。补充测量表明，乙醇单调降低表面张力，因为",
-      "url": "https://doi.org/10.3390/bios16070355",
-      "sourceUrl": "https://doi.org/10.3390/bios16070355",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物传感器"
-      ],
-      "mainKeywords": [
-        "生物传感器",
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物传感器"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Microbial Competition and Nutrient Limitation Remodel the Volatilome of &lt;i&gt;Kluyveromyces marxianus&lt;/i&gt;.",
-      "titleZh": "微生物竞争和营养限制重塑马克斯克鲁维酵母的挥发物组。",
-      "journal": "Journal of fungi (Basel, Switzerland)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2309-608X",
-      "eissn": "2309-608X",
-      "year": 2026,
-      "date": "2026-06-25",
-      "authors": "Acosta-García ED, Páez-Lerma JB, Moreno-Jiménez MR, Cortés-Barberena E, Rojas-Contreras JA, Soto-Cruz NO.",
-      "doi": "10.3390/jof12070470",
-      "doiUrl": "https://doi.org/10.3390/jof12070470",
-      "pmid": "42506232",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42506232/",
-      "pmcid": "PMC13413099",
-      "abstract": "The use of Kluyveromyces marxianus in mixed cultures for fermentation processes has become increasingly relevant. This yeast is characterized by rapid growth, thermotolerance, broad sugar utilization, and the ability to produce aroma-active compounds. In this study, we evaluated changes in the growth and volatilome of a K. marxianus strain isolated from agave fermentation under microbial competition induced by co-cultivation interactions and nutritional limitation induced by a nutrient-deficient medium. The results indicate that these stress factors are significant drivers of metabolic changes, leading to substantial increases in the concentrations of key aromatic compounds. Stress-free conditions favor cell growth and the production of stable, reproducible volatile profiles, which is advantageous for batch-to-batch consistency (as in wine or mezcal production). While microbial competition and nutritional limitation induce reduced cell growth and loss of viability, they also lead to increased aromatic diversity, particularly the synthesis of β-phenethyl acetate, ethyl octanoate, and ethyl hexanoate. These findings demonstrate a relationship between environmental stress and the development of volatile profile complexity, offering new insights into harnessing stress-induced changes in the volatilome to optimize the sensory profile of traditional fermentations.",
-      "abstractZh": "在混合培养物中使用马克斯克鲁维酵母进行发酵过程变得越来越重要。这种酵母的特点是生长迅速、耐热、糖利用广泛，并且能够产生芳香活性化合物。在这项研究中，我们评估了从龙舌兰发酵中分离出的马克斯克鲁维酵母菌株在共培养相互作用引起的微生物竞争和营养缺乏培养基引起的营养限制下的生长和挥发分的变化。结果表明，这些应激因素是代谢变化的重要驱动因素，导致关键芳香化合物的浓度大幅增加。无压力的条件有利于细胞生长和稳定、可重复的挥发性物质的产生，这有利于批次间的一致性（如葡萄酒或梅斯卡尔酒的生产）。虽然微生物竞争和营养限制会导致细胞生长减少和活力丧失，但它们也会导致芳香族多样性增加，特别是β-乙酸苯乙酯、辛酸乙酯和己酸乙酯的合成。这些发现证明了环境压力与发展之间的关系",
-      "url": "https://doi.org/10.3390/jof12070470",
-      "sourceUrl": "https://doi.org/10.3390/jof12070470",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "克鲁维酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "克鲁维酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "克鲁维酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 10,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 685 篇",
-    "lastStartedAt": "2026-10-10T06:34:01.091Z",
-    "lastFinishedAt": "2026-10-10T06:36:13.308Z",
+    "lastMessage": "更新完成，共 681 篇",
+    "lastStartedAt": "2026-10-11T06:41:54.496Z",
+    "lastFinishedAt": "2026-10-11T06:43:02.134Z",
     "nextRunAt": null,
     "progress": 100
   }
