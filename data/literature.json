@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:51:27.469Z",
+  "updatedAt": "2026-10-13T07:16:28.935Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -389,9 +389,9 @@
       "included": true,
       "articleScore": 57,
       "translationError": "Translation returned 429",
-      "journalScore": 46,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -497,6 +497,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Harnessing microbial proteases with gliadin degrading potential for gluten hydrolysis",
+      "titleZh": "",
+      "journal": "European food research & technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1438-2377",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Srivastava A, Bandhu S, Sahu J.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "Gluten ingestion triggers coeliac disease (CD) in individuals with genetic susceptibility, for which a gluten-free diet is the only treatment. The current study, exploits the screening and selection of suitable microorganisms for protease activity specifically degradation of gliadin, the major component of gluten that causes CD. Sixteen strains efficiently produced protease among total selected strains, high activity was expressed by Saccharomyces boulardii, Lactiplantibacillus plantarum, Lactobacillus acidophilus, Limosilactobacillus fermentum, and Bacillus subtilis as compared to other cultures. Further, the fermentation was carried out on a specific acid treated gliadin (ATG) containing medium. Among all the gliadin hydrolyzing microorganisms Bacillus clausii NCIM 5448, Bacillus licheniformis NCIM 2042, and Bacillus subtilis NCIM 2724 were capable of producing gliadinase activity of 12, 12 and 49 U/ml respectively and showing halo zone of lysis of 21, 22 and 31 mm, respectively, using gliadin as substrate. SDS–PAGE analysis showed degradation of gliadin into lower-molecular-weight peptides, while native PAGE zymography confirmed the gliadin-degrading activity of extracellular enzymes produced by the selected strains. The strains were found to be safe on the basis of their haemolytic, antibiotic susceptibility and resistance to bile juices at lower pH.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "布拉氏酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "布拉氏酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "布拉氏酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 39,
+      "translationError": "Translation returned 429",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "In Vitro Gastrointestinal Digestion and Gut Fermentation of Atlantic Forest Fruit-Flavored Kombucha: Gut Microbiota Dynamics and Bioactive Compound Bioaccessibility.",
       "titleZh": "大西洋森林果味康普茶的体外胃肠消化和肠道发酵：肠道微生物群动态和生物活性化合物的生物可及性。",
       "journal": "Molecular nutrition & food research",
@@ -539,6 +589,59 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Menaquinone-7 production by engineered Saccharomyces cerevisiae through de novo Synthesis and fermentation optimization",
+      "titleZh": "",
+      "journal": "Biotechnology letters",
+      "targetJournal": "全部收录期刊",
+      "issn": "0141-5492",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Chen J, Xu H, Liu T, Chen M, Yu F, Zhang Y.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "Menaquinone-7 (MK-7), a highly preferred form of vitamin K2, has garnered extensive attention due to its long half-life in the human body and numerous nutritional and pharmacological benefits. To establish a cost-effective microbial platform for MK-7 production, we engineered the eukaryotic model organism Saccharomyces cerevisiae. The complete biosynthesis pathway was modularized into three parts: the endogenous mevalonate (MVA) pathway, the endogenous shikimate (SA) pathway, and a heterologous menaquinone (MK) module. Eleven key genes from the MK module were introduced into the yeast chassis using selection markers for His, Leu, and Met, creating the engineered strain YK-1. We then optimized the fermentation medium and conditions, and the MK-7 titer reached 0.413 mg/L. This represents a 31.1% increase over the non-optimized yield, demonstrating the successful de novo synthesis of MK-7 from simple carbon sources in a eukaryotic cell factory. This work not only expands the repertoire of chassis cells for MK-7 production but also provides a valuable framework for engineering biosynthesis pathways for other isoprenoids.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 70,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "细胞工厂"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造",
+        "细胞工厂"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "细胞工厂"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "translationError": "Translation returned 429",
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -588,6 +691,115 @@
       "journalScore": 40,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Research progress on metabolic engineering for efficient squalene synthesis in yeast cell factories",
+      "titleZh": "",
+      "journal": "Biotechnology letters",
+      "targetJournal": "全部收录期刊",
+      "issn": "0141-5492",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Yangzhen, Zhang C, Lu W.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "Squalene, a naturally occurring triterpenoid, is widely utilized in the food, pharmaceutical, and vaccine adjuvant industries. Conventional production methods, which rely on extraction from shark liver oil or plant sources, are limited by ecological sustainability concerns and low extraction efficiency. Recent progress in synthetic biology and metabolic engineering has enabled the development of sustainable and efficient microbial platforms for squalene biosynthesis. This review provides a comprehensive overview of the biosynthetic pathways of squalene in yeast, summarizes key metabolic engineering strategies, and highlights recent advancements in the field, with an emphasis on multi-organelle synergistic engineering and critical distinction of evidence sources. We focus on approaches such as enhancing the mevalonate pathway, modulating competing metabolic routes, applying subcellular compartmentalization engineering, optimizing cofactor balance, and implementing product efflux strategies. Notably, integrated strategies, particularly organelle engineering in Yarrowia lipolytica and Saccharomyces cerevisiae, have increased squalene titers to high levels (up to 55.8 g/L). These advances provide a useful basis for future metabolic engineering efforts aimed at improving squalene production and facilitating the synthesis of related terpenoids.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 77,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "解脂耶氏酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "合成生物学",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "代谢工程",
+        "酿酒酵母",
+        "解脂耶氏酵母",
+        "合成生物学",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母",
+        "解脂耶氏酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "合成生物学",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 58,
+      "translationError": "Translation returned 429",
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Selection of indigenous Saccharomyces cerevisiae strains isolated from different spontaneous fermentations for Catharina Sour beer production",
+      "titleZh": "",
+      "journal": "European food research & technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1438-2377",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Bressani A, Oliveira Á, Ramos C, Dias D, Schwan R.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "The expansion of the craft beer market has intensified the search for microbial strains that can enhance sensory complexity and fermentation efficiency. Catharina Sour beer requires yeasts that tolerate low pH, exhibit good attenuation, produce moderate ethanol, and have a balanced aromatic profile. In this study, 11 Saccharomyces cerevisiae strains isolated from different substrates were compared with the commercial strain SafAle™ S-04 to assess their potential to produce Catharina Sour. The strains were evaluated for carbohydrate assimilation and fermentation ability, ethanol tolerance (5.5%), hop resistance, tolerance to acidic pH (3.1), and flocculation. The selected strains were then subjected to sequential microfermentation with Lactiplantibacillus plantarum CCMA 0743. HPLC analyzed physicochemical parameters, organic acids, glycerol, and ethanol, while GC–MS evaluated volatile compounds. The S. cerevisiae strains CCMA 0200 and CCMA 0233 demonstrated superior performance, exhibiting robust carbohydrate fermentation, tolerance to fermentation stress, and flocculation. After lactic acid fermentation, the pH decreased from 5.68 to 3.39, yielding 5.90 g/L of lactic acid. During alcoholic fermentation, the strains produced 3.9–5.0% (v/v) ethanol and approximately 7 g/L of glycerol. Both strains exhibited greater diversity of volatile compounds than the commercial strain, including higher alcohols of sensory relevance. Principal component analysis (PCA) revealed that strains CCMA 0200 and CCMA 0233 formed a distinct cluster from SafAle S-04. These results highlight the biotechnological potential of strains CCMA 0200 and CCMA 0233 to produce Catharina Sour, reinforcing the importance of Brazilian microbial biodiversity as a source of innovation in craft beer development.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "translationError": "Translation returned 429",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1081,9 +1293,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4571,9 +4783,9 @@
       ],
       "included": true,
       "articleScore": 62,
-      "journalScore": 46,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8109,9 +8321,56 @@
       "included": true,
       "articleScore": 53,
       "translationError": "Translation returned 429",
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Development of novel functional fermented goji-based beverages using lactic acid bacteria and yeasts",
+      "titleZh": "",
+      "journal": "European food research & technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1438-2377",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Nevado F, Rubio R, Alguijo M, Solomando J, Gómez M, Magro P.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "Goji berry fruits (Lycium barbarum L.) are recognized for their health benefits due to the presence of bioactive compounds such as organic acids, polyphenols, and carotenoids. The aim of this study was to develop and characterize novel functional fermented goji berry juice beverages with lactic acid bacteria (Lactiplantibacillus plantarum), and yeast (Saccharomyces cerevisae), applied in both monoculture and co-culture. All tested strains exhibited good growth in goji juice, maintaining high viability throughout the 15-day fermentation period, with microbial counts remaining above 7 mL− 1 for yeasts and 8 log CFU mL− 1 for lactic acid bacteria. While L. plantarum led to a significant increase in acidity and phenolic content (0.32–0.79% and 4.84–5.77 mg galic acid L− 1 respectively), thereby enhancing antioxidant capacity of the fermented beverages, yeast fermentations were characterized by a sharp decrease in sugars (1.43–2.19 mg 100 mL− 1).Carotenoid compounds increased mainly in yeast monocultures (reaching up to approximately 150 mg L⁻¹), while remaining significantly lower in the other fermentations, with values ranging roughly between 12 and 30 mg L⁻¹. Volatile profiling identified 24 compounds, mainly dominated by acetic acid, ethyl octanoate and ethyl decanoate. The chemical composition of the beverages influenced the sensory profile, resulting in reduced sweetness and significant acidic notes, particularly in L. plantarum fermented juices. While this study successfully produced a novel functional goji-based fermented beverage, sensory analysis revealed room for improvement. This suggests that high potential for these innovative beverages to succeed through targeted product optimization, particularly in addressing the growing consumer interest in new functional fermented non-alcoholic drinks.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 42,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9293,9 +9552,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14263,7 +14522,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q4",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21697,9 +21956,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 46,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28660,9 +28919,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 46,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30576,6 +30835,56 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Development and optimisation of a synbiotic low‐lactose cow milk beverage via enzymatic hydrolysis using commercial β‐galactosidase preparations",
+      "titleZh": "",
+      "journal": "International Journal of Dairy Technology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1364-727X",
+      "eissn": "",
+      "year": 2026,
+      "date": "2026-07-01",
+      "authors": "El‐Hadad SS, Chau NB, Tikhomirova NA, El‐Loly MM, Hamed AM.",
+      "doi": "",
+      "doiUrl": "",
+      "pmid": "",
+      "pmidUrl": "",
+      "pmcid": "",
+      "abstract": "BACKGROUND AND SCOPE: Lactose intolerance (LI) affects approximately 65–70% of the global adult population, yet comparative data on the performance of commercially available β‐galactosidase (β‐gal) preparations under standardised conditions remain limited. This study developed an innovative functional low‐lactose cow milk beverage by evaluating four commercial β‐gal preparations Lacta‐Free (Aspergillus oryzae), Maxi‐Lact‐2000 (Kluyveromyces lactis), HA‐Lactase‐2100 (K. lactis) and NOLA‐Fit‐2800 (Kluyveromyces fragilis) at concentrations of 0.1, 0.15 and 0.2% (w/v), systematically optimising enzyme concentration, incubation temperature (10–70°C), hydrolysis time (1–6 h), pH (4.0–7.5), starter culture ratios and fermentation conditions using one‐way ANOVA and Duncan's multiple range test (P ≤ 0.05). KEY FINDINGS AND CONCLUSIONS: Lactose was reduced from 4.71 ± 0.13% to 0.16 ± 0.01% (96.50% hydrolysis). NOLA‐Fit‐2800 achieved the highest hydrolysis rate (94 ± 3%) in the shortest time (2.5 ± 0.1 h) at 0.2%, pH 6.0, and 45°C, confirming it as the most efficient preparation for neutral milk processing. Lacta‐Free (fungal) performed optimally at pH 5.5, while Maxi‐Lact and HA‐Lactase (yeast‐derived) were most effective at pH 6.5. The optimal starter culture ratio of L. lactis:L. cremoris:L. diacetylactis at 2:2:1, fermented at 30 ± 2°C for 8 ± 0.1 h with a 5% (v/v) inoculum and Bifidobacterium bifidum BGN4 supplementation, yielded the highest viable cell count [(1.73 ± 0.05) × 10⁹ cfu/g] and conferred synbiotic functionality to the final product. SIGNIFICANCE AND NOVELTY: This study provides the first systematic side‐by‐side comparison of four commercial β‐gal preparations under identical standardised conditions in the same milk substrate, delivering a validated, industrially applicable process framework to produce functional synbiotic low‐lactose dairy beverages. The findings offer actionable guidance for matching enzyme source to dairy application pH and for designing LAB starter systems that maximise probiotic viability in low‐lactose matrices.",
+      "abstractZh": "",
+      "url": "",
+      "sourceUrl": "",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "克鲁维酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 39,
+      "translationError": "Translation returned 429",
+      "journalScore": 30,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Different modes of engagement with the nucleosome acidic patch yield distinct functional outcomes.",
       "titleZh": "与核小体酸性斑块的不同接触模式会产生不同的功能结果。",
       "journal": "Nucleic acids research",
@@ -30958,9 +31267,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31148,9 +31457,9 @@
       ],
       "included": true,
       "articleScore": 47,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31197,9 +31506,9 @@
       ],
       "included": true,
       "articleScore": 39,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31975,9 +32284,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
-      "journalArticleCount": 6,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33585,9 +33894,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 681 篇",
-    "lastStartedAt": "2026-10-12T06:49:40.740Z",
-    "lastFinishedAt": "2026-10-12T06:51:27.469Z",
+    "lastMessage": "更新完成，共 687 篇",
+    "lastStartedAt": "2026-10-13T07:15:25.480Z",
+    "lastFinishedAt": "2026-10-13T07:16:28.935Z",
     "nextRunAt": null,
     "progress": 100
   }
