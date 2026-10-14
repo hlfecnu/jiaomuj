@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:16:28.935Z",
+  "updatedAt": "2026-10-14T05:41:51.887Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -2108,7 +2108,7 @@
       "included": true,
       "articleScore": 53,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15816,9 +15816,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29174,7 +29174,7 @@
       "included": true,
       "articleScore": 47,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -33555,52 +33555,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Discovery and Engineering of a Rat Endogenous Retrovirus Reverse Transcriptase for Efficient Prime Editing.",
-      "titleZh": "用于高效 Prime 编辑的大鼠内源性逆转录病毒逆转录酶的发现和工程。",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "targetJournal": "全部收录期刊",
-      "issn": "2198-3844",
-      "eissn": "2198-3844",
-      "year": 2026,
-      "date": "2026-06-26",
-      "authors": "Ma L, Yao P, Wu S, Shi Y, Qin L, Li B, Zhu J, Huang M, Zhu Y, Song Y, Pang J, Guo Z, Wu G, Wang C, Xu K, Huang R, Kuang Q, Qu L, Pan C, Xie X, Zhu Q, Huang J, Lin Q.",
-      "doi": "10.1002/advs.75888",
-      "doiUrl": "https://doi.org/10.1002/advs.75888",
-      "pmid": "42360136",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42360136/",
-      "pmcid": "PMC13335913",
-      "abstract": "CRISPR-based prime editors (PEs) install precise edits into genomic DNA without generating double-strand breaks. Their editing efficiency is highly dependent on reverse transcriptases (RTs), but efficient RT candidates remain limited. Here, we identified 19 novel active RTs by screening 558 candidates. Among them, RERV-RT, derived from Rattus norvegicus, exhibited the highest activity. Through structure-guided engineering and deep mutational scanning, we developed an optimized variant, enRERV-RT, which outperforms conventional M-MLV-RT-based PE systems by 1.20-fold in mammalian and plant cells, and by 1.88-fold at hard-to-edit loci, while enabling precise multiplex editing of functionally relevant genes. Additionally, we developed a high-throughput platform, TRAP-seq-PE, to systematically evaluate prime editor performance. Across diverse mutation types, we found that PE systems based on enRERV-RT exhibited higher editing efficiencies than those based on M-MLV-RT. Collectively, our work establishes a versatile, high-efficiency PE system, thereby facilitating advances in clinical gene therapy and precise crop breeding.",
-      "abstractZh": "基于 CRISPR 的初等编辑器 (PE) 可对基因组 DNA 进行精确编辑，而不会产生双链断裂。它们的编辑效率高度依赖于逆转录酶 (RT)，但高效的 RT 候选者仍然有限。在这里，我们通过筛选 558 名候选者确定了 19 种新颖的活性 RT。其中，源自褐家鼠的RERV-RT表现出最高的活性。通过结构引导工程和深度突变扫描，我们开发了一种优化的变体 enRERV-RT，它在哺乳动物和植物细胞中的性能比传统的基于 M-MLV-RT 的 PE 系统高出 1.20 倍，在难以编辑的位点上高出 1.88 倍，同时能够对功能相关基因进行精确的多重编辑。此外，我们开发了一个高通量平台 TRAP-seq-PE，用于系统地评估 Prime 编辑器的性能。在不同的突变类型中，我们发现基于 enRERV-RT 的 PE 系统比基于 M-MLV-RT 的 PE 系统表现出更高的编辑效率。总的来说，我们的工作建立了一个多功能、高效的 PE 系统，从而促进临床基因治疗和精准作物育种的进步。",
-      "url": "https://doi.org/10.1002/advs.75888",
-      "sourceUrl": "https://doi.org/10.1002/advs.75888",
-      "citationCount": 0,
-      "relevanceScore": 46,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "CRISPR"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "CRISPR"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "CRISPR"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Genome-Scale Metabolic Modeling of Terpenoid Biosynthesis: Advances and Perspectives.",
       "titleZh": "萜类生物合成的基因组规模代谢模型：进展和前景。",
       "journal": "Journal of agricultural and food chemistry",
@@ -33894,9 +33848,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 687 篇",
-    "lastStartedAt": "2026-10-13T07:15:25.480Z",
-    "lastFinishedAt": "2026-10-13T07:16:28.935Z",
+    "lastMessage": "更新完成，共 686 篇",
+    "lastStartedAt": "2026-10-14T05:40:41.630Z",
+    "lastFinishedAt": "2026-10-14T05:41:51.887Z",
     "nextRunAt": null,
     "progress": 100
   }
