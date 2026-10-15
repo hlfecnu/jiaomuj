@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:41:51.887Z",
+  "updatedAt": "2026-10-15T05:27:49.969Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -22587,7 +22587,7 @@
       ],
       "included": true,
       "articleScore": 44,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -25072,7 +25072,7 @@
       "abstractZh": "中温大曲（MTD）在其表面（QS）和内部（QI）部分之间表现出明显的空间异质性，但它们的功能差异仍然知之甚少。本研究比较了 QS 和 QI 的理化特性、代谢物和物种水平的微生物群落，并评估了它们对模拟浓味白酒 (SFB) 发酵的影响。 QS 表现出较高的糖化和液化活性以及较高的乳酸菌和酵母菌数量，而 QI 则富含嗜热霉菌和挥发性化合物。 32 种微生物生物标志物区分了 QS 和 QI，并且 QS 显示出更复杂的微生物共现模式。模拟发酵显示细菌早期分化，随后收敛为金山乙酰乳酸杆菌。在发酵中后期，QI 的酸和酯含量高于 QS。总的来说，QS 主要与底物转化和早期发酵启动相关，而 QI 与后期发酵阶段的风味发展密切相关。这些发现为 MTD 优化和 SFB 质量控制提供了宝贵的见解。",
       "url": "https://doi.org/10.1016/j.fochx.2026.104225",
       "sourceUrl": "https://doi.org/10.1016/j.fochx.2026.104225",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -25092,7 +25092,7 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
+      "articleScore": 55,
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 7,
@@ -28251,7 +28251,7 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 41,
+      "journalScore": 42,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -32560,7 +32560,7 @@
       "abstractZh": "目的 阐明产朊假丝酵母单细胞蛋白在仔猪日粮中的营养功能和实际应用价值。方法本试验将90头断奶仔猪（初始体重：7.24±1.30 kg）随机分为3个饲粮处理，连续28天，用0、3%、5%玉米浆单细胞蛋白部分替代豆粕。 (FP50) 在等氮和等能量基础上配制的日粮中。结果 日粮中添加 FP50 不会损害生长性能、饲料效率或腹泻发生率。相比之下，DM 和 CP 的表观总消化道消化率随着 FP50 含量的增加而增加（p p p p Blautia、Romboutsia 和 Anaerobutyricum），Spearman 相关分析显示，其与营养物质消化率和肠道形态呈正相关，但与盲肠 BCFA 呈负相关。此外，FP50 增强了全身抗氧化能力，如血清 SOD 活性增加所反映的那样（p 结论 FP50 可以部分替代断奶仔猪日粮中的豆粕，而不影响生长性能，同时提高养分利用率和",
       "url": "https://doi.org/10.3389/fvets.2026.1862132",
       "sourceUrl": "https://doi.org/10.3389/fvets.2026.1862132",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 63,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -32580,8 +32580,8 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 55,
-      "journalScore": 41,
+      "articleScore": 61,
+      "journalScore": 42,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
@@ -33849,8 +33849,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 686 篇",
-    "lastStartedAt": "2026-10-14T05:40:41.630Z",
-    "lastFinishedAt": "2026-10-14T05:41:51.887Z",
+    "lastStartedAt": "2026-10-15T05:26:03.696Z",
+    "lastFinishedAt": "2026-10-15T05:27:49.969Z",
     "nextRunAt": null,
     "progress": 100
   }
