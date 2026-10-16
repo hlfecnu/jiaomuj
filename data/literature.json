@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:27:49.969Z",
+  "updatedAt": "2026-10-16T05:19:59.893Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -1701,7 +1701,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -2847,7 +2847,7 @@
       "articleScore": 43,
       "translationError": "Translation returned 429",
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -8466,8 +8466,8 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -9904,7 +9904,7 @@
       "abstractZh": "作为重要的经济油料作物，德鲁普花茶（C. drupifera）的品质与其三萜类化合物含量密切相关，特别是角鲨烯，在医药应用方面表现出巨大的潜力。为了阐明德鲁普花角鲨烯生物合成的调控机制，为其品质改良和高效生产提供支持，本研究构建了MeJA诱导的德鲁普法拉酵母cDNA文库。使用角鲨烯合酶（CdSQS）启动子作为诱饵，鉴定出两个锌指同源域转录因子ZF-HD1和ZF-HD9。在MeJA处理下，ZF-HD1/9、MYC2和SQS的表达上调，促进角鲨烯合成。双荧光素酶报告基因 (DLR) 和电泳迁移率变动分析 (EMSA) 证实 ZF-HD1/9 直接结合并激活 CdSQS 启动子。使用纳米颗粒介导的 dsRNAi 瞬时沉默，我们证明 ZF-HD1/9 的敲低会下调关键结构基因（SQS、SQE、bAS、CYP716A17 和 UGT73B2），并显着降低角鲨烯、2,3-氧化角鲨烯和茶皂苷的水平。此外，通过建立发根农杆菌介导的毛状根转化系统",
       "url": "https://doi.org/10.1093/jxb/erag193",
       "sourceUrl": "https://doi.org/10.1093/jxb/erag193",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -9924,9 +9924,9 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
+      "articleScore": 55,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18645,10 +18645,10 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 51,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -19295,7 +19295,7 @@
       "abstractZh": "L-(+)-酒石酸（L-TA）是食品和药品必需的高价值手性有机酸。尽管其工业重要性，可持续绿色生产却因缺乏完全明确的生物合成途径而受到限制。在这里，我们通过反应引导的酶挖掘、实验验证和酶委员会特异性催化混合优化器 (ECHO) 辅助的酶优先级排序，报告了酿酒酵母中 L-TA 的从头生物合成。我们首先阐明了在转酮醇酶 (TK) 和琥珀酸半醛脱氢酶 (SSDH) 的催化下，从前体 5-酮-D-葡萄糖酸 (5-KGA) 到 L-TA 的难以捉摸的两步转化。为了优化这一关键步骤，我们开发了 ECHO。该多模态框架集成了序列、底物和口袋感知结构信息，以识别高性能 TK-SSDH 对。通过将该途径与从头前体合成、辅因子工程和半理性蛋白质工程相结合，在 5 L 生物反应器中实现了 6.59 mg L-1 的最终 L-TA 效价。通过多模块工程策略连接计算挖掘和代谢组装，我们的研究为 L-TA pro 建立了一个绿色平台",
       "url": "https://doi.org/10.1038/s41467-026-76119-w",
       "sourceUrl": "https://doi.org/10.1038/s41467-026-76119-w",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 70,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -19321,11 +19321,11 @@
         "蛋白质工程"
       ],
       "included": true,
-      "articleScore": 59,
-      "journalScore": 51,
+      "articleScore": 65,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -22241,10 +22241,10 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 51,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -22540,10 +22540,10 @@
       ],
       "included": true,
       "articleScore": 65,
-      "journalScore": 51,
+      "journalScore": 54,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -27259,7 +27259,7 @@
       "included": true,
       "articleScore": 63,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -27519,7 +27519,7 @@
       "included": true,
       "articleScore": 58,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -30534,8 +30534,8 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -31028,8 +31028,8 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -33849,8 +33849,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 686 篇",
-    "lastStartedAt": "2026-10-15T05:26:03.696Z",
-    "lastFinishedAt": "2026-10-15T05:27:49.969Z",
+    "lastStartedAt": "2026-10-16T05:19:04.509Z",
+    "lastFinishedAt": "2026-10-16T05:19:59.893Z",
     "nextRunAt": null,
     "progress": 100
   }
