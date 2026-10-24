@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:38:20.406Z",
+  "updatedAt": "2026-10-24T05:16:58.568Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -294,6 +294,209 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Biosynthesis, enzymatic basis, and transcriptional regulation of benzylisoquinoline alkaloids in medicinal plants.",
+      "titleZh": "",
+      "journal": "Zeitschrift fur Naturforschung. C, Journal of biosciences",
+      "targetJournal": "全部收录期刊",
+      "issn": "0939-5075",
+      "eissn": "1865-7125",
+      "year": 2026,
+      "date": "2026-10-22",
+      "authors": "Zhao Y, Zhang M, Peng Y, Zheng Y, Tan R, Jiang H.",
+      "doi": "10.1515/znc-2026-0164",
+      "doiUrl": "https://doi.org/10.1515/znc-2026-0164",
+      "pmid": "42905491",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42905491/",
+      "pmcid": "",
+      "abstract": "Benzylisoquinoline alkaloids (BIAs) are a class of structurally diverse secondary metabolites, with over 2,500 identified variants classified into seven major categories based on their core skeletons. These compounds exhibit significant pharmacological activities - including antitumor, antibacterial, and anti-inflammatory effects - and serve as important sources of clinical drugs such as morphine, berberine, and magnoflorine. Currently, BIAs are primarily obtained through plant cultivation and extraction. However, factors such as low in-planta content, seasonal constraints, and environmental variability contribute to vulnerabilities in the supply chain. In light of these challenges, microbial biosynthesis using engineered strains (e.g., yeast) has emerged as a promising alternative, though it requires complete elucidation and functional expression of all pathway enzymes. Enhancing BIAs production in crops through transcriptional regulation - targeting key enzymes, transcription factors (such as WRKY, bHLH, and AP2/ERF families), and phytohormone signaling - represents a feasible interim strategy. Advanced approaches, including coexpression of enzyme genes and transcription factors, hold promise for accelerating the development of industrial-scale alkaloid-producing cell factories and crop improvement, thereby enabling sustainable drug supply.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1515/znc-2026-0164",
+      "sourceUrl": "https://doi.org/10.1515/znc-2026-0164",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Crosstalk between RTG and TOR pathways mediates adaptation to amino acid starvation during fermentative growth in Saccharomyces cerevisiae.",
+      "titleZh": "",
+      "journal": "G3 (Bethesda, Md.)",
+      "targetJournal": "全部收录期刊",
+      "issn": "2160-1836",
+      "eissn": "2160-1836",
+      "year": 2026,
+      "date": "2026-10-22",
+      "authors": "Druseikis M, Covo S.",
+      "doi": "10.1093/g3journal/jkag261",
+      "doiUrl": "https://doi.org/10.1093/g3journal/jkag261",
+      "pmid": "42908274",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42908274/",
+      "pmcid": "",
+      "abstract": "In the presence of glucose, Saccharomyces cerevisiae prefers glycolysis followed by fermentation to generate ATP. One adaptation to this fermentative lifestyle is the retrograde pathway (RTG), which induces the transcription of genes, including several Krebs cycle genes, to increase pools of alpha-ketoglutarate. We previously found that both petite and RTG mutants are highly sensitive to canavanine, a toxic analog of arginine, indicating that residual respiration and the RTG pathway are required to maintain arginine levels in the cell. Yet, from an amino acid biosynthesis standpoint, it is unclear how the RTG pathway balances between respiration and fermentation. Here, we show that use of a non-fermentable carbon source restored RTG mutants' ability to grow without arginine or lysine and improved their growth on canavanine and thialysine. Relief of glucose repression via deletion of MIG1 improved RTG mutant growth on agar under arginine or lysine limitation but was not sufficient to restore growth on a toxic analog. rtg2Δ exhibited more canavanine sensitivity than other RTG mutants, was not rescued by mig1Δ, and was only partially rescued by mks1Δ, suggesting that Rtg2 may have an additional function required for canavanine tolerance. Target of rapamycin (TOR) signaling as a pro-growth factor suppresses the RTG pathway, but it is unknown if both pathways complement each other. We found that TOR signaling contributes to canavanine tolerance in an RTG-independent manner. The broad implications of our results are found in the importance of fermentative lifestyle under amino acid starvation as part of industrial and malignant ecosystems.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/g3journal/jkag261",
+      "sourceUrl": "https://doi.org/10.1093/g3journal/jkag261",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 56,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 2,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "The transcription factor CgGCN4 coordinates carbon-nitrogen metabolism to improve glycerol and ethanol biosynthesis under low-nitrogen stress in yeast.",
+      "titleZh": "",
+      "journal": "Preparative biochemistry & biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1082-6068",
+      "eissn": "1532-2297",
+      "year": 2026,
+      "date": "2026-10-22",
+      "authors": "Wang M, Zhuge B, Jiang D, Wang Z, Zong H.",
+      "doi": "10.1080/10826068.2026.2748975",
+      "doiUrl": "https://doi.org/10.1080/10826068.2026.2748975",
+      "pmid": "42908328",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42908328/",
+      "pmcid": "",
+      "abstract": "Nitrogen limitation suppresses growth and target metabolite synthesis of industrial yeast, and the key transcription factor coordinating carbon-nitrogen balance in Candida glycerinogenes remains unclear. This work identified CgGCN4 as the core effector of nitrogen starvation response: screen nitrogen-starvation responsive transcription factor in C. glycerinogenes; characterize physiological function via overexpression and antisense repression in glycerol-producing yeast; test cross-species function by heterologous expression in S. cerevisiae for ethanol fermentation application. qRT-PCR reveals nitrogen starvation activates three nutrient-sensing pathways, with CgGCN4 showing the highest transcript level (4.2). At 84 h fermentation, CgGCN4-OE consumes 250.2 g/L glucose, yields 122.6 g/L glycerol and reaches OD600 of 45.6, outperforming wild type. Transcriptomics demonstrates CgGCN4 co-upregulates glycolysis, TCA and amino acid synthesis to balance C/N metabolism. Its conserved function is validated in Saccharomyces cerevisiae. In 5 L fed-batch culture, engineered Sc-BNA-MG produces 67.7 g/L ethanol (10.1% higher than control), with intracellular NAD(H) pool rising by 27.5% at 6 h. CgGCN4 serves as a cross-species regulatory hub mitigating low-nitrogen stress, a promising target for yeast factory engineering.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1080/10826068.2026.2748975",
+      "sourceUrl": "https://doi.org/10.1080/10826068.2026.2748975",
+      "citationCount": 0,
+      "relevanceScore": 74,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造",
+        "酿酒酵母",
+        "念珠菌",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 61,
+      "translationError": "Translation returned 429",
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Promotion effect of nutrient competition and secreted compounds on ethanol tolerance of Saccharomyces cerevisiae in co-culture with Lactiplantibacillus plantarum.",
+      "titleZh": "",
+      "journal": "Letters in applied microbiology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0266-8254",
+      "eissn": "1472-765X",
+      "year": 2026,
+      "date": "2026-10-21",
+      "authors": "Chen Z, Hao J, He X, Ji Y, Yu C, Li H.",
+      "doi": "10.1093/lambio/ovag090",
+      "doiUrl": "https://doi.org/10.1093/lambio/ovag090",
+      "pmid": "42905463",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42905463/",
+      "pmcid": "",
+      "abstract": "Saccharomyces cerevisiae serves as a cornerstone microorganism in industrial fermentation, and its production processes frequently involve co-fermentation with companion microbes. Among these, lactic acid bacteria (LAB) are commonly employed in combination with S. cerevisiae for various fermentation applications. Our previous work has demonstrated that co-cultivation with Lactiplantibacillus plantarum confers improved ethanol tolerance on yeast cells. Nevertheless, the precise determinants responsible for this beneficial effect remain incompletely elucidated. In the present study, we performed a sequential factor-exclusion strategy to systematically dissect the specific co-culture-derived elements that contribute to this phenotypic enhancement. Our experimental evidence demonstrated that glucose competition and the secretion of compounds by L. plantarum significantly contributed to the elevated ethanol resistance of yeast, whereas competition for physical space exerted no measurable influence. These observations advance our mechanistic understanding of inter-species dynamics between S. cerevisiae and accompanying microorganisms in fermentation ecosystems.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1093/lambio/ovag090",
+      "sourceUrl": "https://doi.org/10.1093/lambio/ovag090",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Evolution of the arbuscular mycorrhizal regulatory network through differential GRAS gene retention and protein interaction in land plants.",
       "titleZh": "",
       "journal": "Proceedings of the National Academy of Sciences of the United States of America",
@@ -387,9 +590,9 @@
       "included": true,
       "articleScore": 57,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -978,65 +1181,9 @@
       "included": true,
       "articleScore": 51,
       "translationError": "Translation returned 429",
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Engineering a stable high-copy episomal plasmid in Yarrowia lipolytica.",
-      "titleZh": "",
-      "journal": "FEMS yeast research",
-      "targetJournal": "全部收录期刊",
-      "issn": "1567-1356",
-      "eissn": "1567-1364",
-      "year": 2026,
-      "date": "2026-10-13",
-      "authors": "Li F, Peng S, Xu H, Guo Y, Qi Q, Hou J.",
-      "doi": "10.1093/femsyr/foag054",
-      "doiUrl": "https://doi.org/10.1093/femsyr/foag054",
-      "pmid": "42867224",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42867224/",
-      "pmcid": "",
-      "abstract": "Episomal plasmids are widely used in yeast metabolic engineering for their flexibility and high transformation efficiency. However, their application in Yarrowia lipolytica is often limited by low copy number and insufficient genetic stability. In this study, a robust episomal plasmid that balanced genetic stability and protein expression capacity was developed in Y. lipolytica. The autonomously replicating sequence (ARS) elements were selected, and ARS1 was identified as a favorable element that balanced genetic stability and gene expression capacity. To improve plasmid copy number, different ubiquitin degrons were used to tune selection marker abundance, and Ubi-R-Δk-mediated marker resulted in an approximately fourfold increase in plasmid copy number (from ∼1 to ∼5 copies per cell). The copy number of the engineered plasmid was one of the highest‑copy episomal systems in Y. lipolytica. To further evaluate the engineered plasmid, we applied it to β‑carotene biosynthesis. The results showed that the β‑carotene titer was 3.43‑fold higher than that of the non‑optimized plasmid. Collectively, this work expands the episomal plasmid toolbox for Y. lipolytica and establishes a generalizable framework for robust protein expression plasmid engineering in non-conventional yeasts.",
-      "abstractZh": "",
-      "url": "https://doi.org/10.1093/femsyr/foag054",
-      "sourceUrl": "https://doi.org/10.1093/femsyr/foag054",
-      "citationCount": 0,
-      "relevanceScore": 64,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "解脂耶氏酵母",
-        "非传统酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "代谢工程",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "解脂耶氏酵母",
-        "非传统酵母",
-        "酵母",
-        "代谢工程",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "解脂耶氏酵母",
-        "非传统酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "代谢工程",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 55,
-      "translationError": "Translation returned 429",
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1247,7 +1394,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -1547,9 +1694,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2474,7 +2621,7 @@
       "articleScore": 53,
       "translationError": "Translation returned 429",
       "journalScore": 41,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -2932,6 +3079,58 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Biosynthesis of Active Ginsenoside Aglycone Analogues Using Two Oxidases Mined from Mucor spinosus.",
+      "titleZh": "使用从毛霉中提取的两种氧化酶生物合成活性人参皂苷苷元类似物。",
+      "journal": "Journal of agricultural and food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-8561",
+      "eissn": "1520-5118",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Peng Y, Lin XM, An YH, Sun H, Li Y, Sun XY, Gong T, Chen JJ, Chen TJ, Yang JL, Zhu P.",
+      "doi": "10.1021/acs.jafc.5c08774",
+      "doiUrl": "https://doi.org/10.1021/acs.jafc.5c08774",
+      "pmid": "42742465",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42742465/",
+      "pmcid": "",
+      "abstract": "The pharmacological activity of protopanaxadiol (PPD) can be enhanced by oxidative modification. Compared with chemical synthesis and biotransformation, synthetic biology offers a more efficient and eco-friendly approach for modifying PPD. In this study, we identified two oxidases from Mucor spinosus. MsSDR3 oxidizes C3-OH of both dammarenediol-II and PPD to a ketone, while MsCYP3 oxidizes C12-OH of PPD to a ketone and hydroxylates PPD at C7β, C15α, and C11β positions. Combining MsSDR3/MsCYP3 with the enzymes involved in ginsenoside biosynthesis, we achieved de novo biosynthesis of seven ginsenoside aglycone analogues in Saccharomyces cerevisiae. Pharmacological evaluation indicated that 12-oxo-15α-hydroxy-protopanaxadiol (p3) showed higher anticolon cancer activity, and 7β-hydroxy-protopanaxadiol (p6) exhibited not only higher anticolon, antigastric, antiliver, antilung, and antipancreatic cancer activities but also higher cardioprotective activity than PPD. Our work establishes a green and sustainable platform for producing active ginsenoside aglycone analogues, paving the way for the development of drugs and functional foods.",
+      "abstractZh": "原人参二醇（PPD）的药理活性可以通过氧化修饰来增强。与化学合成和生物转化相比，合成生物学为修饰PPD提供了一种更高效、更环保的方法。在这项研究中，我们从棘毛霉中鉴定出了两种氧化酶。 MsSDR3 将达玛烯二醇-II 和 PPD 的 C3-OH 氧化为酮，而 MsCYP3 将 PPD 的 C12-OH 氧化为酮，并在 C7β、C15α 和 C11β 位点羟基化 PPD。将MsSDR3/MsCYP3与参与人参皂苷生物合成的酶相结合，我们在酿酒酵母中实现了七种人参皂苷苷元类似物的从头生物合成。药理学评价表明，12-oxo-15α-羟基原人参二醇（p3）具有较高的抗结肠癌活性，7β-羟基原人参二醇（p6）不仅具有较高的抗结肠癌、抗胃、抗肝、抗肺、抗胰腺癌活性，而且比PPD具有较高的心脏保护活性。我们的工作建立了一个生产活性人参皂苷苷元类似物的绿色可持续平台，为药物和功能食品的开发铺平了道路。",
+      "url": "https://doi.org/10.1021/acs.jafc.5c08774",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.5c08774",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "合成生物学"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母",
+        "合成生物学"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "合成生物学"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 10,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Biotic and Abiotic Elicitation Enhances Silymarin Biosynthesis in &lt;i&gt;Silybum marianum&lt;/i&gt; Callus Cultures: Integrating HPLC Profiling and Gene Expression Analysis.",
       "titleZh": "",
       "journal": "Pakistan journal of biological sciences : PJBS",
@@ -3123,6 +3322,53 @@
       "journalScore": 44,
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Fermentation-Promoting Peptides Enhance Yeast Robustness during Very High Gravity Fermentation by Reinforcing Antioxidant Defenses and Modulating Intracellular Metabolism.",
+      "titleZh": "",
+      "journal": "Journal of agricultural and food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-8561",
+      "eissn": "1520-5118",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Zeng Y, Gong F, Huang D, Chen C, Li J, Zhao H, Yang H.",
+      "doi": "10.1021/acs.jafc.6c02885",
+      "doiUrl": "https://doi.org/10.1021/acs.jafc.6c02885",
+      "pmid": "42904984",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42904984/",
+      "pmcid": "",
+      "abstract": "Very high gravity (VHG) fermentation imposes multiple stresses that impair yeast performance. The effects of fermentation-promoting peptides and their corresponding amino acids on yeast physiology and metabolism were systematically examined under VHG conditions. Peptide supplementation, particularly LL (Leu-Leu), LLL (Leu-Leu-Leu), and LML (Leu-Met-Leu), significantly enhanced yeast growth and ethanol production compared with free amino acids. Peptide-treated cells exhibited alleviated oxidative stress, as evidenced by reduced intracellular ROS and malondialdehyde (MDA) levels, preservation of mitochondrial membrane potential (ΔΨm), and improved membrane integrity. These improvements were accompanied by elevated activities of CAT, SOD, and GSH-Px, increased GSH accumulation, and a more favorable GSH/GSSG ratio. Metabolomic analysis revealed extensive metabolic adjustments involving amino acid metabolism, central carbon pathways, lipid remodeling, and redox-related processes, collectively supporting cellular energy and stress adaptation. Overall, fermentation-promoting peptides reinforce antioxidant defenses and reprogram intracellular metabolism, thereby improving yeast robustness and fermentation efficiency under VHG conditions.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1021/acs.jafc.6c02885",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.6c02885",
+      "citationCount": 0,
+      "relevanceScore": 63,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5273,9 +5519,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7142,58 +7388,6 @@
       "journalScore": 41,
       "journalQuartile": "Q2",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Biosynthesis of Active Ginsenoside Aglycone Analogues Using Two Oxidases Mined from Mucor spinosus.",
-      "titleZh": "使用从毛霉中提取的两种氧化酶生物合成活性人参皂苷苷元类似物。",
-      "journal": "Journal of agricultural and food chemistry",
-      "targetJournal": "全部收录期刊",
-      "issn": "0021-8561",
-      "eissn": "1520-5118",
-      "year": 2026,
-      "date": "2026-09-15",
-      "authors": "Peng Y, Lin XM, An YH, Sun H, Li Y, Sun XY, Gong T, Chen JJ, Chen TJ, Yang JL, Zhu P.",
-      "doi": "10.1021/acs.jafc.5c08774",
-      "doiUrl": "https://doi.org/10.1021/acs.jafc.5c08774",
-      "pmid": "42742465",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42742465/",
-      "pmcid": "",
-      "abstract": "The pharmacological activity of protopanaxadiol (PPD) can be enhanced by oxidative modification. Compared with chemical synthesis and biotransformation, synthetic biology offers a more efficient and eco-friendly approach for modifying PPD. In this study, we identified two oxidases from Mucor spinosus. MsSDR3 oxidizes C3-OH of both dammarenediol-II and PPD to a ketone, while MsCYP3 oxidizes C12-OH of PPD to a ketone and hydroxylates PPD at C7β, C15α, and C11β positions. Combining MsSDR3/MsCYP3 with the enzymes involved in ginsenoside biosynthesis, we achieved de novo biosynthesis of seven ginsenoside aglycone analogues in Saccharomyces cerevisiae. Pharmacological evaluation indicated that 12-oxo-15α-hydroxy-protopanaxadiol (p3) showed higher anticolon cancer activity, and 7β-hydroxy-protopanaxadiol (p6) exhibited not only higher anticolon, antigastric, antiliver, antilung, and antipancreatic cancer activities but also higher cardioprotective activity than PPD. Our work establishes a green and sustainable platform for producing active ginsenoside aglycone analogues, paving the way for the development of drugs and functional foods.",
-      "abstractZh": "原人参二醇（PPD）的药理活性可以通过氧化修饰来增强。与化学合成和生物转化相比，合成生物学为修饰PPD提供了一种更高效、更环保的方法。在这项研究中，我们从棘毛霉中鉴定出了两种氧化酶。 MsSDR3 将达玛烯二醇-II 和 PPD 的 C3-OH 氧化为酮，而 MsCYP3 将 PPD 的 C12-OH 氧化为酮，并在 C7β、C15α 和 C11β 位点羟基化 PPD。将MsSDR3/MsCYP3与参与人参皂苷生物合成的酶相结合，我们在酿酒酵母中实现了七种人参皂苷苷元类似物的从头生物合成。药理学评价表明，12-oxo-15α-羟基原人参二醇（p3）具有较高的抗结肠癌活性，7β-羟基原人参二醇（p6）不仅具有较高的抗结肠癌、抗胃、抗肝、抗肺、抗胰腺癌活性，而且比PPD具有较高的心脏保护活性。我们的工作建立了一个生产活性人参皂苷苷元类似物的绿色可持续平台，为药物和功能食品的开发铺平了道路。",
-      "url": "https://doi.org/10.1021/acs.jafc.5c08774",
-      "sourceUrl": "https://doi.org/10.1021/acs.jafc.5c08774",
-      "citationCount": 0,
-      "relevanceScore": 60,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "合成生物学"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酿酒酵母",
-        "酵母",
-        "合成生物学"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "合成生物学"
-      ],
-      "included": true,
-      "articleScore": 53,
-      "journalScore": 46,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9930,7 +10124,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11772,7 +11966,7 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11965,6 +12159,59 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Direct Heterologous Expression of Cyclic Conotoxin [G22N]Vc1.1 in Yeast.",
+      "titleZh": "",
+      "journal": "ACS chemical biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1554-8929",
+      "eissn": "1554-8937",
+      "year": 2026,
+      "date": "2026-09-01",
+      "authors": "Xie J, Yap K, Wang CK, Durek T, Craik DJ.",
+      "doi": "10.1021/acschembio.6c00509",
+      "doiUrl": "https://doi.org/10.1021/acschembio.6c00509",
+      "pmid": "42906018",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42906018/",
+      "pmcid": "",
+      "abstract": "Backbone-cyclized conotoxin Vc1.1 is a potent GABAB receptor agonist and analgesic drug lead for treating neuropathic pain. Here, we describe two yeast-based strategies for the direct recombinant production of this cyclic, disulfide-rich peptide. In the first approach, using Pichia pastoris, a fusion protein comprising the conotoxin precursor and a full-length asparaginyl ligase connected by a poly-His linker was secreted into the culture medium. Cyclization of the secreted α-conotoxin was initiated by a two-step pH adjustment protocol for generating the correctly folded conotoxin. In the second approach, Saccharomyces cerevisiae was engineered to display the activated ligase on its cell surface while secreting Vc1.1 precursors extracellularly. Cyclized peptides were detected in the culture supernatant without further processing. These two strategies provide efficient routes for the direct recombinant production of disulfide-rich and backbone-cyclized peptides.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1021/acschembio.6c00509",
+      "sourceUrl": "https://doi.org/10.1021/acschembio.6c00509",
+      "citationCount": 0,
+      "relevanceScore": 71,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "异源表达",
+        "酿酒酵母",
+        "毕赤酵母"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母",
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "translationError": "Translation returned 429",
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Emerging antifungal strategies against Candida albicans using metal-organic frameworks and novel therapeutics: Opportunities and challenges.",
       "titleZh": "使用金属有机框架和新颖疗法对抗白色念珠菌的新兴抗真菌策略：机遇和挑战。",
       "journal": "Journal of food and drug analysis",
@@ -12032,7 +12279,7 @@
       "abstractZh": "芥子油苷是富含硫的植物专门代谢物，可应用于营养保健品和农业生物技术。源自链延长氨基酸的复杂芥子油苷的微生物生产仍然受到难以表达的关键生物合成酶的限制。在这里，我们报告了通过结合大肠杆菌和酿酒酵母的模块化工程策略首次微生物生物合成 2-苯乙基芥子油苷（2PE）。细菌模块对于实现铁硫簇酶的功能表达至关重要，该酶催化苯丙氨酸氨基酸侧链延伸为高苯丙氨酸。酵母模块包含将高苯丙氨酸转化为2PE的核心结构途径。通过分别优化模块，我们在测试的芸苔科酶中鉴定出了优异的 CYP79F、MAM 和 BCAT 变体。为了解决磺基转移酶催化的硫酸化步骤中的代谢瓶颈，我们通过硫酸盐进料优化了 PAPS 辅因子的可用性，从而使 2PE 滴度增加了 10 倍，并部分缓解了脱硫-2-苯乙基芥子油苷 (ds-2PE) 瓶颈。碳源进一步优化",
       "url": "https://doi.org/10.1093/jxb/erag249",
       "sourceUrl": "https://doi.org/10.1093/jxb/erag249",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 67,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -12055,11 +12302,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 57,
-      "journalScore": 47,
+      "articleScore": 63,
+      "journalScore": 51,
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -12586,9 +12833,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12788,9 +13035,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12992,7 +13239,7 @@
       "articleScore": 49,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13041,7 +13288,7 @@
       "articleScore": 43,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13508,10 +13755,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 51,
       "journalQuartile": "Q1",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0.5,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -13908,7 +14155,7 @@
       "articleScore": 59,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16373,7 +16620,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -17221,10 +17468,10 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "journalScore": 44,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -18532,7 +18779,7 @@
       "included": true,
       "articleScore": 59,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19435,7 +19682,7 @@
       "included": true,
       "articleScore": 59,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21947,7 +22194,7 @@
       "abstractZh": "面包是重要的能量来源，在人类饮食中广泛食用。作为富含碳水化合物的食物，它通常被认为会损害血糖稳态；然而，临床和分子证据表明，其效果可能会因所食用面包的特性而异。特别是，酵母发酵面包被认为可以通过食物基质中代谢物的变化以及发酵过程中发生的化学和物理变化对血糖产生潜在的有益影响。然而，由于不同的实验设计、异质群体或关注酸面团发酵而没有考虑酵母发酵的影响，有关该主题的人类干预研究的证据并不一致。我们的目的是评估食用发酵面包对健康成年人的血糖和胰岛素血症产生积极影响的证据。为此，我们进行了系统回顾，以识别和分析相关的人体研究，并根据欧洲食品安全局档案框架对所调查的面包进行表征并讨论可能的作用机制。我们确定了 27 项符合我们纳入标准的研究",
       "url": "https://doi.org/10.3389/fnut.2026.1910648",
       "sourceUrl": "https://doi.org/10.3389/fnut.2026.1910648",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -21967,11 +22214,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
+      "articleScore": 55,
+      "journalScore": 44,
+      "journalQuartile": "Q2",
       "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -23088,8 +23335,57 @@
       "articleScore": 59,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Effects of an &lt;i&gt;Aspergillus niger&lt;/i&gt; fermentation product and yeast mannan-rich fraction on dairy calf performance and rumen development.",
+      "titleZh": "黑曲霉发酵产物和富含酵母甘露聚糖的部分对奶牛生产性能和瘤胃发育的影响。",
+      "journal": "The Journal of dairy research",
+      "targetJournal": "全部收录期刊",
+      "issn": "0022-0299",
+      "eissn": "1469-7629",
+      "year": 2026,
+      "date": "2026-08-01",
+      "authors": "Yerby S, Huntington J, Jonsson NN, Warren H.",
+      "doi": "10.1017/s0022029926102143",
+      "doiUrl": "https://doi.org/10.1017/s0022029926102143",
+      "pmid": "42290589",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42290589/",
+      "pmcid": "",
+      "abstract": "This Research Paper tested the hypothesis that the dietary inclusion of a fermentation product of Aspergillus niger (ANP), alone, or in combination with a mannan-rich fraction (MRF) derived from Saccharomyces cerevisiae cell wall, would enhance dairy calf performance and rumen variables. Thirty Holstein-Friesian bull calves (age 19 ± 5 days) were obtained from a single farm and randomly assigned according to days of age to one of three dietary treatment groups and one of two cull dates, experimental day 27 (immediately prior to weaning) or experimental day 70. Dietary treatment groups were: CTRL, no treatment; ANP, 3 g/day ANP; MRF, 3 g/day ANP and 2 g/day MRF. Calves were housed and fed individually and had ad libitum access to starter concentrates, water, and straw. Throughout the trial, ANP calves consumed a greater quantity of solid starter feed than CTRL and MRF calves. Body weight, average daily gain, apparent total tract dry matter digestibility and faecal scores were unaffected by treatment. Calves fed ANP and MRF had improved feed conversion efficiency compared with CTRL in some weeks, but this was not consistent throughout the pre-weaned and weaned periods. Calves fed MRF had a decreased acetate to propionate ratio compared with CTRL pre-weaning, and ANP had a lower acetate to propionate ratio and higher propionate proportion of total VFA compared with CTRL post-weaning. At both culling timepoints, ANP and MRF had thicker stratum basale, stratum spinosum and stratum granulosum in their rumen papillae compared with CTRL. The inclusion of ANP and ANP + MRF could favourably alter rumen fermentation and increase the metabolic and absorptive capacity of papillae in transition stage dairy calves but no consistent effects of treatment on calf growth or feed efficiency were observed in this trial.",
+      "abstractZh": "本研究论文测试了这样的假设：日粮中单独添加黑曲霉 (ANP) 发酵产物，或与源自酿酒酵母细胞壁的富含甘露聚糖组分 (MRF) 相结合，可提高奶牛犊的生产性能和瘤胃变量。从单个农场获得 30 头荷斯坦-弗里斯兰公牛犊（年龄 19 ± 5 天），并根据日龄随机分配到三个饮食治疗组之一和两个淘汰日期之一，即实验第 27 天（断奶前）或实验第 70 天。饮食治疗组为：CTRL，不处理； ANP，3克/天ANP； MRF、3 克/天 ANP 和 2 克/天 MRF。小牛单独圈养和喂养，并且可以随意获取发酵剂浓缩物、水和稻草。在整个试验过程中，ANP 犊牛消耗的固体饲料量比 CTRL 和 MRF 犊牛多。体重、平均日增重、表观总消化道干物质消化率和粪便评分未受治疗影响。与 CTRL 相比，饲喂 ANP 和 MRF 的犊牛在几周内提高了饲料转化效率，但这在整个断奶前和断奶期间并不一致。犊牛饲喂 MRF",
+      "url": "https://doi.org/10.1017/s0022029926102143",
+      "sourceUrl": "https://doi.org/10.1017/S0022029926102143",
+      "citationCount": 1,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造",
+        "酿酒酵母"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 63,
+      "journalScore": 53,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -23331,9 +23627,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23634,9 +23930,9 @@
       ],
       "included": true,
       "articleScore": 58,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23875,7 +24171,7 @@
       "articleScore": 49,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24440,10 +24736,10 @@
       ],
       "included": true,
       "articleScore": 70,
-      "journalScore": 65,
+      "journalScore": 56,
       "journalQuartile": "Q1",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 4,
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 2,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -26991,9 +27287,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31620,9 +31916,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33179,9 +33475,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34436,9 +34732,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35220,7 +35516,7 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35457,61 +35753,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 46,
+      "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 9,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Yeast-Based Bio-Valorization of Whey for Sustainable and Functional Bread Development: A Step Toward Next-Generation Food Products.",
-      "titleZh": "基于酵母的乳清生物价值用于可持续和功能性面包开发：迈向下一代食品的一步。",
-      "journal": "Journal of food science",
-      "targetJournal": "全部收录期刊",
-      "issn": "1750-3841",
-      "eissn": "1750-3841",
-      "year": 2026,
-      "date": "2026-07-01",
-      "authors": "Gujral D, Khanna R, Bhushan K, Singh A.",
-      "doi": "10.1111/1750-3841.71264",
-      "doiUrl": "https://doi.org/10.1111/1750-3841.71264",
-      "pmid": "42402714",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42402714/",
-      "pmcid": "",
-      "abstract": "Two indigenous strains of Saccharomyces cerevisiae (GP4 and 11815), isolated from traditional fermented products of the Northwestern Himalayas, together with a lactose-utilizing yeast, Kluyveromyces marxianus (MH6), and two commercial S. cerevisiae (dry and compressed), were comparatively evaluated for their suitability in producing sustainable whey-based bread. All yeast strains were assessed for critical baking-relevant characteristics, including growth kinetics, acid tolerance, maltose utilization, invertase activity, and latency period, along with quality parameters such as texture profile and color. K. marxianus (MH6) was identified as the most effective strain for whey fermentation due to its lactose-utilizing capability, S. cerevisiae (GP4) was selected for dough fermentation owing to its better baking traits, maltose metabolism, and favorable bread quality attributes. Based on the biochemical profiling (3.3 °Brix, 8.4% total sugars, 2.9% reducing sugars, 0.21% soluble protein, pH 5.5) during fermentation, 22 h at 28°C was standardized as the working fermentation time and temperature for whey fermentation. From the standpoint of physicochemical profiling and nutritional composition, bread prepared using S. cerevisiae (GP4) and fermented whey demonstrated the highest overall quality. In addition, processing parameters for fermented whey-based bread production were standardized to a yeast inoculum level of 4% (w/w); a primary proofing time of 1.5 h for commercial yeasts and 2.5 for GP4; a secondary proofing period of 30 min; a baking temperature of 200°C; and a baking time of 25 min. Breads formulated with fermented whey and GP4 yeast exhibited a shelf life of up to 4 days under ambient storage conditions. PRACTICAL APPLICATIONS: This study provides a sustainable and cost-effective valorization protocol for dairy whey utilization in bread production through yeast fermentation. Fermented whey can be incorporated into a bread formulation that would enhance the protein content, loaf characteristics, texture, and shelf life. Additionally, it will also help to refrain whey disposal into the environment, which can cause water hazards. The addition of Kluyveromyces marxianus to help reduce lactose further increases the lactose-free suitability of whey-based products for lactose-sensitive consumers and helps in altering the acid profile of the bread. Furthermore, the baking performance of the indigenous Saccharomyces cerevisiae GP4 strain was found to be superior to that of commercial baker's yeast, which suggests that the indigenous yeast is a potential alternative starter culture in the bakery industry. This study also standardised the process (whey fermentation conditions, bread inoculum concentration and proofing conditions, and baking conditions), providing a practical protocol for bakeries and dairy processors to utilize surplus whey to develop whey bread that can be used by small to medium dairy and bakery businesses to turn a low-value by-product into a value-added functional food.",
-      "abstractZh": "对从喜马拉雅山西北部的传统发酵产品中分离出的两种本土酿酒酵母菌株（GP4 和 11815）、一种利用乳糖的酵母马克斯克鲁维酵母 (MH6) 和两种商业酿酒酵母（干的和压缩的）进行了比较评估，以确定它们在生产可持续乳清面包中的适用性。对所有酵母菌株的关键烘焙相关特征进行了评估，包括生长动力学、耐酸性、麦芽糖利用率、转化酶活性和潜伏期，以及质地特征和颜色等质量参数。 K. marxianus (MH6) 因其乳糖利用能力而被认为是乳清发酵最有效的菌株，而 S. cerevisiae (GP4) 因其更好的烘焙特性、麦芽糖代谢和良好的面包品质特性而被选择用于面团发酵。根据发酵过程中的生化分析（3.3°Brix、8.4% 总糖、2.9% 还原糖、0.21% 可溶性蛋白、pH 5.5），将 28°C 22 小时标准化为乳清发酵的工作发酵时间和温度。从理化分析和营养成分的角度来看",
-      "url": "https://doi.org/10.1111/1750-3841.71264",
-      "sourceUrl": "https://doi.org/10.1111/1750-3841.71264",
-      "citationCount": 0,
-      "relevanceScore": 61,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "克鲁维酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "克鲁维酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母",
-        "克鲁维酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 54,
-      "journalScore": 45,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 10,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35564,9 +35808,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 721 篇",
-    "lastStartedAt": "2026-10-23T05:37:13.554Z",
-    "lastFinishedAt": "2026-10-23T05:38:20.406Z",
+    "lastMessage": "更新完成，共 726 篇",
+    "lastStartedAt": "2026-10-24T05:16:08.460Z",
+    "lastFinishedAt": "2026-10-24T05:16:58.568Z",
     "nextRunAt": null,
     "progress": 100
   }
