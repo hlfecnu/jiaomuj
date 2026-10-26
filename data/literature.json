@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T05:33:54.198Z",
+  "updatedAt": "2026-10-26T05:41:10.483Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -290,6 +290,100 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Dual purine starvation triggers an Iml1-Whi2-dependent autophagy pathway for survival in yeast.",
+      "titleZh": "",
+      "journal": "Autophagy",
+      "targetJournal": "全部收录期刊",
+      "issn": "1554-8627",
+      "eissn": "1554-8635",
+      "year": 2026,
+      "date": "2026-10-25",
+      "authors": "Zhao X, Li Z, Sun H, Liu J, Tong X, Wang M, Liu J, Li Y, Qin S, Liu L, Wang J, Gao D, Gu X, Xing G, Hu B, Li Q, Liu H, Wang L, Liang Y.",
+      "doi": "10.1080/15548627.2026.2753995",
+      "doiUrl": "https://doi.org/10.1080/15548627.2026.2753995",
+      "pmid": "42926341",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42926341/",
+      "pmcid": "",
+      "abstract": "Purines, like amino acids, are fundamental nutrients and essential nucleotide components. ATP and GTP are generated via de novo purine biosynthesis or the salvage pathway. Yeast ADE2 encodes a key de novo pathway enzyme; ade2 mutants accumulate red pigment in vacuoles at late growth stages in rich medium - a phenotype suppressible by exogenous purines. Disruption of purine synthesis induces autophagy in mammalian cells, but whether and how purine starvation triggers autophagy in yeast remains unknown. Here we show that yeast purine biosynthesis mutants experience dual purine starvation - intrinsic purine nucleotide synthesis defect coupled with extracellular purine base exhaustion - during prolonged culture in rich medium. This induces multiple autophagy pathways, including selective ERphagy and mitophagy, non-selective macroautophagy/autophagy, and both selective and non-selective modes of prApe1 maturation, suppressible by certain purine supplementation or ADE2 complementation. Autophagy initiates earlier in mutants, with accelerated dephosphorylation of TORC1 substrates Rps6 and Atg13. Iml1 and Whi2 synergistically transduce the adenine starvation signal and are essential for ERphagy. Functionally, induced autophagy confers resistance to acute adenine starvation and maintains genetic stability via total, but not specific, autophagic activity. These findings link purine status to autophagy, identify Iml1 and Whi2 as key mediators, and offer therapeutic insights for purine-related diseases.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1080/15548627.2026.2753995",
+      "sourceUrl": "https://doi.org/10.1080/15548627.2026.2753995",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "ZmHY5L synergistically affects endosperm starch quality and grain morphology through G-box-mediated transcriptional regulation of the maize waxy gene.",
+      "titleZh": "",
+      "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+      "targetJournal": "全部收录期刊",
+      "issn": "1432-2242",
+      "eissn": "1432-2242",
+      "year": 2026,
+      "date": "2026-10-24",
+      "authors": "Du J, Ye Y, Chen X, Li F, Yin G, Wu X.",
+      "doi": "10.1007/s00122-026-05425-0",
+      "doiUrl": "https://doi.org/10.1007/s00122-026-05425-0",
+      "pmid": "42925322",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42925322/",
+      "pmcid": "",
+      "abstract": "Key messageThis study confirms that ZmHY5L positively regulates the transcription ofwaxy gene through specifically binding to G-box elements on its promoter, and can simultaneously affect starch quality and grain morphology of maize endosperm. The waxy gene in maize encodes granule-bound starch synthase (GBSSI) protein, which controls the synthesis of amylose and is one of the key genes affecting grain quality and yield, but its regulatory mechanism remains not fully understood. Taking two characteristic Yunnan waxy maize landraces as materials, this study through DNA pull-down combined with mass spectrometry screened the upstream regulatory factor of waxy gene, and identified ZmHY5L, a basic leucine zipper (bZIP) family transcription factor that is one of the homologous genes of Arabidopsis HY5. Numerous previous studies have shown that HY5 is a core transcription factor in the light signaling pathway‌. This study subcellular localization verified that ZmHY5L protein is localized in the nucleus; EMSA and yeast one-hybrid assays further confirmed the direct interaction between ZmHY5L and the regulatory region of waxy gene. By constructing ZMHY5L gene editing mutants for phenotype comparison, it was found that the mutation of ZmHY5L gene significantly reduced the GBSSI protein content in maize kernels, while the amylopectin proportion, grain volume, hundred-grain weight of the mutants were remarkably increased, the gelatinization characteristics of starch also changed obviously, without altering the total starch content of kernels. This study confirms that ZmHY5L positively regulates the transcription of waxy gene through specifically binding to G-box elements on its promoter, and can simultaneously affect starch quality and grain morphology of maize endosperm.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1007/s00122-026-05425-0",
+      "sourceUrl": "https://doi.org/10.1007/s00122-026-05425-0",
+      "citationCount": 0,
+      "relevanceScore": 46,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "基因组编辑"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "基因组编辑"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "基因组编辑"
+      ],
+      "included": true,
+      "articleScore": 45,
+      "translationError": "Translation returned 429",
+      "journalScore": 34,
+      "journalQuartile": "Q4",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -1238,6 +1332,65 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Screening a thermotolerant &lt;i&gt;Komagataella phaffii&lt;/i&gt; strain with methanol cross-tolerance and the associated physiological and transcriptional responses.",
+      "titleZh": "",
+      "journal": "Synthetic and systems biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "2405-805X",
+      "eissn": "2405-805X",
+      "year": 2027,
+      "date": "2026-10-15",
+      "authors": "Li C, Jiang T, Bo Y, Lu Z, Zhou Y, Zhang G.",
+      "doi": "10.1016/j.synbio.2026.10.003",
+      "doiUrl": "https://doi.org/10.1016/j.synbio.2026.10.003",
+      "pmid": "42921389",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42921389/",
+      "pmcid": "",
+      "abstract": "Komagataella phaffii is a prominent methylotrophic yeast widely used in industrial biotechnology for heterologous protein production, chemical synthesis, and C1 feedstock utilization. However, its industrial application is limited by thermal stress and methanol toxicity, while the relationship between heat adaptation and methanol tolerance remains poorly understood. Here, we obtained a thermotolerant mutant ATH through ARTP mutagenesis followed by adaptive laboratory evolution (ALE) under heat stress (37 °C). ATH tolerated heat and methanol robustly under individual stress conditions, achieving 3-fold and 8-fold higher cell densities than GS115 at 37 °C or in 5% (v/v) methanol, respectively, yet failed under the combined stress of 37 °C and 5% methanol. Using three proteins (GFP, OPH, and ChiA) as reporters, we found that ATH showed higher heterologous expression than GS115 at 33 °C. Physiologically, ATH displayed enhanced cell wall/membrane integrity, reduced ROS accumulation and lower lipid peroxidation (>30% reduction in MDA), and accelerated formaldehyde clearance. Transcriptomics identified 561 shared differentially expressed genes, with coordinated upregulation of heat shock proteins (HSP70/40/90 families; Hsp104 and Hsp70-SSA2), antioxidant enzymes (catalase, peroxiredoxin), and cell wall/membrane remodeling genes, alongside downregulation of amino acid and secondary metabolite biosynthesis. Whole-genome resequencing further distinguished ATH from GS115 by only 19 variants (9 SNPs and 10 InDels), highlighting a compact genetic basis for the evolved phenotype. This work provides a K. phaffii chassis with improved individual heat and methanol tolerance and elucidates the physiological, transcriptional, and genomic mechanism underlying heat-methanol cross-adaptation.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.synbio.2026.10.003",
+      "sourceUrl": "https://doi.org/10.1016/j.synbio.2026.10.003",
+      "citationCount": 0,
+      "relevanceScore": 67,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "毕赤酵母",
+        "非传统酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达",
+        "定向进化",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "非传统酵母",
+        "酵母",
+        "异源表达",
+        "定向进化",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "毕赤酵母",
+        "非传统酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达",
+        "定向进化",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 57,
+      "translationError": "Translation returned 429",
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 12,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Fermentation-driven biotransformation enhances the anti-hyperuricemic potential of corn silk by modulating gut microbial metabolism and intestinal barrier function.",
       "titleZh": "",
       "journal": "Food & function",
@@ -1751,6 +1904,56 @@
       "journalScore": 44,
       "journalQuartile": "Q1",
       "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Flavor development in vacuum dry-salted cowpeas: changes in volatile compounds and non-volatile metabolites during fermentation.",
+      "titleZh": "",
+      "journal": "Food chemistry: X",
+      "targetJournal": "全部收录期刊",
+      "issn": "2590-1575",
+      "eissn": "2590-1575",
+      "year": 2026,
+      "date": "2026-10-09",
+      "authors": "Xie Q, Zhou ZG, Sun Y, Li TY, Zhang KX, Ou HY, Man RJ, Li CB, Xin M.",
+      "doi": "10.1016/j.fochx.2026.104605",
+      "doiUrl": "https://doi.org/10.1016/j.fochx.2026.104605",
+      "pmid": "42926871",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42926871/",
+      "pmcid": "",
+      "abstract": "Flavor development in vacuum dry-salted cowpeas remains insufficiently understood despite the increasing use of this low-free-brine fermentation process. This study combined microbial profiling, volatile analysis, and untargeted metabolomics to characterize flavor formation during 21 days of fermentation. The results showed a clear transition from green-note volatiles to fermentation-associated aroma compounds, together with marked changes in microbial communities and non-volatile metabolites. Lactiplantibacillus became dominant, while yeast-like fungi increased mainly in the middle and late stages. Hexanal, 2-hexenal, and (Z)-3-hexen-1-ol decreased, whereas phenylethyl alcohol, 4-ethylphenol, esters, acids, ketones, and lipid-derived volatiles accumulated. Eleven volatile compounds were identified as candidate markers of flavor transition. Metabolomic analysis indicated changes in carbohydrates, amino acid derivatives, organic acids, peptides, benzenoids, and lipid-related metabolites. These findings highlight the importance of monitoring aroma compounds and precursor metabolites for regulating flavor quality in vacuum dry-salted fermented cowpeas.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1016/j.fochx.2026.104605",
+      "sourceUrl": "https://doi.org/10.1016/j.fochx.2026.104605",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 47,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2623,6 +2826,56 @@
       "journalScore": 34,
       "journalQuartile": "Q4",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Ammonium Hydroxide Pretreatment of Sugarcane Bagasse and Corn Cob: Saccharification Enhancement and Ethanol Production by C6/C5 Cofermentations.",
+      "titleZh": "",
+      "journal": "ACS omega",
+      "targetJournal": "全部收录期刊",
+      "issn": "2470-1343",
+      "eissn": "2470-1343",
+      "year": 2026,
+      "date": "2026-10-05",
+      "authors": "do Nascimento AM, Souza GFL, Pasquini D, Baffi MA.",
+      "doi": "10.1021/acsomega.6c01259",
+      "doiUrl": "https://doi.org/10.1021/acsomega.6c01259",
+      "pmid": "42924037",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42924037/",
+      "pmcid": "",
+      "abstract": "The pretreatment of lignocellulosic biomass is a key step in second-generation (2G) ethanol production. In this study, sugarcane bagasse (SCB) and corn cob (CC) were pretreated with 28-30% ammonium hydroxide (1:10 w/v ratio, 30 min, 180 °C) to promote lignin removal and enhance enzymatic hydrolysis. Delignification levels reached 65.5 and 73.5% in pretreated (PT) SCB and CC, (PTSCB and PTCC, respectively), with preservation of the polysaccharide fraction. The biomasses were submitted to enzymatic saccharification using Cellic CTec3 (12.5 FPU/g cellulose) at solid concentrations of 10-30%. Fed-batch hydrolysis with 30% solids released the highest total reducing sugars (TRS), achieving 65.15 g/L in PTSCB and 70.18 g/L in PTCC, with increases of 238 and 137% in comparison to the batch at 10% of substrate. The hydrolysates presented low levels of fermentative inhibitors and high concentrations of glucose (43.75 and 41.63 g/L) and xylose (18.12 and 18.75 g/L) in PTSCB and PTCC, respectively. The fermentation of PTCC hydrolysate with the nonconventional Spathaspora passalidarum Y7204 monoculture reached the ethanol production (26.34 g/L, Y p/s = 0.44, and Q p = 0.73 g/L·h), while the commercial Saccharomyces cerevisiae Y904 yielded 19.18 g/L (Y p/s = 0.47; Q p = 0.80 g/L·h). The cocultures of both yeasts generated around 20 g/L of ethanol; however, metabolic interactions and catabolic repression may have occurred. These findings evidenced the NH4OH pretreatment as a promising strategy for enhancing saccharification. In addition, the study highlighted the positive role of S. passalidarum in the hexose (C6) and pentose (C5) cofermentation of PTCC hydrolysate.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1021/acsomega.6c01259",
+      "sourceUrl": "https://doi.org/10.1021/acsomega.6c01259",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6652,7 +6905,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6944,7 +7197,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7247,9 +7500,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10503,9 +10756,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10936,7 +11189,7 @@
       "articleScore": 48,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10981,7 +11234,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -16205,9 +16458,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16351,7 +16604,7 @@
       "articleScore": 57,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16554,9 +16807,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16704,7 +16957,7 @@
       "articleScore": 61,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17094,7 +17347,7 @@
       "articleScore": 51,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17789,9 +18042,9 @@
       ],
       "included": true,
       "articleScore": 46,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19278,7 +19531,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21096,7 +21349,7 @@
       "articleScore": 57,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21884,9 +22137,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22855,9 +23108,9 @@
       ],
       "included": true,
       "articleScore": 61,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24399,9 +24652,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28552,9 +28805,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 34,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 1,
+      "journalScore": 37,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30418,7 +30671,7 @@
       "articleScore": 55,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31296,9 +31549,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31545,9 +31798,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31894,9 +32147,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 11,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32481,7 +32734,7 @@
       "articleScore": 49,
       "journalScore": 47,
       "journalQuartile": "Q1",
-      "journalArticleCount": 8,
+      "journalArticleCount": 9,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32628,7 +32881,7 @@
       "articleScore": 57,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35525,9 +35778,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 719 篇",
-    "lastStartedAt": "2026-10-25T05:33:02.866Z",
-    "lastFinishedAt": "2026-10-25T05:33:54.198Z",
+    "lastMessage": "更新完成，共 724 篇",
+    "lastStartedAt": "2026-10-26T05:40:09.524Z",
+    "lastFinishedAt": "2026-10-26T05:41:10.483Z",
     "nextRunAt": null,
     "progress": 100
   }
