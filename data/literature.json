@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:41:18.750Z",
+  "updatedAt": "2026-10-30T06:42:07.017Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -248,6 +248,58 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Functional Characterization and Application of Yarrowia lipolytica YlYxc1 for Enhanced Production of Sphingoid Bases.",
+      "titleZh": "解脂耶氏酵母 YlYxc1 的功能表征及其在增强鞘氨醇碱生产中的应用。",
+      "journal": "Microbial biotechnology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1751-7915",
+      "eissn": "1751-7915",
+      "year": 2026,
+      "date": "2026-11-01",
+      "authors": "Shin SH, Jeon EJ, Moon HY, Go GY, Yoo YS, Lee JK, Jeon CO, Kang HA.",
+      "doi": "10.1111/1751-7915.70460",
+      "doiUrl": "https://doi.org/10.1111/1751-7915.70460",
+      "pmid": "42947429",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42947429/",
+      "pmcid": "",
+      "abstract": "Long-chain bases (LCBs; sphingoid bases), derived from ceramide metabolism, are valuable sphingolipid intermediates for industrial applications. Here, we functionally characterized a putative ceramidase from Yarrowia lipolytica (YlYxc1) and evaluated its potential to enhance LCB production. YlYxc1 contains a conserved alkaline ceramidase motif with seven transmembrane helices and shares ~42% amino acid identity with Saccharomyces cerevisiae alkaline ceramidases ScYpc1 and ScYdc1. Despite lacking a canonical ER retention motif, YlYxc1 localized to the ER membrane. Deletion of YlYXC1 caused no major growth or lipid profile changes. Heterologous overexpression of YlYXC1 in S. cerevisiae wild-type and Scypc1Δydc1Δ strains increased phytosphingosine (PHS) production over dihydrosphingosine (DHS), mimicking ScYPC1 overexpression. In vitro activity assays using microsomal fractions from Scypc1Δydc1Δ cells expressing YlYXC1 revealed preferential hydrolysis of phytoceramide with an alkaline pH optimum. Furthermore, YlYXC1 expression in an engineered Y. lipolytica strain expressing heterologous acetyltransferases WcSLI1 and WcATF2 remarkably enhanced acetylated LCB production. Multi-copy integration of YlYXC1 into the Ylsur2Δsld1Δ strain also increased the secretory production of non-acetylated DHS. These findings establish YlYxc1 as a promising metabolic engineering target for producing value-added LCBs for pharmaceutical and cosmeceutical applications.",
+      "abstractZh": "长链碱（LCB；鞘氨醇碱）源自神经酰胺代谢，是工业应用中有价值的鞘脂中间体。在这里，我们对来自解脂耶氏酵母 (YlYxc1) 的假定神经酰胺酶进行了功能表征，并评估了其增强 LCB 产量的潜力。 YlYxc1 包含具有七个跨膜螺旋的保守碱性神经酰胺酶基序，并与酿酒酵母碱性神经酰胺酶 ScYpc1 和 ScYdc1 具有约 42% 的氨基酸同一性。尽管缺乏典型的 ER 保留基序，YlYxc1 仍定位于 ER 膜。 YlYXC1 的缺失不会导致主要的生长或脂质谱变化。在酿酒酵母野生型和 Scypc1Δydc1Δ 菌株中，YlYXC1 的异源过度表达增加了植物鞘氨醇 (PHS) 的产量，超过了二氢鞘氨醇 (DHS)，模拟了 ScYPC1 过度表达。使用表达 YlYXC1 的 Scypc1Δydc1Δ 细胞的微粒体级分进行的体外活性测定表明，植物神经酰胺在最佳碱性 pH 值下优先水解。此外，表达异源乙酰转移酶WcSLI1和WcATF2的工程化解脂耶氏酵母菌株中的YlYXC1表达显着增强了乙酰化LCB的产生。多拷贝 int",
+      "url": "https://doi.org/10.1111/1751-7915.70460",
+      "sourceUrl": "https://doi.org/10.1111/1751-7915.70460",
+      "citationCount": 0,
+      "relevanceScore": 61,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "解脂耶氏酵母",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "解脂耶氏酵母",
+        "酿酒酵母",
+        "酵母",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "解脂耶氏酵母",
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 54,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Unlocking the Potential of Yeast Protein for Functional Foods: A Multiscale Overview of Bioactivity, Processing, and Application Challenges.",
       "titleZh": "释放酵母蛋白在功能性食品中的潜力：生物活性、加工和应用挑战的多尺度概述。",
       "journal": "Comprehensive reviews in food science and food safety",
@@ -290,6 +342,355 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "A BmMYB14-UGT Regulatory Module Contributes to Dammarane-Type Triterpene Biosynthesis in Bacopa monnieri.",
+      "titleZh": "BmMYB14-UGT 调控模块有助于假马齿苋中的达玛烷型三萜生物合成。",
+      "journal": "Journal of experimental botany",
+      "targetJournal": "全部收录期刊",
+      "issn": "0022-0957",
+      "eissn": "1460-2431",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Kumar S, Singh N, Joshi A, Pandey DK, Lahane V, Upadhyay R, Yadav AK, Pandey R, Tyagi S, Shukla RK.",
+      "doi": "10.1093/jxb/erag542",
+      "doiUrl": "https://doi.org/10.1093/jxb/erag542",
+      "pmid": "42947503",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42947503/",
+      "pmcid": "",
+      "abstract": "Bacosides, a key glycosylated dammarane-type triterpenes of Bacopa monnieri, exhibit diverse pharmacological activities, yet the enzymatic and regulatory mechanisms governing their biosynthesis remain underexplored. In this study, we functionally characterized the methyl jasmonate-inducible glycosyltransferase UGT94AV1 and demonstrated its ability to glycosylate diverse triterpenoid substrates, with the highest catalytic efficiency observed for ginsenoside RH2. Recombinant UGT94AV1 demonstrated a capacity for sequential glycosylation by efficiently catalyzing the transfer of a glucose moiety to the aglycone core, i.e., jujubogenin and pseudojujubogenin, derived from the periodate oxidation of bacoside A, and its corresponding monoglycosides. Overexpression of UGT94AV1 in B. monnieri enhanced the accumulation of jujubogenin-derived bacosides, while its knockdown reduced their levels. Further, transcriptome analysis has identified BmMYB14 co-expressing with UGT94AV1 and the previously characterized UGT79A18. Overexpression of BmMYB14 significantly upregulated UGT79A18 and UGT94AV1, whereas silencing of BmMYB14 markedly reduced their transcript levels. The expressions of UGT94AV1 and UGT79A18 in BmMYB14 OE and KD lines were consistent with enhanced accumulation of bacosides in OE lines and reduced in KD lines. Yeast one-hybrid and dual-luciferase assays using the promoter regions of UGT94AV1 and UGT79A18 further demonstrate that BmMYB14 transcriptionally regulates UGT79A18 and UGT94AV1, and hence contributes to the dammarane-type triterpene biosynthesis in Bacopa monnieri.",
+      "abstractZh": "假马齿苋苷是假马齿苋的一种关键糖基化达玛烷型三萜，具有多种药理活性，但控制其生物合成的酶促和调节机制仍未得到充分探索。在这项研究中，我们对茉莉酸甲酯诱导型糖基转移酶 UGT94AV1 进行了功能表征，并证明了其糖基化多种三萜底物的能力，其中人参皂苷 RH2 的催化效率最高。重组 UGT94AV1 通过有效催化葡萄糖部分转移至糖苷配基核心（即，来自 bacoside A 及其相应单糖苷的高碘酸盐氧化的 jujubogenin 和假 jujubogenin），表现出连续糖基化的能力。 UGT94AV1在B. monnieri中的过度表达增强了jujubogenin衍生的bacoside的积累，而其敲低则降低了它们的水平。此外，转录组分析已鉴定出 BmMYB14 与 UGT94AV1 和先前表征的 UGT79A18 共表达。 BmMYB14 的过表达显着上调 UGT79A18 和 UGT94AV1，而 BmMYB14 的沉默显着降低了它们的转录水平。 UGT94AV1和的表达",
+      "url": "https://doi.org/10.1093/jxb/erag542",
+      "sourceUrl": "https://doi.org/10.1093/jxb/erag542",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "酵母"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0.5,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Hydrogel compartmentalization enables flow cytometric selection of engineered yeast producing complex natural products.",
+      "titleZh": "水凝胶区室化使得流式细胞术能够选择生产复杂天然产物的工程酵母。",
+      "journal": "Lab on a chip",
+      "targetJournal": "全部收录期刊",
+      "issn": "1473-0197",
+      "eissn": "1473-0189",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Dror MJ, Williamson C, Tang Y, Di Carlo D.",
+      "doi": "10.1039/d6lc00434b",
+      "doiUrl": "https://doi.org/10.1039/d6lc00434b",
+      "pmid": "42949021",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42949021/",
+      "pmcid": "",
+      "abstract": "Saccharomyces cerevisiae is a powerful chassis for biosynthesis of plant-derived natural products, but optimizing multi-enzyme pathways remains bottlenecked by the lack of scalable screens for small molecules with weak to no fluorescence. Here we present a colony-level, fluorescence-activated cell sorting (FACS) workflow that converts weak metabolite fluorescence into a robust sorting signal via hydrogel compartmentalization. Single yeast cells are encapsulated into monodisperse, hollow PEG hydrogel microparticles (\"PicoShells\") that support clonal growth in suspension while permitting nutrient and gas exchange. Using the fluorescent properties of serpentine, a monoterpene indole alkaloid (MIA) natural product, we show while single-cell FACS cannot identify producers, PicoShell-encapsulated and grown yeast colonies generate a colony-amplified fluorescence signal suitable for standard FACS, reflecting total per-colony metabolite output. Time-resolved cytometry reveals delayed fluorescence accumulation consistent with production onset, and LC-MS (liquid chromatography-mass spectrometry) analysis of recovered cultures shows that stringent high-fluorescence gates enrich the producer phenotype from defined mixtures. In a spike-in experiment, we achieve up to ∼10-fold enrichment of producer strains by sorting the top 0.1-0.5% fluorescence fraction, highlighting the advantage of hydrogel encapsulation for metabolite-level screening. This approach enables scalable (>30 000 colonies per hour) enrichment of microbial producer phenotypes using a colony-based fluorescence signal without engineered reporter constructs and should generalize to other pathways where intrinsic or derivatized fluorescence can be measured at the colony level.",
+      "abstractZh": "酿酒酵母是植物源性天然产物生物合成的强大基础，但由于缺乏针对弱荧光甚至无荧光的小分子的可扩展筛选，优化多酶途径仍然面临瓶颈。在这里，我们提出了一种集落水平的荧光激活细胞分选 (FACS) 工作流程，可通过水凝胶区室化将微弱的代谢物荧光转换为强大的分选信号。单个酵母细胞被封装在单分散的中空 PEG 水凝胶微粒（“PicoShells”）中，支持悬浮液中的克隆生长，同时允许营养物和气体交换。利用蛇纹石（一种单萜吲哚生物碱 (MIA) 天然产物）的荧光特性，我们表明，虽然单细胞 FACS 无法识别生产者，但 PicoShell 封装和生长的酵母菌落会产生适合标准 FACS 的菌落放大荧光信号，反映每个菌落总代谢物输出。时间分辨细胞术揭示了与生产开始一致的延迟荧光积累，并且对回收的培养物的 LC-MS（液相色谱-质谱法）分析表明严格的高荧光门使生产者 pH 值富集",
+      "url": "https://doi.org/10.1039/d6lc00434b",
+      "sourceUrl": "https://doi.org/10.1039/d6lc00434b",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Multiscale oxygen transfer enhancement in high‑density Komagataella phaffii fermentation: dynamic pressure control and CFD‑guided industrial scale‑up.",
+      "titleZh": "高密度 Komagataella phaffii 发酵中的多尺度氧传递增强：动态压力控制和 CFD 引导的工业放大。",
+      "journal": "Bioresources and bioprocessing",
+      "targetJournal": "全部收录期刊",
+      "issn": "2197-4365",
+      "eissn": "2197-4365",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Duan Q, Wang F, Ding Q, Xiong B, Zhang B, Yu H, Zhang J, Chen Y, Li C, Huang Q, Song H.",
+      "doi": "10.1186/s40643-026-01155-9",
+      "doiUrl": "https://doi.org/10.1186/s40643-026-01155-9",
+      "pmid": "42946924",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42946924/",
+      "pmcid": "",
+      "abstract": "Oxygen transfer limitation is a key bottleneck in high-cell-density Komagataella phaffii fermentation for recombinant protein production. Conventional approaches based on increasing agitation and aeration may result in high shear stress, foaming, and increased energy demand. In this study, a multiscale oxygen-transfer enhancement strategy integrating dynamic headspace-pressure regulation with computational fluid dynamics (CFD)-guided bioreactor optimization was investigated. At the 5 L scale, response surface methodology demonstrated the combined effects of agitation, aeration, and headspace pressure on the volumetric oxygen-transfer coefficient ([Formula: see text]). A two-stage dynamic pressure (TSP) strategy was subsequently evaluated under fermentation conditions. Compared with the conventional-pressure condition, TSP increased the final dry cell weight (DCW) by 11.2% and the maximum xylanase activity by 19.8%, reaching 120.25 ± 1.04 g/L and 213.23 ± 2.10 KU/mL, respectively. The strategy was further implemented in a 1000 L bioreactor, where the peak oxygen uptake rate reached 185.23 mmol/L/h, with a final DCW of 124.08 ± 2.47 g/L and xylanase activity of 225.07 ± 3.64 KU/mL. At the 30 m3 scale, CFD analysis identified scale-dependent hydrodynamic limitations in the original agitation system and guided a combined redesign from 0.7 m Rushton turbines to a 0.8 m CD-6/3KSX hybrid impeller system. Under identical simulation conditions, the redesigned configuration increased the CFD-predicted average [Formula: see text] by 46.4% and reduced the predicted mixing time by 43.3%. Following implementation of the redesigned system, the final DCW and xylanase activity reached 134.01 ± 2.98 g/L and 242.02 ± 4.07 KU/mL, respectively. These results demonstrate a case-based multiscale approach combining process-level oxygen-transfer regulation with reactor-level hydrodynamic optimization for the investigated recombinant K. phaffii fermentation process.",
+      "abstractZh": "氧转移限制是高细胞密度 Komagataella phaffii 发酵生产重组蛋白的关键瓶颈。基于增加搅拌和通气的传统方法可能会导致高剪切应力、起泡和增加能量需求。在这项研究中，研究了一种将动态顶空压力调节与计算流体动力学（CFD）引导的生物反应器优化相结合的多尺度氧传递增强策略。在 5 L 规模下，响应面方法证明了搅拌、通气和顶空压力对体积氧传递系数的综合影响（[公式：参见文本]）。随后在发酵条件下评估了两阶段动态压力（TSP）策略。与常规压力条件相比，TSP使最终细胞干重（DCW）增加了11.2%，最大木聚糖酶活性增加了19.8%，分别达到120.25±1.04 g/L和213.23±2.10 KU/mL。该策略在1000 L生物反应器中进一步实施，峰值摄氧率达到185.23 mmol/L/h，最终DCW为124.08 ± 2.47 g/L，木聚糖酶活性为225.07 ± 3.64 KU/mL。一个",
+      "url": "https://doi.org/10.1186/s40643-026-01155-9",
+      "sourceUrl": "https://doi.org/10.1186/s40643-026-01155-9",
+      "citationCount": 0,
+      "relevanceScore": 63,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 55,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Rational engineering-based scalable production of Morus alba urease in Pichia pastoris optimized biofermenter for industrial silkworm rearing.",
+      "titleZh": "在毕赤酵母优化的生物发酵罐中，基于合理工程的桑树脲酶规模化生产，用于工业化养蚕。",
+      "journal": "International journal of biological macromolecules",
+      "targetJournal": "全部收录期刊",
+      "issn": "0141-8130",
+      "eissn": "1879-0003",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Khurshid M, Zhao Y, Addo JK, Quaye L, Li Y, You S, Sun X, Herman RA, Wang J.",
+      "doi": "10.1016/j.ijbiomac.2026.155024",
+      "doiUrl": "https://doi.org/10.1016/j.ijbiomac.2026.155024",
+      "pmid": "42950921",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42950921/",
+      "pmcid": "",
+      "abstract": "Developing a fermenter-compatible Morus alba urease with reproducible functional performance remains a challenge in sericulture industry. To address this challenge, M. alba urease gene (AB479106.1) was codon-optimized, subjected to rational design-guided protein engineering, and heterologously expressed in Pichia pastoris. Box-Behnken optimized parameters: media pH 6.5, 220 rpm agitation, and 0.75% (v/v) methanol, maximized extracellular urease activity. Purified synthetic wild-type (WT) enzyme exhibited a Kₘ of 1.60 mM, a kcat of ~10,141 s-1, and a specific activity of ~2967 U·mg-1, with high thermal stability (T50 = 71.4 °C) and optimal pH of 9, comparable to M. alba urease. Cytotoxicity assays on Bombyx mori ovarian cells and silkworm-associated microbiota confirm biocompatibility. Scale-up to 3 L fed-batch biofermenter significantly enhanced protein yield (2.4-2.7-fold), thermal stability (up to 1.4-fold), and productivity (~1.3-fold). This study presents an optimized P. pastoris biofermenter for sustainable production of biologically compatible plant-derived urease for scalable industrial sericulture applications.",
+      "abstractZh": "开发具有可重复功能性能的发酵罐相容性桑树脲酶仍然是蚕桑行业的一个挑战。为了应对这一挑战，对 M. alba 脲酶基因 (AB479106.1) 进行了密码子优化，进行了合理设计指导的蛋白质工程，并在毕赤酵母中异源表达。 Box-Behnken 优化参数：培养基 pH 6.5、220 rpm 搅拌和 0.75% (v/v) 甲醇，最大化细胞外脲酶活性。纯化的合成野生型 (WT) 酶的 Kₘ 为 1.60 mM，kcat 约为 10,141 s-1，比活性约为 2967 U·mg-1，具有高热稳定性 (T50 = 71.4 °C) 和最佳 pH 为 9，与 M. alba 脲酶相当。对家蚕卵巢细胞和蚕相关微生物群的细胞毒性测定证实了生物相容性。放大至 3 L 分批补料生物发酵罐可显着提高蛋白质产量（2.4-2.7 倍）、热稳定性（高达 1.4 倍）和生产率（约 1.3 倍）。本研究提出了一种优化的巴斯德毕赤酵母生物发酵罐，用于可持续生产生物相容性植物源脲酶，用于可扩展的工业养蚕应用。",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.155024",
+      "sourceUrl": "https://doi.org/10.1016/j.ijbiomac.2026.155024",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "毕赤酵母"
+      ],
+      "technologyKeywords": [
+        "蛋白质工程"
+      ],
+      "mainKeywords": [
+        "毕赤酵母",
+        "蛋白质工程"
+      ],
+      "matchedYeast": [
+        "毕赤酵母"
+      ],
+      "matchedSynbio": [
+        "蛋白质工程"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Synthetic collinearization of a chromosome segment enables genetic dissection of incompatibility between distant genera.",
+      "titleZh": "染色体片段的合成共线性可以对远缘属之间的不相容性进行遗传解析。",
+      "journal": "Genetics",
+      "targetJournal": "全部收录期刊",
+      "issn": "0016-6731",
+      "eissn": "1943-2631",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Yang SH, Christensen AH, Coradini ALV, Hull CB, Lusk DT, Ehrenreich IM.",
+      "doi": "10.1093/genetics/iyag306",
+      "doiUrl": "https://doi.org/10.1093/genetics/iyag306",
+      "pmid": "42950127",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42950127/",
+      "pmcid": "",
+      "abstract": "Reproductive barriers and genomic structural differences hinder genetic analysis between highly divergent organisms. Here, we examined whether these challenges can be overcome by collinearization, the synthesis of chromosomes that retain the native gene content and organization of a host organism while incorporating the DNA sequences of another organism. We applied collinearization to Kluyveromyces marxianus, a yeast species that is both distantly related to and has a distinct genome structure from the model yeast Saccharomyces cerevisiae. We generated a ∼35-kb K. marxianus DNA segment that was collinear with one-sixth of a S. cerevisiae chromosome and contained 17 protein-coding genes. Although this synthetic chromosome segment successfully substituted for its native counterpart in an S. cerevisiae cell, it imposed a significant growth cost due to the incompatibility of two K. marxianus proteins with the host proteome. We attempted to predict disrupted protein-protein interactions using AlphaFold and fully or partially alleviated the resulting fitness costs by supplementing orthologous protein partners from K. marxianus. Furthermore, we completely eliminated the growth cost by replacing the incompatible K. marxianus genes with their S. cerevisiae orthologs. These findings demonstrate that collinearization can facilitate the creation of chimeric genomes to dissect the genetic basis of incompatibility and traits between organisms that cannot naturally hybridize. They also suggest that many genetic incompatibilities likely exist between S. cerevisiae and K. marxianus, reflecting disrupted protein-protein interactions that may to some degree be predictable in silico.",
+      "abstractZh": "生殖障碍和基因组结构差异阻碍了高度分化的生物体之间的遗传分析。在这里，我们研究了是否可以通过共线性化来克服这些挑战，共线性化是保留宿主生物体的天然基因内容和组织，同时整合另一个生物体的 DNA 序列的染色体的合成。我们将共线性应用于马克斯克鲁维酵母，这是一种与模型酵母酿酒酵母有远亲关系且具有独特基因组结构的酵母物种。我们生成了约 35 kb 的马克斯克鲁维酵母 DNA 片段，该片段与酿酒酵母染色体的六分之一共线，并包含 17 个蛋白质编码基因。尽管这种合成的染色体片段成功地取代了酿酒酵母细胞中的天然对应物，但由于两种马克斯酵母蛋白与宿主蛋白质组的不相容性，它带来了巨大的生长成本。我们尝试使用 AlphaFold 预测被破坏的蛋白质-蛋白质相互作用，并通过补充来自马克斯克鲁维酵母的直系同源蛋白质伴侣来完全或部分减轻由此产生的适应成本。此外，我们完全消除了代表的增长成本",
+      "url": "https://doi.org/10.1093/genetics/iyag306",
+      "sourceUrl": "https://doi.org/10.1093/genetics/iyag306",
+      "citationCount": 0,
+      "relevanceScore": 54,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成基因组"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母",
+        "合成基因组"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成基因组"
+      ],
+      "included": true,
+      "articleScore": 50,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Systems biology and synthetic engineering of probiotic yeasts.",
+      "titleZh": "益生菌酵母的系统生物学和合成工程。",
+      "journal": "Biotechnology advances",
+      "targetJournal": "全部收录期刊",
+      "issn": "0734-9750",
+      "eissn": "1873-1899",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Ali S, Hussian CHAC, Goh HH.",
+      "doi": "10.1016/j.biotechadv.2026.109084",
+      "doiUrl": "https://doi.org/10.1016/j.biotechadv.2026.109084",
+      "pmid": "42950960",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42950960/",
+      "pmcid": "",
+      "abstract": "Yeast probiotics, particularly Saccharomyces boulardii, are used in clinical, nutritional and biotechnological settings, yet their strain-specific mechanisms remain incompletely understood. This review examines how systems biology and multi-omics approaches can improve understanding of probiotic yeast function. We discuss comparative genomics and pangenomics, transcriptomic responses to gastrointestinal stress, cell-surface proteins involved in pathogen interactions, and metabolomic outputs including organic acids and other potential postbiotic metabolites. We then consider genome-scale metabolic models, flux balance analysis, and 13C metabolic flux analysis as complementary tools for converting omics observations into testable hypotheses about pathway activity and strain-specific metabolic traits. Published comparisons of S. boulardii and S. cerevisiae illustrate this framework. Conserved and strain-specific genomic variation, differential stress responses, acetate production, pathogen binding and host-cell effects can be examined together, while causal links between most variants and probiotic effects remain unresolved. The review also compares the systems-data, metabolic-modeling, and genome-engineering readiness of Kluyveromyces marxianus and Debaryomyces hansenii, two non-conventional yeasts with thermotolerance or halotolerance, but less direct evidence for human probiotic function. Finally, we discuss CRISPR-based engineering, machine learning, data standards, regulatory considerations and future possibilities for strain-specific computational models. Progress will require standardized experimental conditions, well-annotated strain resources, integrated multi-omics datasets, and experimental validation of model predictions.",
+      "abstractZh": "酵母益生菌，特别是布拉氏酵母菌，被用于临床、营养和生物技术环境，但其菌株特异性机制仍不完全清楚。这篇综述探讨了系统生物学和多组学方法如何提高对益生菌酵母功能的理解。我们讨论比较基因组学和泛基因组学、对胃肠道应激的转录组反应、参与病原体相互作用的细胞表面蛋白，以及包括有机酸和其他潜在后生代谢物在内的代谢组学输出。然后，我们考虑将基因组规模的代谢模型、通量平衡分析和 13C 代谢通量分析作为补充工具，将组学观察结果转化为有关途径活性和菌株特异性代谢特征的可检验假设。已发表的布拉氏酵母和酿酒酵母的比较说明了这一框架。保守的和菌株特异性的基因组变异、差异应激反应、乙酸盐产生、病原体结合和宿主细胞效应可以一起检查，而大多数变异和益生菌效应之间的因果关系仍未解决。该评论还比较了系统数据、代谢模型",
+      "url": "https://doi.org/10.1016/j.biotechadv.2026.109084",
+      "sourceUrl": "https://doi.org/10.1016/j.biotechadv.2026.109084",
+      "citationCount": 0,
+      "relevanceScore": 73,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "布拉氏酵母",
+        "克鲁维酵母",
+        "非传统酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "酿酒酵母",
+        "布拉氏酵母",
+        "克鲁维酵母",
+        "非传统酵母",
+        "CRISPR"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "酿酒酵母",
+        "布拉氏酵母",
+        "克鲁维酵母",
+        "非传统酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR"
+      ],
+      "included": true,
+      "articleScore": 60,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Biomanufacturing of L-Lactic Acid from Inulin Exploiting Kluyveromyces marxianus and Engineered Saccharomyces cerevisiae Cell Factories.",
+      "titleZh": "利用马克斯克鲁维酵母和工程酿酒酵母细胞工厂从菊粉生物制造 L-乳酸。",
+      "journal": "Biotechnology and applied biochemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0885-4513",
+      "eissn": "1470-8744",
+      "year": 2026,
+      "date": "2026-10-27",
+      "authors": "Milanesi R, Lorenzo RDD, Porro D, Branduardi P, Serra I.",
+      "doi": "10.1002/bab.70218",
+      "doiUrl": "https://doi.org/10.1002/bab.70218",
+      "pmid": "42947400",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42947400/",
+      "pmcid": "",
+      "abstract": "The transition to sustainable lactic acid (LA) biomanufacturing necessitates a shift from first-generation feedstocks toward residual biomass and low-pH fermentation, eliminating the costly, waste-intensive salt purification and acidification steps. This study presents a novel, two-yeast strategy designed to valorize inulin, a fructose polymer also found in cardoon roots, for high-efficiency LA production at a pH below its pKa. The key novelty of this work lies in identifying and pairing the unique physiological strengths of each organism: Kluyveromyces marxianus as the optimal yeast for inulin hydrolysis, and Saccharomyces cerevisiae as the superior host for robust LA production at low pH and high titers. We discovered that if ammonium sulphate is substituted with urea as a nitrogen source for K. marxianus cultivation, the inulinase activity increased by nearly 20-fold, significantly enhancing the initial breakdown of the substrate. Inulinase-enriched K. marxianus supernatant was then used to cultivate S. cerevisiae m850, an engineered homolactic strain, and convert inulin into L-LA. Comparing separate hydrolysis and fermentation (SHF) with simultaneous saccharification and fermentation (SSF), we achieved a maximal yield > 0.77 g/g with a final pH of 2.5. While SSF was limited by pH-induced inulinase inactivation, the SHF process achieved complete substrate conversion. These results demonstrate a promising platform for producing LA from a residual feedstock, drastically reducing impacts and downstream processing costs.",
+      "abstractZh": "向可持续乳酸 (LA) 生物制造的过渡需要从第一代原料转向残余生物质和低 pH 发酵，从而消除成本高昂、废物密集型的盐纯化和酸化步骤。这项研究提出了一种新颖的两种酵母策略，旨在稳定菊粉（一种也存在于刺菜蓟根中的果糖聚合物），以便在 pH 值低于其 pKa 的情况下高效生产 LA。这项工作的关键新颖之处在于识别和配对每种生物的独特生理优势：马克斯克鲁维酵母作为菊粉水解的最佳酵母，而酿酒酵母作为在低 pH 值和高滴度下稳定生产 LA 的优良宿主。我们发现，如果用尿素替代硫酸铵作为马克斯克鲁维酵母培养的氮源，菊粉酶活性可提高近20倍，显着增强底物的初始分解。然后使用富含菊粉酶的马克斯克鲁维酵母上清液培养酿酒酵母 m850（一种工程纯乳酸菌株），并将菊粉转化为 L-LA。单独水解和发酵 (SHF) 与同时糖化和发酵的比较",
+      "url": "https://doi.org/10.1002/bab.70218",
+      "sourceUrl": "https://doi.org/10.1002/bab.70218",
+      "citationCount": 0,
+      "relevanceScore": 71,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "克鲁维酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 59,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -340,6 +741,153 @@
       "journalQuartile": "Q2",
       "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Dynamic Populations Control of Escherichia coli and Saccharomyces cerevisiae Consortia Improves Chemical Production.",
+      "titleZh": "大肠杆菌和酿酒酵母菌群的动态种群控制可提高化学品生产。",
+      "journal": "Metabolic engineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1096-7176",
+      "eissn": "1096-7184",
+      "year": 2026,
+      "date": "2026-10-27",
+      "authors": "Zhai H, Liu X, Xu H, Zhang K, Qi Q, Hou J.",
+      "doi": "10.1016/j.ymben.2026.102575",
+      "doiUrl": "https://doi.org/10.1016/j.ymben.2026.102575",
+      "pmid": "42946119",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42946119/",
+      "pmcid": "",
+      "abstract": "Synthetic consortia of Escherichia coli and Saccharomyces cerevisiae offer a powerful division-of-labor strategy for chemical biosynthesis. However, maintaining the stability of cross-species populations remains a major challenge. Here, we report an interspecific autonomous population-control platform for dynamically regulating Escherichia coli and Saccharomyces cerevisiae consortia. We found that the growth rate disparity between these two microorganisms leads to the suppression of yeast growth ultimately resulting in population imbalance and low biosynthesis. To overcome it, an E. coli auto-induction lysis circuit and a S. cerevisiae-driven cross-species lysis circuit were developed using salicylate-mediated intercellular signaling pathway to dynamic control the growth of E. coli in the consortia. These systems successfully increased the final yeast proportion from 7% to 89% and 44.5%, respectively, effectively improving population stability of E. coli-S. cerevisiae consortia. As a proof-of-concept, we applied these lysis circuits to a division-of-labor system for caffeic acid biosynthesis and showed that they increased caffeic acid production, by 115% and 73%, respectively. This work establishes a versatile, auto-regulation platform for cross-species consortia control and will contribute to the bioproduction of different chemicals.",
+      "abstractZh": "大肠杆菌和酿酒酵母的合成联盟为化学生物合成提供了强大的分工策略。然而，维持跨物种种群的稳定性仍然是一个重大挑战。在这里，我们报告了一种用于动态调节大肠杆菌和酿酒酵母菌群的种间自主种群控制平台。我们发现这两种微生物之间的生长速率差异导致酵母生长受到抑制，最终导致种群不平衡和生物合成低下。为了克服这个问题，利用水杨酸介导的细胞间信号通路开发了大肠杆菌自动诱导裂解电路和酿酒酵母驱动的跨物种裂解电路，以动态控制联合体中大肠杆菌的生长。这些系统成功地将最终酵母比例从7%分别提高到89%和44.5%，有效提高了大肠杆菌的群体稳定性。酿酒师联盟。作为概念验证，我们将这些裂解回路应用于咖啡酸生物合成的分工系统，结果表明它们分别使咖啡酸产量增加了 115% 和 73%。这",
+      "url": "https://doi.org/10.1016/j.ymben.2026.102575",
+      "sourceUrl": "https://doi.org/10.1016/j.ymben.2026.102575",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 50,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 15,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Kinetic metabolic modeling of Saccharomyces cerevisiae mutants reveals two major regulatory patterns of glycolytic flux control.",
+      "titleZh": "酿酒酵母突变体的动力学代谢模型揭示了糖酵解通量控制的两种主要调节模式。",
+      "journal": "Journal of bioscience and bioengineering",
+      "targetJournal": "全部收录期刊",
+      "issn": "1389-1723",
+      "eissn": "1347-4421",
+      "year": 2026,
+      "date": "2026-10-27",
+      "authors": "Sato G, Yamasaki K, Okahashi N, Matsuda F.",
+      "doi": "10.1016/j.jbiosc.2026.10.001",
+      "doiUrl": "https://doi.org/10.1016/j.jbiosc.2026.10.001",
+      "pmid": "42946555",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42946555/",
+      "pmcid": "",
+      "abstract": "Maintaining a high glycolytic flux is critical for robust ethanol fermentation and metabolic engineering in Saccharomyces cerevisiae. However, the regulatory mechanisms that prevent the excess turbo design structure of glycolysis under genetic perturbations are unknown. In this study, we constructed a kinetic model of yeast central carbon metabolism encompassing 90 reactions and 543 parameters. Using a genetic algorithm, we trained the model ensemble using multi-omics datasets (proteomics, metabolomics, and fluxomics) collected from the wild-type strain and 11 single-gene deletion mutants. Metabolic control analysis (MCA) of the calibrated models revealed that two major regulatory modes governed the glycolytic flux in most of the strains examined under the culture condition used in this study, although gcr2Δ exhibited a distinct control profile and gnd1Δ could not be reproduced by the model. The wild-type, gcn4Δ, and rpe1Δ strains exhibited an HXK-limited control mode, in which lowered hexokinase activity likely acts as a feedback limiter to prevent pathway over-activation. Conversely, seven other mutants shifted to an ATP demand-coupled mode, transferring flux control to energy-dissipating reactions and linking glycolytic flux directly to ATP demand. No single motif was uniformly shared within either group, implying that strain-specific expression adjustments repeatedly resulted in two regulatory modes. These findings elucidate the robust, multimodal control strategies employed by yeast to safeguard its high fermentation capacity and provide a theoretical foundation for targeted metabolic engineering and robust bioprocess design.",
+      "abstractZh": "维持高糖酵解通量对于酿酒酵母中稳健的乙醇发酵和代谢工程至关重要。然而，在遗传扰动下防止糖酵解过度涡轮设计结构的调节机制尚不清楚。在这项研究中，我们构建了酵母中心碳代谢的动力学模型，包含 90 个反应和 543 个参数。我们使用遗传算法，使用从野生型菌株和 11 个单基因缺失突变体收集的多组学数据集（蛋白质组学、代谢组学和通量组学）来训练模型集合。校准模型的代谢控制分析（MCA）显示，尽管 gcr2Δ 表现出独特的控制特性，并且 gnd1Δ 无法通过模型重现，但在本研究中使用的培养条件下检查的大多数菌株中，两种主要调节模式控制着糖酵解通量。野生型、gcn4Δ和rpe1Δ菌株表现出HXK限制控制模式，其中降低的己糖激酶活性可能充当反馈限制器以防止途径过度激活。相反，其他七个突变体转变为 ATP 需求耦合模式，将通量控制转移到能量二",
+      "url": "https://doi.org/10.1016/j.jbiosc.2026.10.001",
+      "sourceUrl": "https://doi.org/10.1016/j.jbiosc.2026.10.001",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 46,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Protein resource allocation across subcellular compartments revealed by large-scale absolute quantitative proteomics in yeast.",
+      "titleZh": "酵母中大规模绝对定量蛋白质组学揭示了跨亚细胞区室的蛋白质资源分配。",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "targetJournal": "全部收录期刊",
+      "issn": "0027-8424",
+      "eissn": "1091-6490",
+      "year": 2026,
+      "date": "2026-10-27",
+      "authors": "Lu H, Zhang Z, He S, Zhang Y, Wang Y, Tao F, Nielsen J.",
+      "doi": "10.1073/pnas.2621208123",
+      "doiUrl": "https://doi.org/10.1073/pnas.2621208123",
+      "pmid": "42945261",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42945261/",
+      "pmcid": "",
+      "abstract": "Subcellular compartmentalization within complex membrane-bound organelles is a hallmark of eukaryal life, enabling metabolic specialization through spatial segregation. Here, we compiled a dataset encompassing 300 absolute quantitative proteomes, the largest to date, across two yeast species under diverse experimental conditions. Leveraging big data analysis, formula fitting, and machine learning, quantitative correlations among protein abundance, resource allocation, and cellular phenotypes were elucidated at a system level. We found that subcellular resource distribution is highly uneven and covaries with specific growth rate. Specifically, at high specific growth rates, the protein mass fraction (PMF) from certain compartments, (e.g., nucleus) is consistently reduced, coinciding with the increasing protein resource demand from ribosomes. Meanwhile, nutrient limitation may induce resource recycling by upregulating protein resources within specific compartments (e.g., vacuole) to sustain stress adaptation. Importantly, our integrative analysis indicates that PMF from a few subcellular compartments (e.g., nucleus and ribosomes) can accurately predict yeast physiological parameters (e.g., specific growth rate, oxygen uptake rate), and a limited protein set (≥ 23) could be used to capture the variation in resource allocation across seven major subcellular compartments. Furthermore, our comparative analysis between Crabtree-positive and Crabtree-negative species across conditions illustrates that subcellular resource allocation could be shaped by multiple factors and the two species differ markedly in their robustness to environmental perturbations. In summary, the high-quality quantitative proteomic dataset for yeast species offers an unprecedented opportunity for understanding the general principles underlying subcellular resource allocation, laying foundations for precision engineering of cell factories in synthetic biology.",
+      "abstractZh": "复杂的膜结合细胞器内的亚细胞区室化是真核生命的标志，通过空间隔离实现代谢专门化。在这里，我们编译了一个包含 300 个绝对定量蛋白质组的数据集，这是迄今为止最大的数据集，涉及两个酵母物种在不同的实验条件下。利用大数据分析、公式拟合和机器学习，在系统水平上阐明了蛋白质丰度、资源分配和细胞表型之间的定量相关性。我们发现亚细胞资源分布非常不均匀，并且与特定增长率相关。具体来说，在高比生长速率下，某些区室（例如细胞核）的蛋白质质量分数（PMF）持续减少，与核糖体不断增加的蛋白质资源需求相一致。同时，营养限制可能通过上调特定区室（例如液泡）内的蛋白质资源来维持应激适应来诱导资源回收。重要的是，我们的综合分析表明，来自一些亚细胞区室（例如细胞核和核糖体）的 PMF 可以准确预测酵母生理参数",
+      "url": "https://doi.org/10.1073/pnas.2621208123",
+      "sourceUrl": "https://doi.org/10.1073/pnas.2621208123",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "合成生物学"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "合成生物学"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "合成生物学"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "journalScore": 51,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 6,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -726,6 +1274,58 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Multi-omics insights into the effects of selenium yeast-enriched water on the hepatic responses of hybrid (Megalobrama amblycephala ♀ × Ancherythroculter nigrocauda ♂).",
+      "titleZh": "多组学研究富硒酵母水对杂种鲂 (团头鲂 ♀ × Ancherythroculter nigrocauda ♂) 肝脏反应的影响。",
+      "journal": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+      "targetJournal": "全部收录期刊",
+      "issn": "1744-117X",
+      "eissn": "1878-0407",
+      "year": 2026,
+      "date": "2026-10-23",
+      "authors": "Fang Y, Lan M, Qin Q, Wang G, Yu Y, Li Q, Bai Q, Song Z, Ye L, Ji W, Sun Y, Zhang L.",
+      "doi": "10.1016/j.cbd.2026.102064",
+      "doiUrl": "https://doi.org/10.1016/j.cbd.2026.102064",
+      "pmid": "42950559",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42950559/",
+      "pmcid": "",
+      "abstract": "The health-promoting effects of selenium (Se) in fish have been well established; however, current research mainly focuses on dietary Se supplementation. Waterborne Se exposure serves as a complementary approach, yet the regulatory effects and underlying molecular mechanisms of farming fish in Se yeast-enriched water on hepatic function remain unclear. This study used the hybrid fish \"Xianfeng No. 2\" (Megalobrama amblycephala ♀ × Ancherythroculter nigrocauda ♂) as the experimental animal model. After three weeks of culture in Se yeast-enriched water at a target total Se concentration of 0.07 mg L-1, integrated transcriptomic and metabolomic analyses were conducted to explore the hepatic responses to organic Se. Firstly, metabolomic analysis identified 399 metabolites, among which 16 high-confidence characteristic markers potentially closely associated with flesh quality were screened out, including nutritionally valuable metabolites such as docosahexaenoic acid (DHA), clupanodonic acid (DPA), and leucinic acid. Differential metabolites were significantly enriched in pathways pertaining to amino acid metabolism, substance transport and biosynthesis. Secondly, transcriptomic analysis revealed that multiple redox-and immune-related genes were significantly up-regulated in the Se-treated group, including selenoproteins (SELENON, GPX2, and TXNRD3), the complement system (CFB, CFH, and C3), and antioxidant-regulatory genes (GFER and FOXO3), pointing to potential molecular signatures of altered hepatic immune function and antioxidant defense. Thirdly, integrated multi-omics analysis preliminarily identified coordinated changes in retinol and vitamin B6 metabolic pathways. Elevated expression of CYP26A1 and PDXP was associated with the accumulation of vitamin A and pyridoxamine, which may provide a molecular basis for alterations in hepatic antioxidant defense. This study preliminarily reveals potential regulatory mechanisms underlying Se biofortification and quality improvement in fish reared in Se yeast-enriched water at the molecular and metabolic levels, providing a theoretical basis and candidate targets for Se-enriched fish culture and molecular breeding.",
+      "abstractZh": "硒 (Se) 对鱼类的健康促进作用已得到充分证实；然而，目前的研究主要集中在膳食补硒上。水性硒暴露是一种补充方法，但在富含硒酵母的水中养鱼对肝功能的调节作用和潜在分子机制仍不清楚。本研究以杂交鱼“先锋2号”（团头鲂♀ × Ancherythroculter nigrocauda♂）作为实验动物模型。在富含硒酵母的水中以 0.07 mg L-1 的目标总硒浓度培养三周后，进行综合转录组学和代谢组学分析，以探索肝脏对有机硒的反应。首先，代谢组学分析鉴定出399个代谢物，其中筛选出16个与肉质潜在密切相关的高置信度特征标记，包括二十二碳六烯酸（DHA）、鲫鱼酸（DPA）和亮氨酸等具有营养价值的代谢物。差异代谢物在氨基酸代谢、物质运输和生物合成相关途径中显着富集。其次，转录组分析",
+      "url": "https://doi.org/10.1016/j.cbd.2026.102064",
+      "sourceUrl": "https://doi.org/10.1016/j.cbd.2026.102064",
+      "citationCount": 0,
+      "relevanceScore": 60,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "念珠菌",
+        "代谢工程",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 53,
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Progress and perspectives in nitrogenase engineering in plants and yeast.",
       "titleZh": "植物和酵母固氮酶工程的进展和展望。",
       "journal": "Journal of experimental botany",
@@ -768,10 +1368,10 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 51,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 1,
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -1266,7 +1866,7 @@
       "articleScore": 48,
       "journalScore": 51,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2049,6 +2649,55 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
+      "title": "Tartary buckwheat cotyledon size varieties undergo distinct transcriptional reprogramming of phytohormone signaling under cold and UV stresses.",
+      "titleZh": "苦荞子叶大小的品种在寒冷和紫外线胁迫下经历了植物激素信号的独特转录重编程。",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "targetJournal": "全部收录期刊",
+      "issn": "0981-9428",
+      "eissn": "1873-2690",
+      "year": 2026,
+      "date": "2026-10-16",
+      "authors": "Liu L, Sai F, Shao J, Zhang W, Fan J, Ma M, Liu Z, Xu S, Jiao X, Hou S, Sun Z.",
+      "doi": "10.1016/j.plaphy.2026.111848",
+      "doiUrl": "https://doi.org/10.1016/j.plaphy.2026.111848",
+      "pmid": "42945727",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42945727/",
+      "pmcid": "",
+      "abstract": "Fagopyrum tataricum (TB) is a characteristic high-altitude crop in China. The cotyledon, as a key photosynthetic and nutrient storage organ at the seedling stage, plays critical roles in early growth and stress tolerance, but the molecular linkage between cotyledon size and abiotic stress resistance remains unclear. In this study, 279 TB accessions were phenotyped for cotyledon area, height, and width across three ecological regions over two consecutive years, and were classified into large, medium, and small cotyledon types via phenotypic clustering analysis. Two representative accessions, Ft104 (large cotyledon) and Ft32 (small cotyledon), were selected for further experiments. Cytological observations showed that cotyledon size was associated with differences in epidermal cell size and density, with small-cotyledon accessions exhibiting a higher number of cells per unit area. Physiological assays at the germination stage demonstrated that small-cotyledon accessions exhibited faster water absorption, stronger seedling emergence capacity, and more stable degradation of storage substances. Under low-temperature and UV-B stress, small-cotyledon accessions accumulated less malondialdehyde (MDA) and displayed significantly higher activities of peroxidase (POD), superoxide dismutase (SOD), and catalase (CAT), indicating enhanced stress tolerance. Transcriptomic analysis and WGCNA identified 18 co-expression modules, of which MEcoral4 was associated with cotyledon morphology and stress-related physiological traits and was enriched in plant hormone signal transduction. Three candidate genes, FtAUX22D, FtARG7, and FtPYL4, were further examined by qRT-PCR across multiple accessions. Heterologous expression in yeast provided preliminary evidence that FtPYL4 enhances cold-stress tolerance. Targeted LC-MS/MS profiling further revealed genotype-dependent changes in endogenous phytohormones and auxin-related metabolites, with Ft32 showing higher accumulation of several indole-related metabolites and SA under stress, whereas Ft104 exhibited a pronounced JA response to UV-B. Together, these results indicate an association between cotyledon-size phenotype and abiotic-stress responses involving phytohormone-related transcriptional and metabolic reprogramming in Tartary buckwheat.",
+      "abstractZh": "苦荞（TB）是我国特有的高海拔​​作物。子叶作为幼苗期关键的光合作用和养分储存器官，在早期生长和抗逆性中发挥着关键作用，但子叶大小与非生物胁迫抗性之间的分子联系仍不清楚。本研究连续两年对三个生态区的279份TB材料进行了子叶面积、高度和宽度的表型分析，并通过表型聚类分析将其分为大、中、小子叶类型。选择两个代表性种质 Ft104（大子叶）和 Ft32（小子叶）进行进一步实验。细胞学观察表明，子叶大小与表皮细胞大小和密度的差异相关，小子叶品种每单位面积的细胞数量较多。发芽期生理测定表明，小子叶材料吸水速度更快，出苗能力更强，贮藏物质降解更稳定。在低温和UV-B胁迫下，小子叶材料积累的丙二醛较少",
+      "url": "https://doi.org/10.1016/j.plaphy.2026.111848",
+      "sourceUrl": "https://doi.org/10.1016/j.plaphy.2026.111848",
+      "citationCount": 0,
+      "relevanceScore": 42,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "念珠菌",
+        "酵母",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "念珠菌",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 43,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 21,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
       "title": "Unveiling the Microbial Community of Naturally Fermented Bella di Cerignola PDO Table Olives Integrating Culture-Dependent, MALDI-TOF MS Identification and Long-Read Metabarcoding Approaches.",
       "titleZh": "结合培养依赖性、MALDI-TOF MS 鉴定和长读元条形码方法，揭示自然发酵的 Bella di Cerignola PDO 食用橄榄的微生物群落。",
       "journal": "Foods (Basel, Switzerland)",
@@ -2188,7 +2837,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -2385,9 +3034,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3038,7 +3687,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -3376,7 +4025,7 @@
       "articleScore": 57,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3907,9 +4556,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4693,7 +5342,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -4994,9 +5643,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5086,9 +5735,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5280,7 +5929,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -5377,9 +6026,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5481,9 +6130,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -5778,6 +6427,159 @@
       "journalScore": 48,
       "journalQuartile": "Q1",
       "journalArticleCount": 7,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Metabolic Engineering of Saccharomyces cerevisiae for Flavonoid Synthesis from Acetate.",
+      "titleZh": "酿酒酵母代谢工程从乙酸合成类黄酮。",
+      "journal": "Journal of agricultural and food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-8561",
+      "eissn": "1520-5118",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Li M, Li G, Wang Y, Xie W, Zhang X, Zhang C, Cao Y, Lou WY.",
+      "doi": "10.1021/acs.jafc.6c05419",
+      "doiUrl": "https://doi.org/10.1021/acs.jafc.6c05419",
+      "pmid": "42949331",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42949331/",
+      "pmcid": "",
+      "abstract": "Acetate is a sustainable C2 feedstock derived from CO2 electroreduction, but its conversion to complex natural products is constrained by impaired cell growth and poor metabolic compatibility. Adaptive laboratory evolution generated an evolved Saccharomyces cerevisiae strain capable of producing 536.32 mg/L of p-coumaric acid from 15 g/L acetate as the sole carbon source. Genome- and transcriptome-level analyses subsequently revealed genetic factors associated with an enhanced acetate utilization. To evaluate acetate-supported flavonoid biosynthesis, a downstream flavonoid pathway was constructed in the parental chassis, yielding 19.55 mg/L of phloretin from acetate. Co-overexpression of EFG1 and ACS1, followed by fermentation optimization, increased the phloretin titer to 35.71 mg/L, reaching 78.71% of the glucose-based level. This work establishes S. cerevisiae as a viable platform for converting renewable C2 feedstocks into complex flavonoids and provides a practical strategy for the low-carbon bioproduction of high-value natural products.",
+      "abstractZh": "醋酸盐是一种源自 CO2 电还原的可持续 C2 原料，但其向复杂天然产物的转化受到细胞生长受损和代谢相容性差的限制。适应性实验室进化产生了一种进化的酿酒酵母菌株，能够以 15 g/L 乙酸盐作为唯一碳源生产 536.32 mg/L 对香豆酸。随后，基因组和转录组水平的分析揭示了与醋酸盐利用增强相关的遗传因素。为了评估乙酸盐支持的类黄酮生物合成，在亲本底盘中构建了下游类黄酮途径，从乙酸盐中产生 19.55 mg/L 的根皮素。 EFG1和ACS1共过表达，并进行发酵优化，将根皮素滴度提高至35.71 mg/L，达到葡萄糖水平的78.71%。这项工作将酿酒酵母建立为将可再生 C2 原料转化为复杂黄酮类化合物的可行平台，并为高价值天然产品的低碳生物生产提供了实用策略。",
+      "url": "https://doi.org/10.1021/acs.jafc.6c05419",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.6c05419",
+      "citationCount": 0,
+      "relevanceScore": 73,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "代谢工程",
+        "定向进化",
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "代谢工程",
+        "定向进化",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "代谢工程",
+        "定向进化",
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 60,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 15,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Metallochaperone protein OsHIPP36 is involved in arsenic(III) tolerance and translocation in rice (Oryza sativa L.).",
+      "titleZh": "金属伴侣蛋白 OsHIPP36 参与水稻 (Oryza sativa L.) 的砷 (III) 耐受性和易位。",
+      "journal": "Annals of botany",
+      "targetJournal": "全部收录期刊",
+      "issn": "1095-8290",
+      "eissn": "1095-8290",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Wang L, Guo R, Lei G, Shen R, Zhu X.",
+      "doi": "10.1093/aob/mcag194",
+      "doiUrl": "https://doi.org/10.1093/aob/mcag194",
+      "pmid": "42403105",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42403105/",
+      "pmcid": "",
+      "abstract": "Background and aimsArsenic (As) contamination in agricultural soils threatens crop production and food safety owing to its toxicity. Heavy metal-associated isoprenylated plant proteins (HIPPs) act as metallochaperones involved in metal ion homeostasis. Here, we show that the previously uncharacterized OsHIPP36 affects As(III) tolerance and translocation in rice.MethodsThe expression pattern of OsHIPP36 was examined using RT-qPCR and β-glucuronidase staining. Subcellular localization of OsHIPP36 was examined by transiently expressing an OsHIPP36-GFP fusion in rice protoplasts and tobacco leaves, and its functional role was assessed through heterologous expression in the As-sensitive yeast mutant Δycf1. The mutant and overexpressing transgenic lines were generated using CRISPR/Cas9 technology. As(III) levels were measured by ICP-MS and protein interactions tested using luciferase complementation imaging, bimolecular fluorescence complementation and co-immunoprecipitation assays.Key resultsThe OsHIPP36 protein is targeted to the plasma membrane, and its expression is significantly induced by As(III) stress. In yeast assays, expression of OsHIPP36 in the Δycf1 mutant inhibited yeast growth and led to higher intracellular As(III) accumulation. In rice, the loss of OsHIPP36 enhanced tolerance to As(III), leading to an increased As(III) retention in the roots and decreased transport to shoots.ConclusionOsHIPP36 is a plasma membrane-localized metallochaperone induced by As(III) stress and plays a negative role in rice As(III) tolerance. To our knowledge, this study provides the first evidence that HIPP proteins influence As(III) tolerance and accumulation in rice.",
+      "abstractZh": "背景和目的农业土壤中的砷（As）污染因其毒性而威胁着作物生产和食品安全。重金属相关异戊二烯化植物蛋白 (HIPP) 作为金属伴侣参与金属离子稳态。在这里，我们发现先前未表征的OsHIPP36影响水稻中的As(III)耐受性和易位。方法使用RT-qPCR和GUS染色检查OsHIPP36的表达模式。通过在水稻原生质体和烟草叶中瞬时表达 OsSHIPP36-GFP 融合体来检查 OsSHIPP36 的亚细胞定位，同时通过 As 敏感酵母突变体 Δycf1 中的异源表达来评估其功能作用。突变体和过表达转基因系是使用 CRISPR/Cas9 技术生成的。通过 ICP-MS 测量 As(III) 水平，并使用 LCI、BiFC 和 Co-IP 测定测试蛋白质相互作用。 主要结果 OsSHIPP36 蛋白靶向质膜​​，其表达受到 As(III) 应激的显着诱导。在酵母检测中，Δycf1 突变体中 OsSHIPP36 的表达抑制酵母生长并导致细胞内 As(III) 积累更高。在水稻中，OsSHIPP36 的损失增强",
+      "url": "https://doi.org/10.1093/aob/mcag194",
+      "sourceUrl": "https://doi.org/10.1093/aob/mcag194",
+      "citationCount": 0,
+      "relevanceScore": 49,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "CRISPR",
+        "异源表达"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "CRISPR",
+        "异源表达"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "CRISPR",
+        "异源表达"
+      ],
+      "included": true,
+      "articleScore": 47,
+      "journalScore": 40,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Multilevel Engineering of Saccharomyces cerevisiae for Scalable Production of Ergosterol as a Vitamin D2 Precursor.",
+      "titleZh": "酿酒酵母的多级工程可大规模生产维生素 D2 前体麦角甾醇。",
+      "journal": "Journal of agricultural and food chemistry",
+      "targetJournal": "全部收录期刊",
+      "issn": "0021-8561",
+      "eissn": "1520-5118",
+      "year": 2026,
+      "date": "2026-10-01",
+      "authors": "Wei W, Chen Q, Sang C, Gao S, He Q, Xu S, Zeng W, Zhou J.",
+      "doi": "10.1021/acs.jafc.6c05333",
+      "doiUrl": "https://doi.org/10.1021/acs.jafc.6c05333",
+      "pmid": "42949355",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42949355/",
+      "pmcid": "",
+      "abstract": "Ergosterol, a nutritionally relevant fungal sterol and vitamin D2 precursor, is valuable for food and feed applications, but its overproduction in Saccharomyces cerevisiae is constrained by stringent sterol homeostasis, limited organelle capacity, and the coordination of gene-dense pathways. A multilevel engineering framework was established by relieving inhibitory regulation, enhancing acetyl-CoA supply, strengthening rate-limiting steps, expanding endoplasmic reticulum capacity, and rewiring ethanol assimilation. A bidirectional-terminator-based integration toolkit enabled programmable chromosomal integration, modular pathway refactoring, and tunable expression partitioning. Stimulated Raman scattering (SRS) microscopy provided label-free visualization of intracellular ergosterol distribution and storage at single-cell resolution, supporting sterol homeostasis optimization. Robustness-oriented engineering of central carbon metabolism, mitochondrial function, and epigenetic regulation enhanced cellular fitness and fermentation performance. The resulting strain produced 0.983 g/L ergosterol in shake-flask cultures and 4.39 g/L in a 5-L bioreactor, corresponding to 51.7 mg/g dry cell weight (DCW), demonstrating the potential for scalable ergosterol biomanufacturing.",
+      "abstractZh": "麦角甾醇是一种营养相关的真菌甾醇和维生素 D2 前体，对于食品和饲料应用很有价值，但其在酿酒酵母中的过量生产受到严格的甾醇稳态、有限的细胞器容量和基因密集途径的协调的限制。通过解除抑制调节、增强乙酰辅酶A供应、加强限速步骤、扩大内质网容量和重新连接乙醇同化，建立了多层次的工程框架。基于双向终止子的集成工具包实现了可编程染色体集成、模块化途径重构和可调表达分区。受激拉曼散射 (SRS) 显微镜以单细胞分辨率提供细胞内麦角甾醇分布和存储的无标记可视化，支持甾醇稳态优化。以鲁棒性为导向的中心碳代谢、线粒体功能和表观遗传调控工程增强了细胞适应性和发酵性能。所得菌株在摇瓶培养物中产生 0.983 g/L 麦角甾醇，在 5 L 生物反应器中产生 4.39 g/L 麦角甾醇，相当于 51.7 mg/g 干细胞",
+      "url": "https://doi.org/10.1021/acs.jafc.6c05333",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.6c05333",
+      "citationCount": 0,
+      "relevanceScore": 57,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "journalScore": 48,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6280,9 +7082,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6328,7 +7130,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6759,9 +7561,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7105,9 +7907,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7456,7 +8258,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -7904,9 +8706,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8011,9 +8813,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8454,7 +9256,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8745,7 +9547,7 @@
       "articleScore": 48,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8938,7 +9740,7 @@
       "articleScore": 59,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10262,9 +11064,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -10606,7 +11408,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11662,7 +12464,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11853,7 +12655,7 @@
       "articleScore": 49,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12198,7 +13000,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -12579,7 +13381,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12628,7 +13430,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -12720,7 +13522,7 @@
       "articleScore": 49,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13209,9 +14011,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13554,7 +14356,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13701,7 +14503,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13848,7 +14650,7 @@
       "articleScore": 43,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13896,7 +14698,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -14507,9 +15309,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15043,9 +15845,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15092,10 +15894,10 @@
       ],
       "included": true,
       "articleScore": 63,
-      "journalScore": 51,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 1,
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -15291,9 +16093,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 44,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15388,7 +16190,7 @@
       "articleScore": 43,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15481,9 +16283,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 44,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15622,9 +16424,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15676,7 +16478,7 @@
       "articleScore": 53,
       "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15824,9 +16626,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15876,9 +16678,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16081,9 +16883,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16522,9 +17324,9 @@
       ],
       "included": true,
       "articleScore": 61,
-      "journalScore": 44,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -16798,10 +17600,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 51,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 3,
-      "journalMedianCitationsPerYear": 1,
+      "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -17342,7 +18144,7 @@
       "articleScore": 53,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -17982,7 +18784,7 @@
       "articleScore": 64,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19259,7 +20061,7 @@
       "articleScore": 54,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -19310,7 +20112,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19709,7 +20511,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -20463,7 +21265,7 @@
       "articleScore": 53,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20810,7 +21612,7 @@
       "articleScore": 53,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21384,9 +22186,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21523,7 +22325,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 37,
-      "journalQuartile": "Q3",
+      "journalQuartile": "Q4",
       "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21870,7 +22672,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22176,7 +22978,7 @@
       "articleScore": 67,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22224,7 +23026,7 @@
       "included": true,
       "articleScore": 55,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -22318,9 +23120,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22470,7 +23272,7 @@
       "articleScore": 60,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22493,7 +23295,7 @@
       "abstractZh": "本研究的目的是评估微生物接种剂对“Gibtuck”青贮草（Hemarthria altissima [Poir.] Stapf & C.E. Hubbard）青贮饲料的营养价值、发酵参数、微生物学和产气量的影响。处理是青贮饲料处理或未用含有乳酸乳球菌和布赫内里扁豆乳杆菌混合物（SiloSolve FC；Novonesis，Lyngby，丹麦）的接种剂处理的青贮饲料，浓度为0.5 g/mg 饲喂饲料。处理按随机完整区组设计进行分配，有 10 个重复（区组），其中每个区组由一个对照和一个接种的迷你筒仓组成。该实验于 2023 年 3 月至 7 月在佛罗里达州奥纳进行。在 20 块 9 平方米的地块上收获了 20 块 9 平方米的长毛草，茬高为 15 厘米，再生间隔为 58 天。样品经切碎、处理后放入迷你筒仓（容量为1.2公斤新鲜饲料），并立即密封筒仓。 60 天后打开筒仓进行分析。接种剂和对照处理在干物质浓度、干物质回收率、中性洗涤纤维（NDF）、非纤维碳水化合物和总可消化营养素方面没有差异（P≥0.42）",
       "url": "https://doi.org/10.1093/tas/txag125",
       "sourceUrl": "https://doi.org/10.1093/tas/txag125",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -22513,11 +23315,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q4",
+      "articleScore": 55,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -22571,7 +23373,7 @@
       "articleScore": 65,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -22619,7 +23421,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -23114,7 +23916,7 @@
       "articleScore": 57,
       "journalScore": 51,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23316,7 +24118,7 @@
       "articleScore": 63,
       "journalScore": 51,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23361,7 +24163,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -23800,7 +24602,7 @@
       "articleScore": 45,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -23847,9 +24649,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -24431,7 +25233,7 @@
       "articleScore": 51,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25115,9 +25917,9 @@
       ],
       "included": true,
       "articleScore": 53,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25544,9 +26346,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26665,9 +27467,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -26968,9 +27770,9 @@
       ],
       "included": true,
       "articleScore": 58,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -28720,9 +29522,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29002,10 +29804,10 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 1,
+      "journalArticleCount": 2,
+      "journalMedianCitationsPerYear": 0.5,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -29336,9 +30138,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30278,9 +31080,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 3,
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30470,7 +31272,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31214,7 +32016,7 @@
       "articleScore": 51,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31453,7 +32255,7 @@
       "articleScore": 51,
       "journalScore": 51,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31598,9 +32400,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32139,7 +32941,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -32336,7 +33138,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32382,7 +33184,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32431,7 +33233,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -32922,9 +33724,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33253,9 +34055,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 43,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 7,
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 8,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33710,7 +34512,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34204,7 +35006,7 @@
       "articleScore": 57,
       "journalScore": 50,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34391,7 +35193,7 @@
       "articleScore": 55,
       "journalScore": 51,
       "journalQuartile": "Q1",
-      "journalArticleCount": 5,
+      "journalArticleCount": 6,
       "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34594,9 +35396,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34999,9 +35801,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 48,
       "journalQuartile": "Q1",
-      "journalArticleCount": 13,
+      "journalArticleCount": 15,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35486,9 +36288,9 @@
       ],
       "included": true,
       "articleScore": 55,
-      "journalScore": 45,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 6,
+      "journalArticleCount": 7,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36009,7 +36811,7 @@
       "articleScore": 49,
       "journalScore": 44,
       "journalQuartile": "Q1",
-      "journalArticleCount": 20,
+      "journalArticleCount": 21,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -36415,55 +37217,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Metallochaperone Protein OsHIPP36 Is Involved in Arsenic(III) Tolerance and Translocation in Rice (Oryza sativa L.).",
-      "titleZh": "金属伴侣蛋白 OsHIPP36 参与水稻 (Oryza sativa L.) 的砷 (III) 耐受性和易位。",
-      "journal": "Annals of botany",
-      "targetJournal": "全部收录期刊",
-      "issn": "1095-8290",
-      "eissn": "1095-8290",
-      "year": 2026,
-      "date": "2026-07-06",
-      "authors": "Wang L, Guo R, Lei G, Shen R, Zhu X.",
-      "doi": "10.1093/aob/mcag194",
-      "doiUrl": "https://doi.org/10.1093/aob/mcag194",
-      "pmid": "42403105",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42403105/",
-      "pmcid": "",
-      "abstract": "Background and aimsArsenic (As) contamination in agricultural soils threatens crop production and food safety due to its toxicity. Heavy metal-associated isoprenylated plant proteins (HIPPs) act as metallochaperone involved in metal ion homeostasis. Here, we show that the previously uncharacterized OsHIPP36 affects As(III) tolerance and translocation in rice.MethodsThe expression pattern of OsHIPP36 was examined using RT-qPCR and GUS staining. Subcellular localization of OsHIPP36 was examined by transiently expressing an OsHIPP36-GFP fusion in rice protoplasts and tobacco leaves, while its functional role was assessed through heterologous expression in the As-sensitive yeast mutant Δycf1. The mutant and overexpressing transgenic lines were generated using CRISPR/Cas9 technology. As(III) levels were measured by ICP-MS and protein interactions tested using LCI, BiFC and Co-IP assays.Key resultsThe OsHIPP36 protein is targeted to the plasma membrane, and its expression is significantly induced by As(III) stress. In yeast assays, expression of OsHIPP36 in the Δycf1 mutant inhibited yeast growth and led to higher intracellular As(III) accumulation. In rice, the loss of OsHIPP36 enhanced tolerance to As(III), leading to an increased As(III) retention in the roots and decreased transport to shoots.ConclusionOsHIPP36 is a plasma membrane-localized metallochaperone induced by As(III) stress and plays a negative role in rice As(III) tolerance. To our knowledge, this study provides the first evidence that HIPP proteins influence As(III) tolerance and accumulation in rice.",
-      "abstractZh": "背景和目的农业土壤中的砷（As）污染因其毒性而威胁着作物生产和食品安全。重金属相关异戊二烯化植物蛋白 (HIPP) 作为金属伴侣参与金属离子稳态。在这里，我们发现先前未表征的OsHIPP36影响水稻中的As(III)耐受性和易位。方法使用RT-qPCR和GUS染色检查OsHIPP36的表达模式。通过在水稻原生质体和烟草叶中瞬时表达 OsSHIPP36-GFP 融合体来检查 OsSHIPP36 的亚细胞定位，同时通过 As 敏感酵母突变体 Δycf1 中的异源表达来评估其功能作用。突变体和过表达转基因系是使用 CRISPR/Cas9 技术生成的。通过 ICP-MS 测量 As(III) 水平，并使用 LCI、BiFC 和 Co-IP 测定测试蛋白质相互作用。 主要结果 OsSHIPP36 蛋白靶向质膜​​，其表达受到 As(III) 应激的显着诱导。在酵母检测中，Δycf1 突变体中 OsSHIPP36 的表达抑制酵母生长并导致细胞内 As(III) 积累更高。在水稻中，OsSHIPP36 的损失增强",
-      "url": "https://doi.org/10.1093/aob/mcag194",
-      "sourceUrl": "https://doi.org/10.1093/aob/mcag194",
-      "citationCount": 0,
-      "relevanceScore": 49,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "CRISPR",
-        "异源表达"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "CRISPR",
-        "异源表达"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "CRISPR",
-        "异源表达"
-      ],
-      "included": true,
-      "articleScore": 47,
-      "journalScore": 40,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Multi-omics reveals novel CYP450s and transcription factors regulating triterpenoid biosynthesis in Aralia elata.",
       "titleZh": "多组学揭示了龙牙楤木中调节三萜生物合成的新型 CYP450 和转录因子。",
       "journal": "Plant science : an international journal of experimental plant biology",
@@ -36663,55 +37416,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.",
-      "titleZh": "来自中国新疆的传统发酵骆驼奶用作发酵剂，具有稳定的发酵特性和抗结肠炎作用。",
-      "journal": "Food & function",
-      "targetJournal": "全部收录期刊",
-      "issn": "2042-6496",
-      "eissn": "2042-650X",
-      "year": 2026,
-      "date": "2026-07-06",
-      "authors": "Deng F, He D, Mu G, Li X, Tuo Y.",
-      "doi": "10.1039/d5fo05107j",
-      "doiUrl": "https://doi.org/10.1039/d5fo05107j",
-      "pmid": "42312859",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42312859/",
-      "pmcid": "",
-      "abstract": "In this study, five traditional fermented camel milks obtained from five different pasturing areas in Xinjiang, China, were evaluated for their fermentation stability, microbiota composition, and amino acid and peptide profiles. The results demonstrated that traditional fermented camel milk from Xinjiang, when used as a starter culture, maintains stable pH, titratable acidity and viable bacterial counts during continuous camel milk fermentation. The core microbial species identified in the fermented camel milk included Lactobacillus helveticus, Acetobacter lovaniensis, Streptococcus salivarius subsp. thermophilus, Kazachstania unispora, Saccharomyces sp., Naumovozyma castellii, and Kluyveromyces marxianus. The camel milk fermented with this traditional starter culture was rich in various amino acids and bioactive peptides. Oral administration of the fermented camel milk alleviated DSS-induced colitis in C57BL/6J mice, as evidenced by ameliorated intestinal barrier impairment, and suppressed inflammatory responses, potentially through modulation of gut microbiota and short-chain fatty acid production. These findings suggest that the whole microbiota of the traditional fermented camel milk can serve as a starter culture for successive camel milk fermentation, and that the resulting fermented camel milk shows potential as a functional food.",
-      "abstractZh": "在这项研究中，评估了来自中国新疆五个不同牧区的五种传统发酵骆驼奶的发酵稳定性、微生物群组成以及氨基酸和肽谱。结果表明，新疆传统发酵骆驼奶作为发酵剂，在骆驼奶连续发酵过程中保持稳定的pH、可滴定酸度和活菌数。发酵骆驼奶中鉴定出的核心微生物种类包括瑞士乳杆菌、洛瓦尼亚醋杆菌、唾液链球菌亚种。嗜热菌、哈萨克斯坦单孢菌、酵母菌、卡氏酵母菌和马克斯克鲁维酵母。用这种传统发酵剂发酵的骆驼奶富含多种氨基酸和生物活性肽。口服发酵骆驼奶可减轻 C57BL/6J 小鼠中 DSS 诱导的结肠炎，改善肠道屏障损伤即可证明这一点，并可能通过调节肠道微生物群和短链脂肪酸产生来抑制炎症反应。这些发现表明传统发酵的整个微生物群都来自",
-      "url": "https://doi.org/10.1039/d5fo05107j",
-      "sourceUrl": "https://doi.org/10.1039/d5fo05107j",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "克鲁维酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "克鲁维酵母",
-        "酵母"
-      ],
-      "matchedYeast": [
-        "克鲁维酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Transcription factor YALI1_A16891g contributes to enhanced glycolytic flux and mevalonate production at elevated temperature in engineered Yarrowia lipolytica.",
       "titleZh": "转录因子 YALI1_A16891g 有助于工程解脂耶氏酵母在高温下增强糖酵解通量和甲羟戊酸产量。",
       "journal": "Bioresource technology",
@@ -36810,52 +37514,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Unraveling yeast diversity in food fermentation using ITS1-2 amplicon-based metabarcoding.",
-      "titleZh": "使用基于 ITS1-2 扩增子的元条形码揭示食品发酵中的酵母多样性。",
-      "journal": "Microbiology spectrum",
-      "targetJournal": "全部收录期刊",
-      "issn": "2165-0497",
-      "eissn": "2165-0497",
-      "year": 2026,
-      "date": "2026-07-06",
-      "authors": "Pradal I, Gettemans T, Weckx S.",
-      "doi": "10.1128/spectrum.00060-26",
-      "doiUrl": "https://doi.org/10.1128/spectrum.00060-26",
-      "pmid": "42405757",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42405757/",
-      "pmcid": "PMC13435807",
-      "abstract": "A detailed characterization of the microbial ecosystem involved in the production processes of fermented foods is essential. Although fermented foods are an important part of the human diet and have seen an increasing interest nowadays, some challenges still need to be solved. Specifically, yeast identification through culture-independent methodologies is still limited to the genus level. Unlike bacterial species identifications, long-read sequencing technologies have barely been used for yeast species identification, and, to the best of the authors' knowledge, it has not been validated with mock communities reflecting food fermentation processes yet. Therefore, in the current study, we present an amplicon-based metabarcoding approach targeting the full-length internal transcribed spacer (ITS) region comprising ITS1, the 5.8S rRNA gene, and ITS2, using the PacBio HiFi sequencing platform. This method was validated using DNA-based mock communities composed of yeast species involved in sourdough, lambic beer, and cocoa fermentation processes. Accurate species-level identification was achieved for most of the species. However, special attention should be given to Saccharomyces-rich niches, as accurate species-level identification for this genus is still challenging. Furthermore, underestimation of the relative abundance of species with short ITS regions, such as Pichia and Brettanomyces, occurred. In addition, the method was successfully applied to describe the yeast diversity present in two sourdough and two lambic beer samples. Overall, the current method provides an unprecedented way of determining the species-level yeast composition of complex ecosystems present in fermented food products.IMPORTANCETo date, species-level identification of common yeasts present in food fermentation ecosystems has been difficult, if not impossible, when using short-read sequencing methods. However, species-level identification is essential when evaluating and describing the characteristics of fermented food microbiomes. The current study reports on the development and validation of an amplicon-based metabarcoding approach combined with long-read PacBio HiFi sequencing targeting the full internal transcribed spacer (ITS) region, comprising the ITS1 and ITS2 regions, as well as the 5.8S rRNA gene. The described methodology enables species-level identification of the most common yeasts present in food fermentation ecosystems. This new methodology provides an important tool not only for the investigation of fermented foods but also for other fields engaged in complex microbial community analysis.",
-      "abstractZh": "对发酵食品生产过程中涉及的微生物生态系统的详细描述至关重要。尽管发酵食品是人类饮食的重要组成部分，并且如今越来越受到人们的关注，但仍然存在一些挑战需要解决。具体来说，通过独立于培养物的方法进行的酵母鉴定仍然局限于属水平。与细菌物种鉴定不同，长读长测序技术几乎没有用于酵母物种鉴定，而且据作者所知，它尚未通过反映食品发酵过程的模拟群落进行验证。因此，在当前的研究中，我们使用 PacBio HiFi 测序平台，提出了一种基于扩增子的元条形码方法，针对包含 ITS1、5.8S rRNA 基因和 ITS2 的全长内部转录间隔区 (ITS) 区域。该方法使用基于 DNA 的模拟群落进行了验证，该模拟群落由参与酸面团、朗比克啤酒和可可发酵过程的酵母物种组成。大多数物种实现了准确的物种级别鉴定。然而，应特别注意富含酵母菌的ni",
-      "url": "https://doi.org/10.1128/spectrum.00060-26",
-      "sourceUrl": "https://doi.org/10.1128/spectrum.00060-26",
-      "citationCount": 1,
-      "relevanceScore": 63,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 61,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 6,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "Upcycling food processing byproducts via advanced yeast fermentation.",
       "titleZh": "通过先进的酵母发酵升级回收食品加工副产品。",
       "journal": "Current opinion in biotechnology",
@@ -36904,9 +37562,9 @@
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 749 篇",
-    "lastStartedAt": "2026-10-29T06:39:52.096Z",
-    "lastFinishedAt": "2026-10-29T06:41:18.750Z",
+    "lastMessage": "更新完成，共 762 篇",
+    "lastStartedAt": "2026-10-30T06:40:41.938Z",
+    "lastFinishedAt": "2026-10-30T06:42:07.017Z",
     "nextRunAt": null,
     "progress": 100
   }
