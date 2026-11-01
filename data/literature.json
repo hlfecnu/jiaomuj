@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:31:59.321Z",
+  "updatedAt": "2026-11-01T07:04:06.004Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -188,7 +188,60 @@
       "articleScore": 51,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Computer-Driven Construction of a Saccharomyces cerevisiae Aromatase Inhibitor Screening Platform.",
+      "titleZh": "",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "targetJournal": "全部收录期刊",
+      "issn": "1064-3745",
+      "eissn": "1940-6029",
+      "year": 2027,
+      "date": "2027-01-01",
+      "authors": "Wu J, Bureik M, Marchisio MA.",
+      "doi": "10.1007/978-1-0716-5583-2_16",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5583-2_16",
+      "pmid": "42961750",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42961750/",
+      "pmcid": "",
+      "abstract": "Saccharomyces cerevisiae is a cost-effective eukaryotic chassis for hosting synthetic circuits that include heterologously expressed proteins. The budding yeast has been extensively used across multiple biotechnological sectors, including environmental applications and pharmaceutical production. Here, we describe a rational workflow for the design and implementation of an S. cerevisiae-based screening platform for aromatase inhibitors. The workflow is organized into three main components: (1) the design and construction of an efficient β-estradiol biosensor; (2) the engineering of a yeast expression system for human aromatase (CYP19A1) and cytochrome P450 reductase; and (3) a screening method for identifying aromatase inhibitors and determining the IC₅₀ values of the most effective compounds. The aromatase inhibitors identified using this platform represent potential therapeutic candidates for a specific subtype of breast cancer.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1007/978-1-0716-5583-2_16",
+      "sourceUrl": "https://doi.org/10.1007/978-1-0716-5583-2_16",
+      "citationCount": 0,
+      "relevanceScore": 61,
+      "relevanceLevel": "较高相关",
+      "organismKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物传感器"
+      ],
+      "mainKeywords": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌",
+        "生物传感器"
+      ],
+      "matchedYeast": [
+        "酿酒酵母",
+        "酵母",
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物传感器"
+      ],
+      "included": true,
+      "articleScore": 54,
+      "translationError": "Translation returned 429",
+      "journalScore": 45,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -243,7 +296,7 @@
       "articleScore": 61,
       "journalScore": 45,
       "journalQuartile": "Q1",
-      "journalArticleCount": 2,
+      "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -342,6 +395,53 @@
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 4,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Integrated Metabolomic and Transcriptomic Analysis Reveals the Response Mechanisms of Phallus rubrovolvatus to Yeast Pathogen Infection.",
+      "titleZh": "",
+      "journal": "Phytopathology",
+      "targetJournal": "全部收录期刊",
+      "issn": "0031-949X",
+      "eissn": "1943-7684",
+      "year": 2026,
+      "date": "2026-10-30",
+      "authors": "Wu P, Yuan X, Peng K, Li C, Li Y, Tarafder E, Qin Z, Tian F, Liu F.",
+      "doi": "10.1094/phyto-02-26-0036-r",
+      "doiUrl": "https://doi.org/10.1094/phyto-02-26-0036-r",
+      "pmid": "42962065",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42962065/",
+      "pmcid": "",
+      "abstract": "Phallus rubrovolvatus is a valuable edible and medicinal mushroom, but its cultivation is severely hindered by yellow rot disease caused by Saccharomycopsis phalli, which shows a 60 to 80% incidence and causes severe fruiting body rot, yield loss, and quality decline. The molecular mechanisms, particularly the dynamic transcriptional and metabolic responses, underlying the defense of P. rubrovolvatus against S. phalli remain poorly understood, limiting the development of targeted control strategies. To address this gap, we conducted an integrated transcriptomic and metabolomic analysis, identifying differentially expressed genes (DEGs) and differentially accumulated metabolites (DAMs) at 8, 16, 32, and 48 hours post-inoculation (hpi). Results showed significant changes in the pentose and glucuronate interconversion pathway, with reduced expression of related genes (e.g., ARD1, XR) and decreased accumulation of metabolites (e.g., D-glucuronic acid). Conversely, the arginine biosynthesis pathway was significantly enriched, with accumulated intermediates (e.g., citrulline, argininosuccinic acid) and upregulated biosynthesis genes (e.g., glnA, rocF). Alanine, aspartate and glutamate metabolism was also implicated in the infection response, mediating carbon-nitrogen skeleton flux and energy allocation to meet physiological demands. Additionally, glutathione metabolism was significantly enriched, accompanied by upregulated glutathione S-transferase (GST) genes. Overall, this study reveals a multi-pathway defense response in P. rubrovolvatus against S. phalli across the infection time course, involving coordinated carbon-nitrogen metabolic reprogramming and antioxidant defense activation, offering theoretical insight into its disease resistance mechanisms and supporting breeding of yellow rot-resistant varieties.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1094/phyto-02-26-0036-r",
+      "sourceUrl": "https://doi.org/10.1094/PHYTO-02-26-0036-R",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "酵母"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "酵母",
+        "生物制造"
+      ],
+      "matchedYeast": [
+        "酵母"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 41,
+      "journalQuartile": "Q2",
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -474,7 +574,7 @@
       "doiUrl": "https://doi.org/10.1186/s40643-026-01153-x",
       "pmid": "42955152",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42955152/",
-      "pmcid": "",
+      "pmcid": "PMC13719962",
       "abstract": "Fruit and vegetable (FV) waste represents an underutilized organic stream in Europe, yet its soluble sugar fraction remains poorly exploited as a bioprocess feedstock. Recombinant enzyme production from biowaste is often bottlenecked by heterogeneous substrate composition, low fermentable sugar titres, and uncertain process economics. This study evaluates the techno-economic feasibility of recombinant Candida rugosa lipase type 1 (CRL1) production in Pichia pastoris (Komagataella phaffii) under the constitutive glyceraldehyde-3-phosphate dehydrogenase promoter pGAP across three carbon sources: commercial glucose (Scenario A), mechanically pressed fruit and vegetable juice (Scenario B), and an enzymatically hydrolysed, nanofiltered fruit and vegetablesugar stream (Scenario C). Bench-scale fermentation kinetics were integrated into 24 SuperPro Designer models across four scales (1 to 5000 L nominal vessel capacity; 0.75 to 3750 L working volume) under batch and continuous chemostat ([Formula: see text]) modes. Interpreted through the Titre, Rate, and Yield (TRY) framework, continuous operation on glucose increased volumetric CRL1 productivity 12.6-fold over batch (0.084 vs. 0.06 U L-1 h-1. Conversely, continuous operation on the hydrolysed stream did not improve productivity over batch, indicating potential kinetic inhibition from enzymatic pretreatment products or suboptimal dilution rate. At the 5000 L vessel scale under continuous mode, unit production costs were $1186, $36,049, and $3416 [Formula: see text] for Scenarios A, B, and C, respectively, all exceeding the commodity lipase benchmark ($25 [Formula: see text]). Facility-dependent costs dominated Scenarios A and B (73% and 78% of OPEX), whereas enzyme reagents dominated Scenario C (75%). Sensitivity analysis confirmed that secreted protein titre and downstream recovery efficiency are the primary economic drivers, demonstrating that feedstock acquisition cost is not the binding constraint. Early-stage TEA driven by bench-scale kinetic parameterization provides essential screening prior to pilot-scale investment in biowaste-to-enzyme biorefineries.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s40643-026-01153-x",
@@ -526,7 +626,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42954387/",
       "pmcid": "",
       "abstract": "Hyphopichia burtonii is a non-conventional yeast present in diverse environments including bread, cured meat, grape must, zebra dove droppings and corn weevil. Strains derived from different environments display different traits. However, limited information exists on the genomic diversity of this species. Here we present the genome of H. burtonii Y951 strain isolated from grape must and proven to have antifungal activity against various grapevine fungal pathogens. The genome was sequenced using PacBio long-read technology, and a high-quality de novo genome assembly was generated using the Flye assembler. The genome was found to be 12.4 Mb, with a GC content of 34.96% and 99.3% completeness based on BUSCO assessment. Gene prediction identified a total of 5 249 protein-encoding genes, which were functionally classified using gene ontology terms, revealing clusters of genes grouped by their biological functions. The data further reveal diverse genes involved in carbohydrate metabolism, fermentation and aroma compounds production, as well as a repertoire of biosynthetic gene clusters relevant in fungal interactions. Genome rearrangements provide the basis for intraspecific variability in some metabolic traits. This comprehensive genomic characterization provides valuable insight into the molecular basis of H. burtonii's biology and establishes a resource for future functional and applied research.",
-      "abstractZh": "",
+      "abstractZh": "Hyphopichia burtonii 是一种非常规酵母，存在于多种环境中，包括面包、腌肉、葡萄汁、斑马鸠粪便和玉米象甲。来自不同环境的菌株表现出不同的特征。然而，有关该物种基因组多样性的信息有限。在这里，我们展示了从葡萄汁中分离出来的 H. burtonii Y951 菌株的基因组，并被证明对多种葡萄真菌病原体具有抗真菌活性。使用 PacBio 长读长技术对基因组进行测序，并使用 Flye 组装器生成高质量的从头基因组组装。根据 BUSCO 评估，该基因组大小为 12.4 Mb，GC 含量为 34.96%，完整性为 99.3%。基因预测总共鉴定了 5 249 个蛋白质编码基因，并使用基因本体论术语对这些基因进行功能分类，揭示了按其生物学功能分组的基因簇。这些数据进一步揭示了参与碳水化合物代谢、发酵和香气化合物产生的多种基因，以及与真菌相互作用相关的生物合成基因簇的全部内容。基因组重排为种内变异提供了基础",
       "url": "https://doi.org/10.1093/femsyr/foag057",
       "sourceUrl": "https://doi.org/10.1093/femsyr/foag057",
       "citationCount": 0,
@@ -553,7 +653,6 @@
       ],
       "included": true,
       "articleScore": 43,
-      "translationError": "Translation returned 429",
       "journalScore": 43,
       "journalQuartile": "Q2",
       "journalArticleCount": 3,
@@ -798,6 +897,53 @@
       "journalScore": 46,
       "journalQuartile": "Q1",
       "journalArticleCount": 6,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Potentially Important Aroma Compounds in Dark Tea and Volatile Compound Changes During Primary Pile Fermentation: A Systematic Review and Meta-Analysis.",
+      "titleZh": "",
+      "journal": "Food science & nutrition",
+      "targetJournal": "全部收录期刊",
+      "issn": "2048-7177",
+      "eissn": "2048-7177",
+      "year": 2026,
+      "date": "2026-10-28",
+      "authors": "Gong S, Xu J, Tang G, Mao B, Zhang Q, Chen H.",
+      "doi": "10.1002/fsn3.72499",
+      "doiUrl": "https://doi.org/10.1002/fsn3.72499",
+      "pmid": "42959592",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42959592/",
+      "pmcid": "PMC13717213",
+      "abstract": "Pile fermentation is essential to the characteristic aroma of dark tea, yet studies have reported inconsistent changes in individual volatile compounds, leaving unclear which compounds change consistently and retain potential odor relevance after fermentation. We systematically searched six English- and Chinese-language databases and included 11 studies of primary solid-state pile fermentation of dark tea. Within-study relative concentration percentiles and odor activity values (OAVs) were used to characterize post-fermentation relative abundance and potential odor contribution. Random-effects meta-analysis was applied to comparisons quantifiable both before and after fermentation, whereas detection-state transitions were summarized separately for zero and non-detect data. Eighteen compounds met the prespecified criterion for potentially important aroma compounds. After Benjamini-Hochberg false-discovery-rate correction, 10 compounds increased significantly and one decreased significantly. Detection-state evidence further showed that methoxy-substituted aromatic compounds predominantly changed from non-detectable or non-quantifiable before fermentation to quantifiable after fermentation. Integrating the three evidence streams identified alpha-ionone, terpinen-4-ol, (E)-2-octenal, 1,2-dimethoxybenzene, 1,2,3-trimethoxybenzene, and 1,2,4-trimethoxybenzene as fermentation-enriched potentially important aroma compounds, whereas linalool was fermentation-depleted but retained potential odor relevance after fermentation. This cross-study synthesis identifies compound-level patterns shared across dark-tea pile-fermentation systems and provides prioritized candidates for targeted quantification and sensory validation.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1002/fsn3.72499",
+      "sourceUrl": "https://doi.org/10.1002/fsn3.72499",
+      "citationCount": 0,
+      "relevanceScore": 53,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造"
+      ],
+      "included": true,
+      "articleScore": 49,
+      "translationError": "Translation returned 429",
+      "journalScore": 44,
+      "journalQuartile": "Q1",
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3023,7 +3169,7 @@
       "doiUrl": "https://doi.org/10.1016/j.fochx.2026.104625",
       "pmid": "42959963",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42959963/",
-      "pmcid": "",
+      "pmcid": "PMC13718842",
       "abstract": "Understanding the relationship between fermentative microorganisms and sour meat flavor is essential for designing synthetic microbial consortia as artificial starters. In this study, quantitative microbiome profiling tracked microbial succession, while HS-GC-IMS, HS-SPME-GC-MS, and UPLC-QTOF-MS/MS characterized flavor development. Fermentation was divided into two distinct stages: the early phase (0-28 days) and the maturation phase (28-70 days). During the early phase, Staphylococcus and Candida exhibited rapid proliferation, corresponding with precursor synthesis. During the maturation phase, Staphylococcus, Weissella, and Candida constitute the absolute dominant microbiota. Despite reduced microbial growth rates, flavor-associated metabolites, particularly ethyl esters and taste-active peptides, keep accumulating continuously. Spearman correlation analysis revealed significant positive associations between these genera and potential flavor-active compounds. Overall, this study highlights absolute quantification's utility for elucidating microbial functions and offers valuable insights for precision engineering of starter cultures toward desirable sensory characteristics.",
       "abstractZh": "",
       "url": "https://doi.org/10.1016/j.fochx.2026.104625",
@@ -3246,9 +3392,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 42,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -3312,7 +3458,7 @@
       "doiUrl": "https://doi.org/10.3389/fpls.2026.1911733",
       "pmid": "42959379",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42959379/",
-      "pmcid": "",
+      "pmcid": "PMC13717247",
       "abstract": "IntroductionThe 2-oxoglutarate/Fe(II)-dependent dioxygenase hormone-related subfamily (2OGD-H), a key branch of the 2OGD superfamily, plays a crucial role in plant growth, development, stress adaptation and in the biosynthesis and metabolic regulation of phytohormones. However, despite functional studies of several individual 2OGD-H genes in apple (Malus domestica), a comprehensive genome-wide identification and systematic characterization of this subfamily remains lacking.MethodsIn this study, we systematically identified 2OGD family members in the apple genome using conserved domain searches and phylogenetic analyses. Gene duplication, promoter cis-elements, and transcriptomic expression patterns were analyzed. The candidate gene MdGA2ox1b was functionally validated via overexpression/silencing in apple calli under salt, cold, and heat stress conditions. The direct regulatory relationship with the upstream transcription factor MdHY5 was verified using yeast one-hybrid, EMSA, GUS, and dual-luciferase assays.ResultsThis current study systematically identified 257 members of the 2OGD family in apple designated as Md2OGDs, which also included 58 Md2OGD-Hs. The Md2OGD-Hs were classified into nine evolutionary clades based on their conserved 2OG-FeII_Oxy and DIOX_N domains as well as clade-specific motifs. The study also showed that the Md2OGD-Hs expanded primarily from the whole-genome duplication events, and were closely related to 2OGD-Hs in grapes (Vitis vinifera) than in rice (Oryza sativa). The Md2OGD-Hs consisted of 23 types of cis-acting elements associated with light responsiveness, hormone signaling, and stress adaptation, suggesting a multidimensional regulatory network in these genes. The transcriptomic data also demonstrated the broad regulatory roles of Md2OGD-Hs in apple tissue development, with 26 genes notably linked to fruit ripening. Through integrated analysis of multiple abiotic stress transcriptomes, we showed that MdGA2ox1b gene responds to various abiotic stresses and resides in the cytoplasm and nucleus, with a weak expression in the roots and high expression in the flowers. This gene also significantly enhances tolerance to salt, cold and heat stress in apple calli by activating antioxidant enzymes. MdHY5 directly bound its promoter and activated its expression, especially under cold stress.DiscussionThis study elucidates the evolutionary dynamics and biological roles of Md2OGD-Hs, and provides a theoretical foundation and genetic resources for unravelling molecular mechanisms underlying stress resistance in apple.",
       "abstractZh": "",
       "url": "https://doi.org/10.3389/fpls.2026.1911733",
@@ -3362,7 +3508,7 @@
       "doiUrl": "https://doi.org/10.4014/jmb.2608.08032",
       "pmid": "42954021",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42954021/",
-      "pmcid": "",
+      "pmcid": "PMC13720289",
       "abstract": "Human milk oligosaccharides (HMOs) are a diverse group of bioactive glycans that play important roles in infant health by modulating the gut microbiota, inhibiting pathogen adhesion, and promoting immune development. Among them, 2'-fucosyllactose (2'-FL) and 3-fucosyllactose (3-FL) have attracted considerable attention owing to their established health benefits and increasing applications in infant formula and functional foods. Microbial biosynthesis has emerged as a sustainable and scalable alternative to chemical synthesis and enzymatic production. This review summarizes recent advances in microbial FL production using Escherichia coli, Saccharomyces cerevisiae, and Yarrowia lipolytica, with emphasis on host-specific metabolic engineering strategies. Key engineering approaches, including GDP-L-fucose biosynthesis, lactose uptake, fucosyltransferase (FT) optimization, transporter engineering, and fermentation process development, are systematically discussed and compared across microbial hosts. The review highlights the distinct advantages and limitations of bacterial and yeast platforms, including product secretion, intracellular FL accumulation, carbon flux distribution, and redox balance. Finally, current bottlenecks and future engineering opportunities are discussed, including transporter optimization, host-specific metabolic regulation, and industrial process development. These advances provide valuable insights into the development of efficient, safe, and economically viable microbial cell factories for the sustainable production of FL and other fucosylated HMOs.",
       "abstractZh": "",
       "url": "https://doi.org/10.4014/jmb.2608.08032",
@@ -4301,7 +4447,7 @@
       "included": true,
       "articleScore": 55,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -5288,7 +5434,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42943509/",
       "pmcid": "PMC13707948",
       "abstract": "Limosilactobacillus mucosae (L.) CRL2069, isolated from feedlot cattle feces, has previously exhibited high performance when used as a probiotic in animals. To investigate the genetic bases underlying its probiotic potential, complete genome sequencing and comparative analyses were performed. The CRL2069 genome showed a total length of 1.93 Mb, with an average GC content of 46.76%. No evidence of plasmid sequences was detected, while CRISPR-Cas elements, as well as twelve genomic islands, were identified in the genome. Pan-genomic and clustering analysis among L. mucosae strains showed a lack of partitioning according to their isolation origin, revealing a niche specialization. CRL2069 genes related to stress and those conferring probiotic character were identified. In addition, the absence of acquired antimicrobial resistance genes and virulence determinants evidenced the safety of this strain. Genomic determinants conferring the ability to metabolize a diverse array of carbohydrates, particularly those present in cattle feed, were annotated. Phenotypic analysis supported the genomic prediction and demonstrated the capacity of CRL2069 to metabolize 39 out of 95 carbon sources tested and to produce folate. Based on the results obtained, L. mucosae CRL2069 evaluated in this study is confirmed to be a promising candidate for use as a probiotic in cattle.",
-      "abstractZh": "",
+      "abstractZh": "粘膜硅酸乳杆菌 (L.) CRL2069 是从饲养场牛粪便中分离出来的，以前在动物中用作益生菌时表现出高性能。为了研究其益生菌潜力的遗传基础，进行了完整的基因组测序和比较分析。 CRL2069基因组总长度为1.93 Mb，平均GC含量为46.76%。没有检测到质粒序列的证据，但在基因组中发现了 CRISPR-Cas 元件以及 12 个基因组岛。粘膜乳杆菌菌株之间的泛基因组和聚类分析显示，缺乏根据其分离来源的划分，揭示了生态位专业化。鉴定了与应激相关的 CRL2069 基因和赋予益生菌特性的基因。此外，缺乏获得性抗菌素耐药基因和毒力决定因素证明了该菌株的安全性。注释了赋予多种碳水化合物代谢能力的基因组决定因素，特别是牛饲料中存在的碳水化合物。表型分析支持基因组预测，并证明 CRL2069 能够代谢 95 种碳源测试中的 39 种",
       "url": "https://doi.org/10.3390/microorganisms14102270",
       "sourceUrl": "https://doi.org/10.3390/microorganisms14102270",
       "citationCount": 0,
@@ -5312,7 +5458,6 @@
       ],
       "included": true,
       "articleScore": 45,
-      "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 17,
@@ -5745,9 +5890,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6000,9 +6145,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -6193,9 +6338,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -8683,7 +8828,7 @@
       "doiUrl": "https://doi.org/10.1016/j.bidere.2026.100123",
       "pmid": "42959715",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42959715/",
-      "pmcid": "",
+      "pmcid": "PMC13717876",
       "abstract": "CRISPR mediated genome engineering strategies were developed and applied for genome-wide mutagenesis. However, high-throughput gRNA libraries require design and synthesis, which limits their economy and versatility. In this study, we designed in vitro transcription strategy for artificially synthesizing random gRNA libraries, which were transformed into cells to guide the diverse mutations generated through Cas protein induced double stranded DNA breaks. As a proof of concept, the Saccharomyces cerevisiae strain C0 with overexpression of tHMG1 and β-carotene biosynthesis key genes was used as the original strain, and the β-carotene synthesis ability of strain C0 was increased to that of 5.8 times after three rounds of iterative mutation. Furthermore, for the mutated S. cerevisiae strain C7-143 with high-level β-carotene production, a mutant strain AgC8-174 with a 26% increase in β-carotene yield was obtained through one round of mutation. This strategy completely avoided the limitations of plasmid library, significantly shortened the experimental cycle, and improved the versatility of gRNA library across different species. The results fully demonstrated the feasibility of the technology and lays a solid foundation for its application in the field of microbial genetics and breeding.",
       "abstractZh": "",
       "url": "https://doi.org/10.1016/j.bidere.2026.100123",
@@ -9460,9 +9605,9 @@
       ],
       "included": true,
       "articleScore": 56,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -9632,7 +9777,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42938294/",
       "pmcid": "PMC13704637",
       "abstract": "BackgroundSound vibration is an emerging physical signal that influences plant growth and secondary metabolism; however, the genome-wide transcriptional responses of valuable medicinal orchids to complex acoustic stimuli remain largely uncharacterized.MethodsHere, we performed time-series RNA-seq on acclimatized plantlets of Dendrobium huoshanense exposed to two musically structured acoustic stimuli with contrasting acoustic characteristics (Forest Fantasy and Erquan Yingyue) plus a no-music control; leaf samples were collected at 1, 6, 12, and 24 h, and quantitative real-time polymerase chain reaction (qRT-PCR) was used to validate the transcriptome data.ResultsThe two acoustic treatments triggered distinct transcriptional reprogramming of flavonoid biosynthesis. Early biosynthetic genes chalcone synthase (CHS) and naringenin 7-O-methyltransferase (NOMT) were rapidly up-regulated under Forest Fantasy, whereas late-step modification genes (naringenin 3-dioxygenase (F3H), flavonoid 3'-monooxygenase (F3'H), hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase (HCT), caffeoyl-CoA O-methyltransferase (CCoAOMT)) were persistently suppressed by Erquan Yingyue. Differentially expressed gene (DEG)-derived hub structural genes (cinnamate 4-hydroxylase (C4H), F3'H, CCoAOMT) and co-expressed transcription factor candidates (MYB, WRKY, NAC) were identified via Pearson correlation-based network analysis.ConclusionsThese results indicate that D. huoshanense can differentiate complex musical signals at the transcript level, suggesting short-term natural-style acoustic stimulation as a promising potential horticultural strategy for quality improvement of this precious medicinal orchid.",
-      "abstractZh": "",
+      "abstractZh": "背景声音振动是一种新兴的物理信号，影响植物生长和次生代谢；然而，有价值的药用兰花对复杂声学刺激的全基因组转录反应在很大程度上仍是未知的。方法在这里，我们对适应环境的霍山石斛苗进行了时间序列RNA-seq，这些苗暴露于两种具有对比声学特征的音乐结构的声学刺激（森林幻想和二泉映月）加上无音乐控制；在1、6、12和24小时收集叶片样本，并使用定量实时聚合酶链反应（qRT-PCR）来验证转录组数据。结果两种声处理触发了类黄酮生物合成的不同转录重编程。早期生物合成基因查尔酮合酶（CHS）和柚皮素7-O-甲基转移酶（NOMT）在森林幻想下迅速上调，而后期修饰基因（柚皮素3-双加氧酶（F3H）、类黄酮3'-单加氧酶（F3'H）、羟基肉桂酰辅酶A莽草酸/奎宁羟基肉桂酰转移酶（HCT）、咖啡酰辅酶A O-甲基转移酶（CCoAOMT））被二泉映月持续抑制。微分",
       "url": "https://doi.org/10.3390/genes17101178",
       "sourceUrl": "https://doi.org/10.3390/genes17101178",
       "citationCount": 0,
@@ -9656,7 +9801,6 @@
       ],
       "included": true,
       "articleScore": 49,
-      "translationError": "Translation returned 429",
       "journalScore": 39,
       "journalQuartile": "Q3",
       "journalArticleCount": 4,
@@ -10892,9 +11036,9 @@
       ],
       "included": true,
       "articleScore": 54,
-      "journalScore": 42,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -11779,7 +11923,7 @@
       "articleScore": 54,
       "journalScore": 41,
       "journalQuartile": "Q2",
-      "journalArticleCount": 1,
+      "journalArticleCount": 2,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -13415,9 +13559,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -14807,9 +14951,9 @@
       ],
       "included": true,
       "articleScore": 57,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15450,9 +15594,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -15699,7 +15843,7 @@
       "included": true,
       "articleScore": 57,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -20374,9 +20518,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -20669,7 +20813,7 @@
       "included": true,
       "articleScore": 45,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -20861,9 +21005,9 @@
       ],
       "included": true,
       "articleScore": 45,
-      "journalScore": 36,
+      "journalScore": 34,
       "journalQuartile": "Q4",
-      "journalArticleCount": 2,
+      "journalArticleCount": 1,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -21113,7 +21257,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -24422,7 +24566,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -25794,9 +25938,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -25890,7 +26034,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 3,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -27612,7 +27756,7 @@
       "doiUrl": "https://doi.org/10.1186/s12870-026-09671-8",
       "pmid": "42958484",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42958484/",
-      "pmcid": "",
+      "pmcid": "PMC13721523",
       "abstract": "Yellow flower coloration is a key trait of high value in the ornamental horticulture industry. Rhododendron molle G. Don, a deciduous species prized for its distinctive yellow blooms and bioactive compounds, is a valuable resource for breeding and medicinal applications. β-carotene has been established as the primary pigment responsible for yellow coloration in R. molle petals, and RmLCYB is a key candidate gene in the carotenoid biosynthesis pathway. However, the molecular mechanism controlling the accumulation of β-carotene in R. molle flowers is still unclear, and the information about R2R3-MYB genes in R. molle is limited. In this study, 106 RmR2R3-MYB genes were identified and divided into 31 subgroups. RNA-seq analysis characterized the expression profiles of differentially expressed genes including R2R3-MYB and carotenoid biosynthesis genes. Subsequently, quantitative real-time PCR validation highlighted seven critical carotenoid biosynthesis genes and five differentially expressed RmMYBs. Expression correlation analysis revealed that RmMYB90 was positively correlated with RmLCYB2, whereas RmMYB28 and RmMYB100 were negatively correlated. Yeast one-hybrid and dual-LUC assays demonstrated that RmMYB100 directly binds to the RmLCYB2 promoter and represses its transcription. This study provides the first functional insight into the R2R3-MYB family in R. molle and identifies candidate regulators of carotenoid synthesis. These candidate regulators provide targets for further functional characterization and may guide breeders in developing new ornamental cultivars with manipulated carotenoid yield and composition.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s12870-026-09671-8",
@@ -27642,9 +27786,9 @@
       "included": true,
       "articleScore": 43,
       "translationError": "Translation returned 429",
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27662,7 +27806,7 @@
       "doiUrl": "https://doi.org/10.1186/s12870-026-09629-w",
       "pmid": "42958479",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42958479/",
-      "pmcid": "",
+      "pmcid": "PMC13721390",
       "abstract": "BackgroundDrought stress is a major abiotic constraint that severely impairs crop growth and reduces yield globally. Identification of drought-tolerant candidate genes and their application in molecular breeding represent effective strategies to alleviate drought-induced losses.MethodsGenome-wide identification of CHS family members was performed based on conserved domain screening. Comprehensive bioinformatic analyses, including phylogenetic classification, conserved motif profiling, gene structure annotation and cis-acting, were conducted to characterize the CeCHS family. Transcriptome data were used to analyze expression patterns of CeCHSs under drought stress and screen candidate genes. Functional validation of the candidate gene CeCHS57 was carried out via heterologous expression in yeast and Arabidopsis thaliana.ResultsA total of 66 CeCHS genes were identified in the tigernut genome, which were phylogenetically classified into four distinct subfamilies. Members within the same subfamily shared highly conserved motif compositions, exon-intron structures and cis-element profiles. Subfamily B, the dominant clade of the CeCHS family, was abundantly enriched with drought-responsive regulatory elements including ABRE and MBS. CeCHS57 was selected as the core candidate gene based on its sustained high expression in both roots and leaves and strong drought responsiveness. Functional assays indicate that heterologous overexpression of CeCHS57 significantly improves drought tolerance in both yeast and transgenic Arabidopsis. Further physiological characterization supports a mechanism whereby CeCHS57 confers drought resistance through coordinated activation of enzymatic and non-enzymatic antioxidant systems, enhanced reactive oxygen species scavenging, and alleviated membrane lipid peroxidation.ConclusionsThis study provides comprehensive systematic information on the CeCHS gene family in tigernut, and identifies CeCHS57 as a promising candidate for molecular breeding of drought-tolerant tigernut varieties.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s12870-026-09629-w",
@@ -27692,9 +27836,9 @@
       "included": true,
       "articleScore": 43,
       "translationError": "Translation returned 429",
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -27787,6 +27931,56 @@
       "journalScore": 34,
       "journalQuartile": "Q4",
       "journalArticleCount": 1,
+      "journalMedianCitationsPerYear": 0,
+      "journalMetricSource": "站内同主题文献动态分区"
+    },
+    {
+      "title": "Transcriptome analysis of damask rose (Rosa damascena Mill.) petals: unveiling the genetic basis of essential oil biosynthesis.",
+      "titleZh": "",
+      "journal": "BMC plant biology",
+      "targetJournal": "全部收录期刊",
+      "issn": "1471-2229",
+      "eissn": "1471-2229",
+      "year": 2026,
+      "date": "2026-08-03",
+      "authors": "Ahadi H, Shokrpour M, Fatahi R, Mirjalili MH, Naghavi MR, Sheikh-Assadi M.",
+      "doi": "10.1186/s12870-026-09650-z",
+      "doiUrl": "https://doi.org/10.1186/s12870-026-09650-z",
+      "pmid": "42958049",
+      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42958049/",
+      "pmcid": "PMC13718136",
+      "abstract": "BackgroundIdentifying the key genes and transcription factors involved in essential oil production in Rosa damascena is an important step toward understanding the molecular mechanisms underlying essential oil biosynthesis. Such knowledge may be applied in breeding programs aimed at improving both the yield and quality of essential oil.ResultsTranscriptomic profiles of two R. damascena genotypes were initially characterized using RNA-Seq followed by de novo transcriptome assembly. De novo transcriptome assembly was conducted using four assemblers. Among these assemblers, Trinity showed the best overall performance, generating the highest number of high-quality unigenes. Comparative transcriptomic analysis revealed distinct expression profiles between the two contrasting genotypes. Gene Ontology (GO) classification indicated that catalytic activity and binding were the predominant categories within the molecular function group. Similarly, metabolic and cellular processes were the most represented categories within biological processes. Key genes involved in monoterpene biosynthesis (NUDX1, HMGCS, ispH, GCPE, GPS) were significantly upregulated in genotype G2, while FDPS, TPS, and GGPS showed higher expression in genotype G1. Additionally, members of the MYB and NAC transcription factor families were markedly upregulated in genotype G2, suggesting their potential involvement in the regulation of essential oil biosynthesis.ConclusionsThis study provides comprehensive insights into the transcriptomic basis of essential oil production in R. damascena. The high essential oil-producing genotype (G2) exhibited enhanced expression of genes associated with the monoterpene biosynthetic pathway, including HMGCS and GPS. MYB and NAC transcription factors were also significantly upregulated in G2. Furthermore, the reduced accumulation of sesquiterpenoids in G2 may be associated with preferential utilization of shared metabolic precursors by the monoterpenoid pathway. These findings identify promising candidate genes and transcription factors for future functional studies and metabolic engineering approaches aimed at improving essential oil yield and quality.",
+      "abstractZh": "",
+      "url": "https://doi.org/10.1186/s12870-026-09650-z",
+      "sourceUrl": "https://doi.org/10.1186/s12870-026-09650-z",
+      "citationCount": 0,
+      "relevanceScore": 56,
+      "relevanceLevel": "相关",
+      "organismKeywords": [
+        "念珠菌"
+      ],
+      "technologyKeywords": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "mainKeywords": [
+        "生物制造",
+        "念珠菌",
+        "代谢工程"
+      ],
+      "matchedYeast": [
+        "念珠菌"
+      ],
+      "matchedSynbio": [
+        "生物制造",
+        "代谢工程"
+      ],
+      "included": true,
+      "articleScore": 51,
+      "translationError": "Translation returned 429",
+      "journalScore": 39,
+      "journalQuartile": "Q3",
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -29064,9 +29258,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30424,9 +30618,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -30859,9 +31053,9 @@
       ],
       "included": true,
       "articleScore": 59,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -31069,7 +31263,7 @@
       "doiUrl": "https://doi.org/10.1186/s13568-026-02095-5",
       "pmid": "42955489",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42955489/",
-      "pmcid": "",
+      "pmcid": "PMC13719967",
       "abstract": "The high cost and limited stability of cellulases pose significant barriers to their industrial application in biomass conversion. Yeast surface display technology offers a promising approach for constructing reusable whole-cell catalysts; however, the compatibility between different anchor proteins and specific cellulase components remains unclear. In this study, Pichia pastoris X33 was used as the host strain to construct nine recombinant strains by fusing three anchor proteins (PIR1, SED1, AGA1) with endoglucanase (EG), cellobiohydrolase (CBH), and beta-glucosidase (BGL), respectively. Notably, PIR1 demonstrated markedly higher display efficiency for all three enzymes compared to SED1 and AGA1. Notably, the EG-PIR1 combination achieved the highest display efficiency, reaching 91.5% as quantified by flow cytometry. Following fermentation optimization, enzyme activity surged to 0.594 U/mL, marking a 42.2% improvement over pre-optimization levels. Furthermore, the surface-displayed enzymes retained over 75% relative activity after six consecutive cycles of reuse. This study quantitatively elucidates the adaptation patterns between anchor proteins and cellulase components, providing a theoretical foundation and technical pathway for the rational design of highly efficient whole-cell biocatalysts.",
       "abstractZh": "",
       "url": "https://doi.org/10.1186/s13568-026-02095-5",
@@ -31729,9 +31923,9 @@
       ],
       "included": true,
       "articleScore": 49,
-      "journalScore": 42,
+      "journalScore": 40,
       "journalQuartile": "Q2",
-      "journalArticleCount": 5,
+      "journalArticleCount": 4,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -33502,9 +33696,9 @@
       ],
       "included": true,
       "articleScore": 51,
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -34682,9 +34876,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 37,
+      "journalScore": 39,
       "journalQuartile": "Q3",
-      "journalArticleCount": 4,
+      "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35567,9 +35761,9 @@
       ],
       "included": true,
       "articleScore": 43,
-      "journalScore": 47,
+      "journalScore": 46,
       "journalQuartile": "Q1",
-      "journalArticleCount": 14,
+      "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
     },
@@ -35623,52 +35817,6 @@
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
-      "title": "Elucidating the Molecular Mechanisms Underlying Fruit Bag-Mediated Light Transmittance and Its Effects on Anthocyanin Biosynthesis in Chinese Plum &lt;i&gt;(Prunus salicina 'Longzhong')&lt;/i&gt;: An Integrated Transcriptomic and Metabolomic Analysis.",
-      "titleZh": "阐明果袋介导的透光率的分子机制及其对李<i>（Prunus salicina 'Longzhong'）花青素生物合成的影响：转录组学和代谢组学综合分析。",
-      "journal": "Food science & nutrition",
-      "targetJournal": "全部收录期刊",
-      "issn": "2048-7177",
-      "eissn": "2048-7177",
-      "year": 2026,
-      "date": "2026-07-15",
-      "authors": "Li Y, Wang J, Zhang Z, Gao Y, Liu Y, Lu Q, Li J.",
-      "doi": "10.1002/fsn3.72077",
-      "doiUrl": "https://doi.org/10.1002/fsn3.72077",
-      "pmid": "42464996",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42464996/",
-      "pmcid": "PMC13373313",
-      "abstract": "Anthocyanins exert strong free radical scavenging effects to mitigate cellular oxidative damage, while enhancing fruit coloration and nutritional value. Here, Prunus salicina 'Longzhong' (Zuili plum) was used as material. Four light transmittance bagging treatments (T1-T4) and a non-bagged control (CK) were set, and combined transcriptome and metabolome analyses were performed to explore the molecular mechanism of light transmittance regulating anthocyanin biosynthesis. Anthocyanin accumulation was significantly positively correlated with light transmittance, and the total anthocyanin content under high transmittance (T1) was close to CK. High light induced the expression of key anthocyanin synthesis genes such as Chalcone Synthase (CHS), whereas low light upregulated upstream Phenylalanine Ammonia-Lyase (PAL) but could not promote anthocyanin accumulation. Weighted Gene Co-expression Network Analysis (WGCNA) identified core genes (Asali03G034200, Asali04G026050, Asali01G050040) closely correlated with anthocyanin content. Multi-omics analysis confirmed the light transmittance-gene-metabolite regulatory pathway, with cyanidin-3-O-glucoside serving as a light-responsive marker. This study provides candidate genes for plum color improvement and a theoretical basis for precise bagging; future work will further explore bagging effects on overall fruit quality.",
-      "abstractZh": "花青素发挥强大的自由基清除作用，减轻细胞氧化损伤，同时增强水果的着色和营养价值。此处，以李子“龙中”（醉李李）为材料。设置4个透光套袋处理（T1-T4）和1个不套袋对照（CK），结合转录组和代谢组分析，探讨透光度调节花青素生物合成的分子机制。花青素积累量与透光率呈显着正相关，高透光率（T1）下的总花青素含量与CK接近。强光诱导花青素合成关键基因如查尔酮合酶（CHS）的表达，而弱光上调上游苯丙氨酸氨裂解酶（PAL）但不能促进花青素积累。加权基因共表达网络分析（WGCNA）鉴定出与花青素含量密切相关的核心基因（Asali03G034200、Asali04G026050、Asali01G050040）。多组学分析证实了透光率-基因-代谢物调控途径，其中花青素-3-O-葡萄糖苷作为光响应标记。这",
-      "url": "https://doi.org/10.1002/fsn3.72077",
-      "sourceUrl": "https://doi.org/10.1002/fsn3.72077",
-      "citationCount": 0,
-      "relevanceScore": 53,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "念珠菌"
-      ],
-      "matchedYeast": [
-        "念珠菌"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 49,
-      "journalScore": 44,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 4,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
       "title": "High-level amyrin production in &lt;i&gt;Yarrowia lipolytica&lt;/i&gt; via metabolic and enzyme engineering.",
       "titleZh": "通过代谢和酶工程在<i>Yarrowia lipolytica</i>中产生高水平的香树脂素。",
       "journal": "Synthetic and systems biotechnology",
@@ -35716,261 +35864,13 @@
       "journalArticleCount": 12,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Microbial succession and flavor-related metabolic potential during industrial eight-round mechanized stacking fermentation of Maotai-flavor Baijiu.",
-      "titleZh": "酱香型白酒工业化八轮机械化堆垛发酵过程中微生物演替及风味相关代谢潜力",
-      "journal": "International journal of food microbiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0168-1605",
-      "eissn": "1879-3460",
-      "year": 2026,
-      "date": "2026-07-15",
-      "authors": "Wan S, Huang W, Zhang Z, Liu X, Dong W, Chen Y, Ke L, Yang Q, Chen S, Hu Y, Zhang Y.",
-      "doi": "10.1016/j.ijfoodmicro.2026.111975",
-      "doiUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111975",
-      "pmid": "42468189",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42468189/",
-      "pmcid": "",
-      "abstract": "Mechanized production of Maotai-flavor Baijiu (MFB) is increasingly adopted in the Baijiu industry; however, microbial succession and flavor-related metabolic potential throughout the complete eight-round mechanized stacking fermentation (SF) process remain insufficiently understood. In this study, microbial communities, functional genes, physicochemical properties, and volatile compounds during SF were investigated using metagenomic sequencing and headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC/MS). A total of 168 volatile compounds were detected, of which 41 representative compounds were selected for further analysis. Among them, 15 differential volatiles were identified by PLS-DA, with furfural showing the highest abundance. Microbial profiling revealed pronounced community differentiation and continuous succession across fermentation rounds. Acidity, starch, and reducing sugars were significantly associated with microbial community variation, with acidity and starch exhibiting the strongest associations. In the initial round (R1), microbial communities were mainly derived from raw materials and Daqu. Bacterial communities shifted from lactic-acid-bacteria-enriched communities to those characterized by Kroppenstedtia and Bacillus, whereas fungal communities transitioned from yeast-enriched stages to mold-enriched and mold-yeast coexistence stages. Metagenome-inferred functional annotation, co-occurrence network, and correlation analyses suggested potential links between microbial succession and flavor-related metabolic pathways. Yeasts were mainly associated with ethanol- and organic-acid-related metabolism during the early stage, whereas Bacillus and Kroppenstedtia were linked to predicted starch-degradation and organic-acid-related pathways during the middle and late stages. Overall, this study provides a comprehensive characterization of microbial succession and metagenome-inferred flavor-related metabolic potential during mechanized SF and offers reference data for process monitoring and quality management in MFB production.",
-      "abstractZh": "白酒行业越来越多地采用酱香型白酒（MFB）的机械化生产；然而，整个八轮机械化堆积发酵（SF）过程中的微生物演替和与风味相关的代谢潜力仍未得到充分了解。在本研究中，利用宏基因组测序和顶空固相微萃取结合气相色谱-质谱联用 (HS-SPME-GC/MS) 对 SF 期间的微生物群落、功能基因、理化性质和挥发性化合物进行了研究。共检测出168种挥发性化合物，选取其中41种代表性化合物进行进一步分析。其中，PLS-DA鉴定出15种差异挥发物，其中糠醛丰度最高。微生物分析揭示了明显的群落分化和发酵轮次的连续演替。酸度、淀粉和还原糖与微生物群落变化显着相关，其中酸度和淀粉表现出最强的关联。在第一轮（R1）中，微生物群落主要来源于原料和大曲。细菌群落发生变化",
-      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111975",
-      "sourceUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111975",
-      "citationCount": 0,
-      "relevanceScore": 56,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "mainKeywords": [
-        "生物制造",
-        "酵母",
-        "代谢工程"
-      ],
-      "matchedYeast": [
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造",
-        "代谢工程"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 14,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Pre-fermentation timing reprograms carbon and redox metabolism to dictate freeze-thaw tolerance in Saccharomyces cerevisiae.",
-      "titleZh": "发酵前时间重新编程碳和氧化还原代谢，以决定酿酒酵母的冻融耐受性。",
-      "journal": "International journal of food microbiology",
-      "targetJournal": "全部收录期刊",
-      "issn": "0168-1605",
-      "eissn": "1879-3460",
-      "year": 2026,
-      "date": "2026-07-15",
-      "authors": "Xie D, Li X, Zheng J, Zhao L.",
-      "doi": "10.1016/j.ijfoodmicro.2026.111976",
-      "doiUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111976",
-      "pmid": "42468188",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42468188/",
-      "pmcid": "",
-      "abstract": "The temporal sequence of metabolic conditioning in relation to stress exposure is a fundamental yet underexplored determinant of cellular resilience. Using Saccharomyces cerevisiae as a model, pre-fermentation (50-min fermentation before freezing; FT-50), interrupted fermentation (20-min pre-fermentation before freezing +30-min post-thaw fermentation; FT-20), and post-freezing fermentation (no pre-fermentation, 50-min fermentation after thawing; FT-0) were compared to demonstrate whether pre-fermentation timing dictates freeze-thaw tolerance by reprogramming carbon and redox metabolism. The results showed that a 20-min interrupted fermentation (FT-20) preserves membrane integrity and intracellular pH, sustains pyruvate kinase and catalase activities, and maintains GPX2 expression, thereby limiting oxidative damage. In contrast, post-freezing fermentation triggers futile protectant accumulation and catastrophic membrane disintegration, while continuous pre-fermentation provokes protein complexes collapse. Crucially, we uncover pervasive transcriptional-enzymatic uncoupling: enzyme activities at central metabolic nodes collapse despite massive gene induction, demonstrating that post-translational control-oxidative inactivation and cofactor limitation-serves as the ultimate arbiter of functional competence. The optimal protocol achieves economical resource allocation through moderate trehalose synthesis, sustained glycolytic flux, and preserved NADPH regeneration, avoiding wasteful catabolic cycles. These findings establish a temporal conditioning framework for engineering stress tolerance, with implications spanning industrial fermentation, probiotic cryopreservation, and cell-based therapeutic storage.",
-      "abstractZh": "与压力暴露相关的代谢调节的时间顺序是细胞弹性的一个基本但尚未充分探索的决定因素。以酿酒酵母为模型，比较预发酵（冷冻前发酵50分钟；FT-50）、间断发酵（冷冻前预发酵20分钟+解冻后发酵30分钟；FT-20）和冷冻后发酵（无预发酵，解冻后发酵50分钟；FT-0），以证明发酵前时间是否决定了冻融耐受性通过重新编程碳和氧化还原代谢。结果表明，20 分钟的间断发酵 (FT-20) 可以保持膜完整性和细胞内 pH 值，维持丙酮酸激酶和过氧化氢酶活性，并维持 GPX2 表达，从而限制氧化损伤。相比之下，冷冻后发酵会引发无用的保护剂积累和灾难性的膜崩解，而连续的预发酵则会引发蛋白质复合物崩溃。至关重要的是，我们发现了普遍存​​在的转录酶解偶联：尽管存在大量基因诱导，但中央代谢节点的酶活性却崩溃了，这表明后",
-      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111976",
-      "sourceUrl": "https://doi.org/10.1016/j.ijfoodmicro.2026.111976",
-      "citationCount": 0,
-      "relevanceScore": 67,
-      "relevanceLevel": "较高相关",
-      "organismKeywords": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酿酒酵母",
-        "酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酿酒酵母",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 57,
-      "journalScore": 47,
-      "journalQuartile": "Q1",
-      "journalArticleCount": 14,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Protein composition and rheological properties of liquid sourdough fermented by different lactic acid bacteria and yeast.",
-      "titleZh": "不同乳酸菌和酵母发酵液体酸面团的蛋白质组成和流变特性。",
-      "journal": "Current research in food science",
-      "targetJournal": "全部收录期刊",
-      "issn": "2665-9271",
-      "eissn": "2665-9271",
-      "year": 2026,
-      "date": "2026-07-15",
-      "authors": "Wang W, Sun H, Zhang H, Liu Y, Fang L, Huang M, Li Y.",
-      "doi": "10.1016/j.crfs.2026.101499",
-      "doiUrl": "https://doi.org/10.1016/j.crfs.2026.101499",
-      "pmid": "42502740",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42502740/",
-      "pmcid": "PMC13400449",
-      "abstract": "The interaction between lactic acid bacteria (LAB) and yeasts of sourdough could affect its application quality. This study used single and mixed strains of lactic acid bacteria and yeast to ferment type II liquid sourdough, systematically investigating changes in sourdough protein components, protein secondary structure, and rheological properties during fermentation, as well as the degradation of alcohol soluble proteins. The results show that metabolic differences among different strains lead to significant changes in the protein composition and rheological properties of liquid sourdough. During fermentation, the contents of globulin, gliadin and glutenin in sourdough gradually decreased. The sourdough fermented by mixed strains of Saccharomyces cerevisiae J2808 and L. plantarum LG1034 had the lowest globulin content (2.12 mg/g), while that fermented by L. plantarum LG1034 alone had the lowest gliadin contents (0.27 mg/g) and glutenin contents (11.98 mg/g). Free sulfhydryl content increased continuously in single yeast fermented sourdough during fermentation, whereas it initially decreased then rose in sourdough fermented by single LAB or mixed strains of lactic acid bacteria. Furthermore, except for Y2 sourdough fermented with S. cerevisiae J2808, the ordered structure of gliadin increased significantly (p λ max) and enhanced fluorescence intensity, indicating that LAB yeast interactions could reduce gliadin aggregation and degradation. Overall, protein composition is related to the rheological properties of liquid sourdough, particularly viscoelasticity during yeast fermentation.",
-      "abstractZh": "乳酸菌（LAB）和酸面团酵母之间的相互作用可能会影响其应用质量。本研究采用乳酸菌和酵母单一菌株和混合菌株发酵II型液体酸面团，系统研究发酵过程中酸面团蛋白质成分、蛋白质二级结构和流变特性的变化，以及醇溶性蛋白质的降解。结果表明，不同菌株之间的代谢差异导致液体酸面团的蛋白质组成和流变特性发生显着变化。在发酵过程中，酸面团中球蛋白、麦醇溶蛋白和麦谷蛋白的含量逐渐下降。酿酒酵母J2808和植物乳杆菌LG1034混合菌株发酵的酸面团的球蛋白含量最低(2.12 mg/g)，而植物乳杆菌LG1034单独发酵的酸面团的麦醇溶蛋白含量(0.27 mg/g)和麦谷蛋白含量(11.98 mg/g)最低。单一酵母发酵的酸面团在发酵过程中游离巯基含量不断增加，而单一乳酸菌或混合菌株发酵的酸面团则先下降后上升。 F",
-      "url": "https://doi.org/10.1016/j.crfs.2026.101499",
-      "sourceUrl": "https://doi.org/10.1016/j.crfs.2026.101499",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 42,
-      "journalQuartile": "Q2",
-      "journalArticleCount": 5,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Cyprosulfamide alleviates nicosulfuron injury in maize through ZmCYP81Q32/ZmGSTL2-mediated detoxification and flavonoid defence.",
-      "titleZh": "环丙磺酰胺通过 ZmCYP81Q32/ZmGSTL2 介导的解毒和类黄酮防御减轻玉米中的烟嘧磺隆损伤。",
-      "journal": "Journal of hazardous materials",
-      "targetJournal": "全部收录期刊",
-      "issn": "0304-3894",
-      "eissn": "1873-3336",
-      "year": 2026,
-      "date": "2026-07-14",
-      "authors": "Shao D, Wen X, Xu X, Liu X, Chen L, Guo B, Li B, Wang G, Liu X, Men S.",
-      "doi": "10.1016/j.jhazmat.2026.143002",
-      "doiUrl": "https://doi.org/10.1016/j.jhazmat.2026.143002",
-      "pmid": "42468271",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42468271/",
-      "pmcid": "",
-      "abstract": "Herbicide safeners can induce herbicide tolerance in crops, yet the underlying molecular mechanism remains poorly understood. In this study, we systematically investigated the mechanism by which the safener cyprosulfamide (CSA) alleviates nicosulfuron (Nsf) phytotoxicity in maize through integrated physiological, biochemical, multi-omics, and functional validation approaches. CSA significantly mitigated Nsf-induced growth inhibition, restoring physiological homeostasis by preserving photosystem II efficiency and photosynthetic pigment contents while tightly suppressing reactive oxygen species (ROS) accumulation. Integrated transcriptomic and metabolomic analyses revealed that CSA orchestrates a specific defensive reprogramming: it broadly activates the canonical Phase I-III metabolic detoxification system and simultaneously induces flavonoid biosynthesis and coordinated accumulation. Among the representative CSA-responsive detoxification genes, the endoplasmic reticulum-localized cytochrome P450 ZmCYP81Q32 was shown to bind Nsf. Heterologous expression of ZmCYP81Q32 in yeast conferred tolerance to multiple herbicides, including sulfonylureas, triazines, and triketones. In addition, GST family members, represented by ZmGSTL2, enhanced herbicide tolerance in heterologous assays. In Arabidopsis, overexpression of ZmCYP81Q32 enhanced Nsf tolerance, and LC-MS/MS analysis provided supporting evidence for its potential involvement in Nsf hydroxylation. Collectively, our findings support a dual-defence model in which CSA alleviates Nsf injury through enhanced metabolic detoxification and flavonoid-associated responses that may contribute to reduced oxidative injury. These results provide candidate detoxification genes and a mechanistic framework for future improvement of herbicide tolerance in crops.",
-      "abstractZh": "除草剂安全剂可以诱导作物对除草剂产生耐受性，但其潜在的分子机制仍知之甚少。在本研究中，我们通过综合生理、生化、多组学和功能验证方法，系统研究了安全剂环丙磺酰胺（CSA）减轻玉米烟嘧磺隆（Nsf）植物毒性的机制。 CSA 显着减轻 Nsf 诱导的生长抑制，通过保持光系统 II 效率和光合色素含量恢复生理稳态，同时严格抑制活性氧 (ROS) 积累。综合转录组学和代谢组学分析表明，CSA 精心策划了一种特定的防御性重编程：它广泛激活典型的 I-III 期代谢解毒系统，同时诱导类黄酮生物合成和协调积累。在代表性的 CSA 反应性解毒基因中，内质网定位的细胞色素 P450 ZmCYP81Q32 显示与 Nsf 结合。 ZmCYP81Q32 在酵母中的异源表达赋予了对多种除草剂的耐受性，包括磺酰脲类、三嗪类和三酮类。此外，",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143002",
-      "sourceUrl": "https://doi.org/10.1016/j.jhazmat.2026.143002",
-      "citationCount": 0,
-      "relevanceScore": 45,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "念珠菌",
-        "酵母"
-      ],
-      "technologyKeywords": [
-        "异源表达",
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "念珠菌",
-        "酵母",
-        "异源表达",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "念珠菌",
-        "酵母"
-      ],
-      "matchedSynbio": [
-        "异源表达",
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 45,
-      "journalScore": 36,
-      "journalQuartile": "Q4",
-      "journalArticleCount": 2,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
-    },
-    {
-      "title": "Low-Glucose Metabolic Remodeling Drives Reversible Sequestration of Yeast S-Adenosylmethionine (AdoMet) Synthase.",
-      "titleZh": "低葡萄糖代谢重塑驱动酵母 S-腺苷甲硫氨酸 (AdoMet) 合酶的可逆隔离。",
-      "journal": "Cells",
-      "targetJournal": "全部收录期刊",
-      "issn": "2073-4409",
-      "eissn": "2073-4409",
-      "year": 2026,
-      "date": "2026-07-14",
-      "authors": "Ahmed H, Sleiman A, Rahal M, Hanbali E, Aboumourad M, Adebayo D, Obaseki E, Kreinbring L, Miller S, Ayoub E, Jacobson A, Rassam A, Bao X, Li J, Hariri H.",
-      "doi": "10.3390/cells15141267",
-      "doiUrl": "https://doi.org/10.3390/cells15141267",
-      "pmid": "42505377",
-      "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42505377/",
-      "pmcid": "PMC13406880",
-      "abstract": "S-adenosylmethionine (AdoMet) is a central metabolite required for methylation and sulfur metabolism, synthesized in Saccharomyces cerevisiae by the cytosolic enzymes Sam1 and Sam2. While transcriptional and metabolic regulation of AdoMet biosynthesis have been extensively studied, how metabolic state influences the spatial organization of AdoMet synthases remains incompletely understood. Herein, we show that Sam1 undergoes robust and reversible relocalization into cytosolic assemblies under low-glucose metabolic states. These assemblies are dynamic and dissolve rapidly upon glucose refeeding in a manner that requires metabolizable glucose, indicating regulation by metabolic flux. While Sam1 assemblies associate with stress granules during prolonged starvation, a substantial fraction form independently under acute low-glucose conditions, indicating that Sam1 relocalization is not fully coordinated with canonical stress granule formation. Untargeted metabolomic analysis indicates that AdoMet pools are broadly maintained, while a targeted fluorescence-based enzymatic assay detects a modest but reproducible reduction in AdoMet under low-glucose conditions. Together, these findings define a metabolically gated mechanism for reversible Sam1 sequestration and support a model in which spatial organization of metabolic enzymes is coupled to cellular metabolic state.",
-      "abstractZh": "S-腺苷甲硫氨酸 (AdoMet) 是甲基化和硫代谢所需的中心代谢物，由酿酒酵母中的胞质酶 Sam1 和 Sam2 合成。虽然 AdoMet 生物合成的转录和代谢调控已被广泛研究，但代谢状态如何影响 AdoMet 合酶的空间组织仍不完全清楚。在此，我们证明 Sam1 在低葡萄糖代谢状态下经历了稳健且可逆的重定位到胞质组装体中。这些组件是动态的，并在以需要可代谢葡萄糖的方式重新补充葡萄糖时迅速溶解，表明代谢流的调节。虽然 Sam1 组装体在长期饥饿期间与应激颗粒相关，但很大一部分在急性低血糖条件下独立形成，表明 Sam1 重新定位与典型的应激颗粒形成并不完全协调。非靶向代谢组学分析表明 AdoMet 池得到广泛维持，而基于靶向荧光的酶测定检测到 AdoMet 在低血糖条件下有适度但可重复的减少。总之，这些发现明确",
-      "url": "https://doi.org/10.3390/cells15141267",
-      "sourceUrl": "https://doi.org/10.3390/cells15141267",
-      "citationCount": 0,
-      "relevanceScore": 57,
-      "relevanceLevel": "相关",
-      "organismKeywords": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "technologyKeywords": [
-        "生物制造"
-      ],
-      "mainKeywords": [
-        "酵母",
-        "酿酒酵母",
-        "生物制造"
-      ],
-      "matchedYeast": [
-        "酵母",
-        "酿酒酵母"
-      ],
-      "matchedSynbio": [
-        "生物制造"
-      ],
-      "included": true,
-      "articleScore": 51,
-      "journalScore": 39,
-      "journalQuartile": "Q3",
-      "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
-      "journalMetricSource": "站内同主题文献动态分区"
     }
   ],
   "updateState": {
     "running": false,
-    "lastMessage": "更新完成，共 729 篇",
-    "lastStartedAt": "2026-10-31T06:30:49.467Z",
-    "lastFinishedAt": "2026-10-31T06:31:59.321Z",
+    "lastMessage": "更新完成，共 727 篇",
+    "lastStartedAt": "2026-11-01T07:01:29.419Z",
+    "lastFinishedAt": "2026-11-01T07:04:06.004Z",
     "nextRunAt": null,
     "progress": 100
   }
