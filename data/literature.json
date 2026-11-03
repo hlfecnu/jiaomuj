@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:02:33.191Z",
+  "updatedAt": "2026-11-03T07:26:33.289Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -938,7 +938,7 @@
       ],
       "included": true,
       "articleScore": 49,
-      "translationError": "Translation returned 500",
+      "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
       "journalArticleCount": 4,
@@ -2634,7 +2634,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42940352/",
       "pmcid": "PMC13704212",
       "abstract": "Brewer's spent grain (BSG), the major by-product of the brewing industry, has attracted growing interest in valorisation through lactic acid bacteria fermentation. However, research has largely focused on Lactiplantibacillus plantarum, while other species have mainly been investigated using enzymatic hydrolysates rather than intact solid BSG. This study compared the solid-state fermentation performance of Lacticaseibacillus rhamnosus ATCC 7469 and Limosilactobacillus fermentum ATCC 9338 on BSG over 10 days. In vitro antioxidant, antidiabetic, anti-obesity, and antimicrobial activities were assessed every two days and integrated into a global bioactivity score. Lacticaseibacillus rhamnosus successfully colonised the substrate, reaching 9.62 log10 CFU g-1 on Day 2 and reducing the pH to 3.6. Antioxidant capacity peaked on Day 2, whereas antidiabetic and anti-obesity activities peaked on Day 10. Bactericidal activity was also confirmed in a bread-simulating matrix, and the global bioactivity score identified Day 2 as the highest-scoring endpoint. In contrast, Limosilactobacillus fermentum failed to establish a successful fermentation, with polymicrobial contamination observed from Day 4 onwards. To investigate whether substrate sterilisation could improve Limosilactobacillus fermentum fermentation performance, autoclaving and a two-step heat treatment were evaluated. Although autoclaving effectively sterilised the substrate, it reduced the number of detectable proteins by nearly 25%, whereas the two-step heat treatment preserved the protein profile but did not support successful fermentation by Limosilactobacillus fermentum. Overall, these findings identify Lacticaseibacillus rhamnosus as a promising candidate for BSG valorisation and underscore the importance of strain selection, as fermentation performance can vary substantially among lactic acid bacteria.",
-      "abstractZh": "",
+      "abstractZh": "啤酒糟 (BSG) 是啤酒工业的主要副产品，通过乳酸菌发酵进行增值越来越受到人们的关注。然而，研究主要集中在植物乳杆菌上，而其他物种主要使用酶水解产物而不是完整的固体 BSG 进行研究。本研究比较了鼠李糖乳杆菌 ATCC 7469 和发酵硅酸乳杆菌 ATCC 9338 在 BSG 上 10 天的固态发酵性能。每两天评估一次体外抗氧化、抗糖尿病、抗肥胖和抗菌活性，并纳入总体生物活性评分。鼠李糖乳杆菌成功定殖于底物，第 2 天达​​到 9.62 log10 CFU g-1，并将 pH 值降低至 3.6。抗氧化能力在第 2 天达​​到峰值，而抗糖尿病和抗肥胖活性在第 10 天达到峰值。杀菌活性也在面包模拟基质中得到证实，总体生物活性评分将第 2 天确定为得分最高的终点。相比之下，发酵柠檬酸杆菌未能成功发酵，从当天起就观察到多种微生物污染",
       "url": "https://doi.org/10.3390/foods15203715",
       "sourceUrl": "https://doi.org/10.3390/foods15203715",
       "citationCount": 0,
@@ -2658,7 +2658,6 @@
       ],
       "included": true,
       "articleScore": 49,
-      "translationError": "Translation returned 429",
       "journalScore": 47,
       "journalQuartile": "Q1",
       "journalArticleCount": 31,
@@ -3456,7 +3455,7 @@
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42959379/",
       "pmcid": "PMC13717247",
       "abstract": "IntroductionThe 2-oxoglutarate/Fe(II)-dependent dioxygenase hormone-related subfamily (2OGD-H), a key branch of the 2OGD superfamily, plays a crucial role in plant growth, development, stress adaptation and in the biosynthesis and metabolic regulation of phytohormones. However, despite functional studies of several individual 2OGD-H genes in apple (Malus domestica), a comprehensive genome-wide identification and systematic characterization of this subfamily remains lacking.MethodsIn this study, we systematically identified 2OGD family members in the apple genome using conserved domain searches and phylogenetic analyses. Gene duplication, promoter cis-elements, and transcriptomic expression patterns were analyzed. The candidate gene MdGA2ox1b was functionally validated via overexpression/silencing in apple calli under salt, cold, and heat stress conditions. The direct regulatory relationship with the upstream transcription factor MdHY5 was verified using yeast one-hybrid, EMSA, GUS, and dual-luciferase assays.ResultsThis current study systematically identified 257 members of the 2OGD family in apple designated as Md2OGDs, which also included 58 Md2OGD-Hs. The Md2OGD-Hs were classified into nine evolutionary clades based on their conserved 2OG-FeII_Oxy and DIOX_N domains as well as clade-specific motifs. The study also showed that the Md2OGD-Hs expanded primarily from the whole-genome duplication events, and were closely related to 2OGD-Hs in grapes (Vitis vinifera) than in rice (Oryza sativa). The Md2OGD-Hs consisted of 23 types of cis-acting elements associated with light responsiveness, hormone signaling, and stress adaptation, suggesting a multidimensional regulatory network in these genes. The transcriptomic data also demonstrated the broad regulatory roles of Md2OGD-Hs in apple tissue development, with 26 genes notably linked to fruit ripening. Through integrated analysis of multiple abiotic stress transcriptomes, we showed that MdGA2ox1b gene responds to various abiotic stresses and resides in the cytoplasm and nucleus, with a weak expression in the roots and high expression in the flowers. This gene also significantly enhances tolerance to salt, cold and heat stress in apple calli by activating antioxidant enzymes. MdHY5 directly bound its promoter and activated its expression, especially under cold stress.DiscussionThis study elucidates the evolutionary dynamics and biological roles of Md2OGD-Hs, and provides a theoretical foundation and genetic resources for unravelling molecular mechanisms underlying stress resistance in apple.",
-      "abstractZh": "",
+      "abstractZh": "简介2-酮戊二酸/Fe(II)依赖性双加氧酶激素相关亚家族(2OGD-H)是2OGD超家族的一个重要分支，在植物生长、发育、逆境适应以及植物激素的生物合成和代谢调节中发挥着至关重要的作用。然而，尽管对苹果（Malus Domestica）中几个单独的 2OGD-H 基因进行了功能研究，但仍然缺乏对该亚科的全面全基因组鉴定和系统表征。方法在本研究中，我们使用保守域搜索和系统发育分析系统地鉴定了苹果基因组中的 2OGD 家族成员。分析了基因重复、启动子顺式元件和转录组表达模式。通过盐、冷和热胁迫条件下苹果愈伤组织中的过度表达/沉默，对候选基因 MdGA2ox1b 进行了功能验证。使用酵母单杂交、EMSA、GUS 和双荧光素酶测定验证了与上游转录因子 MdHY5 的直接调控关系。结果本研究系统地鉴定了苹果中 2OGD 家族的 257 个成员，称为 Md2OGD，其中还包括 58 个 Md2OGD-H。 Md2OGD-Hs 被分类",
       "url": "https://doi.org/10.3389/fpls.2026.1911733",
       "sourceUrl": "https://doi.org/10.3389/fpls.2026.1911733",
       "citationCount": 0,
@@ -3483,7 +3482,6 @@
       ],
       "included": true,
       "articleScore": 43,
-      "translationError": "Translation returned 429",
       "journalScore": 44,
       "journalQuartile": "Q1",
       "journalArticleCount": 8,
@@ -35808,8 +35806,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 726 篇",
-    "lastStartedAt": "2026-11-02T07:01:09.780Z",
-    "lastFinishedAt": "2026-11-02T07:02:33.191Z",
+    "lastStartedAt": "2026-11-03T07:25:58.769Z",
+    "lastFinishedAt": "2026-11-03T07:26:33.289Z",
     "nextRunAt": null,
     "progress": 100
   }
