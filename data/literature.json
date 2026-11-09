@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T06:45:24.812Z",
+  "updatedAt": "2026-11-09T07:31:02.396Z",
   "settings": {
     "fromYear": 2020,
     "pageSize": 500,
@@ -345,7 +345,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -1106,7 +1106,7 @@
       "articleScore": 51,
       "translationError": "Translation returned 429",
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -1698,7 +1698,7 @@
       "included": true,
       "articleScore": 43,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -2205,7 +2205,7 @@
       "doiUrl": "https://doi.org/10.1016/j.ultsonch.2026.108127",
       "pmid": "42933079",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42933079/",
-      "pmcid": "",
+      "pmcid": "PMC13734951",
       "abstract": "Plant-based co-fermentation can diversify coffee flavor profiles, yet multiphase systems are often limited by interfacial mass-transfer resistance and stochastic microbial succession. Here, we investigated the effects of non-thermal pulsed ultrasound (20 kHz, 0.5 W mL-1, 50 % duty cycle, 30 ± 0.5 °C) on the co-fermentation of Yunnan Arabica coffee with Rosa 'Crimson Glory' petals. Acoustic-assisted processing enhanced the apparent solid-liquid mass-transfer rate constant (kobs = 0.082 min-1) and accelerated acidification kinetics. Rheological and acoustic-attenuation monitoring identified 60 % (w/w) rose loading as the operational upper bound, beyond which viscous damping impaired energy transmission. High-throughput 16S rRNA and ITS sequencing combined with untargeted LC-MS/MS metabolomics showed that rapid acidification and acoustic-assisted co-fermentation established a selective habitat filter, promoting a lactic acid bacteria guild (Lactiplantibacillus, Lactococcus, and Weissella; 72.8-80.1 % bacterial abundance) alongside inoculated Saccharomyces. This microbial restructuring redirected carbon and nitrogen fluxes, expanding the total free amino acid pool to 125.4μmol g-1 DW in RF60 and enriching floral-fruity volatiles such as linalool, β-myrcene, and eugenol. Complementary nonequilibrium molecular dynamics and density functional theory calculations provided simulation-supported mechanistic plausibility regarding shear-induced loop reorganization in model enzymes (Atf1 and Pep4) and barrier reductions (ΔΔG‡ = -107.9 and - 49.9 kJ mol-1) in polarized model reactions. Finally, computational fluid dynamics modeling of a simulated 500 L external-loop multiprobe reactor predicted 90.2 % mass-transfer fidelity, with techno-economic analysis estimating a capital payback period of 0.88-1.18 years.",
       "abstractZh": "基于植物的共发酵可以使咖啡风味特征多样化，但多相系统通常受到界面传质阻力和随机微生物演替的限制。在这里，我们研究了非热脉冲超声波（20 kHz、0.5 W mL-1、50% 占空比、30 ± 0.5 °C）对云南阿拉比卡咖啡与蔷薇“Crimson Glory”花瓣共发酵的影响。声学辅助处理增强了表观固液传质速率常数（kobs = 0.082 min-1）并加速了酸化动力学。流变学和声学衰减监测确定 60% (w/w) 玫瑰负载为操作上限，超过该上限粘性阻尼会损害能量传输。高通量 16S rRNA 和 ITS 测序与非靶向 LC-MS/MS 代谢组学相结合表明，快速酸化和声学辅助共发酵建立了选择性栖息地过滤器，促进了乳酸菌群（植物乳杆菌、乳球菌和魏斯氏菌；细菌丰度为 72.8-80.1%）与接种的酵母菌一起形成。这种微生物重组改变了碳和氮通量，将总游离氨基酸库扩大到 125.4μmol g-1 DW i",
       "url": "https://doi.org/10.1016/j.ultsonch.2026.108127",
@@ -4041,7 +4041,7 @@
       "included": true,
       "articleScore": 55,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -5515,7 +5515,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -6003,7 +6003,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -6205,7 +6205,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0168-1605",
       "eissn": "1879-3460",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-10-04",
       "authors": "Di Gianvito P, Remolif G, Río Segade S, Gonella E, Garello M, Prencipe S, Rolle L, Alma A, Cocolin L, Rantsiou K, Spadaro D, Giacosa S, Englezos V.",
       "doi": "10.1016/j.ijfoodmicro.2026.112107",
@@ -6456,7 +6456,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0168-1605",
       "eissn": "1879-3460",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-10-04",
       "authors": "Roselli GE, Smart KA, Crow M, Powell CD.",
       "doi": "10.1016/j.ijfoodmicro.2026.112099",
@@ -6652,7 +6652,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0168-1605",
       "eissn": "1879-3460",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-10-02",
       "authors": "Bedoya K, Buetas L, Rozès N, Mas A, Portillo MC.",
       "doi": "10.1016/j.ijfoodmicro.2026.112098",
@@ -9356,7 +9356,7 @@
       "included": true,
       "articleScore": 55,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -9948,7 +9948,7 @@
       "included": true,
       "articleScore": 52,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -10153,7 +10153,7 @@
       "included": true,
       "articleScore": 51,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -11635,7 +11635,7 @@
       "included": true,
       "articleScore": 43,
       "journalScore": 40,
-      "journalQuartile": "Q2",
+      "journalQuartile": "Q3",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -15354,7 +15354,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -18884,7 +18884,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0960-8524",
       "eissn": "1873-2976",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-09-01",
       "authors": "Wu L, Ge Y, Peng Z, Han Z, Bai J, Lan T, Zhang Z, Liang F, Xia X.",
       "doi": "10.1016/j.biortech.2026.135755",
@@ -19831,7 +19831,7 @@
       "included": true,
       "articleScore": 54,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -19889,7 +19889,7 @@
       "included": true,
       "articleScore": 62,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -21077,7 +21077,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0960-8524",
       "eissn": "1873-2976",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-08-27",
       "authors": "Ran S, Wang Y, Pan H, Bai J, Su P, Zhou W, Gong Z, Huang L.",
       "doi": "10.1016/j.biortech.2026.135735",
@@ -23265,7 +23265,7 @@
       "targetJournal": "全部收录期刊",
       "issn": "0960-8524",
       "eissn": "1873-2976",
-      "year": 2026,
+      "year": 2027,
       "date": "2026-08-19",
       "authors": "Yan Z, Zhang W, Meng Z, Wu S, Zhao H, Nie L, Zhao M, Wu L, Jin C.",
       "doi": "10.1016/j.biortech.2026.135679",
@@ -23706,7 +23706,7 @@
       "abstractZh": "驱动康普茶发酵的细菌和酵母共生培养物 (SCOBY) 产生的纤维素薄膜在生物医学应用方面具有非凡的前景。与经过充分研究的通过单菌株培养物生产的细菌纤维素 (BC) 不同，尚未充分开发的康普茶衍生细菌纤维素 (KBC) 可以从农工业废物流中生产，且资本成本较低。这篇综述概述了 KBC 在生物医学应用方面的巨大潜力。首先，讨论了 SCOBY 联盟内细菌和酵母物种之间的合作相互作用，这些相互作用推动了气液界面处纤维素的自组装生产。随后检查碳源、发酵条件和后处理对 KBC 产量、结晶度、孔隙率、机械性能和保水性的影响。然后总结了用于调节 KBC 行为的物理和化学改性策略，包括银 (Ag) 和金 (Au) 功能化、二异氰酸酯交联以及作为纳米填料掺入可生物降解聚合物复合材料中。应用部分重点关注伤口敷料和",
       "url": "https://doi.org/10.1021/acsaenm.6c00708",
       "sourceUrl": "https://doi.org/10.1021/acsaenm.6c00708",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 53,
       "relevanceLevel": "相关",
       "organismKeywords": [
@@ -23726,11 +23726,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 49,
-      "journalScore": 37,
-      "journalQuartile": "Q3",
+      "articleScore": 55,
+      "journalScore": 47,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -25508,7 +25508,7 @@
       "included": true,
       "articleScore": 43,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -28379,7 +28379,7 @@
       "included": true,
       "articleScore": 49,
       "journalScore": 44,
-      "journalQuartile": "Q1",
+      "journalQuartile": "Q2",
       "journalArticleCount": 5,
       "journalMedianCitationsPerYear": 0,
       "journalMetricSource": "站内同主题文献动态分区"
@@ -34461,7 +34461,7 @@
       "abstractZh": "利用木质纤维素生物质生产第二代生物乙醇是可持续能源的一种有前途的解决方案，但由于生物质预处理过程中释放的弱酸，特别是乙酸、甲酸和乙酰丙酸的抑制作用，它也面临着重大挑战。这篇综述描述了酿酒酵母（重点关注天然分离物）克服这些具有挑战性的化合物的能力。事实上，天然分离株比实验室和工业菌株表现出更大的遗传和表型多样性，提供独特的性状，例如增强的应激耐受性、代谢效率和对弱酸的适应性反应。这项研究探讨了酵母适应性反应背后的转录和基因组机制，强调关键的调控网络和耐药途径，包括药物 H+ 反向转运蛋白、活性氧 (ROS) 缓解策略和膜成分调整。还讨论了菌株改良策略，包括适应性实验室进化 (ALE)、基因组改组和杂交，作为开发能够在工业压力下茁壮成长的强健酵母的补充方法。",
       "url": "https://doi.org/10.1080/07388551.2026.2688834",
       "sourceUrl": "https://doi.org/10.1080/07388551.2026.2688834",
-      "citationCount": 0,
+      "citationCount": 1,
       "relevanceScore": 60,
       "relevanceLevel": "较高相关",
       "organismKeywords": [
@@ -34487,11 +34487,11 @@
         "生物制造"
       ],
       "included": true,
-      "articleScore": 53,
-      "journalScore": 41,
-      "journalQuartile": "Q2",
+      "articleScore": 59,
+      "journalScore": 50,
+      "journalQuartile": "Q1",
       "journalArticleCount": 1,
-      "journalMedianCitationsPerYear": 0,
+      "journalMedianCitationsPerYear": 1,
       "journalMetricSource": "站内同主题文献动态分区"
     },
     {
@@ -35534,7 +35534,7 @@
       "doiUrl": "https://doi.org/10.1093/femsyr/foag055",
       "pmid": "42873234",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42873234/",
-      "pmcid": "",
+      "pmcid": "PMC13737582",
       "abstract": "Lager beer, made by fermentation of barley malt using the hybrid yeast Saccharomyces pastorianus, is extremely popular worldwide. The low genetic variation of S. pastorianus strains limits the scope of development for novel lager beer types. The wild ancestor Saccharomyces eubayanus has potential for use in lager brewing, but its application is constrained by formation of phenolic off-flavours (POF+ phenotype) and limited uptake of the wort α-oligoglucosides maltose and maltotriose. Here, we addressed both limitations, using screening and evolutionary engineering of the Himalayan S. eubayanus strain ABFM5L.1, one of the closest known relatives of S. eubayanus subgenome of modern hybrid lager yeasts. Prior to improving α-oligoglucoside utilisation, 4-vinylguaiacol formation was abolished by mutagenesis and screening for POF⁻ mutants. Subsequently, evolution for improved sugar utilisation and reverse engineering identified SeMALR1 (the S. eubayanus ortholog of S. cerevisiae MAL63) as a key regulatory control point. Single-nucleotide substitutions in this maltose regulon activator gene enabled rapid maltose uptake and partial maltotriose utilisation in a previously maltose-negative background. The evolved non-genetically modified POF⁻ strains showed near-complete maltose consumption (>90%-95%) and partial maltotriose consumption (∼25%-32%) in industrial wort. These results reveal substantial regulatory flexibility in Holarctic S. eubayanus and support its further development as a novel lager brewing yeast.",
       "abstractZh": "贮藏啤酒是通过使用杂交酵母巴斯德酵母发酵大麦芽而制成的，在全世界非常受欢迎。巴斯德酵母菌株的低遗传变异限制了新型啤酒类型的开发范围。野生祖先 Saccharomyces eubayanus 具有啤酒酿造潜力，但其应用受到酚类异味（POF+ 表型）的形成以及麦芽汁 α-低聚葡萄糖苷麦芽糖和麦芽三糖的吸收有限的限制。在这里，我们利用喜马拉雅 S. eubayanus 菌株 ABFM5L.1 的筛选和进化工程解决了这两个限制，该菌株是现代杂交啤酒酵母 S. eubayanus 亚基因组已知最接近的亲属之一。在提高 α-低聚葡萄糖苷利用率之前，通过诱变和筛选 POF⁻ 突变体消除了 4-乙烯基愈创木酚的形成。随后，改进糖利用和逆向工程的进化将 SeMALR1（酿酒酵母 MAL63 的 S. eubayanus 直系同源物）确定为关键的调节控制点。该麦芽糖调节子激活基因中的单核苷酸替换能够在先前麦芽糖阴性的背景中实现快速麦芽糖摄取和部分麦芽三糖利用",
       "url": "https://doi.org/10.1093/femsyr/foag055",
@@ -35583,7 +35583,7 @@
       "doiUrl": "https://doi.org/10.1093/femsyr/foag057",
       "pmid": "42954387",
       "pmidUrl": "https://pubmed.ncbi.nlm.nih.gov/42954387/",
-      "pmcid": "",
+      "pmcid": "PMC13738083",
       "abstract": "Hyphopichia burtonii is a non-conventional yeast present in diverse environments, including bread, cured meat, grape must, zebra dove droppings, and corn weevil. Strains derived from different environments display different traits. However, limited information exists on the genomic diversity of this species. Here, we present the genome of H. burtonii Y951 strain isolated from grape must and proven to have antifungal activity against various grapevine fungal pathogens. The genome was sequenced using PacBio long-read technology, and a high-quality de novo genome assembly was generated using the Flye assembler. The genome was found to be 12.4 Mb, with a GC content of 34.96% and 99.3% completeness based on BUSCO assessment. Gene prediction identified a total of 5249 protein-encoding genes, which were functionally classified using gene ontology terms, revealing clusters of genes grouped by their biological functions. The data further reveal diverse genes involved in carbohydrate metabolism, fermentation, and aroma compounds production, as well as a repertoire of biosynthetic gene clusters relevant in fungal interactions. Genome rearrangements provide the basis for intraspecific variability in some metabolic traits. This comprehensive genomic characterization provides valuable insight into the molecular basis of H. burtonii's biology and establishes a resource for future functional and applied research.",
       "abstractZh": "Hyphopichia burtonii 是一种非常规酵母，存在于多种环境中，包括面包、腌肉、葡萄汁、斑马鸠粪便和玉米象甲。来自不同环境的菌株表现出不同的特征。然而，有关该物种基因组多样性的信息有限。在这里，我们展示了从葡萄汁中分离出来的 H. burtonii Y951 菌株的基因组，并被证明对多种葡萄真菌病原体具有抗真菌活性。使用 PacBio 长读长技术对基因组进行测序，并使用 Flye 组装器生成高质量的从头基因组组装。根据 BUSCO 评估，该基因组大小为 12.4 Mb，GC 含量为 34.96%，完整性为 99.3%。基因预测总共鉴定了 5 249 个蛋白质编码基因，并使用基因本体论术语对这些基因进行功能分类，揭示了按其生物学功能分组的基因簇。这些数据进一步揭示了参与碳水化合物代谢、发酵和香气化合物产生的多种基因，以及与真菌相互作用相关的生物合成基因簇的全部内容。基因组重排为种内变异提供了基础",
       "url": "https://doi.org/10.1093/femsyr/foag057",
@@ -35622,8 +35622,8 @@
   "updateState": {
     "running": false,
     "lastMessage": "更新完成，共 722 篇",
-    "lastStartedAt": "2026-11-07T06:44:32.536Z",
-    "lastFinishedAt": "2026-11-07T06:45:24.812Z",
+    "lastStartedAt": "2026-11-09T07:30:18.998Z",
+    "lastFinishedAt": "2026-11-09T07:31:02.396Z",
     "nextRunAt": null,
     "progress": 100
   }
